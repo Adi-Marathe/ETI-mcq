@@ -1,0 +1,1586 @@
+[
+    {
+        "id": 1,
+        "question": "What is the primary objective of a \"Smart City\"?",
+        "options": [
+            "a) To increase the physical size of the city.",
+            "b) To integrate information and communication technology (ICT) and IoT to optimize city functions and improve the quality of life for citizens.",
+            "c) To eliminate all vehicles from the city limits.",
+            "d) To completely disconnect the city from the national power grid."
+        ],
+        "answer": "b) To integrate information and communication technology (ICT) and IoT to optimize city functions and improve the quality of life for citizens.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 2,
+        "question": "Which of the following is a core electrical infrastructure requirement for a Smart City?",
+        "options": [
+            "a) Analog power meters.",
+            "b) Assured and continuous electricity supply utilizing Smart Grids.",
+            "c) Steam-powered public transport.",
+            "d) Kerosene street lighting."
+        ],
+        "answer": "b) Assured and continuous electricity supply utilizing Smart Grids.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 3,
+        "question": "In India, the \"Smart Cities Mission\" was launched by the Government of India in which year?",
+        "options": [
+            "a) 2005",
+            "b) 2010",
+            "c) 2015",
+            "d) 2020"
+        ],
+        "answer": "c) 2015",
+        "explanation": "The correct answer is '2015', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 4,
+        "question": "Which of the following is considered a key component of a Smart City's environmental sustainability?",
+        "options": [
+            "a) Heavy reliance on diesel generators.",
+            "b) Open landfill waste disposal.",
+            "c) Intelligent waste management and high penetration of renewable energy.",
+            "d) Deforestation to build more data centers."
+        ],
+        "answer": "c) Intelligent waste management and high penetration of renewable energy.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 5,
+        "question": "What role does IoT play in the context of Smart City infrastructure?",
+        "options": [
+            "a) It isolates different city departments from each other.",
+            "b) It provides the sensor network to collect real-time data on traffic, energy usage, water levels, and air quality.",
+            "c) It replaces the need for human government officials entirely.",
+            "d) It slows down communication between city services."
+        ],
+        "answer": "b) It provides the sensor network to collect real-time data on traffic, energy usage, water levels, and air quality.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 6,
+        "question": "Which of the following is a major CHALLENGE in developing Smart Cities in India?",
+        "options": [
+            "a) Too much available funding.",
+            "b) Retrofitting legacy infrastructure in heavily congested, centuries-old urban areas.",
+            "c) Lack of sunlight for solar power.",
+            "d) Citizens refusing to use electricity."
+        ],
+        "answer": "b) Retrofitting legacy infrastructure in heavily congested, centuries-old urban areas.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 7,
+        "question": "How does a Smart City address urban mobility?",
+        "options": [
+            "a) By building narrower roads.",
+            "b) By implementing Intelligent Traffic Management Systems (ITMS) and promoting electrified public transport.",
+            "c) By banning all public transport.",
+            "d) By removing all traffic lights."
+        ],
+        "answer": "b) By implementing Intelligent Traffic Management Systems (ITMS) and promoting electrified public transport.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 8,
+        "question": "What does \"E-Governance\" mean in a Smart City?",
+        "options": [
+            "a) Using electricity to govern the city physically.",
+            "b) Providing municipal services and administration digitally to increase transparency and citizen engagement.",
+            "c) A government run completely by Artificial Intelligence without human input.",
+            "d) Taxing electronic goods at a higher rate."
+        ],
+        "answer": "b) Providing municipal services and administration digitally to increase transparency and citizen engagement.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 9,
+        "question": "In a Smart City, how is street lighting typically managed?",
+        "options": [
+            "a) Lights are left on 24/7.",
+            "b) Using smart LED luminaires that automatically dim or brighten based on ambient light and real-time pedestrian/vehicle presence.",
+            "c) Using manual switches operated by citizens.",
+            "d) Using high-pressure sodium lamps exclusively."
+        ],
+        "answer": "b) Using smart LED luminaires that automatically dim or brighten based on ambient light and real-time pedestrian/vehicle presence.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 10,
+        "question": "What is a \"Command and Control Center\" (CC",
+        "options": [
+            "a) A military bunker.",
+            "b) A centralized facility that aggregates data from all city sensors (CCTV, traffic, grid) to monitor and manage city operations in real-time.",
+            "c) in a Smart City?",
+            "d) A power generation plant."
+        ],
+        "answer": "b) A centralized facility that aggregates data from all city sensors (CCTV, traffic, grid) to monitor and manage city operations in real-time.",
+        "explanation": "The correct answer is 'A centralized facility that aggregates data from all city sensors (CCTV, traffic, grid', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 11,
+        "question": "Which of the following is a financial challenge for the Smart Cities Mission in India?",
+        "options": [
+            "a) Generating enough paper currency.",
+            "b) Securing massive capital investments and establishing viable Public-Private Partnership (PPP) models.",
+            "c) Cities making too much profit from smart meters.",
+            "d) The low cost of fiber optic cables."
+        ],
+        "answer": "b) Securing massive capital investments and establishing viable Public-Private Partnership (PPP) models.",
+        "explanation": "The correct answer is 'Securing massive capital investments and establishing viable Public-Private Partnership (PPP', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 12,
+        "question": "To ensure water security, a Smart City utilizes:",
+        "options": [
+            "a) Manual water fetching.",
+            "b) Smart water meters, automated leak detection systems, and SCADA-controlled pumping stations.",
+            "c) Open aqueducts.",
+            "d) Wooden piping systems."
+        ],
+        "answer": "b) Smart water meters, automated leak detection systems, and SCADA-controlled pumping stations.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 13,
+        "question": "\"Digital Divide\" is a significant social challenge in Smart Cities. What does it mean?",
+        "options": [
+            "a) The physical division of a city into grids.",
+            "b) The gap between demographics who have access to modern information and communication technology and those who do not.",
+            "c) The separation of AC and DC power lines.",
+            "d) A mathematical error in the city's AI."
+        ],
+        "answer": "b) The gap between demographics who have access to modern information and communication technology and those who do not.",
+        "explanation": "The correct answer is 'The gap between demographics who have access to modern information and communication technology and those who do not.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 14,
+        "question": "What feature distinguishes a Smart City's healthcare system?",
+        "options": [
+            "a) It only uses traditional herbal medicine.",
+            "b) Telemedicine, digitized electronic health records (EHR), and predictive healthcare analytics.",
+            "c) It rejects the use of electricity.",
+            "d) Hospitals are removed from the city limits."
+        ],
+        "answer": "b) Telemedicine, digitized electronic health records (EHR), and predictive healthcare analytics.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 15,
+        "question": "How does a Smart City approach public safety?",
+        "options": [
+            "a) By relying solely on neighborhood watch programs.",
+            "b) Implementing smart CCTV surveillance, predictive crime analytics, and rapid emergency response systems.",
+            "c) By turning off lights to hide citizens.",
+            "d) By arming all smart meters."
+        ],
+        "answer": "b) Implementing smart CCTV surveillance, predictive crime analytics, and rapid emergency response systems.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 16,
+        "question": "Which strategy is often used in India for developing Smart Cities from scratch on vacant land?",
+        "options": [
+            "a) Retrofitting",
+            "b) Redevelopment",
+            "c) Greenfield Development",
+            "d) Pan-city development"
+        ],
+        "answer": "c) Greenfield Development",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 17,
+        "question": "\"Retrofitting\" in the context of the Indian Smart Cities Mission refers to:",
+        "options": [
+            "a) Building a completely new city on empty land.",
+            "b) Planning an entirely new urban extension.",
+            "c) Introducing smart interventions to an existing built-up area to make it more efficient.",
+            "d) Demolishing an entire city and rebuilding it."
+        ],
+        "answer": "c) Introducing smart interventions to an existing built-up area to make it more efficient.",
+        "explanation": "The correct answer is 'Introducing smart interventions to an existing built-up area to make it more efficient.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 18,
+        "question": "What is the biggest cybersecurity threat to a Smart City?",
+        "options": [
+            "a) Hackers turning on a single street light.",
+            "b) The potential for malicious actors to breach the Command and Control Center, disrupting critical infrastructure like the power grid or water supply.",
+            "c) Citizens forgetting their Wi-Fi passwords.",
+            "d) Software updates making the city run too fast."
+        ],
+        "answer": "b) The potential for malicious actors to breach the Command and Control Center, disrupting critical infrastructure like the power grid or water supply.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 19,
+        "question": "Why is \"Interoperability\" a challenge in Smart City infrastructure?",
+        "options": [
+            "a) Because all devices are made by the same manufacturer.",
+            "b) Because thousands of devices from different vendors use different proprietary protocols, making unified data integration difficult.",
+            "c) Because physical wires cannot connect to wireless devices.",
+            "d) Because cities do not want to share data with themselves."
+        ],
+        "answer": "b) Because thousands of devices from different vendors use different proprietary protocols, making unified data integration difficult.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 20,
+        "question": "A Smart City relies heavily on \"Pan-City\" initiatives. What is a Pan-City initiative?",
+        "options": [
+            "a) An initiative that only affects one specific neighborhood.",
+            "b) A smart solution applied city-wide, such as a city-wide smart transport application or intelligent traffic management system.",
+            "c) A project focused only on building new parks.",
+            "d) An initiative to ban vehicles entirely."
+        ],
+        "answer": "b) A smart solution applied city-wide, such as a city-wide smart transport application or intelligent traffic management system.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 21,
+        "question": "In smart waste management, how are trash bins optimized?",
+        "options": [
+            "a) They are made of transparent plastic.",
+            "b) IoT fill-level sensors inside the bins notify garbage trucks to alter their routes to pick up only full bins, saving fuel.",
+            "c) They automatically burn the trash inside them.",
+            "d) They are equipped with loudspeakers."
+        ],
+        "answer": "b) IoT fill-level sensors inside the bins notify garbage trucks to alter their routes to pick up only full bins, saving fuel.",
+        "explanation": "The correct answer is 'IoT fill-level sensors inside the bins notify garbage trucks to alter their routes to pick up only full bins, saving fuel.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 22,
+        "question": "Which network technology is deemed essential for the high-density sensor requirements of a Smart City?",
+        "options": [
+            "a) Dial-up modems.",
+            "b) 5G and Low Power Wide Area Networks (LPWAN) like LoRaWAN or NB-IoT.",
+            "c) 2G GSM networks.",
+            "d) Infrared communication."
+        ],
+        "answer": "b) 5G and Low Power Wide Area Networks (LPWAN) like LoRaWAN or NB-IoT.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 23,
+        "question": "What does \"Capacity Building\" mean as a challenge for Indian Smart Cities?",
+        "options": [
+            "a) Building physically larger stadiums.",
+            "b) Training and upgrading the skills of municipal workers to manage and operate advanced digital and IT-based city systems.",
+            "c) Increasing the voltage capacity of transmission lines.",
+            "d) Expanding the physical boundaries of the city."
+        ],
+        "answer": "b) Training and upgrading the skills of municipal workers to manage and operate advanced digital and IT-based city systems.",
+        "explanation": "The correct answer is 'Training and upgrading the skills of municipal workers to manage and operate advanced digital and IT-based city systems.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 24,
+        "question": "Which of the following is an objective of a Smart City regarding local economy?",
+        "options": [
+            "a) To discourage new businesses.",
+            "b) To create an environment that attracts investments, fosters innovation, and promotes local economic development.",
+            "c) To ban all commercial activities.",
+            "d) To rely entirely on agriculture."
+        ],
+        "answer": "b) To create an environment that attracts investments, fosters innovation, and promotes local economic development.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 25,
+        "question": "A core feature of the Smart City power grid is \"Resilience\". This ensures that:",
+        "options": [
+            "a) The city goes dark during every storm.",
+            "b) The electrical grid can withstand, quickly adapt to, and rapidly recover from natural disasters or cyber-attacks.",
+            "c) The power lines are made of unbreakable rubber.",
+            "d) The city refuses to use renewable energy."
+        ],
+        "answer": "b) The electrical grid can withstand, quickly adapt to, and rapidly recover from natural disasters or cyber-attacks.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 26,
+        "question": "In modern Metro rail systems, what does CBTC stand for?",
+        "options": [
+            "a) Centralized Braking and Traction Control",
+            "b) Communications-Based Train Control",
+            "c) Computerized Battery Train Charging",
+            "d) Continuous Bus Transit Coordination"
+        ],
+        "answer": "b) Communications-Based Train Control",
+        "explanation": "Modern Metro systems use CBTC (Communications-Based Train Control) for automated operation and increased frequency."
+    },
+    {
+        "id": 27,
+        "question": "What is the primary advantage of a CBTC system in Metro operations?",
+        "options": [
+            "a) It uses heavy mechanical levers.",
+            "b) It allows for \"moving block\" signaling, reducing the safe distance between trains and safely increasing passenger throughput (headway).",
+            "c) It requires trains to stop every 10 meters.",
+            "d) It eliminates the need for electricity."
+        ],
+        "answer": "b) It allows for \"moving block\" signaling, reducing the safe distance between trains and safely increasing passenger throughput (headway).",
+        "explanation": "Modern Metro systems use CBTC (Communications-Based Train Control) for automated operation and increased frequency."
+    },
+    {
+        "id": 28,
+        "question": "Automated Train Operation (ATO) is categorized into Grades of Automation (Go",
+        "options": [
+            "a) . What does GoA Level 4 (GoA 4) signify?",
+            "b) Unattended Train Operation (UTO) where starting, stopping, and door operations are fully automated without any staff on board.",
+            "c) Semi-automated operation where the driver only presses a button to start the train.",
+            "d) A train driven by passengers."
+        ],
+        "answer": "b) Unattended Train Operation (UTO) where starting, stopping, and door operations are fully automated without any staff on board.",
+        "explanation": "Automated Train Operation (ATO) manages the speed, stopping, and door operations of trains to improve efficiency and safety."
+    },
+    {
+        "id": 29,
+        "question": "Which Grade of Automation (Go",
+        "options": [
+            "a) is characterized by \"Driverless Train Operation\" (DTO), where the train drives itself but a train attendant is on board to handle emergencies and door closures?",
+            "b) GoA 2",
+            "c) GoA 3",
+            "d) GoA 4"
+        ],
+        "answer": "c) GoA 3",
+        "explanation": "The correct answer is 'GoA 3', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 30,
+        "question": "How do data-driven operations improve intercity Metro transportation?",
+        "options": [
+            "a) By ignoring passenger data.",
+            "b) By using predictive analytics on passenger flow data to dynamically adjust train schedules, optimize HVAC systems, and predict maintenance needs.",
+            "c) By running trains empty to save wear and tear.",
+            "d) By deleting all travel logs daily."
+        ],
+        "answer": "b) By using predictive analytics on passenger flow data to dynamically adjust train schedules, optimize HVAC systems, and predict maintenance needs.",
+        "explanation": "Modern Metro systems use CBTC (Communications-Based Train Control) for automated operation and increased frequency."
+    },
+    {
+        "id": 31,
+        "question": "Autonomous driving technology heavily relies on LiDAR. What does LiDAR do?",
+        "options": [
+            "a) It measures the battery voltage.",
+            "b) It uses pulsed laser light to create highly precise, high-resolution 3D maps of the surrounding environment to detect obstacles.",
+            "c) It is a type of electric motor.",
+            "d) It controls the air conditioning in the vehicle."
+        ],
+        "answer": "b) It uses pulsed laser light to create highly precise, high-resolution 3D maps of the surrounding environment to detect obstacles.",
+        "explanation": "LiDAR (Light Detection and Ranging) uses laser pulses to create precise 3D maps for autonomous vehicle navigation."
+    },
+    {
+        "id": 32,
+        "question": "In autonomous vehicles, \"Sensor Fusion\" refers to:",
+        "options": [
+            "a) Melting two sensors together with heat.",
+            "b) Combining data from multiple different sensors (LiDAR, Radar, Cameras, Ultrasonic) to create a more accurate and reliable understanding of the environment.",
+            "c) A nuclear reaction inside the vehicle.",
+            "d) Ignoring all sensor inputs except the camera."
+        ],
+        "answer": "b) Combining data from multiple different sensors (LiDAR, Radar, Cameras, Ultrasonic) to create a more accurate and reliable understanding of the environment.",
+        "explanation": "The correct answer is 'Combining data from multiple different sensors (LiDAR, Radar, Cameras, Ultrasonic', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 33,
+        "question": "Electric Vehicle (EV) charging infrastructure is divided into levels. What defines Level 1 charging?",
+        "options": [
+            "a) Using a dedicated 500V DC charger.",
+            "b) Plugging the EV into a standard, standard residential AC wall outlet (e.g., 120V/230V), providing very slow charging.",
+            "c) Inductive wireless charging only.",
+            "d) Swapping the battery physically."
+        ],
+        "answer": "b) Plugging the EV into a standard, standard residential AC wall outlet (e.g., 120V/230V), providing very slow charging.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 34,
+        "question": "DC Fast Charging (often called Level 3) bypasses which component inside the electric vehicle?",
+        "options": [
+            "a) The electric motor.",
+            "b) The vehicle's internal On-Board Charger (OB",
+            "c) , delivering direct current straight to the battery for rapid charging.",
+            "d) The steering wheel."
+        ],
+        "answer": "b) The vehicle's internal On-Board Charger (OB",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 35,
+        "question": "What is the fundamental scientific principle behind \"Wireless EV Charging\"?",
+        "options": [
+            "a) Ohms Law of Resistance",
+            "b) Faraday's Law of Electromagnetic Induction",
+            "c) Newton's Third Law of Motion",
+            "d) Boyle's Law of Gases"
+        ],
+        "answer": "b) Faraday's Law of Electromagnetic Induction",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 36,
+        "question": "In static wireless EV charging, power is transferred between two components: a transmitter pad and a receiver pad. Where are these located?",
+        "options": [
+            "a) Transmitter on the roof, receiver in the sky.",
+            "b) Transmitter buried in/on the ground parking spot, receiver mounted on the undercarriage of the EV.",
+            "c) Transmitter in the trunk, receiver on the dashboard.",
+            "d) Transmitter on a wall, receiver on the side door."
+        ],
+        "answer": "b) Transmitter buried in/on the ground parking spot, receiver mounted on the undercarriage of the EV.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 37,
+        "question": "To maximize the efficiency of power transfer across the air gap in wireless charging, the system uses:",
+        "options": [
+            "a) High-voltage DC directly across the gap.",
+            "b) Magnetic Resonant Coupling, where both the transmitter and receiver coils are tuned to resonate at the exact same high frequency.",
+            "c) Standard 50Hz AC frequency.",
+            "d) Microwaves aimed at the car battery."
+        ],
+        "answer": "b) Magnetic Resonant Coupling, where both the transmitter and receiver coils are tuned to resonate at the exact same high frequency.",
+        "explanation": "EV charging includes Level 1 (slow AC), Level 2 (fast AC), and Level 3 (DC Fast Charging) to meet different user needs."
+    },
+    {
+        "id": 38,
+        "question": "Which of the following is a major OPPORTUNITY (advantage) of wireless EV charging?",
+        "options": [
+            "a) It is currently much cheaper to install than wired chargers.",
+            "b) Unmatched convenience, eliminating the need to physically handle heavy, dirty cables in bad weather.",
+            "c) It offers 100% power transfer efficiency with absolutely zero losses.",
+            "d) It charges the car instantly in 5 seconds."
+        ],
+        "answer": "b) Unmatched convenience, eliminating the need to physically handle heavy, dirty cables in bad weather.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 39,
+        "question": "Which of the following is a major CHALLENGE associated with wireless EV charging?",
+        "options": [
+            "a) It cannot be used outdoors.",
+            "b) Sensitivity to misalignment (the car must be parked perfectly over the pad) and slightly lower efficiency compared to direct wired charging.",
+            "c) It causes the tires to melt.",
+            "d) It requires the car to be flipped upside down."
+        ],
+        "answer": "b) Sensitivity to misalignment (the car must be parked perfectly over the pad) and slightly lower efficiency compared to direct wired charging.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 40,
+        "question": "What is \"Dynamic Wireless Charging\"?",
+        "options": [
+            "a) Charging the EV while it is parked in a moving ferry.",
+            "b) Embedding wireless charging coils continuously along a highway lane, allowing the EV to charge while it is actively driving over them.",
+            "c) Swapping batteries dynamically at a pit stop.",
+            "d) Charging the car using wind turbines attached to the roof."
+        ],
+        "answer": "b) Embedding wireless charging coils continuously along a highway lane, allowing the EV to charge while it is actively driving over them.",
+        "explanation": "EV charging includes Level 1 (slow AC), Level 2 (fast AC), and Level 3 (DC Fast Charging) to meet different user needs."
+    },
+    {
+        "id": 41,
+        "question": "The implementation of Dynamic Wireless Charging could drastically reduce the need for:",
+        "options": [
+            "a) Windshields on cars.",
+            "b) Massive, heavy, and expensive battery packs in EVs, as the car would constantly receive power from the road.",
+            "c) Steering wheels.",
+            "d) Rubber tires."
+        ],
+        "answer": "b) Massive, heavy, and expensive battery packs in EVs, as the car would constantly receive power from the road.",
+        "explanation": "EV charging includes Level 1 (slow AC), Level 2 (fast AC), and Level 3 (DC Fast Charging) to meet different user needs."
+    },
+    {
+        "id": 42,
+        "question": "In a Metro rail system, traction power is typically supplied to the trains via:",
+        "options": [
+            "a) Small AA batteries.",
+            "b) A Third Rail (D",
+            "c) or an Overhead Catenary System (AC or D",
+            "d) Solar panels on the roof of the train."
+        ],
+        "answer": "b) A Third Rail (D",
+        "explanation": "Modern Metro systems use CBTC (Communications-Based Train Control) for automated operation and increased frequency."
+    },
+    {
+        "id": 43,
+        "question": "What is regenerative braking in EVs and Metro trains?",
+        "options": [
+            "a) Braking that slowly regenerates the brake pads.",
+            "b) A mechanism where the electric motor acts as a generator during braking, converting kinetic energy back into electrical energy to recharge the battery or feed back into the grid.",
+            "c) A system that uses hydraulic fluid to stop the train.",
+            "d) A method of braking that only works when reversing."
+        ],
+        "answer": "b) A mechanism where the electric motor acts as a generator during braking, converting kinetic energy back into electrical energy to recharge the battery or feed back into the grid.",
+        "explanation": "Modern Metro systems use CBTC (Communications-Based Train Control) for automated operation and increased frequency."
+    },
+    {
+        "id": 44,
+        "question": "Automated Train Operation (ATO) systems drastically improve energy efficiency by:",
+        "options": [
+            "a) Running the air conditioning at maximum power.",
+            "b) Calculating the most energy-efficient acceleration and braking profiles mathematically, far better than a human driver could consistently achieve.",
+            "c) Turning off the lights in the passenger cabins.",
+            "d) Increasing the physical weight of the train."
+        ],
+        "answer": "b) Calculating the most energy-efficient acceleration and braking profiles mathematically, far better than a human driver could consistently achieve.",
+        "explanation": "Automated Train Operation (ATO) manages the speed, stopping, and door operations of trains to improve efficiency and safety."
+    },
+    {
+        "id": 45,
+        "question": "What is a \"V2G\" (Vehicle-to-Grid) system?",
+        "options": [
+            "a) A system where the grid powers the vehicle.",
+            "b) A smart charging infrastructure where EVs can act as mobile energy storage, discharging power back to the grid during peak demand hours.",
+            "c) A system where vehicles drag power lines behind them.",
+            "d) A grid exclusively used by flying vehicles."
+        ],
+        "answer": "b) A smart charging infrastructure where EVs can act as mobile energy storage, discharging power back to the grid during peak demand hours.",
+        "explanation": "The correct answer is 'A smart charging infrastructure where EVs can act as mobile energy storage, discharging power back to the grid during peak demand hours.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 46,
+        "question": "Which communication protocol is emerging as the standard for V2G and smart EV charging infrastructure?",
+        "options": [
+            "a) ISO 9001",
+            "b) ISO 15118",
+            "c) IEEE 802.11",
+            "d) HTML5"
+        ],
+        "answer": "b) ISO 15118",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 47,
+        "question": "In autonomous driving, what role does Radar play compared to LiDAR?",
+        "options": [
+            "a) Radar takes high-resolution color photographs.",
+            "b) Radar is better at detecting the speed and distance of objects in extreme weather (heavy rain/fog) where LiDAR light pulses might be scattered.",
+            "c) Radar measures the internal temperature of the car.",
+            "d) Radar provides the internet connection for the car."
+        ],
+        "answer": "b) Radar is better at detecting the speed and distance of objects in extreme weather (heavy rain/fog) where LiDAR light pulses might be scattered.",
+        "explanation": "LiDAR (Light Detection and Ranging) uses laser pulses to create precise 3D maps for autonomous vehicle navigation."
+    },
+    {
+        "id": 48,
+        "question": "What does \"Range Anxiety\" refer to in the context of Electric Vehicles?",
+        "options": [
+            "a) The fear of driving too fast.",
+            "b) The driver's fear that the EV battery will deplete before reaching a destination or a suitable charging station.",
+            "c) The fear that the radio range is too short.",
+            "d) The fear of parking the car in a garage."
+        ],
+        "answer": "b) The driver's fear that the EV battery will deplete before reaching a destination or a suitable charging station.",
+        "explanation": "The correct answer is 'The driver's fear that the EV battery will deplete before reaching a destination or a suitable charging station.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 49,
+        "question": "An efficient charging infrastructure for a Smart City must include \"Smart Chargers\". What makes them \"smart\"?",
+        "options": [
+            "a) They can speak multiple languages.",
+            "b) They are internet-connected, allowing for remote monitoring, payment processing, and dynamic load balancing to prevent overloading the local power grid.",
+            "c) They charge cars without using electricity.",
+            "d) They are physically impossible to break."
+        ],
+        "answer": "b) They are internet-connected, allowing for remote monitoring, payment processing, and dynamic load balancing to prevent overloading the local power grid.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 50,
+        "question": "What is \"Load Balancing\" in a multi-charger EV station?",
+        "options": [
+            "a) Ensuring all cars weigh exactly the same.",
+            "b) The smart system dynamically distributing the available electrical capacity among multiple charging EVs to prevent tripping the main circuit breaker.",
+            "c) Balancing the physical charging cables so they don't touch the ground.",
+            "d) Charging the heaviest car first."
+        ],
+        "answer": "b) The smart system dynamically distributing the available electrical capacity among multiple charging EVs to prevent tripping the main circuit breaker.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 51,
+        "question": "Which of the following is a barrier to the widespread adoption of Autonomous Vehicles (AVs) in intercity transport?",
+        "options": [
+            "a) AVs are too slow to be useful.",
+            "b) Complex legal liability issues, lack of standardized regulations, and unpredictable human behavior on roads.",
+            "c) AVs do not use electricity.",
+            "d) AVs cannot turn left."
+        ],
+        "answer": "b) Complex legal liability issues, lack of standardized regulations, and unpredictable human behavior on roads.",
+        "explanation": "The correct answer is 'Complex legal liability issues, lack of standardized regulations, and unpredictable human behavior on roads.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 52,
+        "question": "In Metro traction systems, a typical Third Rail operates at which voltage level?",
+        "options": [
+            "a) 12 Volts DC",
+            "b) 750 Volts DC (or up to 1500V D",
+            "c) ",
+            "d) 400,000 Volts AC"
+        ],
+        "answer": "b) 750 Volts DC (or up to 1500V D",
+        "explanation": "Modern Metro systems use CBTC (Communications-Based Train Control) for automated operation and increased frequency."
+    },
+    {
+        "id": 53,
+        "question": "In an EV, the On-Board Charger (OB",
+        "options": [
+            "a) Pumping air into the tires.",
+            "b) Converting incoming AC power from a Level 1 or Level 2 charger into DC power to safely charge the battery pack.",
+            "c) is responsible for:",
+            "d) Cooling the passengers."
+        ],
+        "answer": "b) Converting incoming AC power from a Level 1 or Level 2 charger into DC power to safely charge the battery pack.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 54,
+        "question": "Foreign Object Debris (FO",
+        "options": [
+            "a) Standard AC wall charging.",
+            "b) Wireless Inductive Charging (to prevent metal objects on the pad from heating up and catching fire via eddy currents).",
+            "c) DC Fast charging cables.",
+            "d) detection is a critical safety feature in which EV charging technology?"
+        ],
+        "answer": "b) Wireless Inductive Charging (to prevent metal objects on the pad from heating up and catching fire via eddy currents).",
+        "explanation": "The correct answer is 'Wireless Inductive Charging (to prevent metal objects on the pad from heating up and catching fire via eddy currents).', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 55,
+        "question": "How do data-driven operations assist in EV fleet management (like electric buses)?",
+        "options": [
+            "a) By making the buses heavier.",
+            "b) By monitoring battery State of Charge (So",
+            "c) , traffic patterns, and terrain to optimally dispatch buses and schedule them for charging without disrupting service.",
+            "d) By turning off the GPS trackers."
+        ],
+        "answer": "b) By monitoring battery State of Charge (So",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 56,
+        "question": "What does BEV stand for?",
+        "options": [
+            "a) Bi-Energy Vehicle",
+            "b) Battery Electric Vehicle",
+            "c) Boosted Engine Vehicle",
+            "d) Basic Electric Van"
+        ],
+        "answer": "b) Battery Electric Vehicle",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 57,
+        "question": "A vehicle that relies 100% on chemical energy stored in rechargeable battery packs and has no internal combustion engine is a:",
+        "options": [
+            "a) HEV",
+            "b) BEV",
+            "c) PHEV",
+            "d) FCEV"
+        ],
+        "answer": "b) BEV",
+        "explanation": "The correct answer is 'BEV', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 58,
+        "question": "What does HEV stand for?",
+        "options": [
+            "a) High Efficiency Vehicle",
+            "b) Hybrid Electric Vehicle",
+            "c) Heavy Electric Vehicle",
+            "d) Hydrogen Engine Vehicle"
+        ],
+        "answer": "b) Hybrid Electric Vehicle",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 59,
+        "question": "How does a standard HEV (Hybrid Electric Vehicle) typically recharge its battery?",
+        "options": [
+            "a) By plugging it into a wall outlet.",
+            "b) Through regenerative braking and by the internal combustion engine (ICE) acting as a generator; it cannot be plugged in.",
+            "c) By utilizing solar panels on the roof entirely.",
+            "d) It never recharges the battery; it replaces it."
+        ],
+        "answer": "b) Through regenerative braking and by the internal combustion engine (ICE) acting as a generator; it cannot be plugged in.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 60,
+        "question": "What is a PHEV?",
+        "options": [
+            "a) Petroleum Hybrid Electric Vehicle",
+            "b) Plug-in Hybrid Electric Vehicle",
+            "c) Passenger Heavy Electric Vehicle",
+            "d) Primary Hydrogen Electric Vehicle"
+        ],
+        "answer": "b) Plug-in Hybrid Electric Vehicle",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 61,
+        "question": "What distinguishes a PHEV from a standard HEV?",
+        "options": [
+            "a) A PHEV does not have a gas engine.",
+            "b) A PHEV has a larger battery that can be explicitly plugged into an external electrical outlet to charge, allowing for significant electric-only driving range.",
+            "c) A PHEV uses three different fuel types.",
+            "d) A PHEV only works in reverse."
+        ],
+        "answer": "b) A PHEV has a larger battery that can be explicitly plugged into an external electrical outlet to charge, allowing for significant electric-only driving range.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 62,
+        "question": "An FCEV utilizes which element as its primary fuel source to generate electricity on board?",
+        "options": [
+            "a) Liquid Nitrogen",
+            "b) Hydrogen gas",
+            "c) Compressed Natural Gas (CNG)",
+            "d) Plutonium"
+        ],
+        "answer": "b) Hydrogen gas",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 63,
+        "question": "How does a Fuel Cell Electric Vehicle (FCEV) generate electricity?",
+        "options": [
+            "a) By burning hydrogen in a combustion engine.",
+            "b) By passing hydrogen and oxygen through a fuel cell stack, producing electricity and water vapor as the only byproduct.",
+            "c) By spinning a mechanical turbine with compressed air.",
+            "d) By absorbing static electricity from the road."
+        ],
+        "answer": "b) By passing hydrogen and oxygen through a fuel cell stack, producing electricity and water vapor as the only byproduct.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 64,
+        "question": "Which electric motor type is highly preferred in high-performance EVs due to its extremely high efficiency, high torque density, and compact size?",
+        "options": [
+            "a) Brushed DC Motor",
+            "b) Permanent Magnet Synchronous Motor (PMSM)",
+            "c) Single-phase AC Induction Motor",
+            "d) Universal Motor"
+        ],
+        "answer": "b) Permanent Magnet Synchronous Motor (PMSM)",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 65,
+        "question": "What is a major advantage of Permanent Magnet Synchronous Motors (PMSM) used in EVs?",
+        "options": [
+            "a) They are very heavy and bulky.",
+            "b) They rely on expensive Rare Earth metals (like Neodymium) which have volatile supply chains and environmental mining concerns.",
+            "c) They are highly inefficient.",
+            "d) They cannot be used for regenerative braking."
+        ],
+        "answer": "b) They rely on expensive Rare Earth metals (like Neodymium) which have volatile supply chains and environmental mining concerns.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 66,
+        "question": "Which famous EV manufacturer historically popularized the use of 3-Phase AC Induction Motors before shifting toward reluctance motors?",
+        "options": [
+            "a) Ford",
+            "b) Tesla",
+            "c) Toyota",
+            "d) Nissan"
+        ],
+        "answer": "b) Tesla",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 67,
+        "question": "What is a major advantage of the AC Induction Motor over the PMSM for electric vehicles?",
+        "options": [
+            "a) It has a higher peak efficiency than PMSM.",
+            "b) It does not require any expensive Rare Earth permanent magnets, making it cheaper and less supply-chain dependent.",
+            "c) It is significantly smaller than a PMSM.",
+            "d) It operates on Direct Current (D"
+        ],
+        "answer": "b) It does not require any expensive Rare Earth permanent magnets, making it cheaper and less supply-chain dependent.",
+        "explanation": "The correct answer is 'It does not require any expensive Rare Earth permanent magnets, making it cheaper and less supply-chain dependent.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 68,
+        "question": "BLDC (Brushless D",
+        "options": [
+            "a) Electric commercial airplanes.",
+            "b) Two-wheelers (e-scooters) and three-wheelers (e-rickshaws) as hub motors directly inside the wheel.",
+            "c) motors are extensively used in which type of Indian EV market?",
+            "d) Massive freight trains."
+        ],
+        "answer": "b) Two-wheelers (e-scooters) and three-wheelers (e-rickshaws) as hub motors directly inside the wheel.",
+        "explanation": "The correct answer is 'Two-wheelers (e-scooters', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 69,
+        "question": "Comparing efficiency: An Internal Combustion Engine (ICE) vehicle typically converts about 20-30% of fuel energy to the wheels. What is the typical \"grid-to-wheels\" efficiency of a BEV?",
+        "options": [
+            "a) 10 - 15%",
+            "b) 60 - 75% or more",
+            "c) 30 - 40%",
+            "d) 100%"
+        ],
+        "answer": "b) 60 - 75% or more",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 70,
+        "question": "What is the most dominant battery chemistry used in modern electric passenger vehicles?",
+        "options": [
+            "a) Lead-Acid",
+            "b) Lithium-Ion (Li-ion)",
+            "c) Nickel-Metal Hydride (NiMH)",
+            "d) Alkaline"
+        ],
+        "answer": "b) Lithium-Ion (Li-ion)",
+        "explanation": "The correct answer is 'Lithium-Ion (Li-ion)', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 71,
+        "question": "Why are Lithium-ion batteries preferred over older Lead-Acid or NiMH batteries for EVs?",
+        "options": [
+            "a) They are heavier and more stable.",
+            "b) They offer a significantly higher \"Energy Density\" (storing more energy in less weight/space) and lack a \"memory effect\".",
+            "c) They are cheaper to produce than Lead-Acid.",
+            "d) They do not require any electronic management."
+        ],
+        "answer": "b) They offer a significantly higher \"Energy Density\" (storing more energy in less weight/space) and lack a \"memory effect\".",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 72,
+        "question": "Within Li-ion batteries, what does the LFP chemistry stand for?",
+        "options": [
+            "a) Lithium Fluoride Polymer",
+            "b) Lithium Iron Phosphate (LiFePO4)",
+            "c) Lead Free Power",
+            "d) Liquid Fuel Propulsion"
+        ],
+        "answer": "b) Lithium Iron Phosphate (LiFePO4)",
+        "explanation": "The correct answer is 'Lithium Iron Phosphate (LiFePO4)', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 73,
+        "question": "What is a major advantage of LFP batteries compared to NMC (Nickel Manganese Cobalt) batteries?",
+        "options": [
+            "a) LFP has a much higher energy density.",
+            "b) LFP offers excellent thermal stability (less prone to catching fire), a longer cycle life, and avoids controversial metals like Cobalt.",
+            "c) LFP charges instantly in 1 second.",
+            "d) LFP batteries weigh absolutely nothing."
+        ],
+        "answer": "b) LFP offers excellent thermal stability (less prone to catching fire), a longer cycle life, and avoids controversial metals like Cobalt.",
+        "explanation": "The correct answer is 'LFP offers excellent thermal stability (less prone to catching fire), a longer cycle life, and avoids controversial metals like Cobalt.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 74,
+        "question": "What is the critical electronic system that monitors cell voltages, temperatures, and balances the cells in an EV battery pack to ensure safety and longevity?",
+        "options": [
+            "a) The Inverter",
+            "b) The Battery Management System (BMS)",
+            "c) The On-Board Charger (OB",
+            "d) The Traction Controller"
+        ],
+        "answer": "b) The Battery Management System (BMS)",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 75,
+        "question": "What does \"State of Charge\" (So",
+        "options": [
+            "a) The fee required to use a public charger.",
+            "b) The current level of energy remaining in the battery, expressed as a percentage (similar to a fuel gauge).",
+            "c) mean in an EV?",
+            "d) The state of the electric motor's magnets."
+        ],
+        "answer": "b) The current level of energy remaining in the battery, expressed as a percentage (similar to a fuel gauge).",
+        "explanation": "The correct answer is 'The current level of energy remaining in the battery, expressed as a percentage (similar to a fuel gauge).', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 76,
+        "question": "What does \"State of Health\" (SoH) indicate for an EV battery?",
+        "options": [
+            "a) How clean the battery is physically.",
+            "b) A measure of the battery's current maximum capacity and performance compared to when it was brand new, indicating degradation over time.",
+            "c) The current operating temperature of the battery.",
+            "d) The software version of the BMS."
+        ],
+        "answer": "b) A measure of the battery's current maximum capacity and performance compared to when it was brand new, indicating degradation over time.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 77,
+        "question": "In EV powertrain technology, what component sits between the DC Battery Pack and the AC Traction Motor?",
+        "options": [
+            "a) The Differential",
+            "b) The Traction Inverter (converts DC to variable-frequency A",
+            "c) ",
+            "d) The Exhaust Pipe"
+        ],
+        "answer": "b) The Traction Inverter (converts DC to variable-frequency A",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 78,
+        "question": "\"Solid-State Batteries\" are considered the holy grail of future EV tech. What makes them \"solid-state\"?",
+        "options": [
+            "a) The entire battery is made of solid lead.",
+            "b) They replace the flammable liquid electrolyte found in current Li-ion batteries with a solid conductive material (like ceramic or polymer), drastically improving safety and energy density.",
+            "c) They are frozen in blocks of ice.",
+            "d) They do not have chemical reactions."
+        ],
+        "answer": "b) They replace the flammable liquid electrolyte found in current Li-ion batteries with a solid conductive material (like ceramic or polymer), drastically improving safety and energy density.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 79,
+        "question": "Which type of vehicle completely eliminates \"Range Anxiety\" by using liquid fuel but still benefits from the extreme efficiency and torque of an electric motor?",
+        "options": [
+            "a) BEV",
+            "b) HEV / PHEV",
+            "c) A bicycle",
+            "d) A pure diesel truck"
+        ],
+        "answer": "b) HEV / PHEV",
+        "explanation": "The correct answer is 'HEV / PHEV', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 80,
+        "question": "In an HEV, what is a \"Parallel Hybrid\" architecture?",
+        "options": [
+            "a) The engine and the electric motor are mounted on the roof.",
+            "b) Both the internal combustion engine and the electric motor are mechanically connected to the transmission and can independently or jointly drive the wheels.",
+            "c) The engine only charges the battery and never touches the wheels.",
+            "d) The car has two steering wheels."
+        ],
+        "answer": "b) Both the internal combustion engine and the electric motor are mechanically connected to the transmission and can independently or jointly drive the wheels.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 81,
+        "question": "In an HEV, what is a \"Series Hybrid\" architecture?",
+        "options": [
+            "a) The batteries are wired in series.",
+            "b) The internal combustion engine strictly acts as a generator to provide electricity to the battery/electric motor; only the electric motor turns the wheels.",
+            "c) The engine and motor take turns driving every 10 miles.",
+            "d) The electric motor only runs the air conditioning."
+        ],
+        "answer": "b) The internal combustion engine strictly acts as a generator to provide electricity to the battery/electric motor; only the electric motor turns the wheels.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 82,
+        "question": "E-Rickshaws in India traditionally used Lead-Acid batteries due to low cost, but are rapidly shifting to Li-ion because:",
+        "options": [
+            "a) Lead-acid batteries are too colorful.",
+            "b) Lead-acid batteries have a very short lifespan (6-9 months), are extremely heavy, and require lengthy charging times compared to Li-ion.",
+            "c) Lead-acid batteries produce too much voltage.",
+            "d) Li-ion batteries are heavier, providing better traction."
+        ],
+        "answer": "b) Lead-acid batteries have a very short lifespan (6-9 months), are extremely heavy, and require lengthy charging times compared to Li-ion.",
+        "explanation": "The correct answer is 'Lead-acid batteries have a very short lifespan (6-9 months), are extremely heavy, and require lengthy charging times compared to Li-ion.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 83,
+        "question": "What is the fundamental concept of a \"Smart Home\"?",
+        "options": [
+            "a) A house built entirely out of smart glass.",
+            "b) A residence equipped with interconnected devices and appliances that can be controlled remotely or automatically via the internet and IoT protocols.",
+            "c) A home that generates its own water.",
+            "d) A house that physically moves to a new location."
+        ],
+        "answer": "b) A residence equipped with interconnected devices and appliances that can be controlled remotely or automatically via the internet and IoT protocols.",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 84,
+        "question": "Which of the following represents a \"Gateway\" or \"Hub\" in a smart home architecture?",
+        "options": [
+            "a) A physical wooden door.",
+            "b) A central device (like an Amazon Echo or custom router) that connects localized smart devices (using Zigbee/Z-Wave) to the homeowner's Wi-Fi and the Cloud.",
+            "c) A standard lightbulb.",
+            "d) The main water valve."
+        ],
+        "answer": "b) A central device (like an Amazon Echo or custom router) that connects localized smart devices (using Zigbee/Z-Wave) to the homeowner's Wi-Fi and the Cloud.",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 85,
+        "question": "What role does AI play in a Smart Home Illumination system?",
+        "options": [
+            "a) It physically changes the lightbulbs when they burn out.",
+            "b) It analyzes user behavior, occupancy patterns, and natural light levels to automatically predict and adjust lighting, saving energy without manual input.",
+            "c) It turns the lights off permanently to save 100% of the energy.",
+            "d) It forces the lights to blink continuously."
+        ],
+        "answer": "b) It analyzes user behavior, occupancy patterns, and natural light levels to automatically predict and adjust lighting, saving energy without manual input.",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 86,
+        "question": "What is \"Circadian Rhythm Lighting\" in advanced smart homes?",
+        "options": [
+            "a) Lights that blink to the rhythm of music.",
+            "b) Tunable LED lighting that automatically shifts color temperature throughout the day (cool blue in the morning, warm amber at night) to mimic the sun and support human biological sleep cycles.",
+            "c) Lights that only turn on in a perfect circle.",
+            "d) Lights that measure the heartbeat of the occupants."
+        ],
+        "answer": "b) Tunable LED lighting that automatically shifts color temperature throughout the day (cool blue in the morning, warm amber at night) to mimic the sun and support human biological sleep cycles.",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 87,
+        "question": "In smart illumination, what does \"Daylight Harvesting\" mean?",
+        "options": [
+            "a) Putting solar panels on the roof.",
+            "b) Using photosensors to measure incoming sunlight and automatically dimming the indoor artificial lights to maintain a constant, optimal light level, thereby saving energy.",
+            "c) Keeping windows open all night.",
+            "d) Forcing residents to work outside."
+        ],
+        "answer": "b) Using photosensors to measure incoming sunlight and automatically dimming the indoor artificial lights to maintain a constant, optimal light level, thereby saving energy.",
+        "explanation": "The correct answer is 'Using photosensors to measure incoming sunlight and automatically dimming the indoor artificial lights to maintain a constant, optimal light level, thereby saving energy.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 88,
+        "question": "An advancement in modern luminaires is \"PoE Lighting\". What does PoE stand for?",
+        "options": [
+            "a) Power over Ethernet",
+            "b) Protocol of Electricity",
+            "c) Panel of Emitters",
+            "d) Pulse output Energy"
+        ],
+        "answer": "a) Power over Ethernet",
+        "explanation": "The correct answer is 'Power over Ethernet', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 89,
+        "question": "What is the primary advantage of PoE Lighting in a smart building?",
+        "options": [
+            "a) It uses high-voltage 230V AC lines.",
+            "b) A single standard Ethernet cable provides both low-voltage DC power to the LED and a highspeed data connection for control and sensor feedback.",
+            "c) It eliminates the need for lightbulbs.",
+            "d) It prevents the use of LED technology."
+        ],
+        "answer": "b) A single standard Ethernet cable provides both low-voltage DC power to the LED and a highspeed data connection for control and sensor feedback.",
+        "explanation": "The correct answer is 'A single standard Ethernet cable provides both low-voltage DC power to the LED and a highspeed data connection for control and sensor feedback.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 90,
+        "question": "Which digital lighting control protocol is widely used as a standard for addressing individual or groups of smart luminaires in commercial and smart home setups?",
+        "options": [
+            "a) HTTP",
+            "b) DALI (Digital Addressable Lighting Interface)",
+            "c) SMTP",
+            "d) POP3"
+        ],
+        "answer": "b) DALI (Digital Addressable Lighting Interface)",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 91,
+        "question": "In a smart appliance block diagram, which component acts as the \"Brain\" processing the Wi-Fi signals and deciding what the appliance should do?",
+        "options": [
+            "a) The mechanical switch.",
+            "b) The Microcontroller Unit (MCU) / IoT Chip (like ESP8266 or ESP32).",
+            "c) The power cord.",
+            "d) The thermal fuse."
+        ],
+        "answer": "b) The Microcontroller Unit (MCU) / IoT Chip (like ESP8266 or ESP32).",
+        "explanation": "The correct answer is 'The Microcontroller Unit (MCU', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 92,
+        "question": "To safely switch a high-voltage 230V AC home appliance (like a heater) using a 3.3V IoT microcontroller, what component is typically used in the circuit?",
+        "options": [
+            "a) A direct copper wire connection.",
+            "b) An Electromechanical Relay or a Solid-State Triac.",
+            "c) A capacitor.",
+            "d) A step-up transformer."
+        ],
+        "answer": "b) An Electromechanical Relay or a Solid-State Triac.",
+        "explanation": "The correct answer is 'An Electromechanical Relay or a Solid-State Triac.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 93,
+        "question": "What is the purpose of an \"Optocoupler\" (Optoisolator) in a smart home control circuit?",
+        "options": [
+            "a) To provide light for the room.",
+            "b) To provide electrical isolation between the fragile low-voltage digital control circuit and the dangerous high-voltage AC load circuit, transferring the signal via light.",
+            "c) To amplify the audio signal of a smart speaker.",
+            "d) To connect to the Wi-Fi network."
+        ],
+        "answer": "b) To provide electrical isolation between the fragile low-voltage digital control circuit and the dangerous high-voltage AC load circuit, transferring the signal via light.",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 94,
+        "question": "Which wireless communication protocol is famous in smart home appliance control for creating a low-power \"Mesh Network\"?",
+        "options": [
+            "a) Standard 5GHz Wi-Fi",
+            "b) Zigbee",
+            "c) AM Radio",
+            "d) 5G Cellular"
+        ],
+        "answer": "b) Zigbee",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 95,
+        "question": "In Smart Home HVAC (Heating, Ventilation, and Air Conditioning) control, what is a \"Smart Thermostat\"?",
+        "options": [
+            "a) A thermostat that can only be adjusted physically.",
+            "b) An internet-connected thermostat that learns the home's thermal profile, tracks resident location (geofencing), and optimizes heating/cooling to slash energy bills.",
+            "c) A thermometer that reads books.",
+            "d) A thermostat that stays at exactly 20\u00b0C forever."
+        ],
+        "answer": "b) An internet-connected thermostat that learns the home's thermal profile, tracks resident location (geofencing), and optimizes heating/cooling to slash energy bills.",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 96,
+        "question": "How does PWM (Pulse Width Modulation) work in smart LED illumination control?",
+        "options": [
+            "a) It changes the voltage of the supply constantly.",
+            "b) It rapidly turns the LED fully on and fully off at a high frequency; changing the ratio of \"ontime\" to \"off-time\" seamlessly dims the perceived light without shifting the color.",
+            "c) It adds physical filters in front of the light.",
+            "d) It changes the physical width of the LED chip."
+        ],
+        "answer": "b) It rapidly turns the LED fully on and fully off at a high frequency; changing the ratio of \"ontime\" to \"off-time\" seamlessly dims the perceived light without shifting the color.",
+        "explanation": "The correct answer is 'It rapidly turns the LED fully on and fully off at a high frequency; changing the ratio of \"ontime\" to \"off-time\" seamlessly dims the perceived light without shifting the color.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 97,
+        "question": "What is \"Geofencing\" in smart home automation?",
+        "options": [
+            "a) Building a physical electric fence around the property.",
+            "b) Using the GPS location of the homeowner's smartphone to trigger automated events, like turning on the AC or unlocking the door when they enter a virtual boundary near their house.",
+            "c) Blocking neighbor's Wi-Fi signals.",
+            "d) Keeping the home hidden from Google Maps."
+        ],
+        "answer": "b) Using the GPS location of the homeowner's smartphone to trigger automated events, like turning on the AC or unlocking the door when they enter a virtual boundary near their house.",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 98,
+        "question": "Which of the following is a major privacy/security challenge of Smart Homes?",
+        "options": [
+            "a) The lights being too bright.",
+            "b) Hackers gaining access to unsecured IoT cameras, smart locks, or monitoring behavioral data if the home network is compromised.",
+            "c) Smart appliances refusing to work.",
+            "d) The home physically relocating."
+        ],
+        "answer": "b) Hackers gaining access to unsecured IoT cameras, smart locks, or monitoring behavioral data if the home network is compromised.",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 99,
+        "question": "Voice assistants (like Alexa or Google Assistant) integrate into the smart home block diagram by providing:",
+        "options": [
+            "a) Physical mechanical power.",
+            "b) A Natural Language Processing (NLP) user interface that translates spoken commands into digital API requests sent to the smart appliance clouds.",
+            "c) A backup battery source.",
+            "d) Wi-Fi signals directly to the power lines."
+        ],
+        "answer": "b) A Natural Language Processing (NLP) user interface that translates spoken commands into digital API requests sent to the smart appliance clouds.",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 100,
+        "question": "Which feature of a modern smart refrigerator demonstrates an advancement in appliance automation?",
+        "options": [
+            "a) Having a physical handle.",
+            "b) Internal cameras and AI image recognition to track inventory, warn about expiring food, and automatically order groceries online.",
+            "c) Keeping food warm instead of cold.",
+            "d) Operating without electricity."
+        ],
+        "answer": "b) Internal cameras and AI image recognition to track inventory, warn about expiring food, and automatically order groceries online.",
+        "explanation": "Automated Train Operation (ATO) manages the speed, stopping, and door operations of trains to improve efficiency and safety."
+    },
+    {
+        "id": 101,
+        "question": "What does \"IFTTT\" stand for, a concept heavily used in smart home automation logic?",
+        "options": [
+            "a) Internet For The Things Today",
+            "b) If This Then That (a simple conditional logic platform linking different smart services together)",
+            "c) Integrated Frequency Transmission To Terminals",
+            "d) Internal Firewall Testing Technical Tool"
+        ],
+        "answer": "b) If This Then That (a simple conditional logic platform linking different smart services together)",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 102,
+        "question": "In a smart home, what is a \"Scene\" or \"Routine\"?",
+        "options": [
+            "a) A dramatic play performed in the living room.",
+            "b) A pre-programmed command that triggers multiple devices simultaneously (e.g., a \"Goodnight\" scene locks the doors, turns off lights, and lowers the thermostat).",
+            "c) The wallpaper on the smart TV.",
+            "d) The physical layout of the furniture."
+        ],
+        "answer": "b) A pre-programmed command that triggers multiple devices simultaneously (e.g., a \"Goodnight\" scene locks the doors, turns off lights, and lowers the thermostat).",
+        "explanation": "A Smart Home uses interconnected IoT devices to provide remote control and automation of appliances, lighting, and HVAC."
+    },
+    {
+        "id": 103,
+        "question": "Advanced smart luminaires can feature \"Tunable White\" technology. This is achieved by:",
+        "options": [
+            "a) Painting the bulb white.",
+            "b) Mixing the output of separate warm-white and cool-white LED chips inside the same fixture, varying their relative intensity via the microcontroller.",
+            "c) Using a mechanical shutter.",
+            "d) Heating the LED up until it changes color physically."
+        ],
+        "answer": "b) Mixing the output of separate warm-white and cool-white LED chips inside the same fixture, varying their relative intensity via the microcontroller.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 104,
+        "question": "Which component is absolutely necessary if a user wants to control a Bluetooth-only smart lock while they are away at work?",
+        "options": [
+            "a) A longer Bluetooth antenna.",
+            "b) A Wi-Fi/Bluetooth Gateway hub plugged in inside the house to bridge the local Bluetooth signal to the remote internet cloud.",
+            "c) A new smartphone.",
+            "d) They cannot control it; Bluetooth only works worldwide."
+        ],
+        "answer": "b) A Wi-Fi/Bluetooth Gateway hub plugged in inside the house to bridge the local Bluetooth signal to the remote internet cloud.",
+        "explanation": "The correct answer is 'A Wi-Fi/Bluetooth Gateway hub plugged in inside the house to bridge the local Bluetooth signal to the remote internet cloud.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 105,
+        "question": "Smart appliance control panels often use \"Capacitive Touch\" buttons instead of mechanical ones. How do they work?",
+        "options": [
+            "a) They measure the physical force of a push.",
+            "b) They detect the slight change in electrical capacitance caused by the proximity of a human finger.",
+            "c) They use lasers to see the finger.",
+            "d) They read the fingerprint of the user."
+        ],
+        "answer": "b) They detect the slight change in electrical capacitance caused by the proximity of a human finger.",
+        "explanation": "The correct answer is 'They detect the slight change in electrical capacitance caused by the proximity of a human finger.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 106,
+        "question": "What is the role of an IoT \"Dashboard\" app on a user's smartphone?",
+        "options": [
+            "a) To drive the car.",
+            "b) To provide a centralized graphical user interface (GUI) to monitor sensor statuses and manually toggle actuators across the entire smart home.",
+            "c) To physically connect to the electrical panel.",
+            "d) To increase the voltage of the house."
+        ],
+        "answer": "b) To provide a centralized graphical user interface (GUI) to monitor sensor statuses and manually toggle actuators across the entire smart home.",
+        "explanation": "The correct answer is 'To provide a centralized graphical user interface (GUI', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 107,
+        "question": "What is the primary \"Role\" of Renewable Energy in the context of a Smart City?",
+        "options": [
+            "a) To increase the city's dependence on imported coal.",
+            "b) To decarbonize the energy grid, ensure local energy security, and provide clean power for electrified transportation and smart infrastructure.",
+            "c) To make the city noisier.",
+            "d) To generate radioactive waste."
+        ],
+        "answer": "b) To decarbonize the energy grid, ensure local energy security, and provide clean power for electrified transportation and smart infrastructure.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 108,
+        "question": "Which renewable technology is most highly adaptable and widely promoted for decentralized integration within crowded urban Smart Cities?",
+        "options": [
+            "a) Massive Offshore Wind Farms",
+            "b) Rooftop Solar Photovoltaic (PV) systems",
+            "c) Large-scale Hydroelectric Dams",
+            "d) Geothermal drilling"
+        ],
+        "answer": "b) Rooftop Solar Photovoltaic (PV) systems",
+        "explanation": "The correct answer is 'Rooftop Solar Photovoltaic (PV', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 109,
+        "question": "What does BIPV stand for, a major opportunity for smart city architecture?",
+        "options": [
+            "a) Basic Integrated Power Voltage",
+            "b) Building-Integrated Photovoltaics (using solar panels that double as building materials like windows, roofs, or facades)",
+            "c) Bi-directional Independent Power Vector",
+            "d) Battery Integrated Physical Vault"
+        ],
+        "answer": "b) Building-Integrated Photovoltaics (using solar panels that double as building materials like windows, roofs, or facades)",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 110,
+        "question": "In India, what is the JNNSM?",
+        "options": [
+            "a) Joint National Nuclear Standard Mission",
+            "b) Jawaharlal Nehru National Solar Mission (a major initiative to promote solar power in India)",
+            "c) Justice Network for National Smart Meters",
+            "d) Joint Network of New Smart Machines"
+        ],
+        "answer": "b) Jawaharlal Nehru National Solar Mission (a major initiative to promote solar power in India)",
+        "explanation": "The correct answer is 'Jawaharlal Nehru National Solar Mission (a major initiative to promote solar power in India)', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 111,
+        "question": "Which government policy explicitly mandates that a certain percentage of electricity purchased by distribution companies (DISCOMs) must come from renewable sources?",
+        "options": [
+            "a) Gross Domestic Product (GDP)",
+            "b) Renewable Purchase Obligation (RPO)",
+            "c) Goods and Services Tax (GST)",
+            "d) Foreign Direct Investment (FDI)"
+        ],
+        "answer": "b) Renewable Purchase Obligation (RPO)",
+        "explanation": "The correct answer is 'Renewable Purchase Obligation (RPO)', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 112,
+        "question": "How do REC (Renewable Energy Certificate) markets support renewable energy?",
+        "options": [
+            "a) They are paper certificates given as an award to citizens.",
+            "b) They act as a tradable market instrument; green energy producers can sell RECs to organizations needing to meet their Renewable Purchase Obligations (RPO) but lacking their own green generation.",
+            "c) They are coupons for free electricity.",
+            "d) They are permits required to burn coal."
+        ],
+        "answer": "b) They act as a tradable market instrument; green energy producers can sell RECs to organizations needing to meet their Renewable Purchase Obligations (RPO) but lacking their own green generation.",
+        "explanation": "Renewable energy sources like rooftop solar are crucial for decarbonizing cities and ensuring local energy security."
+    },
+    {
+        "id": 113,
+        "question": "What is the PM-KUSUM scheme initiated by the Government of India primarily aimed at?",
+        "options": [
+            "a) Funding metro rails in mega cities.",
+            "b) Promoting solar energy in the agriculture sector by subsidizing standalone solar agriculture pumps and grid-connected solar power plants for farmers.",
+            "c) Building nuclear reactors.",
+            "d) Subsidizing petrol prices for farmers."
+        ],
+        "answer": "b) Promoting solar energy in the agriculture sector by subsidizing standalone solar agriculture pumps and grid-connected solar power plants for farmers.",
+        "explanation": "The correct answer is 'Promoting solar energy in the agriculture sector by subsidizing standalone solar agriculture pumps and grid-connected solar power plants for farmers.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 114,
+        "question": "How does \"Net Metering\" policy encourage urban citizens to adopt rooftop solar?",
+        "options": [
+            "a) By charging them a heavy tax for having solar panels.",
+            "b) By allowing them to export excess solar electricity back to the grid during the day, which spins the meter backward, earning them credits against their night-time consumption.",
+            "c) By disconnecting them from the grid completely.",
+            "d) By forcing them to buy new appliances."
+        ],
+        "answer": "b) By allowing them to export excess solar electricity back to the grid during the day, which spins the meter backward, earning them credits against their night-time consumption.",
+        "explanation": "Net Metering allows prosumers to export excess solar power to the grid and earn credits against their consumption."
+    },
+    {
+        "id": 115,
+        "question": "What is the difference between \"Net Metering\" and \"Gross Metering\"?",
+        "options": [
+            "a) They are identical terms.",
+            "b) In Net Metering, the consumer is billed only for the \"net\" difference between import and export. In Gross Metering, all generated solar is sold to the grid at a fixed tariff, and all consumed power is bought at retail rates.",
+            "c) Gross metering requires a massive physical meter.",
+            "d) Net metering is illegal in India."
+        ],
+        "answer": "b) In Net Metering, the consumer is billed only for the \"net\" difference between import and export. In Gross Metering, all generated solar is sold to the grid at a fixed tariff, and all consumed power is bought at retail rates.",
+        "explanation": "Net Metering allows prosumers to export excess solar power to the grid and earn credits against their consumption."
+    },
+    {
+        "id": 116,
+        "question": "A major \"Opportunity\" of integrating renewable energy into smart cities using Smart Grids is the creation of VPPs. What is a VPP?",
+        "options": [
+            "a) Very Private Power",
+            "b) Virtual Power Plant (aggregating thousands of decentralized rooftop solar and battery systems to act as a single, dispatchable power plant to stabilize the grid)",
+            "c) Vertical Power Pole",
+            "d) Visual Power Presentation"
+        ],
+        "answer": "b) Virtual Power Plant (aggregating thousands of decentralized rooftop solar and battery systems to act as a single, dispatchable power plant to stabilize the grid)",
+        "explanation": "Renewable energy sources like rooftop solar are crucial for decarbonizing cities and ensuring local energy security."
+    },
+    {
+        "id": 117,
+        "question": "Which central government agency in India is specifically responsible for the research, development, and deployment of renewable energy policies?",
+        "options": [
+            "a) Ministry of Defence (Mo",
+            "b) Ministry of New and Renewable Energy (MNRE)",
+            "c) Ministry of Railways",
+            "d) "
+        ],
+        "answer": "b) Ministry of New and Renewable Energy (MNRE)",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 118,
+        "question": "What is the role of a \"Feed-in Tariff\" (FiT) policy?",
+        "options": [
+            "a) To charge consumers for eating food.",
+            "b) To offer a guaranteed, long-term, fixed-price contract to renewable energy producers for every unit of electricity they feed into the grid, ensuring investment security.",
+            "c) To tax renewable energy at a higher rate.",
+            "d) To limit the amount of solar power a house can generate."
+        ],
+        "answer": "b) To offer a guaranteed, long-term, fixed-price contract to renewable energy producers for every unit of electricity they feed into the grid, ensuring investment security.",
+        "explanation": "The correct answer is 'To offer a guaranteed, long-term, fixed-price contract to renewable energy producers for every unit of electricity they feed into the grid, ensuring investment security.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 119,
+        "question": "In the context of government policies, what is \"Viability Gap Funding\" (VGF)?",
+        "options": [
+            "a) A fine for companies that fail to meet targets.",
+            "b) A capital subsidy provided by the government to make infrastructure projects (like large solar parks) commercially viable when they are economically justified but fall short of financial viability.",
+            "c) Funding used specifically to dig gaps in the road.",
+            "d) A tax on foreign imported panels."
+        ],
+        "answer": "b) A capital subsidy provided by the government to make infrastructure projects (like large solar parks) commercially viable when they are economically justified but fall short of financial viability.",
+        "explanation": "The correct answer is 'A capital subsidy provided by the government to make infrastructure projects (like large solar parks', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 120,
+        "question": "The \"Green Energy Corridor\" project in India is primarily aimed at:",
+        "options": [
+            "a) Painting transmission towers green.",
+            "b) Creating dedicated high-voltage transmission infrastructure to smoothly evacuate massive amounts of renewable energy from resource-rich states to load centers across the country.",
+            "c) Planting trees along the highway.",
+            "d) Developing a new type of green fuel for cars."
+        ],
+        "answer": "b) Creating dedicated high-voltage transmission infrastructure to smoothly evacuate massive amounts of renewable energy from resource-rich states to load centers across the country.",
+        "explanation": "The correct answer is 'Creating dedicated high-voltage transmission infrastructure to smoothly evacuate massive amounts of renewable energy from resource-rich states to load centers across the country.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 121,
+        "question": "Why are state-level policies often required alongside central policies for renewable energy in India?",
+        "options": [
+            "a) Because the central government has no authority.",
+            "b) Because \"Electricity\" is a concurrent subject in the Indian Constitution, and state regulatory commissions (SERCs) must design specific tariffs, net-metering rules, and grid codes suited to their local DISCOMs.",
+            "c) Because states use different types of electrons.",
+            "d) Because the central government banned solar power."
+        ],
+        "answer": "b) Because \"Electricity\" is a concurrent subject in the Indian Constitution, and state regulatory commissions (SERCs) must design specific tariffs, net-metering rules, and grid codes suited to their local DISCOMs.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 122,
+        "question": "Waste-to-Energy (WtE) is a renewable opportunity highly relevant to Smart Cities. What does it involve?",
+        "options": [
+            "a) Throwing energy into the garbage.",
+            "b) Generating electricity or heat through the controlled incineration or biomethanation of municipal solid waste, solving both garbage and energy problems.",
+            "c) Using old batteries to power flashlights.",
+            "d) Leaving waste in landfills to decompose naturally."
+        ],
+        "answer": "b) Generating electricity or heat through the controlled incineration or biomethanation of municipal solid waste, solving both garbage and energy problems.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 123,
+        "question": "A challenge of heavy renewable integration (like solar) into the smart city grid is \"The Duck Curve\". What does this refer to?",
+        "options": [
+            "a) The shape of the solar panels.",
+            "b) A graph showing the severe imbalance between peak solar generation at midday (causing a deep drop in net grid demand) and the massive, rapid ramp-up required by fossil plants when the sun sets and evening demand spikes.",
+            "c) A specific brand of wind turbine.",
+            "d) The flight path of migratory birds."
+        ],
+        "answer": "b) A graph showing the severe imbalance between peak solar generation at midday (causing a deep drop in net grid demand) and the massive, rapid ramp-up required by fossil plants when the sun sets and evening demand spikes.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 124,
+        "question": "How does policy intervention solve the \"Duck Curve\" challenge?",
+        "options": [
+            "a) By banning solar panels.",
+            "b) By incentivizing Battery Energy Storage Systems (BESS) and implementing Time-of-Use (TOU) tariffs to shift demand to midday and store excess solar for the evening.",
+            "c) By building more coal plants to run 24/7.",
+            "d) By forcing citizens to sleep during the day."
+        ],
+        "answer": "b) By incentivizing Battery Energy Storage Systems (BESS) and implementing Time-of-Use (TOU) tariffs to shift demand to midday and store excess solar for the evening.",
+        "explanation": "The correct answer is 'By incentivizing Battery Energy Storage Systems (BESS', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 125,
+        "question": "What is the primary role of Biogas/Biomass in a smart city's renewable portfolio?",
+        "options": [
+            "a) It serves as a decorative element.",
+            "b) It utilizes sewage and organic urban waste to produce dispatchable, base-load green energy, complementing intermittent solar and wind.",
+            "c) It is used exclusively to fuel airplanes.",
+            "d) It replaces all drinking water."
+        ],
+        "answer": "b) It utilizes sewage and organic urban waste to produce dispatchable, base-load green energy, complementing intermittent solar and wind.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    },
+    {
+        "id": 126,
+        "question": "The concept of \"Prosumers\" is actively encouraged by modern renewable government policies. A Prosumer is someone who:",
+        "options": [
+            "a) Only consumes energy aggressively.",
+            "b) Both produces green energy (e.g., rooftop solar) and consumes energy, actively interacting with the smart grid.",
+            "c) Refuses to pay their electricity bill.",
+            "d) Works at a power plant."
+        ],
+        "answer": "b) Both produces green energy (e.g., rooftop solar) and consumes energy, actively interacting with the smart grid.",
+        "explanation": "The correct answer is 'Both produces green energy (e.g., rooftop solar', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 127,
+        "question": "State Solar Policies typically offer which of the following incentives to boost commercial adoption?",
+        "options": [
+            "a) Mandatory jail time for not installing solar.",
+            "b) Exemptions from electricity duty, cross-subsidy surcharges, and wheeling charges for captive solar power generation.",
+            "c) A ban on connecting to the main grid.",
+            "d) Doubling the cost of property taxes."
+        ],
+        "answer": "b) Exemptions from electricity duty, cross-subsidy surcharges, and wheeling charges for captive solar power generation.",
+        "explanation": "The correct answer is 'Exemptions from electricity duty, cross-subsidy surcharges, and wheeling charges for captive solar power generation.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 128,
+        "question": "The \"FAME India\" scheme (Faster Adoption and Manufacturing of (Hybrid &) Electric Vehicles) indirectly boosts the renewable sector because:",
+        "options": [
+            "a) EVs burn coal directly.",
+            "b) A massive influx of EVs creates a massive demand for electricity, which policies mandate must increasingly be met by renewable charging infrastructure to achieve true zero-emissions.",
+            "c) It bans the manufacturing of batteries.",
+            "d) It forces EVs to run on diesel when the battery is low."
+        ],
+        "answer": "b) A massive influx of EVs creates a massive demand for electricity, which policies mandate must increasingly be met by renewable charging infrastructure to achieve true zero-emissions.",
+        "explanation": "The FAME India scheme provides subsidies and incentives to accelerate the adoption and manufacturing of electric vehicles."
+    },
+    {
+        "id": 129,
+        "question": "What is \"Islanding\" capability, an opportunity provided by integrating renewables and batteries at a community level?",
+        "options": [
+            "a) Physically cutting the community off with a moat of water.",
+            "b) The ability of a smart neighborhood microgrid to disconnect from the failing main city grid and independently sustain power using its local solar and batteries.",
+            "c) Forcing the community to rely entirely on the main grid.",
+            "d) Shutting down the entire city grid."
+        ],
+        "answer": "b) The ability of a smart neighborhood microgrid to disconnect from the failing main city grid and independently sustain power using its local solar and batteries.",
+        "explanation": "Electric Vehicles (EVs) are essential for sustainable urban mobility, reducing emissions and reliance on fossil fuels."
+    },
+    {
+        "id": 130,
+        "question": "Which international alliance, co-founded by India, aims to massively scale up solar energy deployment globally and reduce the cost of solar technology?",
+        "options": [
+            "a) The United Nations Security Council",
+            "b) The International Solar Alliance (IS",
+            "c) The World Health Organization",
+            "d) The Global Coal Coalition"
+        ],
+        "answer": "b) The International Solar Alliance (IS",
+        "explanation": "The correct answer is 'The International Solar Alliance (IS', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 131,
+        "question": "Which of the following is a strict technical challenge for integrating urban rooftop solar into the existing distribution grid?",
+        "options": [
+            "a) It makes the roofs look ugly.",
+            "b) The existing local distribution transformers and lines were designed for one-way power flow and may suffer voltage stability issues from severe two-way solar power injection.",
+            "c) Solar electricity travels slower than coal electricity.",
+            "d) It drains power out of the houses."
+        ],
+        "answer": "b) The existing local distribution transformers and lines were designed for one-way power flow and may suffer voltage stability issues from severe two-way solar power injection.",
+        "explanation": "The correct answer is 'The existing local distribution transformers and lines were designed for one-way power flow and may suffer voltage stability issues from severe two-way solar power injection.', which is a core concept of the Smart City ecosystem covered in Unit 3."
+    },
+    {
+        "id": 132,
+        "question": "Ultimately, the integration of Renewable Energy in a Smart City requires a shift from a centralized, rigid power system to a:",
+        "options": [
+            "a) Singular, fossil-fuel dominated system.",
+            "b) Decentralized, flexible, data-driven, and highly resilient smart grid ecosystem.",
+            "c) Fully manual, non-digital power grid.",
+            "d) System completely devoid of any electrical transmission."
+        ],
+        "answer": "b) Decentralized, flexible, data-driven, and highly resilient smart grid ecosystem.",
+        "explanation": "A Smart City integrates ICT and IoT to optimize city functions, improve quality of life, and manage resources efficiently."
+    }
+]

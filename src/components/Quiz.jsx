@@ -5,10 +5,15 @@ import questionsUnit2 from '../data/unit2_questions.json';
 import questionsUnit3 from '../data/unit3_questions.json';
 import questionsUnit4 from '../data/unit4_questions.json';
 import questionsUnit5 from '../data/unit5_questions.json';
+import eteUnit1 from '../data/ete_unit1.json';
+import eteUnit2 from '../data/ete_unit2.json';
+import eteUnit3 from '../data/ete_unit3.json';
+import eteUnit4 from '../data/ete_unit4.json';
+import eteUnit5 from '../data/ete_unit5.json';
 import confetti from 'canvas-confetti';
 import { FiTarget, FiStar, FiCheckCircle, FiXCircle, FiAward, FiArrowLeft, FiArrowRight, FiRefreshCw } from 'react-icons/fi';
 
-const unitDataMap = {
+const etiUnitDataMap = {
   1: questionsUnit1,
   2: questionsUnit2,
   3: questionsUnit3,
@@ -16,11 +21,19 @@ const unitDataMap = {
   5: questionsUnit5,
 };
 
+const eteUnitDataMap = {
+  1: eteUnit1,
+  2: eteUnit2,
+  3: eteUnit3,
+  4: eteUnit4,
+  5: eteUnit5,
+};
+
 function Quiz() {
-  const { unitId: unitIdParam } = useParams();
+  const { subjectId, unitId: unitIdParam } = useParams();
   const navigate = useNavigate();
   const unitId = parseInt(unitIdParam, 10);
-  const storageKey = `quiz_progress_unit_${unitId}`;
+  const storageKey = `quiz_progress_${subjectId}_unit_${unitId}`;
 
   const [questions, setQuestions] = useState([]);
   
@@ -65,7 +78,7 @@ function Quiz() {
   }, [currentQuestionIndex, answers, showResults, storageKey, questions]);
 
   const onBack = () => {
-    navigate('/');
+    navigate(`/${subjectId}`);
   };
 
   const handleReset = () => {
@@ -79,15 +92,27 @@ function Quiz() {
   };
 
   useEffect(() => {
-    const data = unitDataMap[unitId];
-    if (data) {
-      setQuestions(data);
-    } else {
-      setQuestions([
-        { id: 1, question: `Sample question for Unit ${unitId}. Actual questions will be added later.`, options: ['a) Option A', 'b) Option B', 'c) Option C', 'd) Option D'], answer: 'a) Option A', explanation: 'This is the sample explanation.' }
-      ]);
+    const subject = subjectId?.toLowerCase();
+    if (subject === 'eti') {
+      const data = etiUnitDataMap[unitId];
+      if (data) {
+        setQuestions(data);
+      } else {
+        setQuestions([
+          { id: 1, question: `Sample question for ETI Unit ${unitId}. Actual questions will be added later.`, options: ['a) Option A', 'b) Option B', 'c) Option C', 'd) Option D'], answer: 'a) Option A', explanation: 'This is the sample explanation.' }
+        ]);
+      }
+    } else if (subject === 'ete') {
+      const data = eteUnitDataMap[unitId];
+      if (data) {
+        setQuestions(data);
+      } else {
+        setQuestions([
+          { id: 1, question: `Welcome to ETE Unit ${unitId}. Questions for this unit are being prepared.`, options: ['a) Understood', 'b) Ready', 'c) Cool', 'd) Awesome'], answer: 'a) Understood', explanation: 'This is a placeholder for ETE content.' }
+        ]);
+      }
     }
-  }, [unitId]);
+  }, [unitId, subjectId]);
 
   const handleOptionClick = (option) => {
     if (answers[currentQuestionIndex]) return;

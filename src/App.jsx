@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import SubjectSelection from './components/SubjectSelection';
 import UnitSelection from './components/UnitSelection';
 import Quiz from './components/Quiz';
 import { FiSun, FiMoon } from 'react-icons/fi';
@@ -26,7 +27,7 @@ function App() {
       <div className={`app-container ${darkMode ? 'dark' : 'light'}`}>
         <header className="app-header">
           <Link to="/" style={{ textDecoration: 'none' }}>
-            <h1>ETI MCQ Hub</h1>
+            <h1>MCQ Hub</h1>
           </Link>
           <button className="theme-toggle" onClick={() => setDarkMode(!darkMode)}>
             {darkMode ? <><FiSun className="icon" /> Light Mode</> : <><FiMoon className="icon" /> Dark Mode</>}
@@ -35,8 +36,9 @@ function App() {
 
         <main className="app-content">
           <Routes>
-            <Route path="/" element={<UnitSelection />} />
-            <Route path="/Unit/:unitId" element={<Quiz />} />
+            <Route path="/" element={<SubjectSelection />} />
+            <Route path="/:subjectId" element={<UnitSelection />} />
+            <Route path="/:subjectId/Unit/:unitId" element={<Quiz />} />
           </Routes>
         </main>
       </div>

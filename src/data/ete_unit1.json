@@ -1,0 +1,1622 @@
+[
+    {
+        "id": 1,
+        "question": "0)?",
+        "options": [
+            "a) Electricity",
+            "b) Steam and water power",
+            "c) Computers and IT",
+            "d) Cyber-Physical Systems"
+        ],
+        "answer": "b) Steam and water power",
+        "explanation": "The correct answer is 'Steam and water power', which is a core concept of 0)? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 2,
+        "question": "In which century did the First Industrial Revolution primarily take place?",
+        "options": [
+            "a) 16th Century",
+            "b) 18th Century",
+            "c) 20th Century",
+            "d) 21st Century"
+        ],
+        "answer": "b) 18th Century",
+        "explanation": "The correct answer is '18th Century', which is a core concept of place? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 3,
+        "question": "What was the defining technological advancement that drove Industry 2.0?",
+        "options": [
+            "a) The mechanical loom",
+            "b) The internet",
+            "c) Electrical energy and mass production",
+            "d) Artificial Intelligence"
+        ],
+        "answer": "c) Electrical energy and mass production",
+        "explanation": "Industry 2.0 (late 19th century) introduced mass production, assembly lines, and electrical energy."
+    },
+    {
+        "id": 4,
+        "question": "The concept of the \"Assembly Line\" is most strongly associated with which industrial revolution?",
+        "options": [
+            "a) Industry 1.0",
+            "b) Industry 2.0",
+            "c) Industry 3.0",
+            "d) Industry 4.0"
+        ],
+        "answer": "b) Industry 2.0",
+        "explanation": "The correct answer is 'Industry 2.0', which is a core concept of revolution? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 5,
+        "question": "Who is famously known for pioneering the use of assembly lines in mass production during Industry 2.0?",
+        "options": [
+            "a) James Watt",
+            "b) Nikola Tesla",
+            "c) Henry Ford",
+            "d) Alan Turing"
+        ],
+        "answer": "c) Henry Ford",
+        "explanation": "Industry 2.0 (late 19th century) introduced mass production, assembly lines, and electrical energy."
+    },
+    {
+        "id": 6,
+        "question": "Which industrial revolution was driven by the introduction of computers, IT systems, and early automation?",
+        "options": [
+            "a) Industry 1.0",
+            "b) Industry 2.0",
+            "c) Industry 3.0",
+            "d) Industry 4.0"
+        ],
+        "answer": "c) Industry 3.0",
+        "explanation": "The correct answer is 'Industry 3.0', which is a core concept of automation? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 7,
+        "question": "The invention and widespread use of the Programmable Logic Controller (PL",
+        "options": [
+            "a) Industry 1.0",
+            "b) Industry 2.0",
+            "c) was a hallmark of:",
+            "d) Industry 5.0"
+        ],
+        "answer": "c) was a hallmark of:",
+        "explanation": "The correct answer is 'was a hallmark of:', which is a core concept of (PL in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 8,
+        "question": "0)?",
+        "options": [
+            "a) Steam engines",
+            "b) Cyber-Physical Systems, IoT, and interconnected networks",
+            "c) The telegraph",
+            "d) Mechanization of agriculture"
+        ],
+        "answer": "b) Cyber-Physical Systems, IoT, and interconnected networks",
+        "explanation": "The correct answer is 'Cyber-Physical Systems, IoT, and interconnected networks', which is a core concept of 0)? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 9,
+        "question": "Which industrial revolution marks the transition from purely mechanical and analog electronic technology to digital electronics?",
+        "options": [
+            "a) Industry 1.0",
+            "b) Industry 2.0",
+            "c) Industry 3.0",
+            "d) Industry 4.0"
+        ],
+        "answer": "c) Industry 3.0",
+        "explanation": "The correct answer is 'Industry 3.0', which is a core concept of electronics? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 10,
+        "question": "The term \"Industry 4.0\" originally originated from a high-tech strategy project of which country's government?",
+        "options": [
+            "a) United States",
+            "b) Japan",
+            "c) Germany",
+            "d) China"
+        ],
+        "answer": "c) Germany",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 11,
+        "question": "Industry 1.0 brought mechanization. What did Industry 4.0 bring?",
+        "options": [
+            "a) Electrification",
+            "b) Digitalization and interconnectivity",
+            "c) Manual craftsmanship",
+            "d) Steam-powered robotics"
+        ],
+        "answer": "b) Digitalization and interconnectivity",
+        "explanation": "Industry 1.0 was characterized by mechanization through steam and water power in the 18th century."
+    },
+    {
+        "id": 12,
+        "question": "Which of the following best describes the progression of the four industrial revolutions?",
+        "options": [
+            "a) Mechanization -> Electrification -> Automation -> Interconnectivity",
+            "b) Electrification -> Automation -> Mechanization -> Interconnectivity",
+            "c) Interconnectivity -> Mechanization -> Electrification -> Automation",
+            "d) Automation -> Electrification -> Interconnectivity -> Mechanization"
+        ],
+        "answer": "a) Mechanization -> Electrification -> Automation -> Interconnectivity",
+        "explanation": "The correct answer is 'Mechanization -> Electrification -> Automation -> Interconnectivity', which is a core concept of revolutions? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 13,
+        "question": "In the context of industrial history, the shift from bespoke, custom-made goods to standardized goods was the result of:",
+        "options": [
+            "a) Industry 1.0",
+            "b) Industry 2.0",
+            "c) Industry 3.0",
+            "d) Industry 4.0"
+        ],
+        "answer": "b) Industry 2.0",
+        "explanation": "The correct answer is 'Industry 2.0', which is a core concept of of: in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 14,
+        "question": "What enabled the highly automated operations seen in Industry 3.0?",
+        "options": [
+            "a) Coal",
+            "b) Microprocessors and telecommunications",
+            "c) Steam turbines",
+            "d) Mechanical gears"
+        ],
+        "answer": "b) Microprocessors and telecommunications",
+        "explanation": "Industry 3.0 brought automation through computers, IT systems, and the use of PLCs in the late 20th century."
+    },
+    {
+        "id": 15,
+        "question": "In Industry 4.0, machines are able to communicate with each other directly to optimize production. This concept is known as:",
+        "options": [
+            "a) M2M (Machine-to-Machine) communication",
+            "b) P2P (Peer-to-Peer) sharing",
+            "c) B2B (Business-to-Business) networking",
+            "d) Human-to-Machine interaction"
+        ],
+        "answer": "a) M2M (Machine-to-Machine) communication",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 16,
+        "question": "Which revolution allowed manufacturing to move away from being strictly located next to rivers or water sources?",
+        "options": [
+            "a) Industry 1.0",
+            "b) Industry 2.0 (due to electrical power grids)",
+            "c) Industry 3.0",
+            "d) Industry 4.0"
+        ],
+        "answer": "b) Industry 2.0 (due to electrical power grids)",
+        "explanation": "The correct answer is 'Industry 2.0 (due to electrical power grids)', which is a core concept of sources? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 17,
+        "question": "The widespread use of industrial robotics for repetitive tasks on assembly lines became standard during:",
+        "options": [
+            "a) Industry 1.0",
+            "b) Industry 2.0",
+            "c) Industry 3.0",
+            "d) Industry 4.0"
+        ],
+        "answer": "c) Industry 3.0",
+        "explanation": "The correct answer is 'Industry 3.0', which is a core concept of during: in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 18,
+        "question": "What makes Industry 4.0 fundamentally different from Industry 3.0?",
+        "options": [
+            "a) Industry 4.0 uses electricity; Industry 3.0 did not",
+            "b) Industry 4.0 integrates physical machines with digital networks, allowing them to make decentralized decisions",
+            "c) Industry 4.0 relies on human muscle power",
+            "d) There is no difference; they are the same"
+        ],
+        "answer": "b) Industry 4.0 integrates physical machines with digital networks, allowing them to make decentralized decisions",
+        "explanation": "Industry 3.0 brought automation through computers, IT systems, and the use of PLCs in the late 20th century."
+    },
+    {
+        "id": 19,
+        "question": "A \"Smart Factory\" is the ultimate realization of which industrial revolution?",
+        "options": [
+            "a) Industry 1.0",
+            "b) Industry 2.0",
+            "c) Industry 3.0",
+            "d) Industry 4.0"
+        ],
+        "answer": "d) Industry 4.0",
+        "explanation": "The correct answer is 'Industry 4.0', which is a core concept of revolution? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 20,
+        "question": "Which revolution is characterized by the merging of the physical, digital, and biological worlds?",
+        "options": [
+            "a) Industry 1.0",
+            "b) Industry 2.0",
+            "c) Industry 3.0",
+            "d) Industry 4.0"
+        ],
+        "answer": "d) Industry 4.0",
+        "explanation": "The correct answer is 'Industry 4.0', which is a core concept of worlds? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 21,
+        "question": "In the context of Industry 4.0, what does \"Digitization\" strictly refer to?",
+        "options": [
+            "a) Moving physical objects",
+            "b) The process of converting physical information into digital formats (e.g., converting a paper manual into a PDF)",
+            "c) Generating electricity",
+            "d) Hiring more human workers"
+        ],
+        "answer": "b) The process of converting physical information into digital formats (e.g., converting a paper manual into a PDF)",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 22,
+        "question": "What is a Cyber-Physical System (CPS)?",
+        "options": [
+            "a) A video game console",
+            "b) A system where physical mechanical components are monitored, controlled, and integrated by advanced computing algorithms and networks",
+            "c) A purely mechanical machine with no electronics",
+            "d) A database stored entirely in the cloud"
+        ],
+        "answer": "b) A system where physical mechanical components are monitored, controlled, and integrated by advanced computing algorithms and networks",
+        "explanation": "CPS integrates physical mechanical components with advanced computing algorithms and networks for real-time monitoring and control."
+    },
+    {
+        "id": 23,
+        "question": "Which of the following is a core component of a Cyber-Physical System?",
+        "options": [
+            "a) Actuators and Sensors",
+            "b) Steam engines",
+            "c) Waterwheels",
+            "d) Paper ledgers"
+        ],
+        "answer": "a) Actuators and Sensors",
+        "explanation": "CPS integrates physical mechanical components with advanced computing algorithms and networks for real-time monitoring and control."
+    },
+    {
+        "id": 24,
+        "question": "What role does the Internet of Things (IoT) play in Industry 4.0?",
+        "options": [
+            "a) It isolates computers from the network",
+            "b) It provides the connectivity layer that allows physical machines, sensors, and devices to communicate and exchange data over the internet",
+            "c) It replaces all physical machines with software",
+            "d) It forces workers to use paper"
+        ],
+        "answer": "b) It provides the connectivity layer that allows physical machines, sensors, and devices to communicate and exchange data over the internet",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 25,
+        "question": "Cloud Computing in Industry 4.0 provides manufacturing facilities with:",
+        "options": [
+            "a) Localized, hardware-bound storage that cannot be scaled",
+            "b) On-demand availability of computer system resources, data storage, and computing power without direct active management by the user",
+            "c) Weather forecasting for the factory roof",
+            "d) Analog communication channels"
+        ],
+        "answer": "b) On-demand availability of computer system resources, data storage, and computing power without direct active management by the user",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 26,
+        "question": "What is \"Cloud Manufacturing\"?",
+        "options": [
+            "a) Manufacturing products out of water vapor",
+            "b) A new manufacturing paradigm that transforms physical manufacturing resources into services shared over the cloud (Manufacturing-as-a-Service)",
+            "c) Building factories in high-altitude areas",
+            "d) Manufacturing that only occurs on airplanes"
+        ],
+        "answer": "b) A new manufacturing paradigm that transforms physical manufacturing resources into services shared over the cloud (Manufacturing-as-a-Service)",
+        "explanation": "The correct answer is 'A new manufacturing paradigm that transforms physical manufacturing resources into services shared over the cloud (Manufacturing-as-a-Service)', which is a core concept of Manufacturing\"? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 27,
+        "question": "Big Data Analytics is heavily used in Industry 4.0 to:",
+        "options": [
+            "a) Delete unnecessary files",
+            "b) Process the massive amounts of data generated by IoT sensors to identify patterns, optimize processes, and predict failures",
+            "c) Print large posters for the factory",
+            "d) Slow down the manufacturing line"
+        ],
+        "answer": "b) Process the massive amounts of data generated by IoT sensors to identify patterns, optimize processes, and predict failures",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 28,
+        "question": "How does Cloud Computing aid smaller electrical engineering firms?",
+        "options": [
+            "a) By requiring them to buy massive on-premise servers",
+            "b) By allowing them to access powerful, scalable computing resources on a pay-as-you-go basis without heavy capital investment",
+            "c) By disconnecting them from global markets",
+            "d) By removing their ability to store data"
+        ],
+        "answer": "b) By allowing them to access powerful, scalable computing resources on a pay-as-you-go basis without heavy capital investment",
+        "explanation": "The correct answer is 'By allowing them to access powerful, scalable computing resources on a pay-as-you-go basis without heavy capital investment', which is a core concept of firms? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 29,
+        "question": "Which component acts as the \"bridge\" between the physical hardware on the factory floor and the digital analytics in the cloud?",
+        "options": [
+            "a) The power supply",
+            "b) The Industrial Internet of Things (IIoT) gateway/sensors",
+            "c) The mechanical conveyor belt",
+            "d) The factory roof"
+        ],
+        "answer": "b) The Industrial Internet of Things (IIoT) gateway/sensors",
+        "explanation": "The correct answer is 'The Industrial Internet of Things (IIoT', which is a core concept of cloud? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 30,
+        "question": "In Cloud Manufacturing, physical CNC machines or 3D printers can be:",
+        "options": [
+            "a) Accessed and commanded remotely over the internet by customers globally",
+            "b) Operated only via manual hand-cranks",
+            "c) Powered by steam",
+            "d) Eliminated completely"
+        ],
+        "answer": "a) Accessed and commanded remotely over the internet by customers globally",
+        "explanation": "The correct answer is 'Accessed and commanded remotely over the internet by customers globally', which is a core concept of be: in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 31,
+        "question": "What is \"Edge Computing\" in the context of IoT and Cloud?",
+        "options": [
+            "a) Processing data purely on centralized cloud servers far away",
+            "b) Processing data locally near the sensors (at the edge of the network) to reduce latency and save bandwidth before sending critical summaries to the cloud",
+            "c) Computing using analog slide rules",
+            "d) Pushing machines to the edge of the factory floor"
+        ],
+        "answer": "b) Processing data locally near the sensors (at the edge of the network) to reduce latency and save bandwidth before sending critical summaries to the cloud",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 32,
+        "question": "Why is Edge Computing often necessary alongside Cloud Computing in Industry 4.0?",
+        "options": [
+            "a) Because the cloud is too fast",
+            "b) Because some electrical systems (like motor fault protection) require millisecond-level response times that a distant cloud server cannot guarantee",
+            "c) Because edge computing consumes more power",
+            "d) Because the cloud cannot store data"
+        ],
+        "answer": "b) Because some electrical systems (like motor fault protection) require millisecond-level response times that a distant cloud server cannot guarantee",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 33,
+        "question": "The integration of CPS, IoT, and Cloud Computing leads to the creation of:",
+        "options": [
+            "a) A Digital Twin",
+            "b) A purely analog system",
+            "c) A mechanical loom",
+            "d) An assembly line"
+        ],
+        "answer": "a) A Digital Twin",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 34,
+        "question": "What is a \"Digital Twin\"?",
+        "options": [
+            "a) A spare physical machine kept in storage",
+            "b) A virtual, real-time replica of a physical asset, process, or system used for simulation, monitoring, and optimization",
+            "c) A factory that produces twin products",
+            "d) A backup hard drive"
+        ],
+        "answer": "b) A virtual, real-time replica of a physical asset, process, or system used for simulation, monitoring, and optimization",
+        "explanation": "A Digital Twin is a virtual, real-time replica of a physical asset used for simulation and optimization."
+    },
+    {
+        "id": 35,
+        "question": "If an electrical engineer simulates the thermal stress of a new motor under heavy load using a virtual model synced with real-world sensor data, they are using:",
+        "options": [
+            "a) A Digital Twin",
+            "b) A physical prototype",
+            "c) Cloud Manufacturing",
+            "d) A steam engine"
+        ],
+        "answer": "a) A Digital Twin",
+        "explanation": "The correct answer is 'A Digital Twin', which is a core concept of using: in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 36,
+        "question": "Which of the following is an example of \"Digitalization\" (as opposed to mere digitization)?",
+        "options": [
+            "a) Scanning a document",
+            "b) Using digital data to entirely restructure and optimize a company's business model and manufacturing process",
+            "c) Taking a digital photograph",
+            "d) Typing on a keyboard"
+        ],
+        "answer": "b) Using digital data to entirely restructure and optimize a company's business model and manufacturing process",
+        "explanation": "The correct answer is 'Using digital data to entirely restructure and optimize a company's business model and manufacturing process', which is a core concept of digitization)? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 37,
+        "question": "How does IoT improve inventory management in Cloud Manufacturing?",
+        "options": [
+            "a) By counting items manually",
+            "b) By using RFID and smart sensors to track raw materials and finished goods in real-time across the supply chain",
+            "c) By guessing stock levels",
+            "d) By hiding inventory from the cloud"
+        ],
+        "answer": "b) By using RFID and smart sensors to track raw materials and finished goods in real-time across the supply chain",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 38,
+        "question": "What is the primary security concern regarding the components of Industry 4.0?",
+        "options": [
+            "a) Machines running out of oil",
+            "b) Cybersecurity vulnerabilities due to the massive interconnectivity of physical machines to global networks",
+            "c) Workers forgetting their physical keys",
+            "d) Cloud servers taking up too much physical space"
+        ],
+        "answer": "b) Cybersecurity vulnerabilities due to the massive interconnectivity of physical machines to global networks",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 39,
+        "question": "In a Cyber-Physical System, which part is responsible for executing the commands received from the digital controller?",
+        "options": [
+            "a) The Sensor",
+            "b) The Actuator",
+            "c) The Cloud",
+            "d) The Network Router"
+        ],
+        "answer": "b) The Actuator",
+        "explanation": "CPS integrates physical mechanical components with advanced computing algorithms and networks for real-time monitoring and control."
+    },
+    {
+        "id": 40,
+        "question": "Interoperability in Industry 4.0 refers to:",
+        "options": [
+            "a) Machines breaking down simultaneously",
+            "b) The ability of different systems, machines, and software from different manufacturers to connect, communicate, and share data seamlessly",
+            "c) The inability of machines to work together",
+            "d) Operators working in different factories"
+        ],
+        "answer": "b) The ability of different systems, machines, and software from different manufacturers to connect, communicate, and share data seamlessly",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 41,
+        "question": "Which cloud service model provides a platform allowing customers to develop, run, and manage applications without the complexity of building infrastructure?",
+        "options": [
+            "a) SaaS (Software as a Service)",
+            "b) PaaS (Platform as a Service)",
+            "c) IaaS (Infrastructure as a Service)",
+            "d) MaaS (Manufacturing as a Service)"
+        ],
+        "answer": "b) PaaS (Platform as a Service)",
+        "explanation": "The correct answer is 'PaaS (Platform as a Service)', which is a core concept of infrastructure? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 42,
+        "question": "Which cloud service model provides fully functional applications directly to the enduser over the internet (e.g., Google Workspace)?",
+        "options": [
+            "a) SaaS",
+            "b) PaaS",
+            "c) IaaS",
+            "d) DaaS"
+        ],
+        "answer": "a) SaaS",
+        "explanation": "The correct answer is 'SaaS', which is a core concept of Workspace)? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 43,
+        "question": "What is the primary advantage of 5G communication over 4G in an industrial setting?",
+        "options": [
+            "a) Slower data speeds",
+            "b) Ultra-low latency, massive device connectivity, and much higher bandwidth",
+            "c) It requires physical cables",
+            "d) It uses analog signals"
+        ],
+        "answer": "b) Ultra-low latency, massive device connectivity, and much higher bandwidth",
+        "explanation": "5G technology provides ultra-low latency, high bandwidth, and massive device connectivity essential for Industry 4.0."
+    },
+    {
+        "id": 44,
+        "question": "Which specific 5G feature is crucial for real-time control of fast-moving robotics and autonomous vehicles in a smart factory?",
+        "options": [
+            "a) eMBB (Enhanced Mobile Broadband)",
+            "b) URLLC (Ultra-Reliable Low Latency Communication)",
+            "c) mMTC (Massive Machine Type Communication)",
+            "d) SMS texting"
+        ],
+        "answer": "b) URLLC (Ultra-Reliable Low Latency Communication)",
+        "explanation": "5G technology provides ultra-low latency, high bandwidth, and massive device connectivity essential for Industry 4.0."
+    },
+    {
+        "id": 45,
+        "question": "What does the mMTC (Massive Machine Type Communication) feature of 5G enable?",
+        "options": [
+            "a) High-definition video streaming",
+            "b) The connection of up to a million low-power IoT sensors per square kilometer without network congestion",
+            "c) Faster phone calls",
+            "d) The elimination of the cloud"
+        ],
+        "answer": "b) The connection of up to a million low-power IoT sensors per square kilometer without network congestion",
+        "explanation": "5G technology provides ultra-low latency, high bandwidth, and massive device connectivity essential for Industry 4.0."
+    },
+    {
+        "id": 46,
+        "question": "What is Machine Learning (ML)?",
+        "options": [
+            "a) A machine learning to assemble products physically",
+            "b) A subset of AI that uses algorithms and statistical models to enable systems to learn from data and improve performance without explicit programming",
+            "c) A robot reading a manual",
+            "d) Hardwiring logic gates into a circuit"
+        ],
+        "answer": "b) A subset of AI that uses algorithms and statistical models to enable systems to learn from data and improve performance without explicit programming",
+        "explanation": "Machine Learning (ML) is a subset of AI that allows systems to learn from data patterns without explicit programming."
+    },
+    {
+        "id": 47,
+        "question": "In electrical engineering, how is Machine Learning primarily used for motor maintenance?",
+        "options": [
+            "a) By scheduling maintenance every 30 days regardless of condition",
+            "b) By analyzing vibration, temperature, and current data to predict exactly when a motor will fail (Predictive Maintenance)",
+            "c) By turning the motor on and off randomly",
+            "d) By painting the motor"
+        ],
+        "answer": "b) By analyzing vibration, temperature, and current data to predict exactly when a motor will fail (Predictive Maintenance)",
+        "explanation": "Machine Learning (ML) is a subset of AI that allows systems to learn from data patterns without explicit programming."
+    },
+    {
+        "id": 48,
+        "question": "Artificial Intelligence (AI) in Industry 4.0 refers to:",
+        "options": [
+            "a) Machines generating their own electricity",
+            "b) Computer systems capable of performing tasks that typically require human intelligence, such as visual perception, speech recognition, and complex decision-making",
+            "c) A mechanical clock",
+            "d) A standard calculator"
+        ],
+        "answer": "b) Computer systems capable of performing tasks that typically require human intelligence, such as visual perception, speech recognition, and complex decision-making",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 49,
+        "question": "How does AI optimize the energy consumption of a smart factory?",
+        "options": [
+            "a) By keeping all lights on 24/7",
+            "b) By dynamically analyzing production schedules and energy grid prices to run power-heavy tasks during off-peak, cheaper energy hours",
+            "c) By turning off the main power supply permanently",
+            "d) By replacing electrical machines with manual labor"
+        ],
+        "answer": "b) By dynamically analyzing production schedules and energy grid prices to run power-heavy tasks during off-peak, cheaper energy hours",
+        "explanation": "The correct answer is 'By dynamically analyzing production schedules and energy grid prices to run power-heavy tasks during off-peak, cheaper energy hours', which is a core concept of factory? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 50,
+        "question": "What is \"Computer Vision,\" a prominent AI technology used in smart manufacturing?",
+        "options": [
+            "a) A worker wearing glasses",
+            "b) AI systems analyzing digital images or videos from cameras to automatically detect defects in products on an assembly line",
+            "c) A screen displaying text",
+            "d) A blind robot"
+        ],
+        "answer": "b) AI systems analyzing digital images or videos from cameras to automatically detect defects in products on an assembly line",
+        "explanation": "The correct answer is 'AI systems analyzing digital images or videos from cameras to automatically detect defects in products on an assembly line', which is a core concept of manufacturing? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 51,
+        "question": "How does 5G support the implementation of AI and ML?",
+        "options": [
+            "a) By slowing down the transfer of data",
+            "b) By providing the massive, instantaneous data pipeline required to send factory floor data to cloud AI models and return decisions in real-time",
+            "c) By replacing the AI completely",
+            "d) It does not support AI"
+        ],
+        "answer": "b) By providing the massive, instantaneous data pipeline required to send factory floor data to cloud AI models and return decisions in real-time",
+        "explanation": "5G technology provides ultra-low latency, high bandwidth, and massive device connectivity essential for Industry 4.0."
+    },
+    {
+        "id": 52,
+        "question": "What is \"Supervised Learning\" in the context of ML?",
+        "options": [
+            "a) Learning without any data",
+            "b) Training an algorithm using a dataset that is already labeled with the correct answers (e.g., images labeled as \"defective\" or \"normal\")",
+            "c) An algorithm finding hidden patterns in unlabeled data",
+            "d) A robot being watched by a manager"
+        ],
+        "answer": "b) Training an algorithm using a dataset that is already labeled with the correct answers (e.g., images labeled as \"defective\" or \"normal\")",
+        "explanation": "The correct answer is 'Training an algorithm using a dataset that is already labeled with the correct answers (e.g., images labeled as \"defective\" or \"normal\")', which is a core concept of ML? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 53,
+        "question": "If an electrical grid uses an ML algorithm to group consumers based on their daily power usage patterns without predefined categories, it is using:",
+        "options": [
+            "a) Supervised Learning",
+            "b) Unsupervised Learning (Clustering)",
+            "c) Reinforcement Learning",
+            "d) Manual sorting"
+        ],
+        "answer": "b) Unsupervised Learning (Clustering)",
+        "explanation": "The correct answer is 'Unsupervised Learning (Clustering)', which is a core concept of using: in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 54,
+        "question": "An AI system that learns to control an HVAC system by receiving \"rewards\" for saving energy and \"punishments\" for letting the room get too hot is using:",
+        "options": [
+            "a) Supervised Learning",
+            "b) Unsupervised Learning",
+            "c) Reinforcement Learning",
+            "d) Deep Learning"
+        ],
+        "answer": "c) Reinforcement Learning",
+        "explanation": "The correct answer is 'Reinforcement Learning', which is a core concept of using: in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 55,
+        "question": "Which of the following tasks is an AI expert system best suited for in an electrical distribution grid?",
+        "options": [
+            "a) Digging trenches for cables",
+            "b) Automatically rerouting power around a fallen transformer to minimize the outage area within milliseconds",
+            "c) Generating electricity",
+            "d) Printing customer bills"
+        ],
+        "answer": "b) Automatically rerouting power around a fallen transformer to minimize the outage area within milliseconds",
+        "explanation": "The correct answer is 'Automatically rerouting power around a fallen transformer to minimize the outage area within milliseconds', which is a core concept of grid? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 56,
+        "question": "What does \"Network Slicing\" in 5G allow a factory to do?",
+        "options": [
+            "a) Cut fiber optic cables",
+            "b) Create multiple, dedicated virtual networks over the same physical 5G infrastructure, ensuring critical machine data is isolated from employee smartphone traffic",
+            "c) Share internet with the entire city",
+            "d) Slice data into smaller packets manually"
+        ],
+        "answer": "b) Create multiple, dedicated virtual networks over the same physical 5G infrastructure, ensuring critical machine data is isolated from employee smartphone traffic",
+        "explanation": "5G technology provides ultra-low latency, high bandwidth, and massive device connectivity essential for Industry 4.0."
+    },
+    {
+        "id": 57,
+        "question": "Without AI and ML, the massive amount of data generated by thousands of IoT sensors in a factory would be:",
+        "options": [
+            "a) Extremely easy to read manually",
+            "b) Overwhelming and largely useless, as humans cannot process that volume of data to find meaningful insights quickly",
+            "c) Automatically deleted",
+            "d) Converted into physical objects"
+        ],
+        "answer": "b) Overwhelming and largely useless, as humans cannot process that volume of data to find meaningful insights quickly",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 58,
+        "question": "Which subset of Machine Learning uses complex Artificial Neural Networks with many layers to solve highly complex problems like image and voice recognition?",
+        "options": [
+            "a) Linear Regression",
+            "b) Deep Learning",
+            "c) Decision Trees",
+            "d) K-Means Clustering"
+        ],
+        "answer": "b) Deep Learning",
+        "explanation": "Machine Learning (ML) is a subset of AI that allows systems to learn from data patterns without explicit programming."
+    },
+    {
+        "id": 59,
+        "question": "In the context of 5G, what does \"Latency\" mean?",
+        "options": [
+            "a) The total amount of data downloaded",
+            "b) The time delay it takes for a packet of data to travel from the source to the destination and back",
+            "c) The physical distance between towers",
+            "d) The battery life of the device"
+        ],
+        "answer": "b) The time delay it takes for a packet of data to travel from the source to the destination and back",
+        "explanation": "5G technology provides ultra-low latency, high bandwidth, and massive device connectivity essential for Industry 4.0."
+    },
+    {
+        "id": 60,
+        "question": "A self-driving automated guided vehicle (AGV) navigating a busy warehouse relies heavily on the combination of:",
+        "options": [
+            "a) Steam power and mechanical gears",
+            "b) 5G (for low-latency communication), IoT (sensors), and AI (for obstacle avoidance and routing)",
+            "c) 3G and manual steering",
+            "d) Wi-Fi and human remote control"
+        ],
+        "answer": "b) 5G (for low-latency communication), IoT (sensors), and AI (for obstacle avoidance and routing)",
+        "explanation": "The correct answer is '5G (for low-latency communication), IoT (sensors), and AI (for obstacle avoidance and routing)', which is a core concept of of: in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 61,
+        "question": "What is \"Prescriptive Analytics\" in AI?",
+        "options": [
+            "a) Telling you what happened in the past",
+            "b) Telling you what will happen in the future",
+            "c) Not only predicting a future failure but automatically recommending or executing the specific actions needed to prevent it",
+            "d) Writing a prescription for medicine"
+        ],
+        "answer": "c) Not only predicting a future failure but automatically recommending or executing the specific actions needed to prevent it",
+        "explanation": "The correct answer is 'Not only predicting a future failure but automatically recommending or executing the specific actions needed to prevent it', which is a core concept of AI? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 62,
+        "question": "How does AI assist in Supply Chain Management within Industry 4.0?",
+        "options": [
+            "a) By predicting demand spikes and automatically adjusting raw material orders and manufacturing schedules to prevent shortages",
+            "b) By hiding inventory data",
+            "c) By making transportation slower",
+            "d) By eliminating the supply chain"
+        ],
+        "answer": "a) By predicting demand spikes and automatically adjusting raw material orders and manufacturing schedules to prevent shortages",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 63,
+        "question": "While Industry 4.0 focuses heavily on automation and machine-to-machine communication, Industry 5.0 shifts the focus back to:",
+        "options": [
+            "a) Coal power",
+            "b) Human-centricity, bringing the human worker back into the center of the production process",
+            "c) Total elimination of the human workforce",
+            "d) Manual, non-digital labor"
+        ],
+        "answer": "b) Human-centricity, bringing the human worker back into the center of the production process",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 64,
+        "question": "Which of the following are the three core pillars of Industry 5.0 according to the European Commission?",
+        "options": [
+            "a) Profit, Speed, Automation",
+            "b) Human-centricity, Sustainability, and Resilience",
+            "c) AI, Cloud, IoT",
+            "d) Steam, Electricity, Computers"
+        ],
+        "answer": "b) Human-centricity, Sustainability, and Resilience",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 65,
+        "question": "What is a \"Cobot\"?",
+        "options": [
+            "a) A robot that fights other robots",
+            "b) A Collaborative Robot designed to work safely alongside human workers in a shared workspace, assisting them with tasks",
+            "c) A completely autonomous, caged industrial robot",
+            "d) A robot that makes coffee"
+        ],
+        "answer": "b) A Collaborative Robot designed to work safely alongside human workers in a shared workspace, assisting them with tasks",
+        "explanation": "A Collaborative Robot (Cobot) is designed to work safely alongside human workers in a shared workspace."
+    },
+    {
+        "id": 66,
+        "question": "How does Industry 5.0 approach the concept of customization?",
+        "options": [
+            "a) It promotes strict mass production of identical items",
+            "b) It enables \"Mass Personalization,\" combining the efficiency of automated mass production with the human touch needed to create highly customized, bespoke products",
+            "c) It eliminates customization entirely",
+            "d) It only allows customization if done completely by hand"
+        ],
+        "answer": "b) It enables \"Mass Personalization,\" combining the efficiency of automated mass production with the human touch needed to create highly customized, bespoke products",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 67,
+        "question": "What does \"Sustainability\" mean in the context of Industry 5.0?",
+        "options": [
+            "a) Ensuring the factory stays open forever",
+            "b) Designing manufacturing processes that respect planetary boundaries, utilizing circular economies, renewable energy, and minimizing waste and emissions",
+            "c) Sustaining high profit margins at all costs",
+            "d) Using non-renewable resources efficiently"
+        ],
+        "answer": "b) Designing manufacturing processes that respect planetary boundaries, utilizing circular economies, renewable energy, and minimizing waste and emissions",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 68,
+        "question": "The concept of a \"Circular Economy\" is a key part of Industry 5.0. What does it entail?",
+        "options": [
+            "a) Moving products in a physical circle on the factory floor",
+            "b) Transitioning from a \"take-make-dispose\" model to one where products are designed for reuse, repair, remanufacturing, and recycling",
+            "c) Only trading with neighboring countries",
+            "d) Using round packaging"
+        ],
+        "answer": "b) Transitioning from a \"take-make-dispose\" model to one where products are designed for reuse, repair, remanufacturing, and recycling",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 69,
+        "question": "What does \"Resilience\" refer to in Industry 5.0?",
+        "options": [
+            "a) The physical strength of the factory walls",
+            "b) The ability of manufacturing systems and supply chains to adapt to and quickly recover from massive global disruptions (e.g., pandemics, natural disasters)",
+            "c) The inability to change production schedules",
+            "d) The rigidity of robots"
+        ],
+        "answer": "b) The ability of manufacturing systems and supply chains to adapt to and quickly recover from massive global disruptions (e.g., pandemics, natural disasters)",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 70,
+        "question": "In Industry 5.0, technology is viewed as:",
+        "options": [
+            "a) A replacement for human workers",
+            "b) A tool to empower and augment human workers, protecting them from dangerous tasks while utilizing their creativity",
+            "c) A necessary evil that should be minimized",
+            "d) The ultimate authority in the factory"
+        ],
+        "answer": "b) A tool to empower and augment human workers, protecting them from dangerous tasks while utilizing their creativity",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 71,
+        "question": "Which previous industrial revolution was heavily criticized for ignoring the psychological well-being of workers and environmental impacts, leading to the conceptualization of Industry 5.0?",
+        "options": [
+            "a) Industry 1.0",
+            "b) Industry 2.0",
+            "c) Industry 4.0",
+            "d) All of the above, but 5.0 specifically aims to correct the technology-first approach of 4.0"
+        ],
+        "answer": "d) All of the above, but 5.0 specifically aims to correct the technology-first approach of 4.0",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 72,
+        "question": "What is ESG, a concept deeply integrated into the goals of Industry 5.0?",
+        "options": [
+            "a) Electronic System Guidelines",
+            "b) Environmental, Social, and Governance criteria used to evaluate a company's collective conscientiousness",
+            "c) Engineering Standard Grades",
+            "d) Electrical Safety Gear"
+        ],
+        "answer": "b) Environmental, Social, and Governance criteria used to evaluate a company's collective conscientiousness",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 73,
+        "question": "In a typical Industry 5.0 scenario, what role does the human play?",
+        "options": [
+            "a) Performing heavy lifting and repetitive physical assembly",
+            "b) Providing creative input, complex problem solving, and oversight, while the cobot handles the heavy lifting and precise repetition",
+            "c) Sitting in an office completely disconnected from the factory",
+            "d) None; humans are obsolete"
+        ],
+        "answer": "b) Providing creative input, complex problem solving, and oversight, while the cobot handles the heavy lifting and precise repetition",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 74,
+        "question": "How does Industry 5.0 handle energy management differently?",
+        "options": [
+            "a) By consuming maximum power for speed",
+            "b) By actively prioritizing energy efficiency, integrating deeply with smart grids, and maximizing the use of on-site renewable energy sources",
+            "c) By relying solely on fossil fuels",
+            "d) By turning off machines during the day"
+        ],
+        "answer": "b) By actively prioritizing energy efficiency, integrating deeply with smart grids, and maximizing the use of on-site renewable energy sources",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 75,
+        "question": "\"Bio-economy\" is a concept emerging in Industry 5.0. It involves:",
+        "options": [
+            "a) Building robots that look like humans",
+            "b) Using renewable biological resources from land and sea to produce food, materials, and energy, replacing fossil-based materials",
+            "c) Using biometrics for factory security",
+            "d) Making factories out of wood"
+        ],
+        "answer": "b) Using renewable biological resources from land and sea to produce food, materials, and energy, replacing fossil-based materials",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 76,
+        "question": "Which of the following is true regarding the relationship between Industry 4.0 and Industry 5.0?",
+        "options": [
+            "a) Industry 5.0 replaces and deletes all Industry 4.0 technology",
+            "b) Industry 5.0 builds upon the technological foundation of Industry 4.0 (IoT, AI, Cloud) but shifts the core values towards humanity and the environment",
+            "c) They are completely unrelated",
+            "d) Industry 4.0 is for electrical engineers, Industry 5.0 is for software engineers"
+        ],
+        "answer": "b) Industry 5.0 builds upon the technological foundation of Industry 4.0 (IoT, AI, Cloud) but shifts the core values towards humanity and the environment",
+        "explanation": "Industry 4.0 focuses on Cyber-Physical Systems, IoT, cloud computing, and real-time data interconnectivity."
+    },
+    {
+        "id": 77,
+        "question": "An electrical assembly line where a human uses AR glasses to assemble a complex custom control panel, while a robotic arm hands them the exact parts they need safely, represents:",
+        "options": [
+            "a) Industry 2.0",
+            "b) Industry 3.0",
+            "c) Industry 5.0",
+            "d) Pure Industry 4.0"
+        ],
+        "answer": "c) Industry 5.0",
+        "explanation": "The correct answer is 'Industry 5.0', which is a core concept of represents: in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 78,
+        "question": "Industry 5.0 promotes the idea that workers are an \"Investment\". In contrast, previous revolutions often viewed workers as:",
+        "options": [
+            "a) Gods",
+            "b) A \"Cost\" to be minimized or automated away",
+            "c) Shareholders",
+            "d) Robots"
+        ],
+        "answer": "b) A \"Cost\" to be minimized or automated away",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 79,
+        "question": "To achieve \"Resilience\", an Industry 5.0 supply chain might utilize:",
+        "options": [
+            "a) A single, highly optimized supplier in one country",
+            "b) Flexible, modular manufacturing and multiple local suppliers to adapt to sudden border closures or material shortages",
+            "c) Massive warehouses holding 10 years of stock",
+            "d) No supply chain at all"
+        ],
+        "answer": "b) Flexible, modular manufacturing and multiple local suppliers to adapt to sudden border closures or material shortages",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 80,
+        "question": "The ultimate goal of Industry 5.0 is to create a manufacturing industry that is:",
+        "options": [
+            "a) Faster than light",
+            "b) A driver of societal value and ecological preservation, not just economic profit",
+            "c) Completely run by AI",
+            "d) Based entirely in virtual reality"
+        ],
+        "answer": "b) A driver of societal value and ecological preservation, not just economic profit",
+        "explanation": "Industry 5.0 (Human-centric) focuses on the collaboration between humans and machines (Cobots), sustainability, and resilience."
+    },
+    {
+        "id": 81,
+        "question": "The fundamental principle of IoT is based on:",
+        "options": [
+            "a) Isolating devices to improve security",
+            "b) Connecting unique, physical \"things\" to the internet, allowing them to collect, share, and act on data without requiring human-to-human or human-to-computer interaction",
+            "c) Connecting computers only to other computers",
+            "d) Making physical objects invisible"
+        ],
+        "answer": "b) Connecting unique, physical \"things\" to the internet, allowing them to collect, share, and act on data without requiring human-to-human or human-to-computer interaction",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 82,
+        "question": "Which of the following is an essential feature of any IoT system?",
+        "options": [
+            "a) It must have a screen",
+            "b) Heterogeneity (the ability of diverse devices from different manufacturers to connect and work together)",
+            "c) It must be powered by a battery",
+            "d) It cannot use wireless technology"
+        ],
+        "answer": "b) Heterogeneity (the ability of diverse devices from different manufacturers to connect and work together)",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 83,
+        "question": "In an IoT system, what is the role of a \"Sensor\"?",
+        "options": [
+            "a) To move a physical object",
+            "b) To detect and measure changes in the physical environment (e.g., temperature, current, voltage) and convert them into digital data",
+            "c) To store large databases",
+            "d) To print reports"
+        ],
+        "answer": "b) To detect and measure changes in the physical environment (e.g., temperature, current, voltage) and convert them into digital data",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 84,
+        "question": "In an IoT system, what is the role of an \"Actuator\"?",
+        "options": [
+            "a) To measure humidity",
+            "b) To receive digital commands from the network and convert them into physical action (e.g., opening a valve, tripping a circuit breaker)",
+            "c) To connect to Wi-Fi",
+            "d) To encrypt data"
+        ],
+        "answer": "b) To receive digital commands from the network and convert them into physical action (e.g., opening a valve, tripping a circuit breaker)",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 85,
+        "question": "What does the feature of \"Dynamic Nature\" in IoT refer to?",
+        "options": [
+            "a) Devices physically moving around rapidly",
+            "b) The state of devices dynamically changing (e.g., sleeping, waking up, connected, disconnected) and the environment changing continuously",
+            "c) The fast speed of the processor",
+            "d) The changing color of the devices"
+        ],
+        "answer": "b) The state of devices dynamically changing (e.g., sleeping, waking up, connected, disconnected) and the environment changing continuously",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 86,
+        "question": "\"Scalability\" is a critical feature of IoT. This means:",
+        "options": [
+            "a) The system can weigh objects accurately",
+            "b) The network architecture can handle the massive addition of new devices and data volume without performance degradation",
+            "c) Devices can shrink in size",
+            "d) The network can only support 10 devices"
+        ],
+        "answer": "b) The network architecture can handle the massive addition of new devices and data volume without performance degradation",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 87,
+        "question": "How does an IoT device ensure it can be uniquely identified on the global network?",
+        "options": [
+            "a) By its physical color",
+            "b) By having a Unique Identity, typically an IP address or a specific MAC address",
+            "c) By its brand name",
+            "d) By the user's name"
+        ],
+        "answer": "b) By having a Unique Identity, typically an IP address or a specific MAC address",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 88,
+        "question": "Which of the following communication protocols is specifically designed to be extremely lightweight and ideal for resource-constrained IoT devices?",
+        "options": [
+            "a) HTTP",
+            "b) MQTT (Message Queuing Telemetry Transport)",
+            "c) FTP",
+            "d) SMTP"
+        ],
+        "answer": "b) MQTT (Message Queuing Telemetry Transport)",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 89,
+        "question": "What is \"Interconnectivity\" in IoT?",
+        "options": [
+            "a) Disconnecting from the grid",
+            "b) The principle that anything can be connected to the global information and communication infrastructure",
+            "c) Connecting wires manually",
+            "d) The physical soldering of components"
+        ],
+        "answer": "b) The principle that anything can be connected to the global information and communication infrastructure",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 90,
+        "question": "IoT devices are often described as having \"Self-Adapting\" features. What does this mean?",
+        "options": [
+            "a) They can fix their own broken hardware",
+            "b) They can dynamically adapt to changing contexts and take actions based on operating conditions (e.g., a smart camera lowering resolution when network bandwidth drops)",
+            "c) They can physically change their shape",
+            "d) They write their own operating systems from scratch"
+        ],
+        "answer": "b) They can dynamically adapt to changing contexts and take actions based on operating conditions (e.g., a smart camera lowering resolution when network bandwidth drops)",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 91,
+        "question": "Which component serves as a bridge between local IoT sensor networks (like Zigbee or Bluetooth) and the wider internet/cloud?",
+        "options": [
+            "a) An Actuator",
+            "b) An IoT Gateway",
+            "c) A physical wire",
+            "d) A monitor"
+        ],
+        "answer": "b) An IoT Gateway",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 92,
+        "question": "Because IoT networks handle massive amounts of sensitive data from physical environments, which feature must be inherently built into the architecture?",
+        "options": [
+            "a) Open access to all",
+            "b) Robust Security and Privacy measures (encryption, authentication)",
+            "c) Unencrypted data transfer for speed",
+            "d) Anonymous user profiles"
+        ],
+        "answer": "b) Robust Security and Privacy measures (encryption, authentication)",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 93,
+        "question": "What is the concept of \"Things-related services\" in IoT?",
+        "options": [
+            "a) Providing manual labor",
+            "b) IoT systems providing services within the constraints of things, such as privacy protection and semantic consistency between physical and virtual things",
+            "c) Selling physical hardware",
+            "d) Repairing broken screens"
+        ],
+        "answer": "b) IoT systems providing services within the constraints of things, such as privacy protection and semantic consistency between physical and virtual things",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 94,
+        "question": "The shift from IPv4 to IPv6 was highly critical for the expansion of IoT primarily because:",
+        "options": [
+            "a) IPv6 is faster",
+            "b) IPv6 provides a vastly larger pool of unique IP addresses, necessary to identify the billions of new IoT devices",
+            "c) IPv4 was illegal",
+            "d) IPv6 requires less power"
+        ],
+        "answer": "b) IPv6 provides a vastly larger pool of unique IP addresses, necessary to identify the billions of new IoT devices",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 95,
+        "question": "A network of temperature sensors, humidity sensors, and light sensors spread across a greenhouse, all sending data to a central cloud dashboard, relies on which IoT feature?",
+        "options": [
+            "a) Massive Scale / Enormous capacity",
+            "b) Isolation",
+            "c) Analog processing",
+            "d) Manual data entry"
+        ],
+        "answer": "a) Massive Scale / Enormous capacity",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 96,
+        "question": "How is IoT applied in \"Industrial Drives\" (e.g., Variable Frequency Drives)?",
+        "options": [
+            "a) To make the drives physically heavier",
+            "b) To continuously monitor operating parameters like RPM, temperature, and torque, sending data to the cloud for real-time efficiency optimization and predictive maintenance",
+            "c) To replace electrical motors with gas engines",
+            "d) To prevent the drive from changing speeds"
+        ],
+        "answer": "b) To continuously monitor operating parameters like RPM, temperature, and torque, sending data to the cloud for real-time efficiency optimization and predictive maintenance",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 97,
+        "question": "By attaching IoT vibration and acoustic sensors to a large industrial motor, an electrical engineer can:",
+        "options": [
+            "a) Make the motor louder",
+            "b) Detect the early stages of bearing wear or rotor imbalance long before a catastrophic failure occurs",
+            "c) Stop the motor from vibrating completely",
+            "d) Increase the voltage to the motor"
+        ],
+        "answer": "b) Detect the early stages of bearing wear or rotor imbalance long before a catastrophic failure occurs",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 98,
+        "question": "In Electrical Transmission Systems, what does \"Dynamic Line Rating\" (DLR) using IoT sensors achieve?",
+        "options": [
+            "a) It fixes a static maximum current limit forever",
+            "b) It uses real-time IoT sensors measuring ambient temperature, wind speed, and line tension (sag) to safely increase the power carrying capacity of transmission lines based on actual current weather conditions",
+            "c) It rates the aesthetic beauty of the transmission towers",
+            "d) It measures the speed of cars driving under the lines"
+        ],
+        "answer": "b) It uses real-time IoT sensors measuring ambient temperature, wind speed, and line tension (sag) to safely increase the power carrying capacity of transmission lines based on actual current weather conditions",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 99,
+        "question": "How can IoT sensors prevent power outages caused by transmission line \"sag\"?",
+        "options": [
+            "a) By holding the line up physically",
+            "b) By monitoring line temperature and tension in real-time, alerting operators to reduce the load before the hot line stretches and touches trees or the ground",
+            "c) By cutting the line when it gets hot",
+            "d) By freezing the line with coolant"
+        ],
+        "answer": "b) By monitoring line temperature and tension in real-time, alerting operators to reduce the load before the hot line stretches and touches trees or the ground",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 100,
+        "question": "IoT devices placed on transmission line insulators are used primarily to:",
+        "options": [
+            "a) Measure the weight of birds",
+            "b) Monitor leakage current and pollution accumulation, predicting flashovers and scheduling washing only when necessary",
+            "c) Generate electricity from the sun",
+            "d) Provide Wi-Fi to remote areas"
+        ],
+        "answer": "b) Monitor leakage current and pollution accumulation, predicting flashovers and scheduling washing only when necessary",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 101,
+        "question": "In an Electrical Distribution System, what is a \"Smart Meter\"?",
+        "options": [
+            "a) A meter that reads books",
+            "b) An IoT-enabled electrical meter that records consumption in real-time and communicates that data two-way back to the utility for monitoring and billing",
+            "c) A traditional analog spinning-disk meter",
+            "d) A meter that only measures water usage"
+        ],
+        "answer": "b) An IoT-enabled electrical meter that records consumption in real-time and communicates that data two-way back to the utility for monitoring and billing",
+        "explanation": "An IoT-enabled smart meter records electrical consumption in real-time and allows two-way communication with the utility."
+    },
+    {
+        "id": 102,
+        "question": "How does IoT improve \"Outage Management\" in distribution grids?",
+        "options": [
+            "a) By waiting for customers to call in by phone to report power losses",
+            "b) Smart meters and grid sensors automatically send \"last gasp\" signals when power is lost, allowing the utility to instantly pinpoint the exact location and scope of the outage",
+            "c) By causing more outages",
+            "d) By sending employees to visually inspect all lines every day"
+        ],
+        "answer": "b) Smart meters and grid sensors automatically send \"last gasp\" signals when power is lost, allowing the utility to instantly pinpoint the exact location and scope of the outage",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 103,
+        "question": "IoT applications in distribution systems can help detect \"Non-Technical Losses.\" What does this mean?",
+        "options": [
+            "a) Losses due to wire resistance",
+            "b) Losses due to electricity theft, meter tampering, or unbilled consumption, detected by analyzing discrepancies in current flow data",
+            "c) Losses due to transformers overheating",
+            "d) Losses due to bad weather"
+        ],
+        "answer": "b) Losses due to electricity theft, meter tampering, or unbilled consumption, detected by analyzing discrepancies in current flow data",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 104,
+        "question": "How is IoT used in \"Smart Illumination Systems\" (Smart Lighting)?",
+        "options": [
+            "a) To keep lights on at 100% brightness 24/7",
+            "b) To adjust lighting levels automatically based on real-time occupancy data, natural daylight availability, and time of day, saving massive amounts of energy",
+            "c) To replace LED bulbs with incandescent bulbs",
+            "d) To make the lights change colors randomly"
+        ],
+        "answer": "b) To adjust lighting levels automatically based on real-time occupancy data, natural daylight availability, and time of day, saving massive amounts of energy",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 105,
+        "question": "A smart street lighting system connected via an LPWAN (like LoRaWAN) can provide which major benefit to a city municipality?",
+        "options": [
+            "a) It increases the city's power bill",
+            "b) It allows for central monitoring of burnt-out bulbs, reducing manual patrols, and enables dimming the lights at 3 AM when traffic is zero",
+            "c) It makes the streets completely dark",
+            "d) It removes the need for electricity"
+        ],
+        "answer": "b) It allows for central monitoring of burnt-out bulbs, reducing manual patrols, and enables dimming the lights at 3 AM when traffic is zero",
+        "explanation": "The correct answer is 'It allows for central monitoring of burnt-out bulbs, reducing manual patrols, and enables dimming the lights at 3 AM when traffic is zero', which is a core concept of municipality? in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 106,
+        "question": "In Renewable Energy, how does IoT benefit a large-scale Solar Photovoltaic (PV) plant?",
+        "options": [
+            "a) By blocking the sun",
+            "b) By monitoring the voltage, current, and temperature of individual solar panels or strings to instantly identify underperforming panels obscured by dust or shade",
+            "c) By converting solar energy into coal",
+            "d) By tracking the movement of the moon"
+        ],
+        "answer": "b) By monitoring the voltage, current, and temperature of individual solar panels or strings to instantly identify underperforming panels obscured by dust or shade",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 107,
+        "question": "For Wind Energy systems, IoT sensors placed inside the nacelle of a wind turbine are crucial for:",
+        "options": [
+            "a) Determining the color of the turbine",
+            "b) Monitoring the vibration and lubrication of the complex gearbox, predicting mechanical failures, and avoiding immensely expensive offshore repair costs",
+            "c) Stopping the wind",
+            "d) Attracting birds"
+        ],
+        "answer": "b) Monitoring the vibration and lubrication of the complex gearbox, predicting mechanical failures, and avoiding immensely expensive offshore repair costs",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 108,
+        "question": "How does IoT help integrate Renewable Energy sources into the main power grid?",
+        "options": [
+            "a) It prevents them from connecting",
+            "b) By using IoT weather sensors and forecasting AI to predict solar/wind generation output for the next 24 hours, allowing grid operators to balance the base-load power plants accordingly",
+            "c) By making renewables completely unpredictable",
+            "d) By turning off the grid when the wind blows"
+        ],
+        "answer": "b) By using IoT weather sensors and forecasting AI to predict solar/wind generation output for the next 24 hours, allowing grid operators to balance the base-load power plants accordingly",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 109,
+        "question": "What is a \"Demand Response\" program enabled by IoT?",
+        "options": [
+            "a) The utility ignoring customer demands",
+            "b) The utility communicating with smart home IoT appliances (like smart thermostats or EV chargers) to automatically reduce their power consumption during peak grid load times to prevent blackouts",
+            "c) Customers demanding lower prices",
+            "d) Generating more power on demand"
+        ],
+        "answer": "b) The utility communicating with smart home IoT appliances (like smart thermostats or EV chargers) to automatically reduce their power consumption during peak grid load times to prevent blackouts",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 110,
+        "question": "An IoT-enabled \"Smart Transformer\" in a distribution network can:",
+        "options": [
+            "a) Transform into a robot",
+            "b) Continuously monitor its own oil temperature, load levels, and dissolved gases, alerting maintenance before it blows up",
+            "c) Step up voltage to infinite levels",
+            "d) Operate without any magnetic core"
+        ],
+        "answer": "b) Continuously monitor its own oil temperature, load levels, and dissolved gases, alerting maintenance before it blows up",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 111,
+        "question": "Which IoT communication protocol is widely used in home automation and smart illumination due to its low power and mesh networking capabilities?",
+        "options": [
+            "a) Fiber Optics",
+            "b) Zigbee",
+            "c) 5G mmWave",
+            "d) Ethernet"
+        ],
+        "answer": "b) Zigbee",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 112,
+        "question": "The concept of \"Daylight Harvesting\" in an IoT illumination system means:",
+        "options": [
+            "a) Capturing sunlight in jars",
+            "b) Using photosensors to measure natural light entering a room and automatically dimming the artificial LED lights to maintain a constant target light level, saving energy",
+            "c) Turning on all lights during the day",
+            "d) Blocking windows with smart blinds"
+        ],
+        "answer": "b) Using photosensors to measure natural light entering a room and automatically dimming the artificial LED lights to maintain a constant target light level, saving energy",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 113,
+        "question": "How do IoT-enabled Industrial Drives contribute to energy savings?",
+        "options": [
+            "a) By running motors at maximum speed constantly",
+            "b) By analyzing process data to optimize the Variable Frequency Drive (VF",
+            "c) By bypassing the VFD",
+            "d) speed, ensuring the motor only uses the exact amount of energy required for the current load"
+        ],
+        "answer": "b) By analyzing process data to optimize the Variable Frequency Drive (VF",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 114,
+        "question": "In transmission systems, IoT sensors measuring \"Aeolian vibrations\" are monitoring:",
+        "options": [
+            "a) Voltage spikes",
+            "b) High-frequency, low-amplitude wind-induced vibrations that can cause mechanical fatigue and snapping of the conductor cables over time",
+            "c) The temperature of the sun",
+            "d) The flow of reactive power"
+        ],
+        "answer": "b) High-frequency, low-amplitude wind-induced vibrations that can cause mechanical fatigue and snapping of the conductor cables over time",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 115,
+        "question": "A smart distribution grid uses IoT \"Fault Passage Indicators\" (FPIs). What is their function?",
+        "options": [
+            "a) To indicate where cars can pass",
+            "b) To detect short circuits or earth faults on the line and send the exact location to the SCADA system, drastically reducing the time it takes crews to find the fault",
+            "c) To measure the power factor",
+            "d) To indicate the direction of the wind"
+        ],
+        "answer": "b) To detect short circuits or earth faults on the line and send the exact location to the SCADA system, drastically reducing the time it takes crews to find the fault",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 116,
+        "question": "In the context of EV (Electric Vehicle) charging and Renewable Energy, what does \"V2G\" (Vehicle-to-Grid) enabled by IoT mean?",
+        "options": [
+            "a) Vehicles driving into the grid",
+            "b) An IoT system allowing parked EVs to discharge stored battery power back into the electrical grid during peak demand times, acting as distributed energy storage",
+            "c) The grid charging the vehicle",
+            "d) Vehicles communicating with other vehicles"
+        ],
+        "answer": "b) An IoT system allowing parked EVs to discharge stored battery power back into the electrical grid during peak demand times, acting as distributed energy storage",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 117,
+        "question": "What role does IoT play in managing \"Distributed Energy Resources\" (DERs) like rooftop solar and home batteries?",
+        "options": [
+            "a) It isolates them from the grid",
+            "b) It aggregates thousands of small DERs into a \"Virtual Power Plant\" (VPP) that can be monitored and controlled centrally by the utility to stabilize the grid",
+            "c) It prevents homeowners from generating power",
+            "d) It drains home batteries permanently"
+        ],
+        "answer": "b) It aggregates thousands of small DERs into a \"Virtual Power Plant\" (VPP) that can be monitored and controlled centrally by the utility to stabilize the grid",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 118,
+        "question": "Which aspect of an industrial induction motor is most commonly monitored by IoT sensors to predict insulation failure?",
+        "options": [
+            "a) The color of the casing",
+            "b) The operating temperature and leakage currents",
+            "c) The physical weight of the motor",
+            "d) The ambient light in the room"
+        ],
+        "answer": "b) The operating temperature and leakage currents",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 119,
+        "question": "A major challenge of implementing massive IoT networks in power distribution systems is:",
+        "options": [
+            "a) Lack of physical space on poles",
+            "b) Cybersecurity; preventing hackers from breaching smart meters or grid sensors to cause widespread blackouts",
+            "c) The sensors are too heavy",
+            "d) The meters do not use electricity"
+        ],
+        "answer": "b) Cybersecurity; preventing hackers from breaching smart meters or grid sensors to cause widespread blackouts",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 120,
+        "question": "In an IoT-based renewable energy microgrid, what ensures that the load is perfectly balanced with intermittent solar/wind generation?",
+        "options": [
+            "a) A human operator watching gauges 24/7",
+            "b) An automated IoT Energy Management System (EMS) that continually reads generation and load sensors and switches battery storage or backup generators on/off in real-time",
+            "c) A mechanical governor",
+            "d) A timer switch"
+        ],
+        "answer": "b) An automated IoT Energy Management System (EMS) that continually reads generation and load sensors and switches battery storage or backup generators on/off in real-time",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 121,
+        "question": "What is \"Condition-Based Maintenance\" (CBM) as facilitated by IoT in electrical systems?",
+        "options": [
+            "a) Repairing equipment only after it breaks",
+            "b) Maintaining equipment based on its actual, real-time physical condition (assessed via sensors) rather than a fixed calendar schedule",
+            "c) Maintaining equipment based on the weather condition outside",
+            "d) Never maintaining equipment"
+        ],
+        "answer": "b) Maintaining equipment based on its actual, real-time physical condition (assessed via sensors) rather than a fixed calendar schedule",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 122,
+        "question": "How do IoT smart streetlights improve public safety beyond just illumination?",
+        "options": [
+            "a) By acting as physical barriers",
+            "b) They can be equipped with integrated IoT sensors like environmental monitors, gunshot acoustic detectors, or emergency panic buttons",
+            "c) By making the poles electrified",
+            "d) By turning off when people approach"
+        ],
+        "answer": "b) They can be equipped with integrated IoT sensors like environmental monitors, gunshot acoustic detectors, or emergency panic buttons",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 123,
+        "question": "The integration of IoT in electrical transmission grids transforms a traditional grid into a:",
+        "options": [
+            "a) Dumb Grid",
+            "b) Smart Grid",
+            "c) Microgrid",
+            "d) Off-grid system"
+        ],
+        "answer": "b) Smart Grid",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 124,
+        "question": "When an IoT sensor on a distribution transformer detects a sudden, massive spike in dissolved hydrogen gas in the insulating oil, what does the cloud analytics system likely conclude?",
+        "options": [
+            "a) The transformer is operating perfectly",
+            "b) There is active internal arcing or a severe fault, and the transformer is at risk of imminent failure or explosion",
+            "c) The weather outside is raining",
+            "d) The transformer needs more oil"
+        ],
+        "answer": "b) There is active internal arcing or a severe fault, and the transformer is at risk of imminent failure or explosion",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 125,
+        "question": "Why is LPWAN (Low Power Wide Area Network) technology like NB-IoT highly suitable for reading smart meters in rural distribution networks?",
+        "options": [
+            "a) Because it has extreme high bandwidth for video",
+            "b) Because it provides very long-range coverage and deep penetration through buildings while consuming incredibly little battery power for small data packets",
+            "c) Because it uses satellite dishes",
+            "d) Because it is faster than 5G"
+        ],
+        "answer": "b) Because it provides very long-range coverage and deep penetration through buildings while consuming incredibly little battery power for small data packets",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 126,
+        "question": "An industrial plant uses IoT to monitor its \"Power Quality\". What exactly is being measured?",
+        "options": [
+            "a) The physical strength of the wires",
+            "b) Parameters like voltage sags, swells, harmonics, and power factor to ensure clean electricity that won't damage sensitive machinery",
+            "c) The cost of the electricity",
+            "d) The volume of water used"
+        ],
+        "answer": "b) Parameters like voltage sags, swells, harmonics, and power factor to ensure clean electricity that won't damage sensitive machinery",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 127,
+        "question": "In a smart home illumination system, what is the purpose of \"Geofencing\" using the user's smartphone IoT connection?",
+        "options": [
+            "a) Building a physical fence around the lights",
+            "b) Automatically turning the house lights on or off when the user's phone GPS crosses a virtual geographical boundary (e.g., leaving the neighborhood)",
+            "c) Changing the color of the lights based on music",
+            "d) Preventing neighbors from stealing light"
+        ],
+        "answer": "b) Automatically turning the house lights on or off when the user's phone GPS crosses a virtual geographical boundary (e.g., leaving the neighborhood)",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 128,
+        "question": "How does IoT aid in the maintenance of high-voltage transmission line right-of-ways?",
+        "options": [
+            "a) By watering the plants",
+            "b) By using satellite IoT imaging or drone-based LiDAR to monitor vegetation growth and predict when trees will dangerously encroach on the power lines",
+            "c) By physically chopping down trees with robotic arms",
+            "d) By preventing grass from growing"
+        ],
+        "answer": "b) By using satellite IoT imaging or drone-based LiDAR to monitor vegetation growth and predict when trees will dangerously encroach on the power lines",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 129,
+        "question": "What is a \"Phasor Measurement Unit\" (PMU) or Synchrophasor in an IoT-enabled smart grid?",
+        "options": [
+            "a) A device from Star Trek",
+            "b) An advanced grid sensor that measures voltage and current phasors with precise GPS time synchronization, giving grid operators a real-time, dynamic view of grid stability across vast distances",
+            "c) A meter that measures water flow",
+            "d) A device to measure light intensity"
+        ],
+        "answer": "b) An advanced grid sensor that measures voltage and current phasors with precise GPS time synchronization, giving grid operators a real-time, dynamic view of grid stability across vast distances",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 130,
+        "question": "How do IoT sensors help in the operation of Hydroelectric power plants?",
+        "options": [
+            "a) By creating rain",
+            "b) By monitoring water levels in the reservoir, dam structural integrity (strain gauges), and turbine vibration to optimize water release and power generation safely",
+            "c) By catching fish",
+            "d) By heating the water"
+        ],
+        "answer": "b) By monitoring water levels in the reservoir, dam structural integrity (strain gauges), and turbine vibration to optimize water release and power generation safely",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 131,
+        "question": "In the context of IoT data routing, what does \"Gateway to Cloud\" architecture look like for a smart factory?",
+        "options": [
+            "a) Bluetooth sensors connect directly to a server in another country",
+            "b) Hundreds of factory sensors use a local protocol (like Zigbee) to connect to a central factory Gateway, which then uses a strong secure internet connection (Ethernet/5G) to push aggregated data to AWS or Azure",
+            "c) The cloud connects to the gateway, which controls nothing",
+            "d) Sensors print data on paper, which is scanned to the cloud"
+        ],
+        "answer": "b) Hundreds of factory sensors use a local protocol (like Zigbee) to connect to a central factory Gateway, which then uses a strong secure internet connection (Ethernet/5G) to push aggregated data to AWS or Azure",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 132,
+        "question": "What major shift in the utility business model is driven by the deployment of IoT smart meters?",
+        "options": [
+            "a) Switching from electrical to gas power",
+            "b) Moving from estimated monthly billing requiring human meter readers, to exact real-time billing, Time-of-Use (TOU) pricing, and prepaid electricity plans",
+            "c) Providing electricity for free",
+            "d) Charging customers by the weight of their appliances"
+        ],
+        "answer": "b) Moving from estimated monthly billing requiring human meter readers, to exact real-time billing, Time-of-Use (TOU) pricing, and prepaid electricity plans",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 133,
+        "question": "When an industrial drive (VF",
+        "options": [
+            "a) They must fly to the factory to press buttons on the drive",
+            "b) They can securely log into the cloud platform from anywhere in the world to change the drive's operating parameters (like acceleration time or speed limits) without being physically present",
+            "c) They can physically move the drive using a joystick",
+            "d) is integrated with an IoT platform, technicians can perform \"Remote Parameterization\". This means:"
+        ],
+        "answer": "b) They can securely log into the cloud platform from anywhere in the world to change the drive's operating parameters (like acceleration time or speed limits) without being physically present",
+        "explanation": "The correct answer is 'They can securely log into the cloud platform from anywhere in the world to change the drive's operating parameters (like acceleration time or speed limits', which is a core concept of (VF in the ETE Unit 1 curriculum."
+    },
+    {
+        "id": 134,
+        "question": "How does IoT enable \"Peak Shaving\" in industrial electrical distribution?",
+        "options": [
+            "a) By cutting the top off of electrical poles",
+            "b) By monitoring real-time power consumption and automatically shedding non-critical loads (like large HVAC units or pumps) to keep the facility's total power draw below a costly peakdemand threshold",
+            "c) By increasing production during peak hours",
+            "d) By shaving metal parts on the assembly line"
+        ],
+        "answer": "b) By monitoring real-time power consumption and automatically shedding non-critical loads (like large HVAC units or pumps) to keep the facility's total power draw below a costly peakdemand threshold",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    },
+    {
+        "id": 135,
+        "question": "Ultimately, the application of IoT across generation, transmission, distribution, and consumption transforms the electrical grid from a one-way power delivery system into:",
+        "options": [
+            "a) A system that delivers water",
+            "b) A dynamic, two-way exchange of both power and real-time digital information",
+            "c) A one-way information network",
+            "d) A completely wireless power transmission system"
+        ],
+        "answer": "b) A dynamic, two-way exchange of both power and real-time digital information",
+        "explanation": "The Internet of Things (IoT) enables physical objects to connect and exchange data over the internet using sensors and actuators."
+    }
+]

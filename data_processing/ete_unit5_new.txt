@@ -1,0 +1,1075 @@
+Unit 5: Tariff and Smart Billing
+Topic 5.1: Tariff: Power Purchase, Power Purchase Agreements
+(PPA), Power Purchase Cost
+1. In the context of electrical engineering, what does the term "Tariff" mean?
+A) The physical wire connecting to a house
+B) The schedule of rates or charges framed by the utility for supplying electrical energy to
+various categories of consumers
+C) The speed at which power is generated
+D) A type of electrical transformer
+Answer: B
+2. What is a Power Purchase Agreement (PPA)?
+A) A contract between a consumer and an electrician
+B) A legally binding contract between an electricity generator (seller) and a power purchaser
+(buyer, usually a DISCOM)
+C) A permit to build a new house
+D) An agreement to stop using electricity
+Answer: B
+3. What are the two primary components typically included in the "Power Purchase Cost"
+under a standard long-term PPA?
+A) Solar charges and Wind charges
+B) Fixed (Capacity) Charges and Variable (Energy) Charges
+C) Transmission charges and Distribution charges
+D) Maintenance charges and Labor charges
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+4. In a PPA, what does the "Fixed Charge" or "Capacity Charge" cover?
+A) The cost of fuel burned
+B) The recovery of the generator's capital cost, debt service, return on equity, and fixed O&M
+costs, regardless of how much energy is dispatched
+C) The cost of transporting coal
+D) The customer's monthly bill
+Answer: B
+5. In a PPA, what does the "Variable Charge" or "Energy Charge" primarily cover?
+A) The cost of building the power plant
+B) The cost of the actual fuel consumed (e.g., coal, gas) to generate the electricity that is
+dispatched
+C) The salaries of the utility executives
+D) The cost of the land
+Answer: B
+6. Long-term Power Purchase Agreements (PPAs) typically have a duration of:
+A) 1 to 6 months
+B) 1 to 3 years
+C) 15 to 25 years
+D) 100 years
+Answer: C
+7. Why do DISCOMs (Distribution Companies) enter into long-term PPAs?
+A) To intentionally lose money
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) To ensure long-term energy security, price stability, and a guaranteed supply of power to
+meet future demand
+C) To avoid building smart grids
+D) Because the government forces them to buy from only one plant
+Answer: B
+8. What is the significance of the "Take-or-Pay" clause often found in traditional thermal
+PPAs?
+A) The buyer must take the electricity or pay a penalty/fixed charge even if they do not need the
+power
+B) The buyer can take electricity for free
+C) The generator must pay the buyer to take the electricity
+D) The generator can turn off the plant whenever they want
+Answer: A
+9. In India, who typically approves the Tariffs and PPAs between generators and
+DISCOMs to ensure fairness?
+A) The local police department
+B) The State or Central Electricity Regulatory Commissions (SERC/CERC)
+C) The Ministry of Finance
+D) The individual consumers
+Answer: B
+10. What is a "Merchant Power Plant"?
+A) A plant that only generates power for ships
+B) A power plant that does not have a long-term PPA and sells its electricity on the open shortterm spot market or power exchange
+C) A plant owned by a retail store
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) A plant that runs purely on batteries
+Answer: B
+11. How do Renewable Energy PPAs (like Solar or Wind) generally differ from traditional
+Thermal PPAs regarding tariff structure?
+A) They rely heavily on Variable Charges for fuel
+B) They typically have a single-part tariff (only paying for the actual units generated) because
+there is no fuel cost
+C) They only have Capacity Charges
+D) They are only signed for 1 year
+Answer: B
+12. When calculating Power Purchase Cost, what happens if the price of coal increases
+drastically during the term of a PPA?
+A) The generator goes bankrupt
+B) The Variable (Energy) Charge increases, often passed onto the consumer via a fuel surcharge
+C) The Fixed Charge increases
+D) The PPA is automatically canceled
+Answer: B
+13. What is an "Availability Factor" or "Plant Availability" in a PPA?
+A) How available the plant manager is for phone calls
+B) The percentage of time the power plant is ready and able to generate electricity; generators
+must maintain a high availability to earn their full Fixed Capacity Charges
+C) The amount of coal left in the mine
+D) The number of consumers connected to the grid
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+14. What does the term "Merit Order Dispatch" mean for a DISCOM managing multiple
+PPAs?
+A) Dispatching power based on the alphabetical order of the plant names
+B) Dispatching power by calling upon the cheapest available generators (lowest variable cost)
+first, and only using expensive plants when demand peaks
+C) Dispatching power based purely on which plant was built first
+D) Refusing to dispatch power to save money
+Answer: B
+15. Which cost usually forms the largest percentage of a DISCOM's total operating
+expenses?
+A) Employee salaries
+B) Office maintenance
+C) Power Purchase Cost (paying generators for electricity)
+D) Advertising
+Answer: C
+16. What is a "Virtual PPA" (VPPA)?
+A) A PPA signed in a video game
+B) A financial contract where power is not physically delivered to the buyer, but the buyer and
+seller exchange cash flows based on the difference between the market price and a fixed strike
+price
+C) A contract that is illegal in all countries
+D) A PPA that relies on imaginary power plants
+Answer: B
+17. Why is load forecasting critical for a DISCOM before signing a PPA?
+A) To predict the weather
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) To ensure they contract the correct amount of capacity so they do not suffer shortages or pay
+massive penalties for stranded (unused) capacity
+C) To decide what color to paint the utility trucks
+D) To predict stock market prices
+Answer: B
+18. What is the role of an "Escalation Clause" in a PPA?
+A) It forces the generator to build escalators
+B) It allows certain components of the tariff (like O&M costs) to increase annually based on
+inflation indices
+C) It cancels the contract if power demand falls
+D) It allows the buyer to escalate their demands
+Answer: B
+19. How does "Must-Run" status affect PPAs for renewable energy?
+A) Renewable plants must run around the track
+B) DISCOMs are obligated to absorb all power generated by renewables (solar/wind) whenever
+it is available, avoiding curtailment due to their zero marginal cost
+C) Renewable plants are only allowed to run at night
+D) It forces thermal plants to shut down permanently
+Answer: B
+20. What is "Levelized Tariff"?
+A) A tariff that charges everyone the exact same bill regardless of usage
+B) A single, constant tariff value calculated over the lifetime of the PPA that accounts for the
+time value of money, used to compare different power projects
+C) A tariff that fluctuates every hour
+D) A tariff only applied to flat, level ground
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+21. If a DISCOM buys power from the short-term market (Power Exchange) instead of a
+long-term PPA, what is the primary risk?
+A) The power might not be electrical
+B) Extreme price volatility; prices can spike massively during periods of high demand or coal
+shortages
+C) The power takes weeks to arrive
+D) The exchange only sells DC power
+Answer: B
+22. Which of the following best describes the "Two-Part Tariff" system in bulk power
+purchase?
+A) Paying once in the morning and once at night
+B) Charging a Fixed Cost based on capacity allocated and a Variable Cost based on actual
+energy scheduled and drawn
+C) Paying half in cash and half in stock
+D) Splitting the bill between two consumers
+Answer: B
+Topic 5.2: Tariff Design: Key Factors, Bill Components, Slabs,
+Duty, Tax, Cross Subsidy
+23. Which of the following is a primary objective of designing an electricity tariff?
+A) To make the bill as confusing as possible
+B) To ensure the recovery of the cost of producing and supplying electricity, plus a reasonable
+profit
+C) To discourage everyone from using electricity entirely
+D) To provide free electricity to industries
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+24. Which of the following is a "Key Factor" considered when designing an electricity
+tariff?
+A) The color of the consumer's house
+B) The paying capacity of different consumer categories (e.g., agricultural vs. industrial)
+C) The physical weight of the electrical appliances
+D) The political affiliation of the consumer
+Answer: B
+25. A well-designed tariff should be "Simple." What does this imply?
+A) It should only use one-digit numbers
+B) The tariff structure should be easily understandable to the ordinary consumer
+C) It should not involve any money
+D) The utility should guess the bill
+Answer: B
+26. In an electricity bill, what does the "Fixed Charge" (or Standing Charge) for a retail
+consumer represent?
+A) The charge for the actual units (kWh) consumed
+B) A flat monthly charge to cover the utility's fixed infrastructure costs (poles, wires, meters,
+billing), regardless of how much energy is used
+C) A tax paid directly to the central government
+D) A penalty for paying the bill late
+Answer: B
+27. What does the "Energy Charge" on an electricity bill represent?
+A) The cost of maintaining the meter
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) The charge directly proportional to the actual volume of electrical energy consumed,
+measured in kilowatt-hours (kWh) or units
+C) The tax on the electricity
+D) The cost to rent the transformer
+Answer: B
+28. For Industrial and large Commercial consumers, a "Maximum Demand Charge" is
+often levied. What is this based on?
+A) The total energy used over the entire month
+B) The highest peak power (kVA or kW) drawn by the consumer during a specific short interval
+(e.g., 15 or 30 minutes) within the billing cycle
+C) The number of employees in the factory
+D) The voltage of the incoming line
+Answer: B
+29. Why do utilities impose a "Maximum Demand Charge" on large consumers?
+A) Because they want to punish factories
+B) Because the utility must size its transformers and generation capacity to handle that massive
+peak demand, even if it only happens for 15 minutes a month
+C) To encourage factories to use more electricity at all times
+D) To replace the fixed charge
+Answer: B
+30. What is a "Block Rate Tariff" (or Telescopic/Slab Tariff) commonly used for
+residential consumers?
+A) Charging a flat rate for infinite units
+B) Dividing energy consumption into blocks (slabs), where the price per unit progressively
+increases as consumption enters higher blocks (e.g., first 100 units are cheap, next 100 are more
+expensive)
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Charging by the physical block of the neighborhood
+D) Decreasing the rate as consumption increases
+Answer: B
+31. The primary goal of using an increasing "Slab" billing system for residential
+consumers is to:
+A) Maximize energy waste
+B) Provide affordable lifeline power for basic needs while discouraging excessive consumption
+and promoting energy conservation
+C) Punish people with small houses
+D) Make billing calculation impossible
+Answer: B
+32. What is a "Power Factor Penalty" commonly found in industrial electricity bills?
+A) A penalty for using too much active power
+B) A financial surcharge applied if the consumer's power factor drops below a specified limit
+(e.g., 0.90), causing excessive reactive power burden on the grid
+C) A penalty for turning off motors
+D) A charge for using 3-phase power
+Answer: B
+33. Conversely, what is a "Power Factor Incentive"?
+A) A rebate given to consumers who consume zero power
+B) A discount given to industrial consumers who maintain a highly efficient power factor (e.g.,
+near 1.0) through capacitor banks, reducing grid losses
+C) A free smart meter
+D) A tax break from the government
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+34. What is "Cross Subsidy" in tariff design?
+A) When two utilities share the same poles
+B) The practice of charging higher tariffs to one group of consumers (e.g.,
+Industrial/Commercial) to intentionally offset the cost of providing cheaper, subsidized
+electricity to another group (e.g., Agricultural/Low-income Residential)
+C) When the government pays the entire bill for everyone
+D) Moving money across state borders
+Answer: B
+35. Why is "Cross Subsidy" often heavily debated and scrutinized by regulatory
+commissions?
+A) It makes electricity too cheap for factories
+B) While it helps poor farmers, it places a heavy financial burden on industries, making their
+products less globally competitive
+C) It causes transformers to blow up
+D) It violates the laws of physics
+Answer: B
+36. In a modern tariff design, what does ToD or ToU stand for?
+A) Time of Day / Time of Use
+B) Total Operating Demand / Tariff of Units
+C) Tax on Distribution / Tax on Usage
+D) Transfer of Data / Transfer of Units
+Answer: A
+37. How does a Time of Day (ToD) tariff work?
+A) The tariff changes randomly every hour
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Electricity rates vary depending on the time of day; rates are much higher during peak grid
+demand hours and lower during off-peak hours (like nighttime)
+C) Consumers are only allowed to use power during the day
+D) The bill is sent based on the time of day
+Answer: B
+38. The objective of a ToD (Time of Day) tariff is to:
+A) Ensure everyone uses electricity at exactly the same time
+B) Incentivize consumers to shift their heavy loads to off-peak hours, thereby flattening the
+"Duck Curve" and reducing the need for expensive peaking power plants
+C) Make solar panels obsolete
+D) Increase the maximum demand of the grid
+Answer: B
+39. What is "Electricity Duty" on a bill?
+A) The moral obligation to turn off lights
+B) A tax levied by the State Government on the consumption of electricity, usually calculated as
+a percentage of the energy charges or per unit
+C) A charge paid to the meter reader
+D) The cost of the physical meter
+Answer: B
+40. Are "Electricity Duty" and "Electricity Tariff" the same thing?
+A) Yes, they go to the exact same place
+B) No; the Tariff goes to the DISCOM to cover costs of supply, while the Duty is a tax that goes
+to the State Government revenue
+C) Yes, both are optional
+D) No, the duty is paid to the federal government only
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+41. What is the FAC (Fuel Adjustment Charge) or FPPCA (Fuel and Power Purchase Cost
+Adjustment) on an electricity bill?
+A) A charge for the gas in utility trucks
+B) A mechanism allowing the utility to recover the fluctuating, unforeseen increases in the cost
+of coal/gas from consumers without waiting for a full annual tariff review
+C) A charge for fueling the smart meter
+D) A discount for using fossil fuels
+Answer: B
+42. Which consumer category in India traditionally receives the highest amount of
+subsidized electricity (often free)?
+A) Heavy Manufacturing Industries
+B) Agriculture (for irrigation pumps)
+C) IT Parks and Data Centers
+D) Shopping Malls
+Answer: B
+43. What is a "Flat Rate Tariff"?
+A) A tariff applied only to flat apartments
+B) A tariff where different types of consumers (light vs. power) are charged at different single
+flat rates per unit, regardless of the amount consumed
+C) A tariff where the charge is based only on the connected load, not units consumed
+D) A tariff that is completely free
+Answer: B
+44. What is a "Two-Part Tariff"?
+A) A bill printed on two pieces of paper
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) A tariff split into a fixed charge (based on connected load or max demand) and a running
+charge (based on actual units consumed)
+C) A tariff paid by two different people
+D) A tariff only applied to 2-phase supply
+Answer: B
+45. If an industry improves its "Load Factor," how does this affect its electricity bill under
+a standard industrial tariff?
+A) The bill will skyrocket
+B) The bill will decrease or avoid penalties because the plant is utilizing its demanded capacity
+more efficiently and smoothly
+C) It has absolutely no effect
+D) The utility will cut off their power
+Answer: B
+46. What is a "Minimum Charge" in tariff design?
+A) The smallest coin you can use to pay
+B) A base amount the consumer must pay even if they consume zero units of electricity in a
+billing cycle, ensuring the utility recovers infrastructure maintenance costs
+C) A discount for using the minimum amount of power
+D) The charge for reading the meter
+Answer: B
+47. The "Cost of Supply" (CoS) calculation by a utility includes:
+A) Only the cost of coal
+B) Power purchase costs, transmission charges, distribution losses, employee salaries, and
+infrastructure depreciation
+C) Only the cost of the smart meters
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) Only the profit margin
+Answer: B
+48. Why do commercial establishments (like malls) usually have a much higher per-unit
+tariff than residential homes?
+A) Because malls use 120V power
+B) To execute Cross-Subsidy policies; commercial entities have higher paying capacity and are
+billed heavily to keep residential rates low
+C) Because malls generate their own power
+D) Because malls only operate at night
+Answer: B
+Topic 5.3: Smart Metering: Components, Working, Types, Features,
+Communication, Advantages, Challenges, Role in Grid
+49. What is a Smart Meter?
+A) An analog meter that looks modern
+B) An advanced electronic solid-state meter that records electrical consumption in intervals and
+features robust two-way communication with the utility
+C) A meter that generates electricity
+D) A meter that forces consumers to pay in cash
+Answer: B
+50. What is the fundamental difference between an AMR (Automated Meter Reading)
+system and an AMI (Advanced Metering Infrastructure) Smart Meter system?
+A) AMR uses physical wires; AMI uses Wi-Fi
+B) AMR provides one-way communication (utility collects reading); AMI provides true two-way
+communication (utility can collect data, send pricing signals, and remotely disconnect)
+C) AMR is digital; AMI is analog
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) There is no difference
+Answer: B
+51. Which of the following is a core hardware component inside a Smart Meter responsible
+for accurately measuring the current and voltage?
+A) Communication Module
+B) Metrology Chip / Measuring Engine
+C) LCD Display
+D) Lithium Battery
+Answer: B
+52. What role does the "Microcontroller" play inside a Smart Meter?
+A) It generates the electricity
+B) It acts as the brain, processing data from the metrology chip, storing data in memory,
+managing the display, and handling communication protocols
+C) It measures the physical weight of the meter
+D) It connects the high-voltage lines
+Answer: B
+53. To measure current, a single-phase residential smart meter most commonly utilizes
+which internal component?
+A) A massive step-up transformer
+B) A Shunt Resistor or a Current Transformer (CT)
+C) A mechanical spinning aluminum disc
+D) A voltmeter
+Answer: B
+54. What is the purpose of the "Real-Time Clock" (RTC) inside a Smart Meter?
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) To show the time of day to the consumer
+B) To accurately time-stamp the energy consumption data into specific intervals (e.g., 15
+minutes) for Time-of-Day (ToD) billing
+C) To wake up the consumer
+D) To measure the frequency of the grid
+Answer: B
+55. What is a "CT-Operated" Smart Meter?
+A) A meter used in Computed Tomography medical scanners
+B) A meter used for high-load industrial/commercial connections where the main current is too
+massive to pass directly through the meter, requiring a Current Transformer to step it down
+safely for measurement
+C) A meter that operates on Direct Current
+D) A purely mechanical meter
+Answer: B
+56. A "Prepaid" Smart Meter functions by:
+A) Disconnecting when the power goes out
+B) Allowing the consumer to "recharge" their meter balance via an app; the internal relay
+automatically disconnects power when the balance reaches zero
+C) Charging the consumer double at the end of the year
+D) Refusing to measure energy
+Answer: B
+57. Which of the following is a common "Communication Technology" used by Smart
+Meters to form a Neighborhood Area Network (NAN)?
+A) Bluetooth Only
+B) RF (Radio Frequency) Mesh or PLC (Power Line Carrier)
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Dial-up internet
+D) Fiber optics to every single meter
+Answer: B
+58. How does an "RF Mesh" communication network work in a smart metering
+deployment?
+A) Each meter must have a direct cable to the utility
+B) Meters communicate wirelessly with each other, hopping the data from meter to meter like a
+relay race until it reaches a central Data Concentrator Unit (DCU)
+C) Meters use lasers to communicate
+D) Meters do not communicate at all
+Answer: B
+59. What is PLC (Power Line Carrier) communication in smart metering?
+A) Using a dedicated telephone line
+B) Superimposing a high-frequency digital communication signal directly over the existing
+230V/415V AC electrical power cables to transmit data
+C) Using a cellular SIM card
+D) Using satellite dishes
+Answer: B
+60. For rural or highly isolated smart meters, which communication technology is often the
+most practical?
+A) Short-range RF Mesh
+B) Cellular / Mobile Networks (GPRS, 4G, NB-IoT) using a SIM card
+C) Fiber Optics
+D) Wi-Fi router
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+61. What does the "Load Profiling" feature of a Smart Meter do?
+A) It takes a picture of the appliances in the house
+B) It records and stores the average power demand at continuous fixed intervals (e.g., every 15
+mins) over a month, showing exactly when electricity is used
+C) It changes the voltage of the load
+D) It blocks heavy loads from turning on
+Answer: B
+62. A massive ADVANTAGE of smart meters for the Utility (DISCOM) is:
+A) They cost nothing to install
+B) Complete elimination of manual meter reading, drastically reducing labor costs and
+eliminating human billing errors
+C) The utility no longer has to generate power
+D) They prevent lightning strikes
+Answer: B
+63. How do smart meters help utilities detect "Electricity Theft" or tampering?
+A) By shocking the thief
+B) They have advanced tamper-detection features (cover open, magnetic interference, neutral
+missing) that instantly send an alarm to the utility control center
+C) By recording a video of the thief
+D) They cannot detect theft
+Answer: B
+64. What is the "Remote Connect/Disconnect" feature of a Smart Meter?
+A) The ability to cut off or restore power to a customer instantly from the control room
+B) An internal latching relay that allows the utility to cut off or restore power to a customer
+instantly from the control room (e.g., for non-payment or moving out)
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) A feature that turns off the internet
+D) A physical switch on the outside of the box
+Answer: B
+65. How do Smart Meters benefit the Consumer?
+A) They make electricity completely free
+B) They provide access to real-time consumption data via web portals/apps, enabling consumers
+to track usage and reduce waste, and eliminating estimated billing
+C) They increase the voltage to the house
+D) They hide the bill until the end of the year
+Answer: B
+66. Which of the following is a major CHALLENGE in the widespread deployment of
+Smart Meters?
+A) They are too quiet
+B) High initial capital expenditure (CAPEX) for millions of meters, communication networks,
+and IT infrastructure
+C) They cannot measure AC power
+D) They are illegal
+Answer: B
+67. Cybersecurity is a significant challenge for AMI because:
+A) The meters don't use passwords
+B) The two-way communication network creates millions of potential entry points for hackers to
+steal private data or execute a mass remote disconnect attack on a city
+C) Hackers can steal the physical electricity
+D) The meters use too much Wi-Fi
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+68. What is the "Data Privacy" concern associated with Smart Meters?
+A) The utility knows what TV show you are watching
+B) High-resolution load profile data can theoretically be analyzed to deduce a consumer's daily
+habits, sleep schedules, and occupancy, raising privacy fears
+C) The meter broadcasts your name to the street
+D) The meter records audio
+Answer: B
+69. In the overall Smart Grid system, what role does the Smart Meter play?
+A) It acts as the main power generator
+B) It acts as the fundamental "edge sensor," providing the granular, real-time visibility and
+control required to balance distributed generation, demand response, and outage management
+C) It replaces the distribution transformer
+D) It serves as a decorative light
+Answer: B
+70. How do Smart Meters improve "Outage Management"?
+A) By causing blackouts
+B) When power is lost, the meter uses a supercapacitor to send a final "Last Gasp" message to
+the utility, allowing precise, instant mapping of the outage without waiting for customer phone
+calls
+C) By turning on a backup generator inside the meter
+D) By glowing red
+Answer: B
+71. In AMI architecture, what is the role of the MDMS (Meter Data Management System)?
+A) A mechanical gear inside the meter
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) The massive centralized enterprise software that receives, validates, stores, and analyzes the
+millions of data points from smart meters before sending it to the billing software
+C) The physical truck that drives around to read meters
+D) A smartphone app
+Answer: B
+72. What is "Interoperability" in the context of Smart Metering challenges?
+A) The ability of the meter to work without power
+B) The challenge of ensuring that smart meters from multiple different vendors can all
+communicate seamlessly on the same utility network and MDMS
+C) The ability of the meter to measure water and gas
+D) The ability to run backward
+Answer: B
+73. What is an "In-Home Display" (IHD) in relation to smart meters?
+A) A television provided by the utility
+B) A small screen inside the house that connects locally to the smart meter (often via Zigbee) to
+show the consumer their real-time power usage and current tariff rate
+C) The LCD screen on the meter outside
+D) A projection on the wall
+Answer: B
+74. The communication architecture of AMI is typically divided into HAN, NAN, and
+WAN. What does WAN stand for?
+A) Wide Area Network (e.g., Cellular backhaul connecting the Data Concentrator to the Utility
+Data Center)
+B) Wireless Area Node
+C) Wired Access Network
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) Wattage Analysis Node
+Answer: A
+75. What feature allows a smart meter to remain accurate even after a power outage?
+A) A diesel generator
+B) Non-volatile memory (NVM) storing the cumulative kWh reading and a battery-backed RealTime Clock
+C) The utility resets it to zero
+D) A mechanical spring
+Answer: B
+76. Smart meters enable "Demand Response" programs by:
+A) Ignoring consumer demand
+B) Sending real-time pricing signals to the meter/home, incentivizing the consumer (or
+automating smart appliances) to lower consumption during peak grid stress
+C) Increasing the voltage to appliances
+D) Forcing consumers to generate their own power
+Answer: B
+77. The "Metrology Chip" inside a smart meter relies on high-speed ________ to calculate
+power.
+A) Analog gears
+B) Analog-to-Digital Converters (ADCs) simultaneously sampling voltage and current
+waveforms thousands of times per second to compute active and reactive power
+C) Mechanical springs
+D) Water pressure sensors
+Answer: B
+78. A Three-Phase Smart Meter is typically used for:
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) Small studio apartments
+B) Large residential homes, commercial buildings, or small industries requiring 415V threephase supply
+C) Charging cell phones
+D) Single-phase water pumps
+Answer: B
+79. How do Smart Meters assist in identifying "Non-Technical Losses" (AT&C losses)?
+A) By breaking down
+B) By allowing utilities to accurately compare the total energy supplied by a distribution
+transformer against the exact sum of energy billed by all smart meters connected to it, isolating
+areas with high theft
+C) By lowering the voltage
+D) By disconnecting everyone
+Answer: B
+80. What is "Firmware Over-The-Air" (FOTA) in smart metering?
+A) Upgrading the physical plastic casing
+B) The ability of the utility to remotely push software updates to the smart meters to add
+features, fix bugs, or update security, without sending a technician
+C) Transmitting electricity through the air
+D) Changing the meter into a radio
+Answer: B
+Topic 5.4: Metering and Bill Management: Net Metering, Gross
+Metering, MERC Rules, Integration of Micro-generators
+81. What is "Net Metering"?
+A) A system where the consumer pays for internet usage
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) A billing mechanism that credits solar energy system owners for the electricity they add to the
+grid, charging them only for the "net" energy consumed (Import - Export)
+C) A meter that captures fish in a net
+D) A system where all generated power is wasted
+Answer: B
+82. What is "Gross Metering"?
+A) A billing system where the meter smells bad
+B) A billing mechanism where ALL electricity generated by the rooftop solar is exported and
+sold to the utility at a specific tariff, and ALL electricity consumed by the house is imported and
+billed separately at the retail tariff
+C) A system where the consumer pays for gross errors
+D) Measuring the total physical weight of the meter
+Answer: B
+83. To implement Net Metering, what specific hardware is strictly required?
+A) Two separate analog meters
+B) A Bi-directional Smart/Electronic Meter capable of recording both imported energy (from
+grid) and exported energy (to grid) in separate registers
+C) A standard uni-directional meter
+D) A water meter
+Answer: B
+84. In Net Metering, if a consumer exports 300 units to the grid and imports 200 units from
+the grid in a month, what are they billed for regarding energy consumption?
+A) Billed for 200 units
+B) Billed for zero units, and 100 units are "banked" (carried forward as a credit to the next billing
+cycle)
+C) Billed for 500 units
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) The grid shuts off
+Answer: B
+85. What does MERC stand for in the context of Maharashtra's electricity regulations?
+A) Mumbai Electrical Rating Commission
+B) Maharashtra Electricity Regulatory Commission
+C) Metropolitan Energy Rules Committee
+D) Maharashtra Energy and Resource Council
+Answer: B
+86. According to standard MERC rules for Net Metering, how are unadjusted banked units
+typically settled at the end of the financial year?
+A) They are carried forward infinitely
+B) The utility purchases the surplus banked units from the prosumer at a pre-determined, lower
+tariff (often the Average Power Purchase Cost), and the bank is reset to zero
+C) They are deleted without compensation
+D) The prosumer must pay a penalty
+Answer: B
+87. Under Net Metering regulations, what is the typical limitation on the capacity of the
+rooftop solar system a consumer can install?
+A) There is no limit
+B) It is usually capped at 100% of the consumer's "Sanctioned Load" or "Contract Demand" to
+prevent overloading the local grid
+C) Exactly 1000 kW for everyone
+D) Only 1 kW maximum
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+88. Why do DISCOMs generally prefer Gross Metering over Net Metering for high-tariff
+commercial consumers?
+A) It uses fewer meters
+B) Net metering causes the DISCOM to lose their highest-paying retail revenue, as the consumer
+offsets expensive units with their own solar; Gross metering forces them to still buy at the high
+retail rate
+C) Gross metering is better for the environment
+D) Net metering causes grid blackouts
+Answer: B
+89. What is a "Micro-generator" in the context of grid integration?
+A) A tiny battery
+B) A small-scale decentralized energy source, like a residential rooftop solar PV system or small
+wind turbine, usually below 1 MW
+C) A generator that only powers microscopes
+D) A nuclear reactor
+Answer: B
+90. MERC rules often place a limit on the cumulative capacity of all net-metered solar
+systems connected to a single Distribution Transformer (DTR). Why?
+A) To make the transformer look better
+B) To prevent voltage rise, reverse power flow overloads, and grid instability at the local
+distribution level (e.g., capping total solar to 70% or 100% of DTR capacity)
+C) To force people to buy more transformers
+D) Solar power melts transformers instantly
+Answer: B
+91. Under Net Metering, does the consumer still have to pay "Fixed Charges"?
+A) No, solar panels eliminate fixed charges
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Yes, the consumer is still connected to the grid and must pay the monthly fixed demand
+charge, even if their net energy consumption is zero
+C) Only if they consume power at night
+D) The utility pays the fixed charge to the consumer
+Answer: B
+92. For integrating a micro-generator (Solar PV) to the grid, what device ensures the DC
+power from the panels is converted to grid-synchronized AC power?
+A) The Smart Meter
+B) The Grid-Tied Inverter
+C) The Transformer
+D) The Junction Box
+Answer: B
+93. What is the "Banking Cycle" in Net Metering regulations?
+A) The time it takes for a bank to clear a check
+B) The accounting period (usually April to March) over which a prosumer can carry forward
+surplus exported energy units to offset future consumption
+C) The physical spinning of the meter
+D) A 24-hour cycle
+Answer: B
+94. If a residential consumer installs a grid-tied solar system without batteries under a Net
+Metering agreement, what happens during a utility power blackout?
+A) The house runs perfectly on solar
+B) The grid-tied inverter automatically shuts down (Anti-Islanding) to protect line workers, so
+the house loses power despite the sun shining
+C) The solar panels explode
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) The meter runs backward rapidly
+Answer: B
+95. A major application of Net Metering is promoting "Prosumers". A prosumer acts as:
+A) A pure consumer
+B) Both a producer and a consumer of electricity
+C) A utility executive
+D) An energy auditor
+Answer: B
+96. According to recent regulatory amendments in various Indian states, Net Metering is
+sometimes restricted to residential/agricultural consumers, while commercial/industrial
+consumers are mandated to use:
+A) No metering
+B) Gross Metering or Net Billing
+C) Analog meters only
+D) Mechanical generators
+Answer: B
+97. What is "Net Billing" (or Net Feed-in)?
+A) A hybrid model where the exported energy is monetized at a lower feed-in tariff immediately
+and deducted from the monetary value of imported energy at retail rate, rather than doing a 1:1
+unit offset like Net Metering
+B) A bill sent over the internet
+C) Billing based on the net weight of the meter
+D) A system where the consumer pays for everything twice
+Answer: A
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+98. Why must an existing uni-directional analog meter be replaced when a rooftop solar
+system is installed?
+A) Because analog meters are ugly
+B) Because a uni-directional meter cannot differentiate between import and export, and might
+actually charge the consumer for the power they are exporting to the grid
+C) Because solar power burns analog meters
+D) Because analog meters spin too fast
+Answer: B
+99. In the context of billing, what is a "Provisional Bill"?
+A) A bill that provides provisions (food)
+B) An estimated bill issued by the utility when the actual meter reading cannot be obtained for
+that month due to communication failure or a locked door
+C) A bill for a new connection
+D) A bill that is paid in advance for 10 years
+Answer: B
+100. How does Net Metering economically benefit the prosumer?
+A) It increases their taxes
+B) It slashes their monthly electricity bill by offsetting expensive grid imports with free solar
+energy, accelerating the Return on Investment (ROI) of the solar plant
+C) It guarantees they will win the lottery
+D) It removes all maintenance costs
+Answer: B
+101. What does the "Import Register" on a Bi-directional meter record?
+A) Energy pushed into the grid from solar
+B) Energy drawn from the utility grid to power the house
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) The total energy generated by the solar panels
+D) The reactive power only
+Answer: B
+102. What does the "Export Register" on a Bi-directional meter record?
+A) Energy drawn from the grid
+B) Surplus solar energy pushed into the utility grid
+C) Energy consumed by the house
+D) Maximum demand from the grid
+Answer: B
+103. If a solar inverter produces 15 units a day, the house consumes 10 units during the
+day, and 5 units at night. Assuming no battery, what does the Net Meter record for that
+day?
+A) Import: 15, Export: 15
+B) Export: 5 units (during day), Import: 5 units (at night). Net = 0.
+C) Import: 10, Export: 0
+D) Export: 10, Import: 10
+Answer: B
+104. Which billing mechanism strongly incentivizes a consumer to consume their own solar
+power instantly rather than exporting it?
+A) Net Metering
+B) Gross Metering or Net Billing (where export rates are much lower than retail import rates)
+C) Unmetered supply
+D) Flat rate billing
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+105. Under MERC regulations, a Net Metering application requires the approval and
+technical feasibility clearance from:
+A) The local mayor
+B) The respective Distribution Licensee (DISCOM)
+C) The Supreme Court
+D) The solar panel manufacturer
+Answer: B
+106. A "Solar Generation Meter" is sometimes installed alongside the Bi-directional Net
+Meter. What is its purpose?
+A) To measure water flow
+B) To purely measure the total gross generation of the solar inverter for subsidy calculations or
+RPO accounting, regardless of house consumption
+C) To replace the net meter
+D) To block solar power
+Answer: B
+107. Which component protects the micro-generator and the grid from severe voltage and
+frequency fluctuations at the Point of Common Coupling?
+A) The solar panels
+B) The Grid-Tied Inverter's built-in protection relays (Under/Over Voltage, Under/Over
+Frequency)
+C) The mounting structure
+D) The DC cables
+Answer: B
+108. Net metering promotes the integration of micro-generators, which helps the utility by:
+A) Overloading the transmission lines
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Generating power close to the load, reducing transmission & distribution (T&D) losses and
+shaving daytime peak demand
+C) Making the grid completely unstable
+D) Forcing the utility to buy more coal
+Answer: B
+109. What is a "Wheeling Charge"?
+A) The cost to buy wheels for a utility truck
+B) A fee charged by the transmission/distribution network operator for the use of their lines to
+transport electricity from a generator to a consumer
+C) A charge for using a smart meter
+D) The cost of solar panels
+Answer: B
+110. In some states, if a rooftop solar system is purely for captive use under Net Metering,
+the government waives which charges?
+A) Fixed capacity charges
+B) Wheeling charges and cross-subsidy surcharges
+C) All electricity bills forever
+D) The cost of the solar panels
+Answer: B
+Topic 5.5: Meter Reading Techniques: MRI/AMR, Deep Learning
+Models, Communication Methods
+111. What does AMR stand for in meter reading techniques?
+A) Automated Mechanical Reader
+B) Automated Meter Reading
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Advanced Meter Reset
+D) Analog Measurement Ratio
+Answer: B
+112. What does MRI stand for in traditional digital meter reading?
+A) Magnetic Resonance Imaging
+B) Meter Reading Instrument
+C) Manual Recording Interface
+D) Microprocessor Relay Indicator
+Answer: B
+113. How is an MRI (Meter Reading Instrument) or HHU (Hand-Held Unit) typically used
+by a meter reader?
+A) They take a photograph of the meter from their car
+B) They walk to the meter and physically connect the MRI device to the meter's optical port to
+securely download the billing and tamper data
+C) The MRI reads the meter via satellite
+D) The MRI forces the consumer to read the meter
+Answer: B
+114. The transition from Manual Reading (clipboard and pen) to MRI/HHU reading
+eliminated what major problem?
+A) The need for electricity
+B) Human data entry errors (punching mistakes) and "table reading" (guessing the reading
+without visiting)
+C) The need for a meter
+D) The cost of power generation
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+115. While MRI improved accuracy, it is still considered "Walk-by" technology. AMR
+improves this by:
+A) Making the meter reader walk faster
+B) Using communication modules (like RF or Cellular) to transmit the meter data to the utility
+remotely, eliminating the need to physically visit the meter
+C) Using a drone to look at the meter
+D) Making the consumer mail the meter to the utility
+Answer: B
+116. In AMR, what is a "Drive-by" system?
+A) Cars driving over the meter
+B) A meter reader drives a vehicle equipped with an RF receiver through a neighborhood,
+wirelessly collecting data from all AMR meters within a short radius
+C) A system where the consumer drives to the utility
+D) Reading the meter from a fast-moving train
+Answer: B
+117. How does Deep Learning assist in modern meter reading techniques?
+A) It teaches the meter to speak English
+B) Utilizing Optical Character Recognition (OCR) and Convolutional Neural Networks (CNNs)
+to automatically extract accurate digit readings from photographs of older analog/digital meters
+submitted by consumers via an app
+C) It predicts the weather for the meter reader
+D) It changes the physical numbers on the meter
+Answer: B
+118. Which deep learning architecture is incredibly powerful for image processing and is
+widely used for reading meter dials from images?
+A) RNN (Recurrent Neural Network)
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) CNN (Convolutional Neural Network)
+C) GAN (Generative Adversarial Network)
+D) Linear Regression
+Answer: B
+119. A utility launches an app where a consumer snaps a photo of their old analog meter to
+generate a bill. What AI technology converts the image of the numbers '12345' into actual
+digital text data?
+A) Natural Language Processing (NLP)
+B) Optical Character Recognition (OCR) powered by Deep Learning
+C) Speech to Text
+D) Blockchain
+Answer: B
+120. How can Deep Learning models be used to detect meter tampering or electricity theft
+(Non-Technical Losses)?
+A) By shocking the thief
+B) By analyzing millions of historical load profiles to identify anomalous consumption patterns
+(e.g., sudden unexplained drops in usage) that strongly indicate a bypassed meter
+C) By installing cameras in people's bedrooms
+D) By turning off all power to the city
+Answer: B
+121. In an AMR system, what is the function of a Data Concentrator Unit (DCU)?
+A) It makes the data physically heavier
+B) It aggregates the wireless data from hundreds of local RF meters in a neighborhood and sends
+it in one large batch over a Cellular/WAN network to the utility
+C) It concentrates power to blow up the meters
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) It encrypts the power lines
+Answer: B
+122. Which communication method for AMR involves sending data over the existing 230V
+AC distribution lines?
+A) RF Mesh
+B) PLC (Power Line Carrier)
+C) GPRS / Cellular
+D) Bluetooth
+Answer: B
+123. What is a major disadvantage of using PLC (Power Line Carrier) communication for
+AMR in India?
+A) It is too fast
+B) High noise, signal attenuation, and the fact that signals cannot easily pass through distribution
+transformers without expensive bypass equipment
+C) It requires building new telephone lines
+D) It causes the power grid to become radioactive
+Answer: B
+124. For industrial bulk consumers, AMR systems almost exclusively use which
+communication method for reliable, direct point-to-point remote reading?
+A) Short-range Bluetooth
+B) Cellular modems (GPRS/3G/4G) installed directly inside the meter
+C) Dial-up modems
+D) Walk-by RF
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+125. When training a Deep Learning model to read meters (OCR), what is the "Training
+Dataset"?
+A) The electrical power used to train
+B) Thousands of manually labeled images of different meters showing various numbers, glare,
+and angles, teaching the neural network how to recognize digits in the real world
+C) A textbook about electricity
+D) A list of customer names
+Answer: B
+126. An AMR system is "One-Way." This means:
+A) It can only read current, not voltage
+B) The meter sends reading data to the utility, but the utility cannot send commands (like remote
+disconnect or firmware updates) back to the meter
+C) It only works on one-way streets
+D) It only records exported power
+Answer: B
+127. Why are utilities integrating Deep Learning into their Meter Data Management
+Systems (MDMS)?
+A) To make the software run slower
+B) To perform advanced "Load Forecasting" by finding complex correlations between historical
+consumption, weather patterns, and holidays
+C) To play chess against the grid operator
+D) To delete customer data efficiently
+Answer: B
+128. What is the "Optical Port" on an electronic energy meter?
+A) A camera that watches the consumer
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) A standardized infrared port (often IEC 1107 or ANSI) on the face of the meter used to
+magnetically attach an MRI probe for secure, fast, contactless local data download
+C) A hole to look inside the meter
+D) A laser weapon
+Answer: B
+129. If a smart meter uses "NB-IoT" for communication, what does this refer to?
+A) No Bandwidth Internet of Things
+B) Narrowband IoT; a low-power wide-area cellular network technology designed specifically
+for devices that send small amounts of data and require long battery life/deep indoor penetration
+C) National Broadcasting IoT
+D) Negative Byte IoT
+Answer: B
+130. What is "Spot Billing"?
+A) Billing a customer who has spots on their shirt
+B) A process where the meter reader uses an MRI/HHU and a portable Bluetooth thermal printer
+to download the reading, calculate the tariff, and hand the printed bill to the consumer instantly
+on the spot
+C) Billing a customer based on the spot price of coal
+D) Sending a bill through the mail 3 months late
+Answer: B
+131. Deep learning anomaly detection can identify a "Meter Swap" fraud. What does this
+entail?
+A) A consumer trading meters with their neighbor
+B) A consumer replacing the utility meter with a fake or slower meter during the month and
+swapping the real one back just before the reading date
+C) The utility upgrading the meter for free
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) Swapping an electric meter for a water meter
+Answer: B
+132. Which of the following limits the accuracy of Deep Learning OCR for photo-based
+meter reading?
+A) The AI reads too fast
+B) Poor image quality due to dirty meter glass, severe sun glare, dark environments, or blurred
+photos submitted by the user
+C) The AI cannot do mathematics
+D) The meter does not use electricity
+Answer: B
+133. What is the overarching benefit of moving from manual reading to AMR/AMI
+combined with AI analytics?
+A) It drastically increases human error
+B) Massive reduction in operational costs (OPEX), near 100% billing accuracy, immediate fraud
+detection, and the foundation for a truly dynamic Smart Grid
+C) It requires the utility to hire thousands of new meter readers
+D) It makes billing completely random
+Answer: B
+134. In an RF Mesh AMR network, what happens if one meter's radio breaks?
+A) The entire city loses power
+B) Because it is a "Mesh," the surrounding meters automatically find a new routing path to send
+their data around the broken node to the Data Concentrator
+C) The utility shuts down permanently
+D) The meter explodes
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+135. Time-of-Use (ToU) billing is practically impossible to implement accurately without:
+A) Guessing the usage
+B) MRI, AMR, or AMI systems that can download the time-stamped interval "Load Profile"
+data, rather than just a single monthly cumulative reading
+C) A purely mechanical spinning disk meter
+D) Hiring someone to watch the meter 24/7
+Answer: B

@@ -1,0 +1,1610 @@
+[
+    {
+        "id": 1,
+        "question": "What is the fundamental difference between a traditional power grid and a Smart Grid?",
+        "options": [
+            "a) A traditional grid uses renewable energy; a smart grid uses coal.",
+            "b) A traditional grid has one-way power and information flow; a smart grid enables two-way power and information flow.",
+            "c) A traditional grid uses digital meters; a smart grid uses analog meters.",
+            "d) A smart grid completely eliminates the need for transmission lines."
+        ],
+        "answer": "b) A traditional grid has one-way power and information flow; a smart grid enables two-way power and information flow.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 2,
+        "question": "Which of the following is a primary \"Need\" for transitioning to a Smart Grid?",
+        "options": [
+            "a) To increase the use of fossil fuels.",
+            "b) To integrate large-scale renewable energy and improve grid reliability.",
+            "c) To decrease communication between utilities and consumers.",
+            "d) To increase Aggregate Technical & Commercial (AT&"
+        ],
+        "answer": "b) To integrate large-scale renewable energy and improve grid reliability.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 3,
+        "question": "The evolution of the Smart Grid is heavily driven by the integration of:",
+        "options": [
+            "a) Steam-powered turbines.",
+            "b) Analog communication systems.",
+            "c) Information and Communication Technology (ICT) and digitalization.",
+            "d) Mechanical relays."
+        ],
+        "answer": "c) Information and Communication Technology (ICT) and digitalization.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 4,
+        "question": "Which component acts as the primary interface between the consumer and the utility in a Smart Grid?",
+        "options": [
+            "a) The distribution transformer",
+            "b) The Smart Meter",
+            "c) The steam turbine",
+            "d) The high-voltage transmission tower"
+        ],
+        "answer": "b) The Smart Meter",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 5,
+        "question": "What is the function of a Phasor Measurement Unit (PMU) in a Smart Grid?",
+        "options": [
+            "a) To measure water flow in a hydro plant.",
+            "b) To measure voltage and current phasors with precise GPS time synchronization for real-time grid monitoring.",
+            "c) To disconnect residential homes during peak hours.",
+            "d) To convert AC power to DC power."
+        ],
+        "answer": "b) To measure voltage and current phasors with precise GPS time synchronization for real-time grid monitoring.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 6,
+        "question": "Which of the following is an essential component of the Smart Grid communication layout?",
+        "options": [
+            "a) Wooden poles",
+            "b) Advanced Metering Infrastructure (AMI)",
+            "c) Coal conveyor belts",
+            "d) Manual ledger books"
+        ],
+        "answer": "b) Advanced Metering Infrastructure (AMI)",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 7,
+        "question": "In a Smart Grid layout, the \"Home Area Network\" (HAN) is primarily located:",
+        "options": [
+            "a) At the utility's central control room.",
+            "b) At the generation power plant.",
+            "c) Inside the consumer's premises connecting smart appliances to the smart meter.",
+            "d) At the high-voltage substation."
+        ],
+        "answer": "c) Inside the consumer's premises connecting smart appliances to the smart meter.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 8,
+        "question": "What does AMI stand for in Smart Grid architecture?",
+        "options": [
+            "a) Advanced Metering Infrastructure",
+            "b) Automated Mechanical Integration",
+            "c) Analog Measurement Interface",
+            "d) Alternative Maintenance Instruction"
+        ],
+        "answer": "a) Advanced Metering Infrastructure",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 9,
+        "question": "Which of the following is a major advantage of a Smart Grid?",
+        "options": [
+            "a) \"Self-healing\" capability to automatically detect and isolate faults.",
+            "b) Higher operational and maintenance costs over the long term.",
+            "c) Inability to support electric vehicles.",
+            "d) Strict reliance on centralized coal generation."
+        ],
+        "answer": "a) \"Self-healing\" capability to automatically detect and isolate faults.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 10,
+        "question": "How does a Smart Grid empower consumers?",
+        "options": [
+            "a) By limiting their electricity usage to exactly 100 units a month.",
+            "b) By providing real-time data on consumption and dynamic pricing, allowing them to adjust usage and save money.",
+            "c) By removing their power meters.",
+            "d) By forcing them to generate their own power entirely."
+        ],
+        "answer": "b) By providing real-time data on consumption and dynamic pricing, allowing them to adjust usage and save money.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 11,
+        "question": "Which of the following represents a significant \"Barrier\" to Smart Grid implementation?",
+        "options": [
+            "a) Reduction in carbon emissions.",
+            "b) Improved system reliability.",
+            "c) High initial capital costs and massive infrastructure overhaul requirements.",
+            "d) Easier integration of solar power."
+        ],
+        "answer": "c) High initial capital costs and massive infrastructure overhaul requirements.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 12,
+        "question": "Cybersecurity is considered a major barrier to Smart Grid adoption because:",
+        "options": [
+            "a) The grid does not use the internet.",
+            "b) Hackers cannot access physical wires.",
+            "c) Massive digital interconnectivity increases the vulnerability of the power network to cyberattacks.",
+            "d) Passwords are too difficult for operators to remember."
+        ],
+        "answer": "c) Massive digital interconnectivity increases the vulnerability of the power network to cyberattacks.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 13,
+        "question": "What does \"Interoperability\" mean as a barrier in Smart Grid deployment?",
+        "options": [
+            "a) The ability of power lines to carry water.",
+            "b) The challenge of getting hardware and software from different vendors to communicate and work together seamlessly.",
+            "c) The physical distance between substations.",
+            "d) The inability of solar panels to work at night."
+        ],
+        "answer": "b) The challenge of getting hardware and software from different vendors to communicate and work together seamlessly.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 14,
+        "question": "In India, which mission was launched to accelerate the deployment of smart grids across the country?",
+        "options": [
+            "a) National Solar Mission",
+            "b) National Smart Grid Mission (NSGM)",
+            "c) Make in India",
+            "d) Digital India Power Initiative"
+        ],
+        "answer": "b) National Smart Grid Mission (NSGM)",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 15,
+        "question": "A key objective of Smart Grid pilot projects in India is to:",
+        "options": [
+            "a) Increase Aggregate Technical & Commercial (AT&",
+            "b) Prove the viability of reducing AT&C losses and managing peak demand through technology.",
+            "c) losses.",
+            "d) Shut down all rural electrification."
+        ],
+        "answer": "b) Prove the viability of reducing AT&C losses and managing peak demand through technology.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 16,
+        "question": "Which Indian scheme aimed at the financial turnaround of power distribution companies (DISCOMs) relies heavily on smart metering?",
+        "options": [
+            "a) UDAY (Ujwal DISCOM Assurance Yojana)",
+            "b) PM-KUSUM",
+            "c) Swachh Bharat",
+            "d) MGNREGA"
+        ],
+        "answer": "a) UDAY (Ujwal DISCOM Assurance Yojana)",
+        "explanation": "The correct answer is 'UDAY (Ujwal DISCOM Assurance Yojana)', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 17,
+        "question": "\"Peak Shaving\" is an advantage of Smart Grids. What does it mean?",
+        "options": [
+            "a) Cutting the top of transmission poles to make them shorter.",
+            "b) Reducing electricity consumption during maximum demand periods to avoid stressing the grid.",
+            "c) Increasing power output during the night.",
+            "d) Shaving the physical copper wires to save material."
+        ],
+        "answer": "b) Reducing electricity consumption during maximum demand periods to avoid stressing the grid.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 18,
+        "question": "A traditional grid is typically \"Electromechanical.\" A Smart Grid is \"________.\"",
+        "options": [
+            "a) Analog",
+            "b) Digital",
+            "c) Pneumatic",
+            "d) Hydraulic"
+        ],
+        "answer": "b) Digital",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 19,
+        "question": "Which technology allows a Smart Grid to quickly restore power after an outage by rerouting electricity?",
+        "options": [
+            "a) Manual switching",
+            "b) Outage Management System (OMS) with automated Fault Location, Isolation, and Service Restoration (FLISR)",
+            "c) Slower spinning reserve",
+            "d) Analog relays"
+        ],
+        "answer": "b) Outage Management System (OMS) with automated Fault Location, Isolation, and Service Restoration (FLISR)",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 20,
+        "question": "Smart grids facilitate \"Demand Response\" programs. What does this mean?",
+        "options": [
+            "a) The utility demands that consumers stop using electricity permanently.",
+            "b) Consumers adjust their power demand dynamically in response to utility signals or price changes.",
+            "c) The grid demands more coal from the mines.",
+            "d) The utility refuses to respond to customer complaints."
+        ],
+        "answer": "b) Consumers adjust their power demand dynamically in response to utility signals or price changes.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 21,
+        "question": "A Smart Grid layout includes the integration of Wide Area Measurement Systems (WAMS). WAMS relies primarily on:",
+        "options": [
+            "a) Analog voltmeters",
+            "b) Phasor Measurement Units (PMUs)",
+            "c) Water pressure sensors",
+            "d) Human observers"
+        ],
+        "answer": "b) Phasor Measurement Units (PMUs)",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 22,
+        "question": "Which layer of the Smart Grid architecture is responsible for physical power flow?",
+        "options": [
+            "a) Application Layer",
+            "b) Communication Layer",
+            "c) Power System (Physical) Layer",
+            "d) IT/Enterprise Layer"
+        ],
+        "answer": "c) Power System (Physical) Layer",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 23,
+        "question": "Smart Grid pilot projects in India often focus on integrating which type of energy at the distribution level?",
+        "options": [
+            "a) Nuclear",
+            "b) Geothermal",
+            "c) Distributed Solar Rooftop PV",
+            "d) Large-scale Hydroelectric"
+        ],
+        "answer": "c) Distributed Solar Rooftop PV",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 24,
+        "question": "The concept of \"Time-of-Use\" (TOU) pricing in a Smart Grid is designed to:",
+        "options": [
+            "a) Charge a flat rate regardless of when power is used.",
+            "b) Encourage consumers to shift heavy loads to off-peak hours by offering cheaper rates during those times.",
+            "c) Charge consumers based on the time they spend reading their bill.",
+            "d) Penalize users for having smart meters."
+        ],
+        "answer": "b) Encourage consumers to shift heavy loads to off-peak hours by offering cheaper rates during those times.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 25,
+        "question": "What is a Micro-Grid?",
+        "options": [
+            "a) A microscopic power plant.",
+            "b) A localized group of electricity sources and loads that normally operates connected to the main grid but can disconnect to function autonomously.",
+            "c) A grid that only supplies power to a single microwave oven.",
+            "d) A nationwide high-voltage transmission network."
+        ],
+        "answer": "b) A localized group of electricity sources and loads that normally operates connected to the main grid but can disconnect to function autonomously.",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 26,
+        "question": "The ability of a Micro-Grid to disconnect from the main grid and operate independently during a blackout is called:",
+        "options": [
+            "a) Grid-locking",
+            "b) Islanding",
+            "c) Synchronization",
+            "d) Short-circuiting"
+        ],
+        "answer": "b) Islanding",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 27,
+        "question": "What is the point at which a Micro-Grid connects to the main utility grid?",
+        "options": [
+            "a) Point of Common Coupling (PC",
+            "b) Point of No Return (PNR)",
+            "c) ",
+            "d) Central Breaker Hub (CBH)"
+        ],
+        "answer": "a) Point of Common Coupling (PC",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 28,
+        "question": "Which of the following is a primary \"Need\" for forming a Micro-Grid?",
+        "options": [
+            "a) To increase reliance on distant, centralized fossil fuel plants.",
+            "b) To provide highly reliable, uninterrupted power to critical facilities like hospitals or military bases.",
+            "c) To increase transmission line losses.",
+            "d) To completely replace the national grid."
+        ],
+        "answer": "b) To provide highly reliable, uninterrupted power to critical facilities like hospitals or military bases.",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 29,
+        "question": "In rural or remote areas, what is the main driver for forming a Micro-Grid?",
+        "options": [
+            "a) Aesthetic reasons",
+            "b) It is too expensive and impractical to extend the main high-voltage transmission grid to isolated locations.",
+            "c) To power electric trains",
+            "d) To increase cybersecurity risks"
+        ],
+        "answer": "b) It is too expensive and impractical to extend the main high-voltage transmission grid to isolated locations.",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 30,
+        "question": "What is a crucial component required for the formation of a stable Micro-Grid?",
+        "options": [
+            "a) A local power generation source (like solar panels or diesel generators)",
+            "b) A nationwide transmission line",
+            "c) A nuclear reactor",
+            "d) A 500kV transformer"
+        ],
+        "answer": "a) A local power generation source (like solar panels or diesel generators)",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 31,
+        "question": "Because renewable sources like solar and wind are intermittent, what component is vital in a Micro-Grid to ensure continuous power?",
+        "options": [
+            "a) Analog meters",
+            "b) Energy Storage Systems (e.g., Battery banks)",
+            "c) Long transmission lines",
+            "d) Coal storage bins"
+        ],
+        "answer": "b) Energy Storage Systems (e.g., Battery banks)",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 32,
+        "question": "The \"Micro-Grid Controller\" is responsible for:",
+        "options": [
+            "a) Controlling the weather.",
+            "b) Managing the generation, storage, and loads to maintain local voltage and frequency, especially during islanded operation.",
+            "c) Spinning the turbine blades physically.",
+            "d) Reading the utility bills."
+        ],
+        "answer": "b) Managing the generation, storage, and loads to maintain local voltage and frequency, especially during islanded operation.",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 33,
+        "question": "When a Micro-Grid reconnects to the main grid after an outage, it must undergo a process called:",
+        "options": [
+            "a) Desalination",
+            "b) Synchronization (matching voltage, frequency, and phase angle)",
+            "c) Islanding",
+            "d) Rectification"
+        ],
+        "answer": "b) Synchronization (matching voltage, frequency, and phase angle)",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 34,
+        "question": "A Micro-Grid that operates entirely on Direct Current is called a:",
+        "options": [
+            "a) AC Micro-Grid",
+            "b) DC Micro-Grid",
+            "c) Hybrid Micro-Grid",
+            "d) RF Micro-Grid"
+        ],
+        "answer": "b) DC Micro-Grid",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 35,
+        "question": "Why are DC Micro-Grids gaining popularity?",
+        "options": [
+            "a) Because AC power is illegal.",
+            "b) Many modern distributed resources (Solar PV) and loads (LEDs, electronics, EV chargers) operate natively on DC, eliminating conversion losses.",
+            "c) DC power can travel further on high-voltage lines.",
+            "d) DC generators are the only ones available."
+        ],
+        "answer": "b) Many modern distributed resources (Solar PV) and loads (LEDs, electronics, EV chargers) operate natively on DC, eliminating conversion losses.",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 36,
+        "question": "A system that integrates both AC and DC buses to serve both types of loads without excessive conversions is a:",
+        "options": [
+            "a) Pure AC Micro-Grid",
+            "b) Pure DC Micro-Grid",
+            "c) Hybrid AC/DC Micro-Grid",
+            "d) Transmission Micro-Grid"
+        ],
+        "answer": "c) Hybrid AC/DC Micro-Grid",
+        "explanation": "The correct answer is 'Hybrid AC/DC Micro-Grid', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 37,
+        "question": "In an islanded Micro-Grid, what happens if the local generation cannot meet the local demand?",
+        "options": [
+            "a) The grid explodes.",
+            "b) The Micro-Grid controller must perform \"Load Shedding\" by turning off non-critical loads to prevent a blackout.",
+            "c) It draws power from the air.",
+            "d) The frequency increases dramatically."
+        ],
+        "answer": "b) The Micro-Grid controller must perform \"Load Shedding\" by turning off non-critical loads to prevent a blackout.",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 38,
+        "question": "Which control strategy is often used in Micro-Grids to allow multiple inverters to share the load without communication links?",
+        "options": [
+            "a) Master-Slave control",
+            "b) Droop control",
+            "c) Centralized dispatch",
+            "d) Proportional-Integral-Derivative (PI"
+        ],
+        "answer": "b) Droop control",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 39,
+        "question": "Forming a Micro-Grid improves \"Power Quality\" locally by:",
+        "options": [
+            "a) Increasing voltage sags and harmonics.",
+            "b) Isolating sensitive local loads from voltage fluctuations and disturbances occurring on the main utility grid.",
+            "c) Removing all filters from the inverters.",
+            "d) Disconnecting all energy storage."
+        ],
+        "answer": "b) Isolating sensitive local loads from voltage fluctuations and disturbances occurring on the main utility grid.",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 40,
+        "question": "A university campus that generates its own solar power, stores it in batteries, and can run completely independently if the city grid fails is an example of a:",
+        "options": [
+            "a) Macro-Grid",
+            "b) Micro-Grid",
+            "c) Smart Meter",
+            "d) Centralized Plant"
+        ],
+        "answer": "b) Micro-Grid",
+        "explanation": "The correct answer is 'Micro-Grid', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 41,
+        "question": "The transition from Grid-Connected mode to Island mode must be executed by the static switch at the:",
+        "options": [
+            "a) Smart Meter",
+            "b) Inverter output",
+            "c) Point of Common Coupling (PC",
+            "d) Battery terminal"
+        ],
+        "answer": "c) Point of Common Coupling (PC",
+        "explanation": "The correct answer is 'Point of Common Coupling (PC', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 42,
+        "question": "Which of the following makes the protection of Micro-Grids challenging?",
+        "options": [
+            "a) There is no electricity in a Micro-Grid.",
+            "b) Fault currents in islanded mode (supplied by inverters) are much smaller than when connected to the main grid, making it hard for traditional relays to detect faults.",
+            "c) Micro-Grids only use extremely high voltages.",
+            "d) Circuit breakers are banned in Micro-Grids."
+        ],
+        "answer": "b) Fault currents in islanded mode (supplied by inverters) are much smaller than when connected to the main grid, making it hard for traditional relays to detect faults.",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 43,
+        "question": "What does DER stand for in power systems?",
+        "options": [
+            "a) Direct Energy Routing",
+            "b) Distributed Energy Resources",
+            "c) Digital Electrical Relays",
+            "d) Disconnected Energy Reservoirs"
+        ],
+        "answer": "b) Distributed Energy Resources",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 44,
+        "question": "Where are Distributed Energy Resources typically located?",
+        "options": [
+            "a) At centralized, gigawatt-scale power plants far from cities.",
+            "b) At the transmission level (400kV and above).",
+            "c) Close to the load centers at the distribution level or on customer premises.",
+            "d) Exclusively underground."
+        ],
+        "answer": "c) Close to the load centers at the distribution level or on customer premises.",
+        "explanation": "The correct answer is 'Close to the load centers at the distribution level or on customer premises.', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 45,
+        "question": "Which of the following is an example of a Distributed Generation (DG) technology?",
+        "options": [
+            "a) A 1000 MW Nuclear Power Plant",
+            "b) A Rooftop Solar Photovoltaic (PV) system",
+            "c) A massive 500kV transformer",
+            "d) A long-distance HVDC transmission line"
+        ],
+        "answer": "b) A Rooftop Solar Photovoltaic (PV) system",
+        "explanation": "The correct answer is 'A Rooftop Solar Photovoltaic (PV', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 46,
+        "question": "Which technology converts chemical energy directly into electrical energy without combustion, commonly used as a clean DER?",
+        "options": [
+            "a) Microturbine",
+            "b) Wind turbine",
+            "c) Fuel Cell",
+            "d) Diesel generator"
+        ],
+        "answer": "c) Fuel Cell",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 47,
+        "question": "A system that generates both electricity and useful thermal heat from the same fuel source locally is called:",
+        "options": [
+            "a) Combined Heat and Power (CHP) / Cogeneration",
+            "b) A Solar PV Array",
+            "c) A Wind Farm",
+            "d) A Hydroelectric Dam"
+        ],
+        "answer": "a) Combined Heat and Power (CHP) / Cogeneration",
+        "explanation": "The correct answer is 'Combined Heat and Power (CHP', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 48,
+        "question": "What is the major advantage of a CHP (Cogeneration) distributed system?",
+        "options": [
+            "a) It wastes 80% of its energy as heat.",
+            "b) It drastically increases overall energy efficiency by utilizing the waste heat that would normally be lost in a traditional power plant.",
+            "c) It requires no fuel.",
+            "d) It only produces heat, no electricity."
+        ],
+        "answer": "b) It drastically increases overall energy efficiency by utilizing the waste heat that would normally be lost in a traditional power plant.",
+        "explanation": "Combined Heat and Power (CHP) or Cogeneration simultaneously generates electricity and useful heat from the same fuel source, improving efficiency."
+    },
+    {
+        "id": 49,
+        "question": "Which DER technology relies on aerodynamic lift to spin a rotor and generate electricity locally?",
+        "options": [
+            "a) Fuel cell",
+            "b) Solar PV",
+            "c) Small-scale Wind Turbine",
+            "d) Microturbine"
+        ],
+        "answer": "c) Small-scale Wind Turbine",
+        "explanation": "Advanced Metering Infrastructure (AMI) is a two-way communication system between a smart meter and the utility company."
+    },
+    {
+        "id": 50,
+        "question": "Which of the following is considered an Energy Storage DER?",
+        "options": [
+            "a) A diesel generator",
+            "b) A Battery Energy Storage System (BESS)",
+            "c) A solar panel",
+            "d) A smart meter"
+        ],
+        "answer": "b) A Battery Energy Storage System (BESS)",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 51,
+        "question": "Because Solar PV and Fuel Cells generate Direct Current (D",
+        "options": [
+            "a) A Rectifier",
+            "b) An Inverter",
+            "c) , what device is absolutely necessary to connect them to standard AC distribution grids?",
+            "d) A Capacitor"
+        ],
+        "answer": "b) An Inverter",
+        "explanation": "The correct answer is 'An Inverter', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 52,
+        "question": "What is a \"Microturbine\"?",
+        "options": [
+            "a) A massive steam turbine.",
+            "b) A small combustion turbine (typically 25kW to 500kW) used for distributed generation, often running on natural gas or biogas.",
+            "c) A turbine driven by a river.",
+            "d) A turbine used inside a jet engine."
+        ],
+        "answer": "b) A small combustion turbine (typically 25kW to 500kW) used for distributed generation, often running on natural gas or biogas.",
+        "explanation": "The correct answer is 'A small combustion turbine (typically 25kW to 500kW', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 53,
+        "question": "A consumer who both consumes electricity from the grid and produces electricity (e.g., via rooftop solar) to send back to the grid is called a:",
+        "options": [
+            "a) Consumer",
+            "b) Producer",
+            "c) Prosumer",
+            "d) Distributor"
+        ],
+        "answer": "c) Prosumer",
+        "explanation": "The correct answer is 'Prosumer', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 54,
+        "question": "Which DER technology uses a spinning mass to store kinetic energy and release it quickly for grid stabilization?",
+        "options": [
+            "a) Battery Energy Storage",
+            "b) Flywheel Energy Storage",
+            "c) Pumped Hydro",
+            "d) Supercapacitor"
+        ],
+        "answer": "b) Flywheel Energy Storage",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 55,
+        "question": "Traditional distribution grids were designed for one-way power flow. The high penetration of DERs causes:",
+        "options": [
+            "a) Zero power flow.",
+            "b) Two-way (bidirectional) power flow.",
+            "c) The wires to melt instantly.",
+            "d) Power to travel at the speed of sound."
+        ],
+        "answer": "b) Two-way (bidirectional) power flow.",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 56,
+        "question": "What is \"Anti-islanding\" protection in a grid-tied solar inverter?",
+        "options": [
+            "a) A feature that forces the inverter to shut down if the main grid loses power, preventing the inverter from shocking utility workers fixing the lines.",
+            "b) A feature that forces the inverter to keep running during a blackout.",
+            "c) A feature that prevents the solar panels from getting wet.",
+            "d) A feature that creates an island."
+        ],
+        "answer": "a) A feature that forces the inverter to shut down if the main grid loses power, preventing the inverter from shocking utility workers fixing the lines.",
+        "explanation": "Islanding is the ability of a microgrid to disconnect from the main utility grid and continue to provide power locally during an outage."
+    },
+    {
+        "id": 57,
+        "question": "Integrating Battery Energy Storage Systems (BESS) with Solar PV DERs helps to solve what major problem?",
+        "options": [
+            "a) The high cost of copper.",
+            "b) The intermittency of solar power (storing excess power during the day to use at night or during clouds).",
+            "c) The visual appearance of solar panels.",
+            "d) The weight of the roof."
+        ],
+        "answer": "b) The intermittency of solar power (storing excess power during the day to use at night or during clouds).",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 58,
+        "question": "Which of the following is NOT typically considered a Distributed Energy Resource (DER)?",
+        "options": [
+            "a) Rooftop Solar PV",
+            "b) Large-scale offshore oil rig",
+            "c) Residential Battery Bank",
+            "d) Small wind turbine"
+        ],
+        "answer": "b) Large-scale offshore oil rig",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 59,
+        "question": "Biomass generators are considered a type of DER. What fuel do they use?",
+        "options": [
+            "a) Uranium",
+            "b) Direct sunlight",
+            "c) Organic matter (agricultural waste, wood pellets, biogas)",
+            "d) Flowing water"
+        ],
+        "answer": "c) Organic matter (agricultural waste, wood pellets, biogas)",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 60,
+        "question": "The increasing adoption of DERs leads to a shift from a \"Centralized\" power system architecture to a \"_________\" architecture.",
+        "options": [
+            "a) Disconnected",
+            "b) Decentralized",
+            "c) Singular",
+            "d) Analog"
+        ],
+        "answer": "b) Decentralized",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 61,
+        "question": "What is the primary role of Distributed Generation (DG) in reducing Transmission and Distribution (T&",
+        "options": [
+            "a) DG increases the current on transmission lines.",
+            "b) DG generates power close to where it is consumed, meaning the electricity does not have to travel long distances over lossy transmission lines.",
+            "c) DG uses thicker wires.",
+            "d) losses?"
+        ],
+        "answer": "b) DG generates power close to where it is consumed, meaning the electricity does not have to travel long distances over lossy transmission lines.",
+        "explanation": "The correct answer is 'DG generates power close to where it is consumed, meaning the electricity does not have to travel long distances over lossy transmission lines.', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 62,
+        "question": "How does Distributed Generation contribute to \"Peak Shaving\"?",
+        "options": [
+            "a) By turning off all generation during peak hours.",
+            "b) By supplying local power during hours of highest demand, thereby reducing the peak load burden on the main utility grid.",
+            "c) By increasing the voltage of the grid.",
+            "d) By forcing consumers to use more power."
+        ],
+        "answer": "b) By supplying local power during hours of highest demand, thereby reducing the peak load burden on the main utility grid.",
+        "explanation": "Peak shaving involves reducing electricity consumption during maximum demand periods to lower costs and reduce stress on the grid."
+    },
+    {
+        "id": 63,
+        "question": "In a Micro-Grid, the Role of Distributed Generation is primarily to:",
+        "options": [
+            "a) Send power to another continent.",
+            "b) Act as the primary source of electrical power for the local loads, especially when islanded from the main grid.",
+            "c) Act solely as a backup for the utility's computer systems.",
+            "d) Consume excess power."
+        ],
+        "answer": "b) Act as the primary source of electrical power for the local loads, especially when islanded from the main grid.",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 64,
+        "question": "How can DG improve the \"Voltage Profile\" of a distribution feeder?",
+        "options": [
+            "a) By dropping the voltage to zero.",
+            "b) By injecting active and reactive power locally near the end of a long feeder line, preventing voltage drops (sag) that normally occur far from the substation.",
+            "c) By causing massive voltage spikes.",
+            "d) DG has no effect on voltage."
+        ],
+        "answer": "b) By injecting active and reactive power locally near the end of a long feeder line, preventing voltage drops (sag) that normally occur far from the substation.",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 65,
+        "question": "What is an \"Ancillary Service\" provided by advanced DG inverters to a Smart Grid?",
+        "options": [
+            "a) Customer billing",
+            "b) Reactive power support and frequency regulation to maintain grid stability",
+            "c) Installing physical poles",
+            "d) Providing internet access"
+        ],
+        "answer": "b) Reactive power support and frequency regulation to maintain grid stability",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 66,
+        "question": "The presence of significant Distributed Generation can lead to the \"deferral of grid upgrades.\" What does this mean?",
+        "options": [
+            "a) The utility stops maintaining the grid entirely.",
+            "b) Because DG reduces the load on transformers and lines, the utility can delay or avoid spending millions on upgrading physical grid infrastructure to handle higher capacities.",
+            "c) The utility must upgrade the grid immediately.",
+            "d) The grid is replaced by wireless power."
+        ],
+        "answer": "b) Because DG reduces the load on transformers and lines, the utility can delay or avoid spending millions on upgrading physical grid infrastructure to handle higher capacities.",
+        "explanation": "The correct answer is 'Because DG reduces the load on transformers and lines, the utility can delay or avoid spending millions on upgrading physical grid infrastructure to handle higher capacities.', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 67,
+        "question": "In a Smart Grid, how does renewable DG impact energy security?",
+        "options": [
+            "a) It decreases energy security by relying on imported fuels.",
+            "b) It enhances energy security by diversifying the energy mix and utilizing local, inexhaustible resources (like sun and wind).",
+            "c) It makes the grid highly insecure physically.",
+            "d) It makes energy totally reliant on a single power plant."
+        ],
+        "answer": "b) It enhances energy security by diversifying the energy mix and utilizing local, inexhaustible resources (like sun and wind).",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 68,
+        "question": "What role does DG play in the \"Black Start\" of a Micro-Grid?",
+        "options": [
+            "a) It turns the lights off to save power.",
+            "b) Certain DG units (like battery storage or diesel gensets) can provide the initial voltage and power to restart the local grid after a total blackout without relying on the main utility.",
+            "c) It paints the equipment black.",
+            "d) It starts the system during the night."
+        ],
+        "answer": "b) Certain DG units (like battery storage or diesel gensets) can provide the initial voltage and power to restart the local grid after a total blackout without relying on the main utility.",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 69,
+        "question": "A major challenge of connecting DG to the Smart Grid is \"Voltage Rise.\" Why does this happen?",
+        "options": [
+            "a) DG units steal voltage from the grid.",
+            "b) If local DG produces more power than local loads consume, the reverse power flow pushes the voltage up at the end of the distribution feeder.",
+            "c) The wires shrink when DG is connected.",
+            "d) Inverters always output 1000 Volts."
+        ],
+        "answer": "b) If local DG produces more power than local loads consume, the reverse power flow pushes the voltage up at the end of the distribution feeder.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 70,
+        "question": "What is the role of DG in enhancing \"Grid Resiliency\"?",
+        "options": [
+            "a) Making the grid wires more rigid.",
+            "b) By providing localized power, DG allows critical infrastructure (hospitals, military) to keep running during extreme weather events that knock out the main grid.",
+            "c) By shutting down during storms.",
+            "d) By increasing the chances of a blackout."
+        ],
+        "answer": "b) By providing localized power, DG allows critical infrastructure (hospitals, military) to keep running during extreme weather events that knock out the main grid.",
+        "explanation": "The correct answer is 'By providing localized power, DG allows critical infrastructure (hospitals, military', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 71,
+        "question": "How does the integration of solar and wind DG support environmental goals in a Smart Grid?",
+        "options": [
+            "a) By increasing carbon emissions.",
+            "b) By displacing generation from centralized fossil-fuel power plants, directly reducing greenhouse gas emissions and carbon footprints.",
+            "c) By generating large amounts of toxic waste.",
+            "d) By requiring massive deforestation."
+        ],
+        "answer": "b) By displacing generation from centralized fossil-fuel power plants, directly reducing greenhouse gas emissions and carbon footprints.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 72,
+        "question": "Without a Smart Grid's advanced communication, what is the main problem with a high penetration of DG?",
+        "options": [
+            "a) The grid operator is \"blind\" to the fluctuating power being injected by thousands of unmonitored local generators, causing stability issues.",
+            "b) The generators will explode.",
+            "c) The wires will change color.",
+            "d) The power will become analog."
+        ],
+        "answer": "a) The grid operator is \"blind\" to the fluctuating power being injected by thousands of unmonitored local generators, causing stability issues.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 73,
+        "question": "In terms of line congestion, DG can be highly beneficial because:",
+        "options": [
+            "a) It creates traffic jams for utility trucks.",
+            "b) It generates power locally, thereby freeing up capacity on heavily congested transmission corridors.",
+            "c) It sends more power through the congested lines.",
+            "d) It builds new roads."
+        ],
+        "answer": "b) It generates power locally, thereby freeing up capacity on heavily congested transmission corridors.",
+        "explanation": "The correct answer is 'It generates power locally, thereby freeing up capacity on heavily congested transmission corridors.', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 74,
+        "question": "What is a Substation Automation System (SAS)?",
+        "options": [
+            "a) A system where robots physically connect high-voltage wires.",
+            "b) A system that uses Intelligent Electronic Devices (IEDs) for monitoring, controlling, and protecting substation equipment remotely and automatically.",
+            "c) A completely manual method of operating a substation.",
+            "d) A system to automate the billing of substation power."
+        ],
+        "answer": "b) A system that uses Intelligent Electronic Devices (IEDs) for monitoring, controlling, and protecting substation equipment remotely and automatically.",
+        "explanation": "Substation Automation System (SAS) uses IEDs to monitor, control, and protect substation equipment automatically."
+    },
+    {
+        "id": 75,
+        "question": "What is the fundamental building block of a modern SAS?",
+        "options": [
+            "a) Analog ammeters",
+            "b) Mechanical switches",
+            "c) Intelligent Electronic Devices (IEDs)",
+            "d) Vacuum tubes"
+        ],
+        "answer": "c) Intelligent Electronic Devices (IEDs)",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 76,
+        "question": "Which of the following functions does an IED typically perform in an SAS?",
+        "options": [
+            "a) Protection (acting as a digital relay)",
+            "b) Control (opening/closing breakers)",
+            "c) Monitoring (measuring V, I, P, Q)",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "Substation Automation System (SAS) uses IEDs to monitor, control, and protect substation equipment automatically."
+    },
+    {
+        "id": 77,
+        "question": "The hierarchical architecture of a Substation Automation System is generally divided into three levels. What are they?",
+        "options": [
+            "a) Primary, Secondary, Tertiary",
+            "b) Station level, Bay level, and Process level",
+            "c) High, Medium, Low voltage",
+            "d) Input, Processing, Output"
+        ],
+        "answer": "b) Station level, Bay level, and Process level",
+        "explanation": "The correct answer is 'Station level, Bay level, and Process level', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 78,
+        "question": "In an SAS architecture, what components are found at the \"Process Level\"?",
+        "options": [
+            "a) The Human Machine Interface (HMI)",
+            "b) The central SCADA servers",
+            "c) Primary equipment like transformers, circuit breakers, CTs, PTs, and Merging Units.",
+            "d) The router connecting to the internet"
+        ],
+        "answer": "c) Primary equipment like transformers, circuit breakers, CTs, PTs, and Merging Units.",
+        "explanation": "Substation Automation System (SAS) uses IEDs to monitor, control, and protect substation equipment automatically."
+    },
+    {
+        "id": 79,
+        "question": "What resides at the \"Bay Level\" in an SAS?",
+        "options": [
+            "a) The physical transformer",
+            "b) IEDs and Bay Control Units (BCUs) that acquire data from the process level and control specific bays (lines/transformers).",
+            "c) The operator's desk",
+            "d) The main utility control center"
+        ],
+        "answer": "b) IEDs and Bay Control Units (BCUs) that acquire data from the process level and control specific bays (lines/transformers).",
+        "explanation": "Substation Automation System (SAS) uses IEDs to monitor, control, and protect substation equipment automatically."
+    },
+    {
+        "id": 80,
+        "question": "What resides at the \"Station Level\" in an SAS?",
+        "options": [
+            "a) The physical circuit breakers",
+            "b) The Substation Computer, HMI (Human Machine Interface), and Gateway to the remote utility control center.",
+            "c) The high-voltage transmission lines",
+            "d) The current transformers"
+        ],
+        "answer": "b) The Substation Computer, HMI (Human Machine Interface), and Gateway to the remote utility control center.",
+        "explanation": "Substation Automation System (SAS) uses IEDs to monitor, control, and protect substation equipment automatically."
+    },
+    {
+        "id": 81,
+        "question": "Which international standard is universally recognized as the standard for communication in Substation Automation Systems?",
+        "options": [
+            "a) IEEE 802.11 (Wi-Fi)",
+            "b) IEC 61850",
+            "c) RS-232",
+            "d) USB 2.0"
+        ],
+        "answer": "b) IEC 61850",
+        "explanation": "The correct answer is 'IEC 61850', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 82,
+        "question": "A major salient feature and goal of the IEC 61850 standard is \"Interoperability\". What does this mean in SAS?",
+        "options": [
+            "a) Relays cannot talk to each other.",
+            "b) IEDs from different manufacturers (e.g., ABB, Siemens, GE) can communicate and work together on the same substation network without custom gateways.",
+            "c) The substation can operate without power.",
+            "d) The substation only uses one brand of equipment."
+        ],
+        "answer": "b) IEDs from different manufacturers (e.g., ABB, Siemens, GE) can communicate and work together on the same substation network without custom gateways.",
+        "explanation": "IEC 61850 is an international standard for communication in substations, enabling interoperability between devices from different vendors."
+    },
+    {
+        "id": 83,
+        "question": "In an IEC 61850 SAS, what is a GOOSE message?",
+        "options": [
+            "a) A bird that flies around the substation.",
+            "b) Generic Object Oriented Substation Event - a fast, reliable multicast messaging mechanism used to transmit critical protection and interlocking data between IEDs over the Ethernet network.",
+            "c) A slow, encrypted email sent to the operator.",
+            "d) An analog signal sent over copper wires."
+        ],
+        "answer": "b) Generic Object Oriented Substation Event - a fast, reliable multicast messaging mechanism used to transmit critical protection and interlocking data between IEDs over the Ethernet network.",
+        "explanation": "IEC 61850 is an international standard for communication in substations, enabling interoperability between devices from different vendors."
+    },
+    {
+        "id": 84,
+        "question": "Why are GOOSE messages critical for SAS?",
+        "options": [
+            "a) They are very slow and easy to read.",
+            "b) They replace hardwired copper trip signals between relays, executing peer-to-peer tripping and interlocking over fiber optics in less than 4 milliseconds.",
+            "c) They only carry video data.",
+            "d) They are used to print reports."
+        ],
+        "answer": "b) They replace hardwired copper trip signals between relays, executing peer-to-peer tripping and interlocking over fiber optics in less than 4 milliseconds.",
+        "explanation": "GOOSE (Generic Object Oriented Substation Event) is a fast communication protocol in IEC 61850 used for critical protection and interlocking signals."
+    },
+    {
+        "id": 85,
+        "question": "What does a Merging Unit (MU) do at the process level in an advanced SAS?",
+        "options": [
+            "a) It merges two transformers together.",
+            "b) It takes analog signals from conventional CTs and PTs, digitizes them into Sampled Values (SV), and sends them over the fiber optic network to the protective IEDs.",
+            "c) It merges the internet with the substation.",
+            "d) It combines water and electricity."
+        ],
+        "answer": "b) It takes analog signals from conventional CTs and PTs, digitizes them into Sampled Values (SV), and sends them over the fiber optic network to the protective IEDs.",
+        "explanation": "Substation Automation System (SAS) uses IEDs to monitor, control, and protect substation equipment automatically."
+    },
+    {
+        "id": 86,
+        "question": "What is a massive advantage of modern SAS using IEC 61850 over legacy conventional substations?",
+        "options": [
+            "a) Drastic reduction in miles of bulky copper wiring, replaced by fiber optic Ethernet cables.",
+            "b) Increased need for manual operation.",
+            "c) Slower fault clearing times.",
+            "d) Inability to monitor equipment remotely."
+        ],
+        "answer": "a) Drastic reduction in miles of bulky copper wiring, replaced by fiber optic Ethernet cables.",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 87,
+        "question": "What is an RTU in the context of substation automation?",
+        "options": [
+            "a) Real Time Unit",
+            "b) Remote Terminal Unit (a microprocessor-controlled device that interfaces physical equipment to the SCADA system)",
+            "c) Reactive Transformer Unit",
+            "d) Relay Test Utility"
+        ],
+        "answer": "b) Remote Terminal Unit (a microprocessor-controlled device that interfaces physical equipment to the SCADA system)",
+        "explanation": "The correct answer is 'Remote Terminal Unit (a microprocessor-controlled device that interfaces physical equipment to the SCADA system)', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 88,
+        "question": "In SAS, what does the HMI (Human Machine Interface) provide?",
+        "options": [
+            "a) A physical steering wheel for the transformer.",
+            "b) A graphical computer screen at the station level that allows local operators to view the singleline diagram, monitor statuses, and issue control commands.",
+            "c) A printed manual.",
+            "d) An analog meter panel."
+        ],
+        "answer": "b) A graphical computer screen at the station level that allows local operators to view the singleline diagram, monitor statuses, and issue control commands.",
+        "explanation": "Substation Automation System (SAS) uses IEDs to monitor, control, and protect substation equipment automatically."
+    },
+    {
+        "id": 89,
+        "question": "A salient feature of SAS is \"Event Sequence Recording\" (Sequence of Events - SOE). Why is this important?",
+        "options": [
+            "a) It plays music for the operators.",
+            "b) It time-stamps every single relay operation and breaker trip to the millisecond, allowing engineers to accurately analyze exactly what happened during a complex grid fault.",
+            "c) It records video of the substation yard.",
+            "d) It predicts the weather."
+        ],
+        "answer": "b) It time-stamps every single relay operation and breaker trip to the millisecond, allowing engineers to accurately analyze exactly what happened during a complex grid fault.",
+        "explanation": "Substation Automation System (SAS) uses IEDs to monitor, control, and protect substation equipment automatically."
+    },
+    {
+        "id": 90,
+        "question": "How does SAS contribute to \"Predictive Maintenance\" of substation equipment?",
+        "options": [
+            "a) By breaking the equipment on a schedule.",
+            "b) IEDs continuously monitor parameters like transformer oil temperature, dissolved gases, and breaker operating times, triggering alarms before a failure occurs.",
+            "c) By requiring operators to physically touch the transformers.",
+            "d) It does not support predictive maintenance."
+        ],
+        "answer": "b) IEDs continuously monitor parameters like transformer oil temperature, dissolved gases, and breaker operating times, triggering alarms before a failure occurs.",
+        "explanation": "Substation Automation System (SAS) uses IEDs to monitor, control, and protect substation equipment automatically."
+    },
+    {
+        "id": 91,
+        "question": "In a modern IEC 61850 SAS, the same inter-relay logic is accomplished using:",
+        "options": [
+            "a) Hardwired copper",
+            "b) Logical connections via GOOSE messages over the Ethernet LAN",
+            "c) Manual switches",
+            "d) Satellite communication"
+        ],
+        "answer": "b) Logical connections via GOOSE messages over the Ethernet LAN",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 92,
+        "question": "What is the role of the Station Bus in an SAS?",
+        "options": [
+            "a) To transport employees to the substation.",
+            "b) It is the Ethernet network that connects the Bay level IEDs to the Station level HMI and Gateway.",
+            "c) It connects the high voltage lines together.",
+            "d) It routes analog AC currents."
+        ],
+        "answer": "b) It is the Ethernet network that connects the Bay level IEDs to the Station level HMI and Gateway.",
+        "explanation": "Substation Automation System (SAS) uses IEDs to monitor, control, and protect substation equipment automatically."
+    },
+    {
+        "id": 93,
+        "question": "What is the role of the Process Bus in an advanced SAS?",
+        "options": [
+            "a) It connects the utility billing servers.",
+            "b) It is the fiber optic network that connects the primary high-voltage equipment (via Merging Units) directly to the Bay level IEDs, transmitting raw sampled values.",
+            "c) It connects the substation to the internet.",
+            "d) It handles telephone calls."
+        ],
+        "answer": "b) It is the fiber optic network that connects the primary high-voltage equipment (via Merging Units) directly to the Bay level IEDs, transmitting raw sampled values.",
+        "explanation": "Substation Automation System (SAS) uses IEDs to monitor, control, and protect substation equipment automatically."
+    },
+    {
+        "id": 94,
+        "question": "A major barrier or challenge in implementing fully automated, IP-based SAS is:",
+        "options": [
+            "a) Lack of fiber optic cables in the world.",
+            "b) Severe cybersecurity risks, as the substation becomes a potential target for remote hacking.",
+            "c) IEDs are too heavy to mount on panels.",
+            "d) The IEC 61850 standard is obsolete."
+        ],
+        "answer": "b) Severe cybersecurity risks, as the substation becomes a potential target for remote hacking.",
+        "explanation": "Substation Automation System (SAS) uses IEDs to monitor, control, and protect substation equipment automatically."
+    },
+    {
+        "id": 95,
+        "question": "What does SCADA stand for?",
+        "options": [
+            "a) System Control and Digital Automation",
+            "b) Supervisory Control and Data Acquisition",
+            "c) Smart Computer and Distribution Analytics",
+            "d) Supervised Current and Direct Alternating"
+        ],
+        "answer": "b) Supervisory Control and Data Acquisition",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 96,
+        "question": "What is the primary role of a SCADA system in a power grid?",
+        "options": [
+            "a) To generate electricity at the power plant.",
+            "b) To provide centralized, real-time remote monitoring and control over geographically dispersed grid assets (substations, lines, generators).",
+            "c) To collect utility bills from customers.",
+            "d) To install physical poles."
+        ],
+        "answer": "b) To provide centralized, real-time remote monitoring and control over geographically dispersed grid assets (substations, lines, generators).",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 97,
+        "question": "Historically, SCADA systems were mostly \"Centralized\" and used proprietary protocols. IoT introduces a paradigm shift towards:",
+        "options": [
+            "a) Even more centralization and closed networks.",
+            "b) Decentralized, cloud-based, open-standard, and highly scalable data architectures.",
+            "c) Completely manual data collection.",
+            "d) Abandoning all data collection."
+        ],
+        "answer": "b) Decentralized, cloud-based, open-standard, and highly scalable data architectures.",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 98,
+        "question": "Which of the following is a classic SCADA application in a Grid System?",
+        "options": [
+            "a) A customer checking their phone for power rates.",
+            "b) A system operator at a central control room remotely opening a circuit breaker at a substation 100 miles away.",
+            "c) A solar panel generating electricity.",
+            "d) A smart meter sending monthly billing data."
+        ],
+        "answer": "b) A system operator at a central control room remotely opening a circuit breaker at a substation 100 miles away.",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 99,
+        "question": "In a SCADA architecture, what acts as the \"Master Station\" (or Master Terminal Unit - MTU)?",
+        "options": [
+            "a) The sensors on the transmission lines.",
+            "b) The central control center servers that poll the remote sites for data and issue commands.",
+            "c) The RTU in the substation.",
+            "d) The customer's smart meter."
+        ],
+        "answer": "b) The central control center servers that poll the remote sites for data and issue commands.",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 100,
+        "question": "Which protocol is traditionally highly associated with legacy SCADA communication in the power sector?",
+        "options": [
+            "a) HTTP",
+            "b) DNP3 (Distributed Network Protocol) or IEC 60870-5",
+            "c) Bluetooth",
+            "d) SMTP"
+        ],
+        "answer": "b) DNP3 (Distributed Network Protocol) or IEC 60870-5",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 101,
+        "question": "How does the Internet of Things (IoT) differ from traditional SCADA in grid applications?",
+        "options": [
+            "a) SCADA is cloud-based; IoT is hardwired.",
+            "b) SCADA typically uses massive, expensive RTUs and private telecom networks; IoT leverages thousands of cheap, lightweight sensors communicating over public networks (cellular, LPWAN) to the cloud.",
+            "c) SCADA is for homes; IoT is for high-voltage substations.",
+            "d) There is absolutely no difference."
+        ],
+        "answer": "b) SCADA typically uses massive, expensive RTUs and private telecom networks; IoT leverages thousands of cheap, lightweight sensors communicating over public networks (cellular, LPWAN) to the cloud.",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 102,
+        "question": "Which of the following is a specific application of IoT in distribution grid systems?",
+        "options": [
+            "a) Controlling a nuclear reactor core.",
+            "b) Deploying thousands of low-cost wireless Fault Passage Indicators (FPIs) on distribution poles to instantly locate short circuits.",
+            "c) Manually reading analog meters.",
+            "d) Building a brick wall around a substation."
+        ],
+        "answer": "b) Deploying thousands of low-cost wireless Fault Passage Indicators (FPIs) on distribution poles to instantly locate short circuits.",
+        "explanation": "The correct answer is 'Deploying thousands of low-cost wireless Fault Passage Indicators (FPIs', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 103,
+        "question": "\"Asset Condition Monitoring\" is vastly improved by IoT. What does this involve?",
+        "options": [
+            "a) Painting the transformers every year.",
+            "b) Attaching cheap IoT sensors to older distribution transformers to monitor oil temperature and vibrations, transmitting data to cloud AI to predict failures.",
+            "c) Having a guard watch the assets physically.",
+            "d) Monitoring the stock price of the utility."
+        ],
+        "answer": "b) Attaching cheap IoT sensors to older distribution transformers to monitor oil temperature and vibrations, transmitting data to cloud AI to predict failures.",
+        "explanation": "The correct answer is 'Attaching cheap IoT sensors to older distribution transformers to monitor oil temperature and vibrations, transmitting data to cloud AI to predict failures.', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 104,
+        "question": "SCADA systems utilize a \"Historian.\" What is its function?",
+        "options": [
+            "a) A person who writes books about the grid.",
+            "b) A high-performance database designed to archive massive amounts of time-stamped operational data (voltage, alarms, switch statuses) for long-term trend analysis.",
+            "c) A device that deletes old data.",
+            "d) A feature that only records audio."
+        ],
+        "answer": "b) A high-performance database designed to archive massive amounts of time-stamped operational data (voltage, alarms, switch statuses) for long-term trend analysis.",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 105,
+        "question": "An application of SCADA is \"Alarm Handling.\" What does this do?",
+        "options": [
+            "a) Wakes up the customer.",
+            "b) Prioritizes and displays critical alerts (e.g., \"Transformer Overload\") to the grid operator, filtering out nuisance data so they can act quickly.",
+            "c) Sounds a siren in the city.",
+            "d) Shuts down the entire grid immediately."
+        ],
+        "answer": "b) Prioritizes and displays critical alerts (e.g., \"Transformer Overload\") to the grid operator, filtering out nuisance data so they can act quickly.",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 106,
+        "question": "The convergence of IT (Information Technology) and OT (Operational Technology) is a major trend in modern grid systems. In this context, SCADA is considered:",
+        "options": [
+            "a) IT",
+            "b) OT (Operational Technology)",
+            "c) Neither",
+            "d) Both equally since the 1960s"
+        ],
+        "answer": "b) OT (Operational Technology)",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 107,
+        "question": "Which IoT application allows a utility to delay building a new transmission line?",
+        "options": [
+            "a) Smart Illumination",
+            "b) Dynamic Line Rating (DLR) using IoT weather and tension sensors to safely push more current through existing lines when conditions are cool and windy.",
+            "c) Analog metering",
+            "d) Cutting down trees"
+        ],
+        "answer": "b) Dynamic Line Rating (DLR) using IoT weather and tension sensors to safely push more current through existing lines when conditions are cool and windy.",
+        "explanation": "The correct answer is 'Dynamic Line Rating (DLR', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 108,
+        "question": "What is \"Edge Computing\" in the context of IoT Grid applications?",
+        "options": [
+            "a) Pushing the sensors to the physical edge of the wire.",
+            "b) Processing data locally at the IoT sensor or gateway (e.g., analyzing a voltage waveform) and only sending the critical conclusion to the cloud, saving bandwidth.",
+            "c) Computing using cloud servers in another country.",
+            "d) Using a calculator."
+        ],
+        "answer": "b) Processing data locally at the IoT sensor or gateway (e.g., analyzing a voltage waveform) and only sending the critical conclusion to the cloud, saving bandwidth.",
+        "explanation": "The correct answer is 'Processing data locally at the IoT sensor or gateway (e.g., analyzing a voltage waveform', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 109,
+        "question": "A grid operator uses a massive wall-sized screen showing the entire topology of the state's power lines, with live voltage numbers and red/green breaker statuses. They are looking at a:",
+        "options": [
+            "a) Smart Meter",
+            "b) SCADA HMI (Human Machine Interface)",
+            "c) Social Media Feed",
+            "d) PMU"
+        ],
+        "answer": "b) SCADA HMI (Human Machine Interface)",
+        "explanation": "The correct answer is 'SCADA HMI (Human Machine Interface)', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 110,
+        "question": "While SCADA excels at fast, secure control of major assets (substations), IoT excels at:",
+        "options": [
+            "a) Immediate, millisecond tripping of high-voltage breakers.",
+            "b) Widespread, low-cost, pervasive monitoring of millions of endpoints (meters, poles, rooftop solar) and advanced cloud analytics.",
+            "c) Operating completely without electricity.",
+            "d) Using extremely thick fiber optic cables."
+        ],
+        "answer": "b) Widespread, low-cost, pervasive monitoring of millions of endpoints (meters, poles, rooftop solar) and advanced cloud analytics.",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 111,
+        "question": "The data from millions of IoT smart meters is typically fed into which grid management system?",
+        "options": [
+            "a) Substation BCU",
+            "b) MDMS (Meter Data Management System) and integrated with the utility's billing and analytics cloud.",
+            "c) Analog dial panel",
+            "d) SCADA RTU"
+        ],
+        "answer": "b) MDMS (Meter Data Management System) and integrated with the utility's billing and analytics cloud.",
+        "explanation": "The correct answer is 'MDMS (Meter Data Management System', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 112,
+        "question": "If a SCADA system detects that a transmission line has tripped, and automatically recloses the breaker after 2 seconds to see if the fault cleared, it is performing:",
+        "options": [
+            "a) A mistake",
+            "b) Auto-Reclosing",
+            "c) Black Start",
+            "d) Load Shedding"
+        ],
+        "answer": "b) Auto-Reclosing",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 113,
+        "question": "How does IoT aid in \"Vegetation Management\" for grid lines?",
+        "options": [
+            "a) By watering the plants under the lines.",
+            "b) By using drone-mounted IoT cameras and LiDAR to map tree growth and predict when branches will touch power lines, optimizing trimming schedules.",
+            "c) By cutting trees with lasers.",
+            "d) By ignoring the trees."
+        ],
+        "answer": "b) By using drone-mounted IoT cameras and LiDAR to map tree growth and predict when branches will touch power lines, optimizing trimming schedules.",
+        "explanation": "The correct answer is 'By using drone-mounted IoT cameras and LiDAR to map tree growth and predict when branches will touch power lines, optimizing trimming schedules.', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 114,
+        "question": "A major challenge of integrating IoT deeply into grid operations alongside legacy SCADA is:",
+        "options": [
+            "a) IoT sensors are too large.",
+            "b) Ensuring end-to-end Cybersecurity across public cloud networks, as a hacked IoT gateway could potentially be used as a backdoor into the critical SCADA OT network.",
+            "c) SCADA networks are too fast for IoT.",
+            "d) IoT sensors do not use digital data."
+        ],
+        "answer": "b) Ensuring end-to-end Cybersecurity across public cloud networks, as a hacked IoT gateway could potentially be used as a backdoor into the critical SCADA OT network.",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 115,
+        "question": "In a modern Smart Grid, how do SCADA, SAS, and IoT relate to one another?",
+        "options": [
+            "a) They are completely independent and never interact.",
+            "b) SAS controls the local substation, SCADA provides centralized control of all substations, and IoT provides pervasive edge monitoring and cloud analytics across the entire grid down to the consumer level.",
+            "c) IoT replaces SAS completely.",
+            "d) SCADA is only used inside the customer's house."
+        ],
+        "answer": "b) SAS controls the local substation, SCADA provides centralized control of all substations, and IoT provides pervasive edge monitoring and cloud analytics across the entire grid down to the consumer level.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 116,
+        "question": "An islanded Micro-Grid relies on its local controller. Which standard might this local controller use to talk to the intelligent relays (IEDs) inside the micro-grid's substation?",
+        "options": [
+            "a) HTTP",
+            "b) IEC 61850",
+            "c) Bluetooth",
+            "d) SMTP"
+        ],
+        "answer": "b) IEC 61850",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 117,
+        "question": "A utility implements a program where they use IoT commands to turn off residential air conditioners for 15 minutes during extreme peak load. This is a SCADA/IoT application of:",
+        "options": [
+            "a) Blackout induction",
+            "b) Demand Response",
+            "c) Dynamic Line Rating",
+            "d) Fault Passage Indication"
+        ],
+        "answer": "b) Demand Response",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 118,
+        "question": "When integrating Distributed Generation (like a 5MW solar farm) into a grid, the utility's SCADA system must:",
+        "options": [
+            "a) Ignore it completely.",
+            "b) Monitor its real-time active (MW) and reactive (MVAR) power output to maintain regional grid stability.",
+            "c) Turn it off permanently.",
+            "d) Rely on the solar farm owner to text them the data."
+        ],
+        "answer": "b) Monitor its real-time active (MW) and reactive (MVAR) power output to maintain regional grid stability.",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 119,
+        "question": "Advanced Distribution Management Systems (ADMS) represent the evolution of:",
+        "options": [
+            "a) Analog relays",
+            "b) Integrating legacy SCADA with Outage Management (OMS), Geographic Information Systems (GIS), and massive IoT sensor data to manage the complex distribution grid.",
+            "c) Paper billing systems",
+            "d) Coal train routing"
+        ],
+        "answer": "b) Integrating legacy SCADA with Outage Management (OMS), Geographic Information Systems (GIS), and massive IoT sensor data to manage the complex distribution grid.",
+        "explanation": "The correct answer is 'Integrating legacy SCADA with Outage Management (OMS), Geographic Information Systems (GIS), and massive IoT sensor data to manage the complex distribution grid.', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 120,
+        "question": "What happens if communication is lost between the SCADA Master Station and a Substation RTU?",
+        "options": [
+            "a) The substation explodes.",
+            "b) Central operators lose visibility and control, but the local SAS (IEDs and protection relays) will continue to operate autonomously to protect the equipment.",
+            "c) All power goes out instantly.",
+            "d) The RTU connects to Wi-Fi."
+        ],
+        "answer": "b) Central operators lose visibility and control, but the local SAS (IEDs and protection relays) will continue to operate autonomously to protect the equipment.",
+        "explanation": "SCADA (Supervisory Control and Data Acquisition) is a system of software and hardware elements that allows industrial organizations to control industrial processes locally or at remote locations."
+    },
+    {
+        "id": 121,
+        "question": "Which of the following is a key component enabling \"Wide Area Monitoring Systems\" (WAMS) in a Smart Grid?",
+        "options": [
+            "a) Standard electricity meters",
+            "b) Phasor Measurement Units (PMUs) sending data to a Phasor Data Concentrator (PD",
+            "c) ",
+            "d) Residential Wi-Fi routers"
+        ],
+        "answer": "b) Phasor Measurement Units (PMUs) sending data to a Phasor Data Concentrator (PD",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 122,
+        "question": "The shift towards Smart Grids implies a shift from \"Preventive Maintenance\" (calendar-based) to what type of maintenance enabled by IoT and SAS?",
+        "options": [
+            "a) Reactive Maintenance (fixing it when it breaks)",
+            "b) Predictive/Condition-Based Maintenance (fixing it exactly when sensors indicate it is about to fail)",
+            "c) No maintenance",
+            "d) Guess-based maintenance"
+        ],
+        "answer": "b) Predictive/Condition-Based Maintenance (fixing it exactly when sensors indicate it is about to fail)",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 123,
+        "question": "How does a Smart Meter differ from a traditional AMR (Automated Meter Reading) meter?",
+        "options": [
+            "a) AMR provides one-way data collection (drive-by reading); Smart Meters (AMI) provide twoway communication allowing for remote disconnects, firmware updates, and real-time pricing signals.",
+            "b) AMR is digital, Smart Meters are analog.",
+            "c) AMR uses the internet, Smart Meters use paper.",
+            "d) There is no difference."
+        ],
+        "answer": "a) AMR provides one-way data collection (drive-by reading); Smart Meters (AMI) provide twoway communication allowing for remote disconnects, firmware updates, and real-time pricing signals.",
+        "explanation": "The correct answer is 'AMR provides one-way data collection (drive-by reading); Smart Meters (AMI', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 124,
+        "question": "In the context of a Micro-Grid, what is the role of an Energy Management System (EMS)?",
+        "options": [
+            "a) To manage employee payroll.",
+            "b) To optimize the dispatch of local DERs (when to use solar, when to start the diesel generator, when to charge/discharge batteries) based on load forecasts and fuel costs.",
+            "c) To manage the utility's high voltage lines.",
+            "d) To stop energy generation completely."
+        ],
+        "answer": "b) To optimize the dispatch of local DERs (when to use solar, when to start the diesel generator, when to charge/discharge batteries) based on load forecasts and fuel costs.",
+        "explanation": "A Micro-Grid is a localized group of electricity sources and loads that can operate independently (Islanding) or connected to the main grid."
+    },
+    {
+        "id": 125,
+        "question": "A massive benefit of a Hybrid AC/DC Microgrid is:",
+        "options": [
+            "a) It requires no cables.",
+            "b) It minimizes power conversion losses because DC sources (solar) can directly feed DC loads (LEDs/EVs), while AC sources (turbines) feed AC loads (motors).",
+            "c) It produces twice as much power from the same fuel.",
+            "d) It eliminates the need for batteries."
+        ],
+        "answer": "b) It minimizes power conversion losses because DC sources (solar) can directly feed DC loads (LEDs/EVs), while AC sources (turbines) feed AC loads (motors).",
+        "explanation": "The correct answer is 'It minimizes power conversion losses because DC sources (solar', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 126,
+        "question": "If an IED detects a severe short circuit, it uses an IEC 61850 GOOSE message to:",
+        "options": [
+            "a) Ask the operator for permission to trip.",
+            "b) Instantly command the local circuit breaker to trip open, bypassing the central SCADA system for speed.",
+            "c) Send an email to the utility.",
+            "d) Reboot the substation computer."
+        ],
+        "answer": "b) Instantly command the local circuit breaker to trip open, bypassing the central SCADA system for speed.",
+        "explanation": "IEC 61850 is an international standard for communication in substations, enabling interoperability between devices from different vendors."
+    },
+    {
+        "id": 127,
+        "question": "What is \"Volt/VAR Optimization\" (VVO) in a Smart Distribution Grid?",
+        "options": [
+            "a) Reducing voltage to zero.",
+            "b) An advanced application (using SCADA and IoT data) that automatically controls capacitors and voltage regulators to minimize line losses and reduce peak demand.",
+            "c) Increasing current to maximum.",
+            "d) A method of generating reactive power using coal."
+        ],
+        "answer": "b) An advanced application (using SCADA and IoT data) that automatically controls capacitors and voltage regulators to minimize line losses and reduce peak demand.",
+        "explanation": "The correct answer is 'An advanced application (using SCADA and IoT data', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 128,
+        "question": "The data rate of PMUs (synchrophasors) compared to traditional SCADA RTUs is:",
+        "options": [
+            "a) Much slower (once an hour).",
+            "b) Much faster (typically 30 to 60 times per second), providing dynamic visibility into grid stability oscillations that slow SCADA would miss.",
+            "c) Exactly the same (once every 4 seconds).",
+            "d) PMUs do not transmit data."
+        ],
+        "answer": "b) Much faster (typically 30 to 60 times per second), providing dynamic visibility into grid stability oscillations that slow SCADA would miss.",
+        "explanation": "Phasor Measurement Units (PMUs) provide real-time, GPS-synchronized measurements of voltage and current phasors to ensure grid stability."
+    },
+    {
+        "id": 129,
+        "question": "Why is standard IEC 61850 considered \"Future-Proof\" for Substation Automation?",
+        "options": [
+            "a) Because it is written in stone.",
+            "b) Because it strictly separates the data models and application logic from the underlying communication technology (like Ethernet), allowing the network hardware to be upgraded without rewriting the relay logic.",
+            "c) Because it uses ancient analog technology.",
+            "d) Because it guarantees the substation will never fail."
+        ],
+        "answer": "b) Because it strictly separates the data models and application logic from the underlying communication technology (like Ethernet), allowing the network hardware to be upgraded without rewriting the relay logic.",
+        "explanation": "Distributed Energy Resources (DERs) are small-scale power generation or storage technologies (like solar panels and batteries) located close to where they are used."
+    },
+    {
+        "id": 130,
+        "question": "In a Smart Grid, how do Electric Vehicles (EVs) act as Distributed Energy Resources?",
+        "options": [
+            "a) They consume infinite power.",
+            "b) Through Vehicle-to-Grid (V2G) technology, the massive batteries in parked EVs can be commanded by the utility to discharge power back into the grid during peak hours to stabilize it.",
+            "c) They drive around and physically pull the power lines.",
+            "d) They cannot act as DERs."
+        ],
+        "answer": "b) Through Vehicle-to-Grid (V2G) technology, the massive batteries in parked EVs can be commanded by the utility to discharge power back into the grid during peak hours to stabilize it.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 131,
+        "question": "What is \"Gross Metering\" compared to \"Net Metering\" for a rooftop solar prosumer?",
+        "options": [
+            "a) Gross metering ignores solar generation completely.",
+            "b) In Gross metering, the prosumer sells ALL generated solar power to the grid at a feed-in tariff, and buys ALL consumed power from the grid at retail rate. In Net metering, they only buy/sell the difference.",
+            "c) Net metering pays the prosumer more money.",
+            "d) Gross metering uses heavier meters."
+        ],
+        "answer": "b) In Gross metering, the prosumer sells ALL generated solar power to the grid at a feed-in tariff, and buys ALL consumed power from the grid at retail rate. In Net metering, they only buy/sell the difference.",
+        "explanation": "A prosumer is a consumer who also produces electricity, typically through rooftop solar panels, and feeds excess power back into the grid."
+    },
+    {
+        "id": 132,
+        "question": "The integration of IoT sensors measuring soil moisture beneath a transmission line right-of-way helps predict:",
+        "options": [
+            "a) When to plant crops.",
+            "b) The likelihood of a landslide or tower foundation shifting during heavy rains.",
+            "c) The temperature of the sun.",
+            "d) When birds will land on the wires."
+        ],
+        "answer": "b) The likelihood of a landslide or tower foundation shifting during heavy rains.",
+        "explanation": "The correct answer is 'The likelihood of a landslide or tower foundation shifting during heavy rains.', which is a vital component of the Smart Grid / Micro-Grid architecture covered in Unit 2."
+    },
+    {
+        "id": 133,
+        "question": "Which of the following best describes the \"Self-Healing\" sequence in a Smart Grid distribution network?",
+        "options": [
+            "a) Wait for a customer to call -> Send a truck -> Find the fault -> Fix it manually.",
+            "b) Fault occurs -> FPI sensors locate fault -> SCADA isolates the faulted section by opening switches -> SCADA automatically closes tie-switches to restore power to un-faulted sections from an adjacent feeder in seconds.",
+            "c) The wires physically meld back together using heat.",
+            "d) The grid shuts down permanently to heal."
+        ],
+        "answer": "b) Fault occurs -> FPI sensors locate fault -> SCADA isolates the faulted section by opening switches -> SCADA automatically closes tie-switches to restore power to un-faulted sections from an adjacent feeder in seconds.",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    },
+    {
+        "id": 134,
+        "question": "Ultimately, the successful implementation of Smart Grids, Micro-Grids, SAS, and IoT all depend heavily on a robust underlying ________ infrastructure.",
+        "options": [
+            "a) Coal transport",
+            "b) Telecommunications and ICT (Information and Communication Technology)",
+            "c) Steam piping",
+            "d) Analog telephone"
+        ],
+        "answer": "b) Telecommunications and ICT (Information and Communication Technology)",
+        "explanation": "A Smart Grid uses two-way digital communication to monitor and manage the transport of electricity from all generation sources to meet the varying electricity demands of end users."
+    }
+]

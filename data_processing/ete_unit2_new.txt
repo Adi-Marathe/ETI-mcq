@@ -1,0 +1,1035 @@
+Unit 2: Smart Grid
+Topic 2.1: Smart Grid (Need, Evolution, Layout, Components, Projects)
+1. What is the fundamental difference between a traditional power grid and a Smart Grid?
+A) A traditional grid uses renewable energy; a smart grid uses coal.
+B) A traditional grid has one-way power and information flow; a smart grid enables two-way
+power and information flow.
+C) A traditional grid uses digital meters; a smart grid uses analog meters.
+D) A smart grid completely eliminates the need for transmission lines.
+Answer: B
+2. Which of the following is a primary "Need" for transitioning to a Smart Grid?
+A) To increase the use of fossil fuels.
+B) To integrate large-scale renewable energy and improve grid reliability.
+C) To decrease communication between utilities and consumers.
+D) To increase Aggregate Technical & Commercial (AT&C) losses.
+Answer: B
+3. The evolution of the Smart Grid is heavily driven by the integration of:
+A) Steam-powered turbines.
+B) Analog communication systems.
+C) Information and Communication Technology (ICT) and digitalization.
+D) Mechanical relays.
+Answer: C
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+4. Which component acts as the primary interface between the consumer and the utility in
+a Smart Grid?
+A) The distribution transformer
+B) The Smart Meter
+C) The steam turbine
+D) The high-voltage transmission tower
+Answer: B
+5. What is the function of a Phasor Measurement Unit (PMU) in a Smart Grid?
+A) To measure water flow in a hydro plant.
+B) To measure voltage and current phasors with precise GPS time synchronization for real-time
+grid monitoring.
+C) To disconnect residential homes during peak hours.
+D) To convert AC power to DC power.
+Answer: B
+6. Which of the following is an essential component of the Smart Grid communication
+layout?
+A) Wooden poles
+B) Advanced Metering Infrastructure (AMI)
+C) Coal conveyor belts
+D) Manual ledger books
+Answer: B
+7. In a Smart Grid layout, the "Home Area Network" (HAN) is primarily located:
+A) At the utility's central control room.
+B) At the generation power plant.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Inside the consumer's premises connecting smart appliances to the smart meter.
+D) At the high-voltage substation.
+Answer: C
+8. What does AMI stand for in Smart Grid architecture?
+A) Advanced Metering Infrastructure
+B) Automated Mechanical Integration
+C) Analog Measurement Interface
+D) Alternative Maintenance Instruction
+Answer: A
+9. Which of the following is a major advantage of a Smart Grid?
+A) "Self-healing" capability to automatically detect and isolate faults.
+B) Higher operational and maintenance costs over the long term.
+C) Inability to support electric vehicles.
+D) Strict reliance on centralized coal generation.
+Answer: A
+10. How does a Smart Grid empower consumers?
+A) By limiting their electricity usage to exactly 100 units a month.
+B) By providing real-time data on consumption and dynamic pricing, allowing them to adjust
+usage and save money.
+C) By removing their power meters.
+D) By forcing them to generate their own power entirely.
+Answer: B
+11. Which of the following represents a significant "Barrier" to Smart Grid
+implementation?
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) Reduction in carbon emissions.
+B) Improved system reliability.
+C) High initial capital costs and massive infrastructure overhaul requirements.
+D) Easier integration of solar power.
+Answer: C
+12. Cybersecurity is considered a major barrier to Smart Grid adoption because:
+A) The grid does not use the internet.
+B) Hackers cannot access physical wires.
+C) Massive digital interconnectivity increases the vulnerability of the power network to
+cyberattacks.
+D) Passwords are too difficult for operators to remember.
+Answer: C
+13. What does "Interoperability" mean as a barrier in Smart Grid deployment?
+A) The ability of power lines to carry water.
+B) The challenge of getting hardware and software from different vendors to communicate and
+work together seamlessly.
+C) The physical distance between substations.
+D) The inability of solar panels to work at night.
+Answer: B
+14. In India, which mission was launched to accelerate the deployment of smart grids
+across the country?
+A) National Solar Mission
+B) National Smart Grid Mission (NSGM)
+C) Make in India
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) Digital India Power Initiative
+Answer: B
+15. A key objective of Smart Grid pilot projects in India is to:
+A) Increase Aggregate Technical & Commercial (AT&C) losses.
+B) Prove the viability of reducing AT&C losses and managing peak demand through technology.
+C) Replace all electrical engineers with software developers.
+D) Shut down all rural electrification.
+Answer: B
+16. Which Indian scheme aimed at the financial turnaround of power distribution
+companies (DISCOMs) relies heavily on smart metering?
+A) UDAY (Ujwal DISCOM Assurance Yojana)
+B) PM-KUSUM
+C) Swachh Bharat
+D) MGNREGA
+Answer: A
+17. "Peak Shaving" is an advantage of Smart Grids. What does it mean?
+A) Cutting the top of transmission poles to make them shorter.
+B) Reducing electricity consumption during maximum demand periods to avoid stressing the
+grid.
+C) Increasing power output during the night.
+D) Shaving the physical copper wires to save material.
+Answer: B
+18. A traditional grid is typically "Electromechanical." A Smart Grid is "________."
+A) Analog
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Digital
+C) Pneumatic
+D) Hydraulic
+Answer: B
+19. Which technology allows a Smart Grid to quickly restore power after an outage by
+rerouting electricity?
+A) Manual switching
+B) Outage Management System (OMS) with automated Fault Location, Isolation, and Service
+Restoration (FLISR)
+C) Slower spinning reserve
+D) Analog relays
+Answer: B
+20. Smart grids facilitate "Demand Response" programs. What does this mean?
+A) The utility demands that consumers stop using electricity permanently.
+B) Consumers adjust their power demand dynamically in response to utility signals or price
+changes.
+C) The grid demands more coal from the mines.
+D) The utility refuses to respond to customer complaints.
+Answer: B
+21. A Smart Grid layout includes the integration of Wide Area Measurement Systems
+(WAMS). WAMS relies primarily on:
+A) Analog voltmeters
+B) Phasor Measurement Units (PMUs)
+C) Water pressure sensors
+D) Human observers
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+22. Which layer of the Smart Grid architecture is responsible for physical power flow?
+A) Application Layer
+B) Communication Layer
+C) Power System (Physical) Layer
+D) IT/Enterprise Layer
+Answer: C
+23. Smart Grid pilot projects in India often focus on integrating which type of energy at the
+distribution level?
+A) Nuclear
+B) Geothermal
+C) Distributed Solar Rooftop PV
+D) Large-scale Hydroelectric
+Answer: C
+24. The concept of "Time-of-Use" (TOU) pricing in a Smart Grid is designed to:
+A) Charge a flat rate regardless of when power is used.
+B) Encourage consumers to shift heavy loads to off-peak hours by offering cheaper rates during
+those times.
+C) Charge consumers based on the time they spend reading their bill.
+D) Penalize users for having smart meters.
+Answer: B
+Topic 2.2: Micro-Grid (Need and Formation)
+25. What is a Micro-Grid?
+A) A microscopic power plant.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) A localized group of electricity sources and loads that normally operates connected to the
+main grid but can disconnect to function autonomously.
+C) A grid that only supplies power to a single microwave oven.
+D) A nationwide high-voltage transmission network.
+Answer: B
+26. The ability of a Micro-Grid to disconnect from the main grid and operate
+independently during a blackout is called:
+A) Grid-locking
+B) Islanding
+C) Synchronization
+D) Short-circuiting
+Answer: B
+27. What is the point at which a Micro-Grid connects to the main utility grid?
+A) Point of Common Coupling (PCC)
+B) Point of No Return (PNR)
+C) Main Distribution Frame (MDF)
+D) Central Breaker Hub (CBH)
+Answer: A
+28. Which of the following is a primary "Need" for forming a Micro-Grid?
+A) To increase reliance on distant, centralized fossil fuel plants.
+B) To provide highly reliable, uninterrupted power to critical facilities like hospitals or military
+bases.
+C) To increase transmission line losses.
+D) To completely replace the national grid.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+29. In rural or remote areas, what is the main driver for forming a Micro-Grid?
+A) Aesthetic reasons
+B) It is too expensive and impractical to extend the main high-voltage transmission grid to
+isolated locations.
+C) To power electric trains
+D) To increase cybersecurity risks
+Answer: B
+30. What is a crucial component required for the formation of a stable Micro-Grid?
+A) A local power generation source (like solar panels or diesel generators)
+B) A nationwide transmission line
+C) A nuclear reactor
+D) A 500kV transformer
+Answer: A
+31. Because renewable sources like solar and wind are intermittent, what component is
+vital in a Micro-Grid to ensure continuous power?
+A) Analog meters
+B) Energy Storage Systems (e.g., Battery banks)
+C) Long transmission lines
+D) Coal storage bins
+Answer: B
+32. The "Micro-Grid Controller" is responsible for:
+A) Controlling the weather.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Managing the generation, storage, and loads to maintain local voltage and frequency,
+especially during islanded operation.
+C) Spinning the turbine blades physically.
+D) Reading the utility bills.
+Answer: B
+33. When a Micro-Grid reconnects to the main grid after an outage, it must undergo a
+process called:
+A) Desalination
+B) Synchronization (matching voltage, frequency, and phase angle)
+C) Islanding
+D) Rectification
+Answer: B
+34. A Micro-Grid that operates entirely on Direct Current is called a:
+A) AC Micro-Grid
+B) DC Micro-Grid
+C) Hybrid Micro-Grid
+D) RF Micro-Grid
+Answer: B
+35. Why are DC Micro-Grids gaining popularity?
+A) Because AC power is illegal.
+B) Many modern distributed resources (Solar PV) and loads (LEDs, electronics, EV chargers)
+operate natively on DC, eliminating conversion losses.
+C) DC power can travel further on high-voltage lines.
+D) DC generators are the only ones available.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+36. A system that integrates both AC and DC buses to serve both types of loads without
+excessive conversions is a:
+A) Pure AC Micro-Grid
+B) Pure DC Micro-Grid
+C) Hybrid AC/DC Micro-Grid
+D) Transmission Micro-Grid
+Answer: C
+37. In an islanded Micro-Grid, what happens if the local generation cannot meet the local
+demand?
+A) The grid explodes.
+B) The Micro-Grid controller must perform "Load Shedding" by turning off non-critical loads to
+prevent a blackout.
+C) It draws power from the air.
+D) The frequency increases dramatically.
+Answer: B
+38. Which control strategy is often used in Micro-Grids to allow multiple inverters to share
+the load without communication links?
+A) Master-Slave control
+B) Droop control
+C) Centralized dispatch
+D) Proportional-Integral-Derivative (PID) only
+Answer: B
+39. Forming a Micro-Grid improves "Power Quality" locally by:
+A) Increasing voltage sags and harmonics.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Isolating sensitive local loads from voltage fluctuations and disturbances occurring on the
+main utility grid.
+C) Removing all filters from the inverters.
+D) Disconnecting all energy storage.
+Answer: B
+40. A university campus that generates its own solar power, stores it in batteries, and can
+run completely independently if the city grid fails is an example of a:
+A) Macro-Grid
+B) Micro-Grid
+C) Smart Meter
+D) Centralized Plant
+Answer: B
+41. The transition from Grid-Connected mode to Island mode must be executed by the
+static switch at the:
+A) Smart Meter
+B) Inverter output
+C) Point of Common Coupling (PCC)
+D) Battery terminal
+Answer: C
+42. Which of the following makes the protection of Micro-Grids challenging?
+A) There is no electricity in a Micro-Grid.
+B) Fault currents in islanded mode (supplied by inverters) are much smaller than when connected
+to the main grid, making it hard for traditional relays to detect faults.
+C) Micro-Grids only use extremely high voltages.
+D) Circuit breakers are banned in Micro-Grids.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+Topic 2.3: Distributed Energy Resources (DERs)
+43. What does DER stand for in power systems?
+A) Direct Energy Routing
+B) Distributed Energy Resources
+C) Digital Electrical Relays
+D) Disconnected Energy Reservoirs
+Answer: B
+44. Where are Distributed Energy Resources typically located?
+A) At centralized, gigawatt-scale power plants far from cities.
+B) At the transmission level (400kV and above).
+C) Close to the load centers at the distribution level or on customer premises.
+D) Exclusively underground.
+Answer: C
+45. Which of the following is an example of a Distributed Generation (DG) technology?
+A) A 1000 MW Nuclear Power Plant
+B) A Rooftop Solar Photovoltaic (PV) system
+C) A massive 500kV transformer
+D) A long-distance HVDC transmission line
+Answer: B
+46. Which technology converts chemical energy directly into electrical energy without
+combustion, commonly used as a clean DER?
+A) Microturbine
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Wind turbine
+C) Fuel Cell
+D) Diesel generator
+Answer: C
+47. A system that generates both electricity and useful thermal heat from the same fuel
+source locally is called:
+A) Combined Heat and Power (CHP) / Cogeneration
+B) A Solar PV Array
+C) A Wind Farm
+D) A Hydroelectric Dam
+Answer: A
+48. What is the major advantage of a CHP (Cogeneration) distributed system?
+A) It wastes 80% of its energy as heat.
+B) It drastically increases overall energy efficiency by utilizing the waste heat that would
+normally be lost in a traditional power plant.
+C) It requires no fuel.
+D) It only produces heat, no electricity.
+Answer: B
+49. Which DER technology relies on aerodynamic lift to spin a rotor and generate
+electricity locally?
+A) Fuel cell
+B) Solar PV
+C) Small-scale Wind Turbine
+D) Microturbine
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: C
+50. Which of the following is considered an Energy Storage DER?
+A) A diesel generator
+B) A Battery Energy Storage System (BESS)
+C) A solar panel
+D) A smart meter
+Answer: B
+51. Because Solar PV and Fuel Cells generate Direct Current (DC), what device is
+absolutely necessary to connect them to standard AC distribution grids?
+A) A Rectifier
+B) An Inverter
+C) A Transformer
+D) A Capacitor
+Answer: B
+52. What is a "Microturbine"?
+A) A massive steam turbine.
+B) A small combustion turbine (typically 25kW to 500kW) used for distributed generation, often
+running on natural gas or biogas.
+C) A turbine driven by a river.
+D) A turbine used inside a jet engine.
+Answer: B
+53. A consumer who both consumes electricity from the grid and produces electricity (e.g.,
+via rooftop solar) to send back to the grid is called a:
+A) Consumer
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Producer
+C) Prosumer
+D) Distributor
+Answer: C
+54. Which DER technology uses a spinning mass to store kinetic energy and release it
+quickly for grid stabilization?
+A) Battery Energy Storage
+B) Flywheel Energy Storage
+C) Pumped Hydro
+D) Supercapacitor
+Answer: B
+55. Traditional distribution grids were designed for one-way power flow. The high
+penetration of DERs causes:
+A) Zero power flow.
+B) Two-way (bidirectional) power flow.
+C) The wires to melt instantly.
+D) Power to travel at the speed of sound.
+Answer: B
+56. What is "Anti-islanding" protection in a grid-tied solar inverter?
+A) A feature that forces the inverter to shut down if the main grid loses power, preventing the
+inverter from shocking utility workers fixing the lines.
+B) A feature that forces the inverter to keep running during a blackout.
+C) A feature that prevents the solar panels from getting wet.
+D) A feature that creates an island.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: A
+57. Integrating Battery Energy Storage Systems (BESS) with Solar PV DERs helps to solve
+what major problem?
+A) The high cost of copper.
+B) The intermittency of solar power (storing excess power during the day to use at night or
+during clouds).
+C) The visual appearance of solar panels.
+D) The weight of the roof.
+Answer: B
+58. Which of the following is NOT typically considered a Distributed Energy Resource
+(DER)?
+A) Rooftop Solar PV
+B) Large-scale offshore oil rig
+C) Residential Battery Bank
+D) Small wind turbine
+Answer: B
+59. Biomass generators are considered a type of DER. What fuel do they use?
+A) Uranium
+B) Direct sunlight
+C) Organic matter (agricultural waste, wood pellets, biogas)
+D) Flowing water
+Answer: C
+60. The increasing adoption of DERs leads to a shift from a "Centralized" power system
+architecture to a "_________" architecture.
+A) Disconnected
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Decentralized
+C) Singular
+D) Analog
+Answer: B
+Topic 2.4: Role of Distributed Generation in Smart Grid and Micro
+Grid
+61. What is the primary role of Distributed Generation (DG) in reducing Transmission and
+Distribution (T&D) losses?
+A) DG increases the current on transmission lines.
+B) DG generates power close to where it is consumed, meaning the electricity does not have to
+travel long distances over lossy transmission lines.
+C) DG uses thicker wires.
+D) DG completely eliminates the need for distribution wires.
+Answer: B
+62. How does Distributed Generation contribute to "Peak Shaving"?
+A) By turning off all generation during peak hours.
+B) By supplying local power during hours of highest demand, thereby reducing the peak load
+burden on the main utility grid.
+C) By increasing the voltage of the grid.
+D) By forcing consumers to use more power.
+Answer: B
+63. In a Micro-Grid, the Role of Distributed Generation is primarily to:
+A) Send power to another continent.
+B) Act as the primary source of electrical power for the local loads, especially when islanded
+from the main grid.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Act solely as a backup for the utility's computer systems.
+D) Consume excess power.
+Answer: B
+64. How can DG improve the "Voltage Profile" of a distribution feeder?
+A) By dropping the voltage to zero.
+B) By injecting active and reactive power locally near the end of a long feeder line, preventing
+voltage drops (sag) that normally occur far from the substation.
+C) By causing massive voltage spikes.
+D) DG has no effect on voltage.
+Answer: B
+65. What is an "Ancillary Service" provided by advanced DG inverters to a Smart Grid?
+A) Customer billing
+B) Reactive power support and frequency regulation to maintain grid stability
+C) Installing physical poles
+D) Providing internet access
+Answer: B
+66. The presence of significant Distributed Generation can lead to the "deferral of grid
+upgrades." What does this mean?
+A) The utility stops maintaining the grid entirely.
+B) Because DG reduces the load on transformers and lines, the utility can delay or avoid
+spending millions on upgrading physical grid infrastructure to handle higher capacities.
+C) The utility must upgrade the grid immediately.
+D) The grid is replaced by wireless power.
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+67. In a Smart Grid, how does renewable DG impact energy security?
+A) It decreases energy security by relying on imported fuels.
+B) It enhances energy security by diversifying the energy mix and utilizing local, inexhaustible
+resources (like sun and wind).
+C) It makes the grid highly insecure physically.
+D) It makes energy totally reliant on a single power plant.
+Answer: B
+68. What role does DG play in the "Black Start" of a Micro-Grid?
+A) It turns the lights off to save power.
+B) Certain DG units (like battery storage or diesel gensets) can provide the initial voltage and
+power to restart the local grid after a total blackout without relying on the main utility.
+C) It paints the equipment black.
+D) It starts the system during the night.
+Answer: B
+69. A major challenge of connecting DG to the Smart Grid is "Voltage Rise." Why does
+this happen?
+A) DG units steal voltage from the grid.
+B) If local DG produces more power than local loads consume, the reverse power flow pushes
+the voltage up at the end of the distribution feeder.
+C) The wires shrink when DG is connected.
+D) Inverters always output 1000 Volts.
+Answer: B
+70. What is the role of DG in enhancing "Grid Resiliency"?
+A) Making the grid wires more rigid.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) By providing localized power, DG allows critical infrastructure (hospitals, military) to keep
+running during extreme weather events that knock out the main grid.
+C) By shutting down during storms.
+D) By increasing the chances of a blackout.
+Answer: B
+71. How does the integration of solar and wind DG support environmental goals in a Smart
+Grid?
+A) By increasing carbon emissions.
+B) By displacing generation from centralized fossil-fuel power plants, directly reducing
+greenhouse gas emissions and carbon footprints.
+C) By generating large amounts of toxic waste.
+D) By requiring massive deforestation.
+Answer: B
+72. Without a Smart Grid's advanced communication, what is the main problem with a
+high penetration of DG?
+A) The grid operator is "blind" to the fluctuating power being injected by thousands of
+unmonitored local generators, causing stability issues.
+B) The generators will explode.
+C) The wires will change color.
+D) The power will become analog.
+Answer: A
+73. In terms of line congestion, DG can be highly beneficial because:
+A) It creates traffic jams for utility trucks.
+B) It generates power locally, thereby freeing up capacity on heavily congested transmission
+corridors.
+C) It sends more power through the congested lines.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) It builds new roads.
+Answer: B
+Topic 2.5: Substation Automation System (SAS)
+74. What is a Substation Automation System (SAS)?
+A) A system where robots physically connect high-voltage wires.
+B) A system that uses Intelligent Electronic Devices (IEDs) for monitoring, controlling, and
+protecting substation equipment remotely and automatically.
+C) A completely manual method of operating a substation.
+D) A system to automate the billing of substation power.
+Answer: B
+75. What is the fundamental building block of a modern SAS?
+A) Analog ammeters
+B) Mechanical switches
+C) Intelligent Electronic Devices (IEDs)
+D) Vacuum tubes
+Answer: C
+76. Which of the following functions does an IED typically perform in an SAS?
+A) Protection (acting as a digital relay)
+B) Control (opening/closing breakers)
+C) Monitoring (measuring V, I, P, Q)
+D) All of the above
+Answer: D
+77. The hierarchical architecture of a Substation Automation System is generally divided
+into three levels. What are they?
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) Primary, Secondary, Tertiary
+B) Station level, Bay level, and Process level
+C) High, Medium, Low voltage
+D) Input, Processing, Output
+Answer: B
+78. In an SAS architecture, what components are found at the "Process Level"?
+A) The Human Machine Interface (HMI)
+B) The central SCADA servers
+C) Primary equipment like transformers, circuit breakers, CTs, PTs, and Merging Units.
+D) The router connecting to the internet
+Answer: C
+79. What resides at the "Bay Level" in an SAS?
+A) The physical transformer
+B) IEDs and Bay Control Units (BCUs) that acquire data from the process level and control
+specific bays (lines/transformers).
+C) The operator's desk
+D) The main utility control center
+Answer: B
+80. What resides at the "Station Level" in an SAS?
+A) The physical circuit breakers
+B) The Substation Computer, HMI (Human Machine Interface), and Gateway to the remote
+utility control center.
+C) The high-voltage transmission lines
+D) The current transformers
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+81. Which international standard is universally recognized as the standard for
+communication in Substation Automation Systems?
+A) IEEE 802.11 (Wi-Fi)
+B) IEC 61850
+C) RS-232
+D) USB 2.0
+Answer: B
+82. A major salient feature and goal of the IEC 61850 standard is "Interoperability". What
+does this mean in SAS?
+A) Relays cannot talk to each other.
+B) IEDs from different manufacturers (e.g., ABB, Siemens, GE) can communicate and work
+together on the same substation network without custom gateways.
+C) The substation can operate without power.
+D) The substation only uses one brand of equipment.
+Answer: B
+83. In an IEC 61850 SAS, what is a GOOSE message?
+A) A bird that flies around the substation.
+B) Generic Object Oriented Substation Event - a fast, reliable multicast messaging mechanism
+used to transmit critical protection and interlocking data between IEDs over the Ethernet
+network.
+C) A slow, encrypted email sent to the operator.
+D) An analog signal sent over copper wires.
+Answer: B
+84. Why are GOOSE messages critical for SAS?
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) They are very slow and easy to read.
+B) They replace hardwired copper trip signals between relays, executing peer-to-peer tripping
+and interlocking over fiber optics in less than 4 milliseconds.
+C) They only carry video data.
+D) They are used to print reports.
+Answer: B
+85. What does a Merging Unit (MU) do at the process level in an advanced SAS?
+A) It merges two transformers together.
+B) It takes analog signals from conventional CTs and PTs, digitizes them into Sampled Values
+(SV), and sends them over the fiber optic network to the protective IEDs.
+C) It merges the internet with the substation.
+D) It combines water and electricity.
+Answer: B
+86. What is a massive advantage of modern SAS using IEC 61850 over legacy conventional
+substations?
+A) Drastic reduction in miles of bulky copper wiring, replaced by fiber optic Ethernet cables.
+B) Increased need for manual operation.
+C) Slower fault clearing times.
+D) Inability to monitor equipment remotely.
+Answer: A
+87. What is an RTU in the context of substation automation?
+A) Real Time Unit
+B) Remote Terminal Unit (a microprocessor-controlled device that interfaces physical equipment
+to the SCADA system)
+C) Reactive Transformer Unit
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) Relay Test Utility
+Answer: B
+88. In SAS, what does the HMI (Human Machine Interface) provide?
+A) A physical steering wheel for the transformer.
+B) A graphical computer screen at the station level that allows local operators to view the singleline diagram, monitor statuses, and issue control commands.
+C) A printed manual.
+D) An analog meter panel.
+Answer: B
+89. A salient feature of SAS is "Event Sequence Recording" (Sequence of Events - SOE).
+Why is this important?
+A) It plays music for the operators.
+B) It time-stamps every single relay operation and breaker trip to the millisecond, allowing
+engineers to accurately analyze exactly what happened during a complex grid fault.
+C) It records video of the substation yard.
+D) It predicts the weather.
+Answer: B
+90. How does SAS contribute to "Predictive Maintenance" of substation equipment?
+A) By breaking the equipment on a schedule.
+B) IEDs continuously monitor parameters like transformer oil temperature, dissolved gases, and
+breaker operating times, triggering alarms before a failure occurs.
+C) By requiring operators to physically touch the transformers.
+D) It does not support predictive maintenance.
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+**91. In a legacy substation, inter-relay communication (like busbar protection logic) was done
+using: **
+A) Wi-Fi
+B) Complex, hardwired copper logic circuits
+C) Bluetooth
+D) Fiber optics
+Answer: B
+92. In a modern IEC 61850 SAS, the same inter-relay logic is accomplished using:
+A) Hardwired copper
+B) Logical connections via GOOSE messages over the Ethernet LAN
+C) Manual switches
+D) Satellite communication
+Answer: B
+93. What is the role of the Station Bus in an SAS?
+A) To transport employees to the substation.
+B) It is the Ethernet network that connects the Bay level IEDs to the Station level HMI and
+Gateway.
+C) It connects the high voltage lines together.
+D) It routes analog AC currents.
+Answer: B
+94. What is the role of the Process Bus in an advanced SAS?
+A) It connects the utility billing servers.
+B) It is the fiber optic network that connects the primary high-voltage equipment (via Merging
+Units) directly to the Bay level IEDs, transmitting raw sampled values.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) It connects the substation to the internet.
+D) It handles telephone calls.
+Answer: B
+95. A major barrier or challenge in implementing fully automated, IP-based SAS is:
+A) Lack of fiber optic cables in the world.
+B) Severe cybersecurity risks, as the substation becomes a potential target for remote hacking.
+C) IEDs are too heavy to mount on panels.
+D) The IEC 61850 standard is obsolete.
+Answer: B
+Topic 2.6: IoT and SCADA application in Grid systems
+96. What does SCADA stand for?
+A) System Control and Digital Automation
+B) Supervisory Control and Data Acquisition
+C) Smart Computer and Distribution Analytics
+D) Supervised Current and Direct Alternating
+Answer: B
+97. What is the primary role of a SCADA system in a power grid?
+A) To generate electricity at the power plant.
+B) To provide centralized, real-time remote monitoring and control over geographically
+dispersed grid assets (substations, lines, generators).
+C) To collect utility bills from customers.
+D) To install physical poles.
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+98. Historically, SCADA systems were mostly "Centralized" and used proprietary
+protocols. IoT introduces a paradigm shift towards:
+A) Even more centralization and closed networks.
+B) Decentralized, cloud-based, open-standard, and highly scalable data architectures.
+C) Completely manual data collection.
+D) Abandoning all data collection.
+Answer: B
+99. Which of the following is a classic SCADA application in a Grid System?
+A) A customer checking their phone for power rates.
+B) A system operator at a central control room remotely opening a circuit breaker at a substation
+100 miles away.
+C) A solar panel generating electricity.
+D) A smart meter sending monthly billing data.
+Answer: B
+100. In a SCADA architecture, what acts as the "Master Station" (or Master Terminal
+Unit - MTU)?
+A) The sensors on the transmission lines.
+B) The central control center servers that poll the remote sites for data and issue commands.
+C) The RTU in the substation.
+D) The customer's smart meter.
+Answer: B
+101. Which protocol is traditionally highly associated with legacy SCADA communication
+in the power sector?
+A) HTTP
+B) DNP3 (Distributed Network Protocol) or IEC 60870-5
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Bluetooth
+D) SMTP
+Answer: B
+102. How does the Internet of Things (IoT) differ from traditional SCADA in grid
+applications?
+A) SCADA is cloud-based; IoT is hardwired.
+B) SCADA typically uses massive, expensive RTUs and private telecom networks; IoT
+leverages thousands of cheap, lightweight sensors communicating over public networks (cellular,
+LPWAN) to the cloud.
+C) SCADA is for homes; IoT is for high-voltage substations.
+D) There is absolutely no difference.
+Answer: B
+103. Which of the following is a specific application of IoT in distribution grid systems?
+A) Controlling a nuclear reactor core.
+B) Deploying thousands of low-cost wireless Fault Passage Indicators (FPIs) on distribution
+poles to instantly locate short circuits.
+C) Manually reading analog meters.
+D) Building a brick wall around a substation.
+Answer: B
+104. "Asset Condition Monitoring" is vastly improved by IoT. What does this involve?
+A) Painting the transformers every year.
+B) Attaching cheap IoT sensors to older distribution transformers to monitor oil temperature and
+vibrations, transmitting data to cloud AI to predict failures.
+C) Having a guard watch the assets physically.
+D) Monitoring the stock price of the utility.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+105. SCADA systems utilize a "Historian." What is its function?
+A) A person who writes books about the grid.
+B) A high-performance database designed to archive massive amounts of time-stamped
+operational data (voltage, alarms, switch statuses) for long-term trend analysis.
+C) A device that deletes old data.
+D) A feature that only records audio.
+Answer: B
+106. An application of SCADA is "Alarm Handling." What does this do?
+A) Wakes up the customer.
+B) Prioritizes and displays critical alerts (e.g., "Transformer Overload") to the grid operator,
+filtering out nuisance data so they can act quickly.
+C) Sounds a siren in the city.
+D) Shuts down the entire grid immediately.
+Answer: B
+107. The convergence of IT (Information Technology) and OT (Operational Technology) is
+a major trend in modern grid systems. In this context, SCADA is considered:
+A) IT
+B) OT (Operational Technology)
+C) Neither
+D) Both equally since the 1960s
+Answer: B
+108. Which IoT application allows a utility to delay building a new transmission line?
+A) Smart Illumination
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Dynamic Line Rating (DLR) using IoT weather and tension sensors to safely push more
+current through existing lines when conditions are cool and windy.
+C) Analog metering
+D) Cutting down trees
+Answer: B
+109. What is "Edge Computing" in the context of IoT Grid applications?
+A) Pushing the sensors to the physical edge of the wire.
+B) Processing data locally at the IoT sensor or gateway (e.g., analyzing a voltage waveform) and
+only sending the critical conclusion to the cloud, saving bandwidth.
+C) Computing using cloud servers in another country.
+D) Using a calculator.
+Answer: B
+110. A grid operator uses a massive wall-sized screen showing the entire topology of the
+state's power lines, with live voltage numbers and red/green breaker statuses. They are
+looking at a:
+A) Smart Meter
+B) SCADA HMI (Human Machine Interface)
+C) Social Media Feed
+D) PMU
+Answer: B
+111. While SCADA excels at fast, secure control of major assets (substations), IoT excels at:
+A) Immediate, millisecond tripping of high-voltage breakers.
+B) Widespread, low-cost, pervasive monitoring of millions of endpoints (meters, poles, rooftop
+solar) and advanced cloud analytics.
+C) Operating completely without electricity.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) Using extremely thick fiber optic cables.
+Answer: B
+112. The data from millions of IoT smart meters is typically fed into which grid
+management system?
+A) Substation BCU
+B) MDMS (Meter Data Management System) and integrated with the utility's billing and
+analytics cloud.
+C) Analog dial panel
+D) SCADA RTU
+Answer: B
+113. If a SCADA system detects that a transmission line has tripped, and automatically
+recloses the breaker after 2 seconds to see if the fault cleared, it is performing:
+A) A mistake
+B) Auto-Reclosing
+C) Black Start
+D) Load Shedding
+Answer: B
+114. How does IoT aid in "Vegetation Management" for grid lines?
+A) By watering the plants under the lines.
+B) By using drone-mounted IoT cameras and LiDAR to map tree growth and predict when
+branches will touch power lines, optimizing trimming schedules.
+C) By cutting trees with lasers.
+D) By ignoring the trees.
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+115. A major challenge of integrating IoT deeply into grid operations alongside legacy
+SCADA is:
+A) IoT sensors are too large.
+B) Ensuring end-to-end Cybersecurity across public cloud networks, as a hacked IoT gateway
+could potentially be used as a backdoor into the critical SCADA OT network.
+C) SCADA networks are too fast for IoT.
+D) IoT sensors do not use digital data.
+Answer: B
+Topic 2.1 to 2.6: Advanced Integration Concepts
+116. In a modern Smart Grid, how do SCADA, SAS, and IoT relate to one another?
+A) They are completely independent and never interact.
+B) SAS controls the local substation, SCADA provides centralized control of all substations, and
+IoT provides pervasive edge monitoring and cloud analytics across the entire grid down to the
+consumer level.
+C) IoT replaces SAS completely.
+D) SCADA is only used inside the customer's house.
+Answer: B
+117. An islanded Micro-Grid relies on its local controller. Which standard might this local
+controller use to talk to the intelligent relays (IEDs) inside the micro-grid's substation?
+A) HTTP
+B) IEC 61850
+C) Bluetooth
+D) SMTP
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+118. A utility implements a program where they use IoT commands to turn off residential
+air conditioners for 15 minutes during extreme peak load. This is a SCADA/IoT
+application of:
+A) Blackout induction
+B) Demand Response
+C) Dynamic Line Rating
+D) Fault Passage Indication
+Answer: B
+119. When integrating Distributed Generation (like a 5MW solar farm) into a grid, the
+utility's SCADA system must:
+A) Ignore it completely.
+B) Monitor its real-time active (MW) and reactive (MVAR) power output to maintain regional
+grid stability.
+C) Turn it off permanently.
+D) Rely on the solar farm owner to text them the data.
+Answer: B
+120. Advanced Distribution Management Systems (ADMS) represent the evolution of:
+A) Analog relays
+B) Integrating legacy SCADA with Outage Management (OMS), Geographic Information
+Systems (GIS), and massive IoT sensor data to manage the complex distribution grid.
+C) Paper billing systems
+D) Coal train routing
+Answer: B
+121. What happens if communication is lost between the SCADA Master Station and a
+Substation RTU?
+A) The substation explodes.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Central operators lose visibility and control, but the local SAS (IEDs and protection relays)
+will continue to operate autonomously to protect the equipment.
+C) All power goes out instantly.
+D) The RTU connects to Wi-Fi.
+Answer: B
+122. Which of the following is a key component enabling "Wide Area Monitoring Systems"
+(WAMS) in a Smart Grid?
+A) Standard electricity meters
+B) Phasor Measurement Units (PMUs) sending data to a Phasor Data Concentrator (PDC)
+C) A single local IED
+D) Residential Wi-Fi routers
+Answer: B
+123. The shift towards Smart Grids implies a shift from "Preventive Maintenance"
+(calendar-based) to what type of maintenance enabled by IoT and SAS?
+A) Reactive Maintenance (fixing it when it breaks)
+B) Predictive/Condition-Based Maintenance (fixing it exactly when sensors indicate it is about to
+fail)
+C) No maintenance
+D) Guess-based maintenance
+Answer: B
+124. How does a Smart Meter differ from a traditional AMR (Automated Meter Reading)
+meter?
+A) AMR provides one-way data collection (drive-by reading); Smart Meters (AMI) provide twoway communication allowing for remote disconnects, firmware updates, and real-time pricing
+signals.
+B) AMR is digital, Smart Meters are analog.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) AMR uses the internet, Smart Meters use paper.
+D) There is no difference.
+Answer: A
+125. In the context of a Micro-Grid, what is the role of an Energy Management System
+(EMS)?
+A) To manage employee payroll.
+B) To optimize the dispatch of local DERs (when to use solar, when to start the diesel generator,
+when to charge/discharge batteries) based on load forecasts and fuel costs.
+C) To manage the utility's high voltage lines.
+D) To stop energy generation completely.
+Answer: B
+126. A massive benefit of a Hybrid AC/DC Microgrid is:
+A) It requires no cables.
+B) It minimizes power conversion losses because DC sources (solar) can directly feed DC loads
+(LEDs/EVs), while AC sources (turbines) feed AC loads (motors).
+C) It produces twice as much power from the same fuel.
+D) It eliminates the need for batteries.
+Answer: B
+127. If an IED detects a severe short circuit, it uses an IEC 61850 GOOSE message to:
+A) Ask the operator for permission to trip.
+B) Instantly command the local circuit breaker to trip open, bypassing the central SCADA
+system for speed.
+C) Send an email to the utility.
+D) Reboot the substation computer.
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+128. What is "Volt/VAR Optimization" (VVO) in a Smart Distribution Grid?
+A) Reducing voltage to zero.
+B) An advanced application (using SCADA and IoT data) that automatically controls capacitors
+and voltage regulators to minimize line losses and reduce peak demand.
+C) Increasing current to maximum.
+D) A method of generating reactive power using coal.
+Answer: B
+129. The data rate of PMUs (synchrophasors) compared to traditional SCADA RTUs is:
+A) Much slower (once an hour).
+B) Much faster (typically 30 to 60 times per second), providing dynamic visibility into grid
+stability oscillations that slow SCADA would miss.
+C) Exactly the same (once every 4 seconds).
+D) PMUs do not transmit data.
+Answer: B
+130. Why is standard IEC 61850 considered "Future-Proof" for Substation Automation?
+A) Because it is written in stone.
+B) Because it strictly separates the data models and application logic from the underlying
+communication technology (like Ethernet), allowing the network hardware to be upgraded
+without rewriting the relay logic.
+C) Because it uses ancient analog technology.
+D) Because it guarantees the substation will never fail.
+Answer: B
+131. In a Smart Grid, how do Electric Vehicles (EVs) act as Distributed Energy Resources?
+A) They consume infinite power.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Through Vehicle-to-Grid (V2G) technology, the massive batteries in parked EVs can be
+commanded by the utility to discharge power back into the grid during peak hours to stabilize it.
+C) They drive around and physically pull the power lines.
+D) They cannot act as DERs.
+Answer: B
+132. What is "Gross Metering" compared to "Net Metering" for a rooftop solar prosumer?
+A) Gross metering ignores solar generation completely.
+B) In Gross metering, the prosumer sells ALL generated solar power to the grid at a feed-in
+tariff, and buys ALL consumed power from the grid at retail rate. In Net metering, they only
+buy/sell the difference.
+C) Net metering pays the prosumer more money.
+D) Gross metering uses heavier meters.
+Answer: B
+133. The integration of IoT sensors measuring soil moisture beneath a transmission line
+right-of-way helps predict:
+A) When to plant crops.
+B) The likelihood of a landslide or tower foundation shifting during heavy rains.
+C) The temperature of the sun.
+D) When birds will land on the wires.
+Answer: B
+134. Which of the following best describes the "Self-Healing" sequence in a Smart Grid
+distribution network?
+A) Wait for a customer to call -> Send a truck -> Find the fault -> Fix it manually.
+B) Fault occurs -> FPI sensors locate fault -> SCADA isolates the faulted section by opening
+switches -> SCADA automatically closes tie-switches to restore power to un-faulted sections
+from an adjacent feeder in seconds.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) The wires physically meld back together using heat.
+D) The grid shuts down permanently to heal.
+Answer: B
+135. Ultimately, the successful implementation of Smart Grids, Micro-Grids, SAS, and IoT
+all depend heavily on a robust underlying ________ infrastructure.
+A) Coal transport
+B) Telecommunications and ICT (Information and Communication Technology)
+C) Steam piping
+D) Analog telephone
+Answer: B

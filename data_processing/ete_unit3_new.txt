@@ -1,0 +1,1058 @@
+Unit 3: Smart City
+Topic 3.1: Smart City (Features, Components, Objectives, Challenges)
+1. What is the primary objective of a "Smart City"?
+A) To increase the physical size of the city.
+B) To integrate information and communication technology (ICT) and IoT to optimize city
+functions and improve the quality of life for citizens.
+C) To eliminate all vehicles from the city limits.
+D) To completely disconnect the city from the national power grid.
+Answer: B
+2. Which of the following is a core electrical infrastructure requirement for a Smart City?
+A) Analog power meters.
+B) Assured and continuous electricity supply utilizing Smart Grids.
+C) Steam-powered public transport.
+D) Kerosene street lighting.
+Answer: B
+3. In India, the "Smart Cities Mission" was launched by the Government of India in which
+year?
+A) 2005
+B) 2010
+C) 2015
+D) 2020
+Answer: C
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+4. Which of the following is considered a key component of a Smart City's environmental
+sustainability?
+A) Heavy reliance on diesel generators.
+B) Open landfill waste disposal.
+C) Intelligent waste management and high penetration of renewable energy.
+D) Deforestation to build more data centers.
+Answer: C
+5. What role does IoT play in the context of Smart City infrastructure?
+A) It isolates different city departments from each other.
+B) It provides the sensor network to collect real-time data on traffic, energy usage, water levels,
+and air quality.
+C) It replaces the need for human government officials entirely.
+D) It slows down communication between city services.
+Answer: B
+6. Which of the following is a major CHALLENGE in developing Smart Cities in India?
+A) Too much available funding.
+B) Retrofitting legacy infrastructure in heavily congested, centuries-old urban areas.
+C) Lack of sunlight for solar power.
+D) Citizens refusing to use electricity.
+Answer: B
+7. How does a Smart City address urban mobility?
+A) By building narrower roads.
+B) By implementing Intelligent Traffic Management Systems (ITMS) and promoting electrified
+public transport.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) By banning all public transport.
+D) By removing all traffic lights.
+Answer: B
+8. What does "E-Governance" mean in a Smart City?
+A) Using electricity to govern the city physically.
+B) Providing municipal services and administration digitally to increase transparency and citizen
+engagement.
+C) A government run completely by Artificial Intelligence without human input.
+D) Taxing electronic goods at a higher rate.
+Answer: B
+9. In a Smart City, how is street lighting typically managed?
+A) Lights are left on 24/7.
+B) Using smart LED luminaires that automatically dim or brighten based on ambient light and
+real-time pedestrian/vehicle presence.
+C) Using manual switches operated by citizens.
+D) Using high-pressure sodium lamps exclusively.
+Answer: B
+10. What is a "Command and Control Center" (CCC) in a Smart City?
+A) A military bunker.
+B) A centralized facility that aggregates data from all city sensors (CCTV, traffic, grid) to
+monitor and manage city operations in real-time.
+C) A factory that manufactures smart meters.
+D) A power generation plant.
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+11. Which of the following is a financial challenge for the Smart Cities Mission in India?
+A) Generating enough paper currency.
+B) Securing massive capital investments and establishing viable Public-Private Partnership (PPP)
+models.
+C) Cities making too much profit from smart meters.
+D) The low cost of fiber optic cables.
+Answer: B
+12. To ensure water security, a Smart City utilizes:
+A) Manual water fetching.
+B) Smart water meters, automated leak detection systems, and SCADA-controlled pumping
+stations.
+C) Open aqueducts.
+D) Wooden piping systems.
+Answer: B
+13. "Digital Divide" is a significant social challenge in Smart Cities. What does it mean?
+A) The physical division of a city into grids.
+B) The gap between demographics who have access to modern information and communication
+technology and those who do not.
+C) The separation of AC and DC power lines.
+D) A mathematical error in the city's AI.
+Answer: B
+14. What feature distinguishes a Smart City's healthcare system?
+A) It only uses traditional herbal medicine.
+B) Telemedicine, digitized electronic health records (EHR), and predictive healthcare analytics.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) It rejects the use of electricity.
+D) Hospitals are removed from the city limits.
+Answer: B
+15. How does a Smart City approach public safety?
+A) By relying solely on neighborhood watch programs.
+B) Implementing smart CCTV surveillance, predictive crime analytics, and rapid emergency
+response systems.
+C) By turning off lights to hide citizens.
+D) By arming all smart meters.
+Answer: B
+16. Which strategy is often used in India for developing Smart Cities from scratch on
+vacant land?
+A) Retrofitting
+B) Redevelopment
+C) Greenfield Development
+D) Pan-city development
+Answer: C
+17. "Retrofitting" in the context of the Indian Smart Cities Mission refers to:
+A) Building a completely new city on empty land.
+B) Planning an entirely new urban extension.
+C) Introducing smart interventions to an existing built-up area to make it more efficient.
+D) Demolishing an entire city and rebuilding it.
+Answer: C
+18. What is the biggest cybersecurity threat to a Smart City?
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) Hackers turning on a single street light.
+B) The potential for malicious actors to breach the Command and Control Center, disrupting
+critical infrastructure like the power grid or water supply.
+C) Citizens forgetting their Wi-Fi passwords.
+D) Software updates making the city run too fast.
+Answer: B
+19. Why is "Interoperability" a challenge in Smart City infrastructure?
+A) Because all devices are made by the same manufacturer.
+B) Because thousands of devices from different vendors use different proprietary protocols,
+making unified data integration difficult.
+C) Because physical wires cannot connect to wireless devices.
+D) Because cities do not want to share data with themselves.
+Answer: B
+20. A Smart City relies heavily on "Pan-City" initiatives. What is a Pan-City initiative?
+A) An initiative that only affects one specific neighborhood.
+B) A smart solution applied city-wide, such as a city-wide smart transport application or
+intelligent traffic management system.
+C) A project focused only on building new parks.
+D) An initiative to ban vehicles entirely.
+Answer: B
+21. In smart waste management, how are trash bins optimized?
+A) They are made of transparent plastic.
+B) IoT fill-level sensors inside the bins notify garbage trucks to alter their routes to pick up only
+full bins, saving fuel.
+C) They automatically burn the trash inside them.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) They are equipped with loudspeakers.
+Answer: B
+22. Which network technology is deemed essential for the high-density sensor requirements
+of a Smart City?
+A) Dial-up modems.
+B) 5G and Low Power Wide Area Networks (LPWAN) like LoRaWAN or NB-IoT.
+C) 2G GSM networks.
+D) Infrared communication.
+Answer: B
+23. What does "Capacity Building" mean as a challenge for Indian Smart Cities?
+A) Building physically larger stadiums.
+B) Training and upgrading the skills of municipal workers to manage and operate advanced
+digital and IT-based city systems.
+C) Increasing the voltage capacity of transmission lines.
+D) Expanding the physical boundaries of the city.
+Answer: B
+24. Which of the following is an objective of a Smart City regarding local economy?
+A) To discourage new businesses.
+B) To create an environment that attracts investments, fosters innovation, and promotes local
+economic development.
+C) To ban all commercial activities.
+D) To rely entirely on agriculture.
+Answer: B
+25. A core feature of the Smart City power grid is "Resilience". This ensures that:
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) The city goes dark during every storm.
+B) The electrical grid can withstand, quickly adapt to, and rapidly recover from natural disasters
+or cyber-attacks.
+C) The power lines are made of unbreakable rubber.
+D) The city refuses to use renewable energy.
+Answer: B
+Topic 3.2: Intercity Transportation: EV/Metro (ATO, Autonomous,
+Charging)
+26. In modern Metro rail systems, what does CBTC stand for?
+A) Centralized Braking and Traction Control
+B) Communications-Based Train Control
+C) Computerized Battery Train Charging
+D) Continuous Bus Transit Coordination
+Answer: B
+27. What is the primary advantage of a CBTC system in Metro operations?
+A) It uses heavy mechanical levers.
+B) It allows for "moving block" signaling, reducing the safe distance between trains and safely
+increasing passenger throughput (headway).
+C) It requires trains to stop every 10 meters.
+D) It eliminates the need for electricity.
+Answer: B
+28. Automated Train Operation (ATO) is categorized into Grades of Automation (GoA).
+What does GoA Level 4 (GoA 4) signify?
+A) Manual driving with a driver operating the train visually.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Unattended Train Operation (UTO) where starting, stopping, and door operations are fully
+automated without any staff on board.
+C) Semi-automated operation where the driver only presses a button to start the train.
+D) A train driven by passengers.
+Answer: B
+29. Which Grade of Automation (GoA) is characterized by "Driverless Train Operation"
+(DTO), where the train drives itself but a train attendant is on board to handle emergencies
+and door closures?
+A) GoA 1
+B) GoA 2
+C) GoA 3
+D) GoA 4
+Answer: C
+30. How do data-driven operations improve intercity Metro transportation?
+A) By ignoring passenger data.
+B) By using predictive analytics on passenger flow data to dynamically adjust train schedules,
+optimize HVAC systems, and predict maintenance needs.
+C) By running trains empty to save wear and tear.
+D) By deleting all travel logs daily.
+Answer: B
+31. Autonomous driving technology heavily relies on LiDAR. What does LiDAR do?
+A) It measures the battery voltage.
+B) It uses pulsed laser light to create highly precise, high-resolution 3D maps of the surrounding
+environment to detect obstacles.
+C) It is a type of electric motor.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) It controls the air conditioning in the vehicle.
+Answer: B
+32. In autonomous vehicles, "Sensor Fusion" refers to:
+A) Melting two sensors together with heat.
+B) Combining data from multiple different sensors (LiDAR, Radar, Cameras, Ultrasonic) to
+create a more accurate and reliable understanding of the environment.
+C) A nuclear reaction inside the vehicle.
+D) Ignoring all sensor inputs except the camera.
+Answer: B
+33. Electric Vehicle (EV) charging infrastructure is divided into levels. What defines Level
+1 charging?
+A) Using a dedicated 500V DC charger.
+B) Plugging the EV into a standard, standard residential AC wall outlet (e.g., 120V/230V),
+providing very slow charging.
+C) Inductive wireless charging only.
+D) Swapping the battery physically.
+Answer: B
+34. DC Fast Charging (often called Level 3) bypasses which component inside the electric
+vehicle?
+A) The electric motor.
+B) The vehicle's internal On-Board Charger (OBC), delivering direct current straight to the
+battery for rapid charging.
+C) The battery itself.
+D) The steering wheel.
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+35. What is the fundamental scientific principle behind "Wireless EV Charging"?
+A) Ohms Law of Resistance
+B) Faraday's Law of Electromagnetic Induction
+C) Newton's Third Law of Motion
+D) Boyle's Law of Gases
+Answer: B
+36. In static wireless EV charging, power is transferred between two components: a
+transmitter pad and a receiver pad. Where are these located?
+A) Transmitter on the roof, receiver in the sky.
+B) Transmitter buried in/on the ground parking spot, receiver mounted on the undercarriage of
+the EV.
+C) Transmitter in the trunk, receiver on the dashboard.
+D) Transmitter on a wall, receiver on the side door.
+Answer: B
+37. To maximize the efficiency of power transfer across the air gap in wireless charging, the
+system uses:
+A) High-voltage DC directly across the gap.
+B) Magnetic Resonant Coupling, where both the transmitter and receiver coils are tuned to
+resonate at the exact same high frequency.
+C) Standard 50Hz AC frequency.
+D) Microwaves aimed at the car battery.
+Answer: B
+38. Which of the following is a major OPPORTUNITY (advantage) of wireless EV
+charging?
+A) It is currently much cheaper to install than wired chargers.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Unmatched convenience, eliminating the need to physically handle heavy, dirty cables in bad
+weather.
+C) It offers 100% power transfer efficiency with absolutely zero losses.
+D) It charges the car instantly in 5 seconds.
+Answer: B
+39. Which of the following is a major CHALLENGE associated with wireless EV charging?
+A) It cannot be used outdoors.
+B) Sensitivity to misalignment (the car must be parked perfectly over the pad) and slightly lower
+efficiency compared to direct wired charging.
+C) It causes the tires to melt.
+D) It requires the car to be flipped upside down.
+Answer: B
+40. What is "Dynamic Wireless Charging"?
+A) Charging the EV while it is parked in a moving ferry.
+B) Embedding wireless charging coils continuously along a highway lane, allowing the EV to
+charge while it is actively driving over them.
+C) Swapping batteries dynamically at a pit stop.
+D) Charging the car using wind turbines attached to the roof.
+Answer: B
+41. The implementation of Dynamic Wireless Charging could drastically reduce the need
+for:
+A) Windshields on cars.
+B) Massive, heavy, and expensive battery packs in EVs, as the car would constantly receive
+power from the road.
+C) Steering wheels.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) Rubber tires.
+Answer: B
+42. In a Metro rail system, traction power is typically supplied to the trains via:
+A) Small AA batteries.
+B) A Third Rail (DC) or an Overhead Catenary System (AC or DC).
+C) Diesel fuel tanks on every carriage.
+D) Solar panels on the roof of the train.
+Answer: B
+43. What is regenerative braking in EVs and Metro trains?
+A) Braking that slowly regenerates the brake pads.
+B) A mechanism where the electric motor acts as a generator during braking, converting kinetic
+energy back into electrical energy to recharge the battery or feed back into the grid.
+C) A system that uses hydraulic fluid to stop the train.
+D) A method of braking that only works when reversing.
+Answer: B
+44. Automated Train Operation (ATO) systems drastically improve energy efficiency by:
+A) Running the air conditioning at maximum power.
+B) Calculating the most energy-efficient acceleration and braking profiles mathematically, far
+better than a human driver could consistently achieve.
+C) Turning off the lights in the passenger cabins.
+D) Increasing the physical weight of the train.
+Answer: B
+45. What is a "V2G" (Vehicle-to-Grid) system?
+A) A system where the grid powers the vehicle.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) A smart charging infrastructure where EVs can act as mobile energy storage, discharging
+power back to the grid during peak demand hours.
+C) A system where vehicles drag power lines behind them.
+D) A grid exclusively used by flying vehicles.
+Answer: B
+46. Which communication protocol is emerging as the standard for V2G and smart EV
+charging infrastructure?
+A) ISO 9001
+B) ISO 15118
+C) IEEE 802.11
+D) HTML5
+Answer: B
+47. In autonomous driving, what role does Radar play compared to LiDAR?
+A) Radar takes high-resolution color photographs.
+B) Radar is better at detecting the speed and distance of objects in extreme weather (heavy
+rain/fog) where LiDAR light pulses might be scattered.
+C) Radar measures the internal temperature of the car.
+D) Radar provides the internet connection for the car.
+Answer: B
+48. What does "Range Anxiety" refer to in the context of Electric Vehicles?
+A) The fear of driving too fast.
+B) The driver's fear that the EV battery will deplete before reaching a destination or a suitable
+charging station.
+C) The fear that the radio range is too short.
+D) The fear of parking the car in a garage.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+49. An efficient charging infrastructure for a Smart City must include "Smart Chargers".
+What makes them "smart"?
+A) They can speak multiple languages.
+B) They are internet-connected, allowing for remote monitoring, payment processing, and
+dynamic load balancing to prevent overloading the local power grid.
+C) They charge cars without using electricity.
+D) They are physically impossible to break.
+Answer: B
+50. What is "Load Balancing" in a multi-charger EV station?
+A) Ensuring all cars weigh exactly the same.
+B) The smart system dynamically distributing the available electrical capacity among multiple
+charging EVs to prevent tripping the main circuit breaker.
+C) Balancing the physical charging cables so they don't touch the ground.
+D) Charging the heaviest car first.
+Answer: B
+51. Which of the following is a barrier to the widespread adoption of Autonomous Vehicles
+(AVs) in intercity transport?
+A) AVs are too slow to be useful.
+B) Complex legal liability issues, lack of standardized regulations, and unpredictable human
+behavior on roads.
+C) AVs do not use electricity.
+D) AVs cannot turn left.
+Answer: B
+52. In Metro traction systems, a typical Third Rail operates at which voltage level?
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) 12 Volts DC
+B) 750 Volts DC (or up to 1500V DC)
+C) 25,000 Volts AC
+D) 400,000 Volts AC
+Answer: B
+53. In an EV, the On-Board Charger (OBC) is responsible for:
+A) Pumping air into the tires.
+B) Converting incoming AC power from a Level 1 or Level 2 charger into DC power to safely
+charge the battery pack.
+C) Converting DC power from the battery to AC power for the motor.
+D) Cooling the passengers.
+Answer: B
+54. Foreign Object Debris (FOD) detection is a critical safety feature in which EV charging
+technology?
+A) Standard AC wall charging.
+B) Wireless Inductive Charging (to prevent metal objects on the pad from heating up and
+catching fire via eddy currents).
+C) DC Fast charging cables.
+D) Battery swapping stations.
+Answer: B
+55. How do data-driven operations assist in EV fleet management (like electric buses)?
+A) By making the buses heavier.
+B) By monitoring battery State of Charge (SoC), traffic patterns, and terrain to optimally
+dispatch buses and schedule them for charging without disrupting service.
+C) By removing the need for a steering wheel.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) By turning off the GPS trackers.
+Answer: B
+Topic 3.3: Comparison Between Various Types of Electric Vehicles
+56. What does BEV stand for?
+A) Bi-Energy Vehicle
+B) Battery Electric Vehicle
+C) Boosted Engine Vehicle
+D) Basic Electric Van
+Answer: B
+57. A vehicle that relies 100% on chemical energy stored in rechargeable battery packs and
+has no internal combustion engine is a:
+A) HEV
+B) BEV
+C) PHEV
+D) FCEV
+Answer: B
+58. What does HEV stand for?
+A) High Efficiency Vehicle
+B) Hybrid Electric Vehicle
+C) Heavy Electric Vehicle
+D) Hydrogen Engine Vehicle
+Answer: B
+59. How does a standard HEV (Hybrid Electric Vehicle) typically recharge its battery?
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) By plugging it into a wall outlet.
+B) Through regenerative braking and by the internal combustion engine (ICE) acting as a
+generator; it cannot be plugged in.
+C) By utilizing solar panels on the roof entirely.
+D) It never recharges the battery; it replaces it.
+Answer: B
+60. What is a PHEV?
+A) Petroleum Hybrid Electric Vehicle
+B) Plug-in Hybrid Electric Vehicle
+C) Passenger Heavy Electric Vehicle
+D) Primary Hydrogen Electric Vehicle
+Answer: B
+61. What distinguishes a PHEV from a standard HEV?
+A) A PHEV does not have a gas engine.
+B) A PHEV has a larger battery that can be explicitly plugged into an external electrical outlet to
+charge, allowing for significant electric-only driving range.
+C) A PHEV uses three different fuel types.
+D) A PHEV only works in reverse.
+Answer: B
+62. An FCEV utilizes which element as its primary fuel source to generate electricity on
+board?
+A) Liquid Nitrogen
+B) Hydrogen gas
+C) Compressed Natural Gas (CNG)
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) Plutonium
+Answer: B
+63. How does a Fuel Cell Electric Vehicle (FCEV) generate electricity?
+A) By burning hydrogen in a combustion engine.
+B) By passing hydrogen and oxygen through a fuel cell stack, producing electricity and water
+vapor as the only byproduct.
+C) By spinning a mechanical turbine with compressed air.
+D) By absorbing static electricity from the road.
+Answer: B
+64. Which electric motor type is highly preferred in high-performance EVs due to its
+extremely high efficiency, high torque density, and compact size?
+A) Brushed DC Motor
+B) Permanent Magnet Synchronous Motor (PMSM)
+C) Single-phase AC Induction Motor
+D) Universal Motor
+Answer: B
+65. What is a major advantage of Permanent Magnet Synchronous Motors (PMSM)
+used in EVs?
+A) They are very heavy and bulky.
+B) They rely on expensive Rare Earth metals (like Neodymium) which have volatile supply
+chains and environmental mining concerns.
+C) They are highly inefficient.
+D) They cannot be used for regenerative braking.
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+66. Which famous EV manufacturer historically popularized the use of 3-Phase AC
+Induction Motors before shifting toward reluctance motors?
+A) Ford
+B) Tesla
+C) Toyota
+D) Nissan
+Answer: B
+67. What is a major advantage of the AC Induction Motor over the PMSM for electric
+vehicles?
+A) It has a higher peak efficiency than PMSM.
+B) It does not require any expensive Rare Earth permanent magnets, making it cheaper and less
+supply-chain dependent.
+C) It is significantly smaller than a PMSM.
+D) It operates on Direct Current (DC) natively.
+Answer: B
+68. BLDC (Brushless DC) motors are extensively used in which type of Indian EV market?
+A) Electric commercial airplanes.
+B) Two-wheelers (e-scooters) and three-wheelers (e-rickshaws) as hub motors directly inside the
+wheel.
+C) High-speed luxury sports cars.
+D) Massive freight trains.
+Answer: B
+69. Comparing efficiency: An Internal Combustion Engine (ICE) vehicle typically converts
+about 20-30% of fuel energy to the wheels. What is the typical "grid-to-wheels" efficiency
+of a BEV?
+A) 10 - 15%
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) 60 - 75% or more
+C) 30 - 40%
+D) 100%
+Answer: B
+70. What is the most dominant battery chemistry used in modern electric passenger
+vehicles?
+A) Lead-Acid
+B) Lithium-Ion (Li-ion)
+C) Nickel-Metal Hydride (NiMH)
+D) Alkaline
+Answer: B
+71. Why are Lithium-ion batteries preferred over older Lead-Acid or NiMH batteries for
+EVs?
+A) They are heavier and more stable.
+B) They offer a significantly higher "Energy Density" (storing more energy in less weight/space)
+and lack a "memory effect".
+C) They are cheaper to produce than Lead-Acid.
+D) They do not require any electronic management.
+Answer: B
+72. Within Li-ion batteries, what does the LFP chemistry stand for?
+A) Lithium Fluoride Polymer
+B) Lithium Iron Phosphate (LiFePO4)
+C) Lead Free Power
+D) Liquid Fuel Propulsion
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+73. What is a major advantage of LFP batteries compared to NMC (Nickel Manganese
+Cobalt) batteries?
+A) LFP has a much higher energy density.
+B) LFP offers excellent thermal stability (less prone to catching fire), a longer cycle life, and
+avoids controversial metals like Cobalt.
+C) LFP charges instantly in 1 second.
+D) LFP batteries weigh absolutely nothing.
+Answer: B
+74. What is the critical electronic system that monitors cell voltages, temperatures, and
+balances the cells in an EV battery pack to ensure safety and longevity?
+A) The Inverter
+B) The Battery Management System (BMS)
+C) The On-Board Charger (OBC)
+D) The Traction Controller
+Answer: B
+75. What does "State of Charge" (SoC) mean in an EV?
+A) The fee required to use a public charger.
+B) The current level of energy remaining in the battery, expressed as a percentage (similar to a
+fuel gauge).
+C) The physical condition of the battery casing.
+D) The state of the electric motor's magnets.
+Answer: B
+76. What does "State of Health" (SoH) indicate for an EV battery?
+A) How clean the battery is physically.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) A measure of the battery's current maximum capacity and performance compared to when it
+was brand new, indicating degradation over time.
+C) The current operating temperature of the battery.
+D) The software version of the BMS.
+Answer: B
+77. In EV powertrain technology, what component sits between the DC Battery Pack and
+the AC Traction Motor?
+A) The Differential
+B) The Traction Inverter (converts DC to variable-frequency AC)
+C) The Radiator
+D) The Exhaust Pipe
+Answer: B
+78. "Solid-State Batteries" are considered the holy grail of future EV tech. What makes
+them "solid-state"?
+A) The entire battery is made of solid lead.
+B) They replace the flammable liquid electrolyte found in current Li-ion batteries with a solid
+conductive material (like ceramic or polymer), drastically improving safety and energy density.
+C) They are frozen in blocks of ice.
+D) They do not have chemical reactions.
+Answer: B
+79. Which type of vehicle completely eliminates "Range Anxiety" by using liquid fuel but
+still benefits from the extreme efficiency and torque of an electric motor?
+A) BEV
+B) HEV / PHEV
+C) A bicycle
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) A pure diesel truck
+Answer: B
+80. In an HEV, what is a "Parallel Hybrid" architecture?
+A) The engine and the electric motor are mounted on the roof.
+B) Both the internal combustion engine and the electric motor are mechanically connected to the
+transmission and can independently or jointly drive the wheels.
+C) The engine only charges the battery and never touches the wheels.
+D) The car has two steering wheels.
+Answer: B
+81. In an HEV, what is a "Series Hybrid" architecture?
+A) The batteries are wired in series.
+B) The internal combustion engine strictly acts as a generator to provide electricity to the
+battery/electric motor; only the electric motor turns the wheels.
+C) The engine and motor take turns driving every 10 miles.
+D) The electric motor only runs the air conditioning.
+Answer: B
+82. E-Rickshaws in India traditionally used Lead-Acid batteries due to low cost, but are
+rapidly shifting to Li-ion because:
+A) Lead-acid batteries are too colorful.
+B) Lead-acid batteries have a very short lifespan (6-9 months), are extremely heavy, and require
+lengthy charging times compared to Li-ion.
+C) Lead-acid batteries produce too much voltage.
+D) Li-ion batteries are heavier, providing better traction.
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Topic 3.4: Smart Home (Features, AI Illumination, Appliances)
+83. What is the fundamental concept of a "Smart Home"?
+A) A house built entirely out of smart glass.
+B) A residence equipped with interconnected devices and appliances that can be controlled
+remotely or automatically via the internet and IoT protocols.
+C) A home that generates its own water.
+D) A house that physically moves to a new location.
+Answer: B
+84. Which of the following represents a "Gateway" or "Hub" in a smart home
+architecture?
+A) A physical wooden door.
+B) A central device (like an Amazon Echo or custom router) that connects localized smart
+devices (using Zigbee/Z-Wave) to the homeowner's Wi-Fi and the Cloud.
+C) A standard lightbulb.
+D) The main water valve.
+Answer: B
+85. What role does AI play in a Smart Home Illumination system?
+A) It physically changes the lightbulbs when they burn out.
+B) It analyzes user behavior, occupancy patterns, and natural light levels to automatically predict
+and adjust lighting, saving energy without manual input.
+C) It turns the lights off permanently to save 100% of the energy.
+D) It forces the lights to blink continuously.
+Answer: B
+86. What is "Circadian Rhythm Lighting" in advanced smart homes?
+A) Lights that blink to the rhythm of music.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Tunable LED lighting that automatically shifts color temperature throughout the day (cool
+blue in the morning, warm amber at night) to mimic the sun and support human biological sleep
+cycles.
+C) Lights that only turn on in a perfect circle.
+D) Lights that measure the heartbeat of the occupants.
+Answer: B
+87. In smart illumination, what does "Daylight Harvesting" mean?
+A) Putting solar panels on the roof.
+B) Using photosensors to measure incoming sunlight and automatically dimming the indoor
+artificial lights to maintain a constant, optimal light level, thereby saving energy.
+C) Keeping windows open all night.
+D) Forcing residents to work outside.
+Answer: B
+88. An advancement in modern luminaires is "PoE Lighting". What does PoE stand for?
+A) Power over Ethernet
+B) Protocol of Electricity
+C) Panel of Emitters
+D) Pulse output Energy
+Answer: A
+89. What is the primary advantage of PoE Lighting in a smart building?
+A) It uses high-voltage 230V AC lines.
+B) A single standard Ethernet cable provides both low-voltage DC power to the LED and a highspeed data connection for control and sensor feedback.
+C) It eliminates the need for lightbulbs.
+D) It prevents the use of LED technology.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+90. Which digital lighting control protocol is widely used as a standard for addressing
+individual or groups of smart luminaires in commercial and smart home setups?
+A) HTTP
+B) DALI (Digital Addressable Lighting Interface)
+C) SMTP
+D) POP3
+Answer: B
+91. In a smart appliance block diagram, which component acts as the "Brain" processing
+the Wi-Fi signals and deciding what the appliance should do?
+A) The mechanical switch.
+B) The Microcontroller Unit (MCU) / IoT Chip (like ESP8266 or ESP32).
+C) The power cord.
+D) The thermal fuse.
+Answer: B
+92. To safely switch a high-voltage 230V AC home appliance (like a heater) using a 3.3V
+IoT microcontroller, what component is typically used in the circuit?
+A) A direct copper wire connection.
+B) An Electromechanical Relay or a Solid-State Triac.
+C) A capacitor.
+D) A step-up transformer.
+Answer: B
+93. What is the purpose of an "Optocoupler" (Optoisolator) in a smart home control
+circuit?
+A) To provide light for the room.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) To provide electrical isolation between the fragile low-voltage digital control circuit and the
+dangerous high-voltage AC load circuit, transferring the signal via light.
+C) To amplify the audio signal of a smart speaker.
+D) To connect to the Wi-Fi network.
+Answer: B
+94. Which wireless communication protocol is famous in smart home appliance control for
+creating a low-power "Mesh Network"?
+A) Standard 5GHz Wi-Fi
+B) Zigbee
+C) AM Radio
+D) 5G Cellular
+Answer: B
+**95. A "Smart Plug" fundamentally consists of a Wi-Fi microcontroller, a power supply circuit,
+a relay, and often: **
+A) A diesel generator.
+B) A current/voltage monitoring IC to report real-time energy consumption back to the app.
+C) A water pump.
+D) A camera.
+Answer: B
+96. In Smart Home HVAC (Heating, Ventilation, and Air Conditioning) control, what is a
+"Smart Thermostat"?
+A) A thermostat that can only be adjusted physically.
+B) An internet-connected thermostat that learns the home's thermal profile, tracks resident
+location (geofencing), and optimizes heating/cooling to slash energy bills.
+C) A thermometer that reads books.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) A thermostat that stays at exactly 20°C forever.
+Answer: B
+97. How does PWM (Pulse Width Modulation) work in smart LED illumination control?
+A) It changes the voltage of the supply constantly.
+B) It rapidly turns the LED fully on and fully off at a high frequency; changing the ratio of "ontime" to "off-time" seamlessly dims the perceived light without shifting the color.
+C) It adds physical filters in front of the light.
+D) It changes the physical width of the LED chip.
+Answer: B
+98. What is "Geofencing" in smart home automation?
+A) Building a physical electric fence around the property.
+B) Using the GPS location of the homeowner's smartphone to trigger automated events, like
+turning on the AC or unlocking the door when they enter a virtual boundary near their house.
+C) Blocking neighbor's Wi-Fi signals.
+D) Keeping the home hidden from Google Maps.
+Answer: B
+**99. A smart washing machine utilizes sensors and AI to: **
+A) Wash clothes without water.
+B) Automatically detect the weight and fabric type of the load, adjusting the water volume,
+detergent dispensing, and wash cycle time for maximum efficiency.
+C) Send emails to the clothes manufacturer.
+D) Run continuously 24/7.
+Answer: B
+**100. In a smart lighting block diagram, the component that converts standard AC mains power
+into the regulated DC power required by the LEDs and the microcontroller is the: **
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) LED Driver / Switched-Mode Power Supply (SMPS)
+B) Relay
+C) Antenna
+D) Heat Sink
+Answer: A
+101. Which of the following is a major privacy/security challenge of Smart Homes?
+A) The lights being too bright.
+B) Hackers gaining access to unsecured IoT cameras, smart locks, or monitoring behavioral data
+if the home network is compromised.
+C) Smart appliances refusing to work.
+D) The home physically relocating.
+Answer: B
+102. Voice assistants (like Alexa or Google Assistant) integrate into the smart home block
+diagram by providing:
+A) Physical mechanical power.
+B) A Natural Language Processing (NLP) user interface that translates spoken commands into
+digital API requests sent to the smart appliance clouds.
+C) A backup battery source.
+D) Wi-Fi signals directly to the power lines.
+Answer: B
+103. Which feature of a modern smart refrigerator demonstrates an advancement in
+appliance automation?
+A) Having a physical handle.
+B) Internal cameras and AI image recognition to track inventory, warn about expiring food, and
+automatically order groceries online.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Keeping food warm instead of cold.
+D) Operating without electricity.
+Answer: B
+104. What does "IFTTT" stand for, a concept heavily used in smart home automation
+logic?
+A) Internet For The Things Today
+B) If This Then That (a simple conditional logic platform linking different smart services
+together)
+C) Integrated Frequency Transmission To Terminals
+D) Internal Firewall Testing Technical Tool
+Answer: B
+105. In a smart home, what is a "Scene" or "Routine"?
+A) A dramatic play performed in the living room.
+B) A pre-programmed command that triggers multiple devices simultaneously (e.g., a
+"Goodnight" scene locks the doors, turns off lights, and lowers the thermostat).
+C) The wallpaper on the smart TV.
+D) The physical layout of the furniture.
+Answer: B
+106. Advanced smart luminaires can feature "Tunable White" technology. This is achieved
+by:
+A) Painting the bulb white.
+B) Mixing the output of separate warm-white and cool-white LED chips inside the same fixture,
+varying their relative intensity via the microcontroller.
+C) Using a mechanical shutter.
+D) Heating the LED up until it changes color physically.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+107. Which component is absolutely necessary if a user wants to control a Bluetooth-only
+smart lock while they are away at work?
+A) A longer Bluetooth antenna.
+B) A Wi-Fi/Bluetooth Gateway hub plugged in inside the house to bridge the local Bluetooth
+signal to the remote internet cloud.
+C) A new smartphone.
+D) They cannot control it; Bluetooth only works worldwide.
+Answer: B
+108. Smart appliance control panels often use "Capacitive Touch" buttons instead of
+mechanical ones. How do they work?
+A) They measure the physical force of a push.
+B) They detect the slight change in electrical capacitance caused by the proximity of a human
+finger.
+C) They use lasers to see the finger.
+D) They read the fingerprint of the user.
+Answer: B
+109. What is the role of an IoT "Dashboard" app on a user's smartphone?
+A) To drive the car.
+B) To provide a centralized graphical user interface (GUI) to monitor sensor statuses and
+manually toggle actuators across the entire smart home.
+C) To physically connect to the electrical panel.
+D) To increase the voltage of the house.
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Topic 3.5: Renewable Energy (Role, Opportunities, Government
+Policies)
+110. What is the primary "Role" of Renewable Energy in the context of a Smart City?
+A) To increase the city's dependence on imported coal.
+B) To decarbonize the energy grid, ensure local energy security, and provide clean power for
+electrified transportation and smart infrastructure.
+C) To make the city noisier.
+D) To generate radioactive waste.
+Answer: B
+111. Which renewable technology is most highly adaptable and widely promoted for
+decentralized integration within crowded urban Smart Cities?
+A) Massive Offshore Wind Farms
+B) Rooftop Solar Photovoltaic (PV) systems
+C) Large-scale Hydroelectric Dams
+D) Geothermal drilling
+Answer: B
+112. What does BIPV stand for, a major opportunity for smart city architecture?
+A) Basic Integrated Power Voltage
+B) Building-Integrated Photovoltaics (using solar panels that double as building materials like
+windows, roofs, or facades)
+C) Bi-directional Independent Power Vector
+D) Battery Integrated Physical Vault
+Answer: B
+113. In India, what is the JNNSM?
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) Joint National Nuclear Standard Mission
+B) Jawaharlal Nehru National Solar Mission (a major initiative to promote solar power in India)
+C) Justice Network for National Smart Meters
+D) Joint Network of New Smart Machines
+Answer: B
+114. Which government policy explicitly mandates that a certain percentage of electricity
+purchased by distribution companies (DISCOMs) must come from renewable sources?
+A) Gross Domestic Product (GDP)
+B) Renewable Purchase Obligation (RPO)
+C) Goods and Services Tax (GST)
+D) Foreign Direct Investment (FDI)
+Answer: B
+115. How do REC (Renewable Energy Certificate) markets support renewable energy?
+A) They are paper certificates given as an award to citizens.
+B) They act as a tradable market instrument; green energy producers can sell RECs to
+organizations needing to meet their Renewable Purchase Obligations (RPO) but lacking their
+own green generation.
+C) They are coupons for free electricity.
+D) They are permits required to burn coal.
+Answer: B
+116. What is the PM-KUSUM scheme initiated by the Government of India primarily
+aimed at?
+A) Funding metro rails in mega cities.
+B) Promoting solar energy in the agriculture sector by subsidizing standalone solar agriculture
+pumps and grid-connected solar power plants for farmers.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Building nuclear reactors.
+D) Subsidizing petrol prices for farmers.
+Answer: B
+117. How does "Net Metering" policy encourage urban citizens to adopt rooftop solar?
+A) By charging them a heavy tax for having solar panels.
+B) By allowing them to export excess solar electricity back to the grid during the day, which
+spins the meter backward, earning them credits against their night-time consumption.
+C) By disconnecting them from the grid completely.
+D) By forcing them to buy new appliances.
+Answer: B
+118. What is the difference between "Net Metering" and "Gross Metering"?
+A) They are identical terms.
+B) In Net Metering, the consumer is billed only for the "net" difference between import and
+export. In Gross Metering, all generated solar is sold to the grid at a fixed tariff, and all
+consumed power is bought at retail rates.
+C) Gross metering requires a massive physical meter.
+D) Net metering is illegal in India.
+Answer: B
+119. A major "Opportunity" of integrating renewable energy into smart cities using Smart
+Grids is the creation of VPPs. What is a VPP?
+A) Very Private Power
+B) Virtual Power Plant (aggregating thousands of decentralized rooftop solar and battery systems
+to act as a single, dispatchable power plant to stabilize the grid)
+C) Vertical Power Pole
+D) Visual Power Presentation
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+120. Which central government agency in India is specifically responsible for the research,
+development, and deployment of renewable energy policies?
+A) Ministry of Defence (MoD)
+B) Ministry of New and Renewable Energy (MNRE)
+C) Ministry of Railways
+D) Ministry of Finance
+Answer: B
+121. What is the role of a "Feed-in Tariff" (FiT) policy?
+A) To charge consumers for eating food.
+B) To offer a guaranteed, long-term, fixed-price contract to renewable energy producers for
+every unit of electricity they feed into the grid, ensuring investment security.
+C) To tax renewable energy at a higher rate.
+D) To limit the amount of solar power a house can generate.
+Answer: B
+122. In the context of government policies, what is "Viability Gap Funding" (VGF)?
+A) A fine for companies that fail to meet targets.
+B) A capital subsidy provided by the government to make infrastructure projects (like large solar
+parks) commercially viable when they are economically justified but fall short of financial
+viability.
+C) Funding used specifically to dig gaps in the road.
+D) A tax on foreign imported panels.
+Answer: B
+123. The "Green Energy Corridor" project in India is primarily aimed at:
+A) Painting transmission towers green.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) Creating dedicated high-voltage transmission infrastructure to smoothly evacuate massive
+amounts of renewable energy from resource-rich states to load centers across the country.
+C) Planting trees along the highway.
+D) Developing a new type of green fuel for cars.
+Answer: B
+124. Why are state-level policies often required alongside central policies for renewable
+energy in India?
+A) Because the central government has no authority.
+B) Because "Electricity" is a concurrent subject in the Indian Constitution, and state regulatory
+commissions (SERCs) must design specific tariffs, net-metering rules, and grid codes suited to
+their local DISCOMs.
+C) Because states use different types of electrons.
+D) Because the central government banned solar power.
+Answer: B
+125. Waste-to-Energy (WtE) is a renewable opportunity highly relevant to Smart Cities.
+What does it involve?
+A) Throwing energy into the garbage.
+B) Generating electricity or heat through the controlled incineration or biomethanation of
+municipal solid waste, solving both garbage and energy problems.
+C) Using old batteries to power flashlights.
+D) Leaving waste in landfills to decompose naturally.
+Answer: B
+126. A challenge of heavy renewable integration (like solar) into the smart city grid is "The
+Duck Curve". What does this refer to?
+A) The shape of the solar panels.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) A graph showing the severe imbalance between peak solar generation at midday (causing a
+deep drop in net grid demand) and the massive, rapid ramp-up required by fossil plants when the
+sun sets and evening demand spikes.
+C) A specific brand of wind turbine.
+D) The flight path of migratory birds.
+Answer: B
+127. How does policy intervention solve the "Duck Curve" challenge?
+A) By banning solar panels.
+B) By incentivizing Battery Energy Storage Systems (BESS) and implementing Time-of-Use
+(TOU) tariffs to shift demand to midday and store excess solar for the evening.
+C) By building more coal plants to run 24/7.
+D) By forcing citizens to sleep during the day.
+Answer: B
+128. What is the primary role of Biogas/Biomass in a smart city's renewable portfolio?
+A) It serves as a decorative element.
+B) It utilizes sewage and organic urban waste to produce dispatchable, base-load green energy,
+complementing intermittent solar and wind.
+C) It is used exclusively to fuel airplanes.
+D) It replaces all drinking water.
+Answer: B
+129. The concept of "Prosumers" is actively encouraged by modern renewable government
+policies. A Prosumer is someone who:
+A) Only consumes energy aggressively.
+B) Both produces green energy (e.g., rooftop solar) and consumes energy, actively interacting
+with the smart grid.
+C) Refuses to pay their electricity bill.
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) Works at a power plant.
+Answer: B
+130. State Solar Policies typically offer which of the following incentives to boost
+commercial adoption?
+A) Mandatory jail time for not installing solar.
+B) Exemptions from electricity duty, cross-subsidy surcharges, and wheeling charges for captive
+solar power generation.
+C) A ban on connecting to the main grid.
+D) Doubling the cost of property taxes.
+Answer: B
+131. The "FAME India" scheme (Faster Adoption and Manufacturing of (Hybrid &)
+Electric Vehicles) indirectly boosts the renewable sector because:
+A) EVs burn coal directly.
+B) A massive influx of EVs creates a massive demand for electricity, which policies mandate
+must increasingly be met by renewable charging infrastructure to achieve true zero-emissions.
+C) It bans the manufacturing of batteries.
+D) It forces EVs to run on diesel when the battery is low.
+Answer: B
+132. What is "Islanding" capability, an opportunity provided by integrating renewables
+and batteries at a community level?
+A) Physically cutting the community off with a moat of water.
+B) The ability of a smart neighborhood microgrid to disconnect from the failing main city grid
+and independently sustain power using its local solar and batteries.
+C) Forcing the community to rely entirely on the main grid.
+D) Shutting down the entire city grid.
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+133. Which international alliance, co-founded by India, aims to massively scale up solar
+energy deployment globally and reduce the cost of solar technology?
+A) The United Nations Security Council
+B) The International Solar Alliance (ISA)
+C) The World Health Organization
+D) The Global Coal Coalition
+Answer: B
+134. Which of the following is a strict technical challenge for integrating urban rooftop
+solar into the existing distribution grid?
+A) It makes the roofs look ugly.
+B) The existing local distribution transformers and lines were designed for one-way power flow
+and may suffer voltage stability issues from severe two-way solar power injection.
+C) Solar electricity travels slower than coal electricity.
+D) It drains power out of the houses.
+Answer: B
+135. Ultimately, the integration of Renewable Energy in a Smart City requires a shift from
+a centralized, rigid power system to a:
+A) Singular, fossil-fuel dominated system.
+B) Decentralized, flexible, data-driven, and highly resilient smart grid ecosystem.
+C) Fully manual, non-digital power grid.
+D) System completely devoid of any electrical transmission.
+Answer: B

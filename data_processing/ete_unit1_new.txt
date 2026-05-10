@@ -1,0 +1,1053 @@
+Unit 1: Digitalization beyond Automation
+Topic 1.1: Industrial Revolutions (Versions 1.0, 2.0, 3.0 and 4.0)
+1. What was the primary driving force behind the First Industrial Revolution (Industry
+1.0)?
+A) Electricity
+B) Steam and water power
+C) Computers and IT
+D) Cyber-Physical Systems
+Answer: B
+2. In which century did the First Industrial Revolution primarily take place?
+A) 16th Century
+B) 18th Century
+C) 20th Century
+D) 21st Century
+Answer: B
+3. What was the defining technological advancement that drove Industry 2.0?
+A) The mechanical loom
+B) The internet
+C) Electrical energy and mass production
+D) Artificial Intelligence
+Answer: C
+4. The concept of the "Assembly Line" is most strongly associated with which industrial
+revolution?
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) Industry 1.0
+B) Industry 2.0
+C) Industry 3.0
+D) Industry 4.0
+Answer: B
+5. Who is famously known for pioneering the use of assembly lines in mass production
+during Industry 2.0?
+A) James Watt
+B) Nikola Tesla
+C) Henry Ford
+D) Alan Turing
+Answer: C
+6. Which industrial revolution was driven by the introduction of computers, IT systems,
+and early automation?
+A) Industry 1.0
+B) Industry 2.0
+C) Industry 3.0
+D) Industry 4.0
+Answer: C
+7. The invention and widespread use of the Programmable Logic Controller (PLC) was a
+hallmark of:
+A) Industry 1.0
+B) Industry 2.0
+C) Industry 3.0
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) Industry 5.0
+Answer: C
+8. What is the central driving force behind the Fourth Industrial Revolution (Industry
+4.0)?
+A) Steam engines
+B) Cyber-Physical Systems, IoT, and interconnected networks
+C) The telegraph
+D) Mechanization of agriculture
+Answer: B
+9. Which industrial revolution marks the transition from purely mechanical and analog
+electronic technology to digital electronics?
+A) Industry 1.0
+B) Industry 2.0
+C) Industry 3.0
+D) Industry 4.0
+Answer: C
+10. The term "Industry 4.0" originally originated from a high-tech strategy project of
+which country's government?
+A) United States
+B) Japan
+C) Germany
+D) China
+Answer: C
+11. Industry 1.0 brought mechanization. What did Industry 4.0 bring?
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) Electrification
+B) Digitalization and interconnectivity
+C) Manual craftsmanship
+D) Steam-powered robotics
+Answer: B
+12. Which of the following best describes the progression of the four industrial revolutions?
+A) Mechanization -> Electrification -> Automation -> Interconnectivity
+B) Electrification -> Automation -> Mechanization -> Interconnectivity
+C) Interconnectivity -> Mechanization -> Electrification -> Automation
+D) Automation -> Electrification -> Interconnectivity -> Mechanization
+Answer: A
+13. In the context of industrial history, the shift from bespoke, custom-made goods to
+standardized goods was the result of:
+A) Industry 1.0
+B) Industry 2.0
+C) Industry 3.0
+D) Industry 4.0
+Answer: B
+14. What enabled the highly automated operations seen in Industry 3.0?
+A) Coal
+B) Microprocessors and telecommunications
+C) Steam turbines
+D) Mechanical gears
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+15. In Industry 4.0, machines are able to communicate with each other directly to optimize
+production. This concept is known as:
+A) M2M (Machine-to-Machine) communication
+B) P2P (Peer-to-Peer) sharing
+C) B2B (Business-to-Business) networking
+D) Human-to-Machine interaction
+Answer: A
+16. Which revolution allowed manufacturing to move away from being strictly located next
+to rivers or water sources?
+A) Industry 1.0
+B) Industry 2.0 (due to electrical power grids)
+C) Industry 3.0
+D) Industry 4.0
+Answer: B
+17. The widespread use of industrial robotics for repetitive tasks on assembly lines became
+standard during:
+A) Industry 1.0
+B) Industry 2.0
+C) Industry 3.0
+D) Industry 4.0
+Answer: C
+18. What makes Industry 4.0 fundamentally different from Industry 3.0?
+A) Industry 4.0 uses electricity; Industry 3.0 did not
+B) Industry 4.0 integrates physical machines with digital networks, allowing them to make
+decentralized decisions
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Industry 4.0 relies on human muscle power
+D) There is no difference; they are the same
+Answer: B
+19. A "Smart Factory" is the ultimate realization of which industrial revolution?
+A) Industry 1.0
+B) Industry 2.0
+C) Industry 3.0
+D) Industry 4.0
+Answer: D
+20. Which revolution is characterized by the merging of the physical, digital, and biological
+worlds?
+A) Industry 1.0
+B) Industry 2.0
+C) Industry 3.0
+D) Industry 4.0
+Answer: D
+Topic 1.2: Components of Industrial Revolution 4.0
+21. In the context of Industry 4.0, what does "Digitization" strictly refer to?
+A) Moving physical objects
+B) The process of converting physical information into digital formats (e.g., converting a paper
+manual into a PDF)
+C) Generating electricity
+D) Hiring more human workers
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+22. What is a Cyber-Physical System (CPS)?
+A) A video game console
+B) A system where physical mechanical components are monitored, controlled, and integrated by
+advanced computing algorithms and networks
+C) A purely mechanical machine with no electronics
+D) A database stored entirely in the cloud
+Answer: B
+23. Which of the following is a core component of a Cyber-Physical System?
+A) Actuators and Sensors
+B) Steam engines
+C) Waterwheels
+D) Paper ledgers
+Answer: A
+24. What role does the Internet of Things (IoT) play in Industry 4.0?
+A) It isolates computers from the network
+B) It provides the connectivity layer that allows physical machines, sensors, and devices to
+communicate and exchange data over the internet
+C) It replaces all physical machines with software
+D) It forces workers to use paper
+Answer: B
+25. Cloud Computing in Industry 4.0 provides manufacturing facilities with:
+A) Localized, hardware-bound storage that cannot be scaled
+B) On-demand availability of computer system resources, data storage, and computing power
+without direct active management by the user
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Weather forecasting for the factory roof
+D) Analog communication channels
+Answer: B
+26. What is "Cloud Manufacturing"?
+A) Manufacturing products out of water vapor
+B) A new manufacturing paradigm that transforms physical manufacturing resources into
+services shared over the cloud (Manufacturing-as-a-Service)
+C) Building factories in high-altitude areas
+D) Manufacturing that only occurs on airplanes
+Answer: B
+27. Big Data Analytics is heavily used in Industry 4.0 to:
+A) Delete unnecessary files
+B) Process the massive amounts of data generated by IoT sensors to identify patterns, optimize
+processes, and predict failures
+C) Print large posters for the factory
+D) Slow down the manufacturing line
+Answer: B
+28. How does Cloud Computing aid smaller electrical engineering firms?
+A) By requiring them to buy massive on-premise servers
+B) By allowing them to access powerful, scalable computing resources on a pay-as-you-go basis
+without heavy capital investment
+C) By disconnecting them from global markets
+D) By removing their ability to store data
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+29. Which component acts as the "bridge" between the physical hardware on the factory
+floor and the digital analytics in the cloud?
+A) The power supply
+B) The Industrial Internet of Things (IIoT) gateway/sensors
+C) The mechanical conveyor belt
+D) The factory roof
+Answer: B
+30. In Cloud Manufacturing, physical CNC machines or 3D printers can be:
+A) Accessed and commanded remotely over the internet by customers globally
+B) Operated only via manual hand-cranks
+C) Powered by steam
+D) Eliminated completely
+Answer: A
+31. What is "Edge Computing" in the context of IoT and Cloud?
+A) Processing data purely on centralized cloud servers far away
+B) Processing data locally near the sensors (at the edge of the network) to reduce latency and
+save bandwidth before sending critical summaries to the cloud
+C) Computing using analog slide rules
+D) Pushing machines to the edge of the factory floor
+Answer: B
+32. Why is Edge Computing often necessary alongside Cloud Computing in Industry 4.0?
+A) Because the cloud is too fast
+B) Because some electrical systems (like motor fault protection) require millisecond-level
+response times that a distant cloud server cannot guarantee
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Because edge computing consumes more power
+D) Because the cloud cannot store data
+Answer: B
+33. The integration of CPS, IoT, and Cloud Computing leads to the creation of:
+A) A Digital Twin
+B) A purely analog system
+C) A mechanical loom
+D) An assembly line
+Answer: A
+34. What is a "Digital Twin"?
+A) A spare physical machine kept in storage
+B) A virtual, real-time replica of a physical asset, process, or system used for simulation,
+monitoring, and optimization
+C) A factory that produces twin products
+D) A backup hard drive
+Answer: B
+35. If an electrical engineer simulates the thermal stress of a new motor under heavy load
+using a virtual model synced with real-world sensor data, they are using:
+A) A Digital Twin
+B) A physical prototype
+C) Cloud Manufacturing
+D) A steam engine
+Answer: A
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+36. Which of the following is an example of "Digitalization" (as opposed to mere
+digitization)?
+A) Scanning a document
+B) Using digital data to entirely restructure and optimize a company's business model and
+manufacturing process
+C) Taking a digital photograph
+D) Typing on a keyboard
+Answer: B
+37. How does IoT improve inventory management in Cloud Manufacturing?
+A) By counting items manually
+B) By using RFID and smart sensors to track raw materials and finished goods in real-time
+across the supply chain
+C) By guessing stock levels
+D) By hiding inventory from the cloud
+Answer: B
+38. What is the primary security concern regarding the components of Industry 4.0?
+A) Machines running out of oil
+B) Cybersecurity vulnerabilities due to the massive interconnectivity of physical machines to
+global networks
+C) Workers forgetting their physical keys
+D) Cloud servers taking up too much physical space
+Answer: B
+39. In a Cyber-Physical System, which part is responsible for executing the commands
+received from the digital controller?
+A) The Sensor
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) The Actuator
+C) The Cloud
+D) The Network Router
+Answer: B
+40. Interoperability in Industry 4.0 refers to:
+A) Machines breaking down simultaneously
+B) The ability of different systems, machines, and software from different manufacturers to
+connect, communicate, and share data seamlessly
+C) The inability of machines to work together
+D) Operators working in different factories
+Answer: B
+41. Which cloud service model provides a platform allowing customers to develop, run, and
+manage applications without the complexity of building infrastructure?
+A) SaaS (Software as a Service)
+B) PaaS (Platform as a Service)
+C) IaaS (Infrastructure as a Service)
+D) MaaS (Manufacturing as a Service)
+Answer: B
+42. Which cloud service model provides fully functional applications directly to the enduser over the internet (e.g., Google Workspace)?
+A) SaaS
+B) PaaS
+C) IaaS
+D) DaaS
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: A
+Topic 1.3: Role of 5G, ML, and AI in Industry 4.0
+43. What is the primary advantage of 5G communication over 4G in an industrial setting?
+A) Slower data speeds
+B) Ultra-low latency, massive device connectivity, and much higher bandwidth
+C) It requires physical cables
+D) It uses analog signals
+Answer: B
+44. Which specific 5G feature is crucial for real-time control of fast-moving robotics and
+autonomous vehicles in a smart factory?
+A) eMBB (Enhanced Mobile Broadband)
+B) URLLC (Ultra-Reliable Low Latency Communication)
+C) mMTC (Massive Machine Type Communication)
+D) SMS texting
+Answer: B
+45. What does the mMTC (Massive Machine Type Communication) feature of 5G enable?
+A) High-definition video streaming
+B) The connection of up to a million low-power IoT sensors per square kilometer without
+network congestion
+C) Faster phone calls
+D) The elimination of the cloud
+Answer: B
+46. What is Machine Learning (ML)?
+A) A machine learning to assemble products physically
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) A subset of AI that uses algorithms and statistical models to enable systems to learn from data
+and improve performance without explicit programming
+C) A robot reading a manual
+D) Hardwiring logic gates into a circuit
+Answer: B
+47. In electrical engineering, how is Machine Learning primarily used for motor
+maintenance?
+A) By scheduling maintenance every 30 days regardless of condition
+B) By analyzing vibration, temperature, and current data to predict exactly when a motor will fail
+(Predictive Maintenance)
+C) By turning the motor on and off randomly
+D) By painting the motor
+Answer: B
+48. Artificial Intelligence (AI) in Industry 4.0 refers to:
+A) Machines generating their own electricity
+B) Computer systems capable of performing tasks that typically require human intelligence, such
+as visual perception, speech recognition, and complex decision-making
+C) A mechanical clock
+D) A standard calculator
+Answer: B
+49. How does AI optimize the energy consumption of a smart factory?
+A) By keeping all lights on 24/7
+B) By dynamically analyzing production schedules and energy grid prices to run power-heavy
+tasks during off-peak, cheaper energy hours
+C) By turning off the main power supply permanently
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) By replacing electrical machines with manual labor
+Answer: B
+50. What is "Computer Vision," a prominent AI technology used in smart manufacturing?
+A) A worker wearing glasses
+B) AI systems analyzing digital images or videos from cameras to automatically detect defects in
+products on an assembly line
+C) A screen displaying text
+D) A blind robot
+Answer: B
+51. How does 5G support the implementation of AI and ML?
+A) By slowing down the transfer of data
+B) By providing the massive, instantaneous data pipeline required to send factory floor data to
+cloud AI models and return decisions in real-time
+C) By replacing the AI completely
+D) It does not support AI
+Answer: B
+52. What is "Supervised Learning" in the context of ML?
+A) Learning without any data
+B) Training an algorithm using a dataset that is already labeled with the correct answers (e.g.,
+images labeled as "defective" or "normal")
+C) An algorithm finding hidden patterns in unlabeled data
+D) A robot being watched by a manager
+Answer: B
+53. If an electrical grid uses an ML algorithm to group consumers based on their daily
+power usage patterns without predefined categories, it is using:
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) Supervised Learning
+B) Unsupervised Learning (Clustering)
+C) Reinforcement Learning
+D) Manual sorting
+Answer: B
+54. An AI system that learns to control an HVAC system by receiving "rewards" for saving
+energy and "punishments" for letting the room get too hot is using:
+A) Supervised Learning
+B) Unsupervised Learning
+C) Reinforcement Learning
+D) Deep Learning
+Answer: C
+55. Which of the following tasks is an AI expert system best suited for in an electrical
+distribution grid?
+A) Digging trenches for cables
+B) Automatically rerouting power around a fallen transformer to minimize the outage area within
+milliseconds
+C) Generating electricity
+D) Printing customer bills
+Answer: B
+56. What does "Network Slicing" in 5G allow a factory to do?
+A) Cut fiber optic cables
+B) Create multiple, dedicated virtual networks over the same physical 5G infrastructure, ensuring
+critical machine data is isolated from employee smartphone traffic
+C) Share internet with the entire city
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) Slice data into smaller packets manually
+Answer: B
+57. Without AI and ML, the massive amount of data generated by thousands of IoT sensors
+in a factory would be:
+A) Extremely easy to read manually
+B) Overwhelming and largely useless, as humans cannot process that volume of data to find
+meaningful insights quickly
+C) Automatically deleted
+D) Converted into physical objects
+Answer: B
+58. Which subset of Machine Learning uses complex Artificial Neural Networks with many
+layers to solve highly complex problems like image and voice recognition?
+A) Linear Regression
+B) Deep Learning
+C) Decision Trees
+D) K-Means Clustering
+Answer: B
+59. In the context of 5G, what does "Latency" mean?
+A) The total amount of data downloaded
+B) The time delay it takes for a packet of data to travel from the source to the destination and
+back
+C) The physical distance between towers
+D) The battery life of the device
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+60. A self-driving automated guided vehicle (AGV) navigating a busy warehouse relies
+heavily on the combination of:
+A) Steam power and mechanical gears
+B) 5G (for low-latency communication), IoT (sensors), and AI (for obstacle avoidance and
+routing)
+C) 3G and manual steering
+D) Wi-Fi and human remote control
+Answer: B
+61. What is "Prescriptive Analytics" in AI?
+A) Telling you what happened in the past
+B) Telling you what will happen in the future
+C) Not only predicting a future failure but automatically recommending or executing the specific
+actions needed to prevent it
+D) Writing a prescription for medicine
+Answer: C
+62. How does AI assist in Supply Chain Management within Industry 4.0?
+A) By predicting demand spikes and automatically adjusting raw material orders and
+manufacturing schedules to prevent shortages
+B) By hiding inventory data
+C) By making transportation slower
+D) By eliminating the supply chain
+Answer: A
+Topic 1.4: Industry Revolution 5.0
+63. While Industry 4.0 focuses heavily on automation and machine-to-machine
+communication, Industry 5.0 shifts the focus back to:
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) Coal power
+B) Human-centricity, bringing the human worker back into the center of the production process
+C) Total elimination of the human workforce
+D) Manual, non-digital labor
+Answer: B
+64. Which of the following are the three core pillars of Industry 5.0 according to the
+European Commission?
+A) Profit, Speed, Automation
+B) Human-centricity, Sustainability, and Resilience
+C) AI, Cloud, IoT
+D) Steam, Electricity, Computers
+Answer: B
+65. What is a "Cobot"?
+A) A robot that fights other robots
+B) A Collaborative Robot designed to work safely alongside human workers in a shared
+workspace, assisting them with tasks
+C) A completely autonomous, caged industrial robot
+D) A robot that makes coffee
+Answer: B
+66. How does Industry 5.0 approach the concept of customization?
+A) It promotes strict mass production of identical items
+B) It enables "Mass Personalization," combining the efficiency of automated mass production
+with the human touch needed to create highly customized, bespoke products
+C) It eliminates customization entirely
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+D) It only allows customization if done completely by hand
+Answer: B
+67. What does "Sustainability" mean in the context of Industry 5.0?
+A) Ensuring the factory stays open forever
+B) Designing manufacturing processes that respect planetary boundaries, utilizing circular
+economies, renewable energy, and minimizing waste and emissions
+C) Sustaining high profit margins at all costs
+D) Using non-renewable resources efficiently
+Answer: B
+68. The concept of a "Circular Economy" is a key part of Industry 5.0. What does it entail?
+A) Moving products in a physical circle on the factory floor
+B) Transitioning from a "take-make-dispose" model to one where products are designed for
+reuse, repair, remanufacturing, and recycling
+C) Only trading with neighboring countries
+D) Using round packaging
+Answer: B
+69. What does "Resilience" refer to in Industry 5.0?
+A) The physical strength of the factory walls
+B) The ability of manufacturing systems and supply chains to adapt to and quickly recover from
+massive global disruptions (e.g., pandemics, natural disasters)
+C) The inability to change production schedules
+D) The rigidity of robots
+Answer: B
+70. In Industry 5.0, technology is viewed as:
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) A replacement for human workers
+B) A tool to empower and augment human workers, protecting them from dangerous tasks while
+utilizing their creativity
+C) A necessary evil that should be minimized
+D) The ultimate authority in the factory
+Answer: B
+71. Which previous industrial revolution was heavily criticized for ignoring the
+psychological well-being of workers and environmental impacts, leading to the
+conceptualization of Industry 5.0?
+A) Industry 1.0
+B) Industry 2.0
+C) Industry 4.0
+D) All of the above, but 5.0 specifically aims to correct the technology-first approach of 4.0
+Answer: D
+72. What is ESG, a concept deeply integrated into the goals of Industry 5.0?
+A) Electronic System Guidelines
+B) Environmental, Social, and Governance criteria used to evaluate a company's collective
+conscientiousness
+C) Engineering Standard Grades
+D) Electrical Safety Gear
+Answer: B
+73. In a typical Industry 5.0 scenario, what role does the human play?
+A) Performing heavy lifting and repetitive physical assembly
+B) Providing creative input, complex problem solving, and oversight, while the cobot handles the
+heavy lifting and precise repetition
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Sitting in an office completely disconnected from the factory
+D) None; humans are obsolete
+Answer: B
+74. How does Industry 5.0 handle energy management differently?
+A) By consuming maximum power for speed
+B) By actively prioritizing energy efficiency, integrating deeply with smart grids, and
+maximizing the use of on-site renewable energy sources
+C) By relying solely on fossil fuels
+D) By turning off machines during the day
+Answer: B
+75. "Bio-economy" is a concept emerging in Industry 5.0. It involves:
+A) Building robots that look like humans
+B) Using renewable biological resources from land and sea to produce food, materials, and
+energy, replacing fossil-based materials
+C) Using biometrics for factory security
+D) Making factories out of wood
+Answer: B
+76. Which of the following is true regarding the relationship between Industry 4.0 and
+Industry 5.0?
+A) Industry 5.0 replaces and deletes all Industry 4.0 technology
+B) Industry 5.0 builds upon the technological foundation of Industry 4.0 (IoT, AI, Cloud) but
+shifts the core values towards humanity and the environment
+C) They are completely unrelated
+D) Industry 4.0 is for electrical engineers, Industry 5.0 is for software engineers
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+77. An electrical assembly line where a human uses AR glasses to assemble a complex
+custom control panel, while a robotic arm hands them the exact parts they need safely,
+represents:
+A) Industry 2.0
+B) Industry 3.0
+C) Industry 5.0
+D) Pure Industry 4.0
+Answer: C
+78. Industry 5.0 promotes the idea that workers are an "Investment". In contrast, previous
+revolutions often viewed workers as:
+A) Gods
+B) A "Cost" to be minimized or automated away
+C) Shareholders
+D) Robots
+Answer: B
+79. To achieve "Resilience", an Industry 5.0 supply chain might utilize:
+A) A single, highly optimized supplier in one country
+B) Flexible, modular manufacturing and multiple local suppliers to adapt to sudden border
+closures or material shortages
+C) Massive warehouses holding 10 years of stock
+D) No supply chain at all
+Answer: B
+80. The ultimate goal of Industry 5.0 is to create a manufacturing industry that is:
+A) Faster than light
+B) A driver of societal value and ecological preservation, not just economic profit
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Completely run by AI
+D) Based entirely in virtual reality
+Answer: B
+Topic 1.5: IoT Principle and Features
+81. The fundamental principle of IoT is based on:
+A) Isolating devices to improve security
+B) Connecting unique, physical "things" to the internet, allowing them to collect, share, and act
+on data without requiring human-to-human or human-to-computer interaction
+C) Connecting computers only to other computers
+D) Making physical objects invisible
+Answer: B
+82. Which of the following is an essential feature of any IoT system?
+A) It must have a screen
+B) Heterogeneity (the ability of diverse devices from different manufacturers to connect and
+work together)
+C) It must be powered by a battery
+D) It cannot use wireless technology
+Answer: B
+83. In an IoT system, what is the role of a "Sensor"?
+A) To move a physical object
+B) To detect and measure changes in the physical environment (e.g., temperature, current,
+voltage) and convert them into digital data
+C) To store large databases
+D) To print reports
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+84. In an IoT system, what is the role of an "Actuator"?
+A) To measure humidity
+B) To receive digital commands from the network and convert them into physical action (e.g.,
+opening a valve, tripping a circuit breaker)
+C) To connect to Wi-Fi
+D) To encrypt data
+Answer: B
+85. What does the feature of "Dynamic Nature" in IoT refer to?
+A) Devices physically moving around rapidly
+B) The state of devices dynamically changing (e.g., sleeping, waking up, connected,
+disconnected) and the environment changing continuously
+C) The fast speed of the processor
+D) The changing color of the devices
+Answer: B
+86. "Scalability" is a critical feature of IoT. This means:
+A) The system can weigh objects accurately
+B) The network architecture can handle the massive addition of new devices and data volume
+without performance degradation
+C) Devices can shrink in size
+D) The network can only support 10 devices
+Answer: B
+87. How does an IoT device ensure it can be uniquely identified on the global network?
+A) By its physical color
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) By having a Unique Identity, typically an IP address or a specific MAC address
+C) By its brand name
+D) By the user's name
+Answer: B
+88. Which of the following communication protocols is specifically designed to be extremely
+lightweight and ideal for resource-constrained IoT devices?
+A) HTTP
+B) MQTT (Message Queuing Telemetry Transport)
+C) FTP
+D) SMTP
+Answer: B
+89. What is "Interconnectivity" in IoT?
+A) Disconnecting from the grid
+B) The principle that anything can be connected to the global information and communication
+infrastructure
+C) Connecting wires manually
+D) The physical soldering of components
+Answer: B
+90. IoT devices are often described as having "Self-Adapting" features. What does this
+mean?
+A) They can fix their own broken hardware
+B) They can dynamically adapt to changing contexts and take actions based on operating
+conditions (e.g., a smart camera lowering resolution when network bandwidth drops)
+C) They can physically change their shape
+D) They write their own operating systems from scratch
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+91. Which component serves as a bridge between local IoT sensor networks (like Zigbee or
+Bluetooth) and the wider internet/cloud?
+A) An Actuator
+B) An IoT Gateway
+C) A physical wire
+D) A monitor
+Answer: B
+92. Because IoT networks handle massive amounts of sensitive data from physical
+environments, which feature must be inherently built into the architecture?
+A) Open access to all
+B) Robust Security and Privacy measures (encryption, authentication)
+C) Unencrypted data transfer for speed
+D) Anonymous user profiles
+Answer: B
+93. What is the concept of "Things-related services" in IoT?
+A) Providing manual labor
+B) IoT systems providing services within the constraints of things, such as privacy protection
+and semantic consistency between physical and virtual things
+C) Selling physical hardware
+D) Repairing broken screens
+Answer: B
+94. The shift from IPv4 to IPv6 was highly critical for the expansion of IoT primarily
+because:
+A) IPv6 is faster
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) IPv6 provides a vastly larger pool of unique IP addresses, necessary to identify the billions of
+new IoT devices
+C) IPv4 was illegal
+D) IPv6 requires less power
+Answer: B
+95. A network of temperature sensors, humidity sensors, and light sensors spread across a
+greenhouse, all sending data to a central cloud dashboard, relies on which IoT feature?
+A) Massive Scale / Enormous capacity
+B) Isolation
+C) Analog processing
+D) Manual data entry
+Answer: A
+Topic 1.6: Applications of IoT in Electrical Systems
+96. How is IoT applied in "Industrial Drives" (e.g., Variable Frequency Drives)?
+A) To make the drives physically heavier
+B) To continuously monitor operating parameters like RPM, temperature, and torque, sending
+data to the cloud for real-time efficiency optimization and predictive maintenance
+C) To replace electrical motors with gas engines
+D) To prevent the drive from changing speeds
+Answer: B
+97. By attaching IoT vibration and acoustic sensors to a large industrial motor, an
+electrical engineer can:
+A) Make the motor louder
+B) Detect the early stages of bearing wear or rotor imbalance long before a catastrophic failure
+occurs
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Stop the motor from vibrating completely
+D) Increase the voltage to the motor
+Answer: B
+98. In Electrical Transmission Systems, what does "Dynamic Line Rating" (DLR) using
+IoT sensors achieve?
+A) It fixes a static maximum current limit forever
+B) It uses real-time IoT sensors measuring ambient temperature, wind speed, and line tension
+(sag) to safely increase the power carrying capacity of transmission lines based on actual current
+weather conditions
+C) It rates the aesthetic beauty of the transmission towers
+D) It measures the speed of cars driving under the lines
+Answer: B
+99. How can IoT sensors prevent power outages caused by transmission line "sag"?
+A) By holding the line up physically
+B) By monitoring line temperature and tension in real-time, alerting operators to reduce the load
+before the hot line stretches and touches trees or the ground
+C) By cutting the line when it gets hot
+D) By freezing the line with coolant
+Answer: B
+100. IoT devices placed on transmission line insulators are used primarily to:
+A) Measure the weight of birds
+B) Monitor leakage current and pollution accumulation, predicting flashovers and scheduling
+washing only when necessary
+C) Generate electricity from the sun
+D) Provide Wi-Fi to remote areas
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+101. In an Electrical Distribution System, what is a "Smart Meter"?
+A) A meter that reads books
+B) An IoT-enabled electrical meter that records consumption in real-time and communicates that
+data two-way back to the utility for monitoring and billing
+C) A traditional analog spinning-disk meter
+D) A meter that only measures water usage
+Answer: B
+102. How does IoT improve "Outage Management" in distribution grids?
+A) By waiting for customers to call in by phone to report power losses
+B) Smart meters and grid sensors automatically send "last gasp" signals when power is lost,
+allowing the utility to instantly pinpoint the exact location and scope of the outage
+C) By causing more outages
+D) By sending employees to visually inspect all lines every day
+Answer: B
+103. IoT applications in distribution systems can help detect "Non-Technical Losses."
+What does this mean?
+A) Losses due to wire resistance
+B) Losses due to electricity theft, meter tampering, or unbilled consumption, detected by
+analyzing discrepancies in current flow data
+C) Losses due to transformers overheating
+D) Losses due to bad weather
+Answer: B
+104. How is IoT used in "Smart Illumination Systems" (Smart Lighting)?
+A) To keep lights on at 100% brightness 24/7
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) To adjust lighting levels automatically based on real-time occupancy data, natural daylight
+availability, and time of day, saving massive amounts of energy
+C) To replace LED bulbs with incandescent bulbs
+D) To make the lights change colors randomly
+Answer: B
+105. A smart street lighting system connected via an LPWAN (like LoRaWAN) can provide
+which major benefit to a city municipality?
+A) It increases the city's power bill
+B) It allows for central monitoring of burnt-out bulbs, reducing manual patrols, and enables
+dimming the lights at 3 AM when traffic is zero
+C) It makes the streets completely dark
+D) It removes the need for electricity
+Answer: B
+106. In Renewable Energy, how does IoT benefit a large-scale Solar Photovoltaic (PV)
+plant?
+A) By blocking the sun
+B) By monitoring the voltage, current, and temperature of individual solar panels or strings to
+instantly identify underperforming panels obscured by dust or shade
+C) By converting solar energy into coal
+D) By tracking the movement of the moon
+Answer: B
+107. For Wind Energy systems, IoT sensors placed inside the nacelle of a wind turbine are
+crucial for:
+A) Determining the color of the turbine
+B) Monitoring the vibration and lubrication of the complex gearbox, predicting mechanical
+failures, and avoiding immensely expensive offshore repair costs
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) Stopping the wind
+D) Attracting birds
+Answer: B
+108. How does IoT help integrate Renewable Energy sources into the main power grid?
+A) It prevents them from connecting
+B) By using IoT weather sensors and forecasting AI to predict solar/wind generation output for
+the next 24 hours, allowing grid operators to balance the base-load power plants accordingly
+C) By making renewables completely unpredictable
+D) By turning off the grid when the wind blows
+Answer: B
+109. What is a "Demand Response" program enabled by IoT?
+A) The utility ignoring customer demands
+B) The utility communicating with smart home IoT appliances (like smart thermostats or EV
+chargers) to automatically reduce their power consumption during peak grid load times to
+prevent blackouts
+C) Customers demanding lower prices
+D) Generating more power on demand
+Answer: B
+110. An IoT-enabled "Smart Transformer" in a distribution network can:
+A) Transform into a robot
+B) Continuously monitor its own oil temperature, load levels, and dissolved gases, alerting
+maintenance before it blows up
+C) Step up voltage to infinite levels
+D) Operate without any magnetic core
+Answer: B
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+111. Which IoT communication protocol is widely used in home automation and smart
+illumination due to its low power and mesh networking capabilities?
+A) Fiber Optics
+B) Zigbee
+C) 5G mmWave
+D) Ethernet
+Answer: B
+112. The concept of "Daylight Harvesting" in an IoT illumination system means:
+A) Capturing sunlight in jars
+B) Using photosensors to measure natural light entering a room and automatically dimming the
+artificial LED lights to maintain a constant target light level, saving energy
+C) Turning on all lights during the day
+D) Blocking windows with smart blinds
+Answer: B
+113. How do IoT-enabled Industrial Drives contribute to energy savings?
+A) By running motors at maximum speed constantly
+B) By analyzing process data to optimize the Variable Frequency Drive (VFD) speed, ensuring
+the motor only uses the exact amount of energy required for the current load
+C) By bypassing the VFD
+D) By converting mechanical energy into heat
+Answer: B
+114. In transmission systems, IoT sensors measuring "Aeolian vibrations" are monitoring:
+A) Voltage spikes
+B) High-frequency, low-amplitude wind-induced vibrations that can cause mechanical fatigue
+and snapping of the conductor cables over time
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) The temperature of the sun
+D) The flow of reactive power
+Answer: B
+115. A smart distribution grid uses IoT "Fault Passage Indicators" (FPIs). What is their
+function?
+A) To indicate where cars can pass
+B) To detect short circuits or earth faults on the line and send the exact location to the SCADA
+system, drastically reducing the time it takes crews to find the fault
+C) To measure the power factor
+D) To indicate the direction of the wind
+Answer: B
+116. In the context of EV (Electric Vehicle) charging and Renewable Energy, what does
+"V2G" (Vehicle-to-Grid) enabled by IoT mean?
+A) Vehicles driving into the grid
+B) An IoT system allowing parked EVs to discharge stored battery power back into the electrical
+grid during peak demand times, acting as distributed energy storage
+C) The grid charging the vehicle
+D) Vehicles communicating with other vehicles
+Answer: B
+117. What role does IoT play in managing "Distributed Energy Resources" (DERs) like
+rooftop solar and home batteries?
+A) It isolates them from the grid
+B) It aggregates thousands of small DERs into a "Virtual Power Plant" (VPP) that can be
+monitored and controlled centrally by the utility to stabilize the grid
+C) It prevents homeowners from generating power
+D) It drains home batteries permanently
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+118. Which aspect of an industrial induction motor is most commonly monitored by IoT
+sensors to predict insulation failure?
+A) The color of the casing
+B) The operating temperature and leakage currents
+C) The physical weight of the motor
+D) The ambient light in the room
+Answer: B
+119. A major challenge of implementing massive IoT networks in power distribution
+systems is:
+A) Lack of physical space on poles
+B) Cybersecurity; preventing hackers from breaching smart meters or grid sensors to cause
+widespread blackouts
+C) The sensors are too heavy
+D) The meters do not use electricity
+Answer: B
+120. In an IoT-based renewable energy microgrid, what ensures that the load is perfectly
+balanced with intermittent solar/wind generation?
+A) A human operator watching gauges 24/7
+B) An automated IoT Energy Management System (EMS) that continually reads generation and
+load sensors and switches battery storage or backup generators on/off in real-time
+C) A mechanical governor
+D) A timer switch
+Answer: B
+121. What is "Condition-Based Maintenance" (CBM) as facilitated by IoT in electrical
+systems?
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) Repairing equipment only after it breaks
+B) Maintaining equipment based on its actual, real-time physical condition (assessed via sensors)
+rather than a fixed calendar schedule
+C) Maintaining equipment based on the weather condition outside
+D) Never maintaining equipment
+Answer: B
+122. How do IoT smart streetlights improve public safety beyond just illumination?
+A) By acting as physical barriers
+B) They can be equipped with integrated IoT sensors like environmental monitors, gunshot
+acoustic detectors, or emergency panic buttons
+C) By making the poles electrified
+D) By turning off when people approach
+Answer: B
+123. The integration of IoT in electrical transmission grids transforms a traditional grid
+into a:
+A) Dumb Grid
+B) Smart Grid
+C) Microgrid
+D) Off-grid system
+Answer: B
+124. When an IoT sensor on a distribution transformer detects a sudden, massive spike in
+dissolved hydrogen gas in the insulating oil, what does the cloud analytics system likely
+conclude?
+A) The transformer is operating perfectly
+B) There is active internal arcing or a severe fault, and the transformer is at risk of imminent
+failure or explosion
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+C) The weather outside is raining
+D) The transformer needs more oil
+Answer: B
+125. Why is LPWAN (Low Power Wide Area Network) technology like NB-IoT highly
+suitable for reading smart meters in rural distribution networks?
+A) Because it has extreme high bandwidth for video
+B) Because it provides very long-range coverage and deep penetration through buildings while
+consuming incredibly little battery power for small data packets
+C) Because it uses satellite dishes
+D) Because it is faster than 5G
+Answer: B
+126. An industrial plant uses IoT to monitor its "Power Quality". What exactly is being
+measured?
+A) The physical strength of the wires
+B) Parameters like voltage sags, swells, harmonics, and power factor to ensure clean electricity
+that won't damage sensitive machinery
+C) The cost of the electricity
+D) The volume of water used
+Answer: B
+127. In a smart home illumination system, what is the purpose of "Geofencing" using the
+user's smartphone IoT connection?
+A) Building a physical fence around the lights
+B) Automatically turning the house lights on or off when the user's phone GPS crosses a virtual
+geographical boundary (e.g., leaving the neighborhood)
+C) Changing the color of the lights based on music
+D) Preventing neighbors from stealing light
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+Answer: B
+128. How does IoT aid in the maintenance of high-voltage transmission line right-of-ways?
+A) By watering the plants
+B) By using satellite IoT imaging or drone-based LiDAR to monitor vegetation growth and
+predict when trees will dangerously encroach on the power lines
+C) By physically chopping down trees with robotic arms
+D) By preventing grass from growing
+Answer: B
+129. What is a "Phasor Measurement Unit" (PMU) or Synchrophasor in an IoT-enabled
+smart grid?
+A) A device from Star Trek
+B) An advanced grid sensor that measures voltage and current phasors with precise GPS time
+synchronization, giving grid operators a real-time, dynamic view of grid stability across vast
+distances
+C) A meter that measures water flow
+D) A device to measure light intensity
+Answer: B
+130. How do IoT sensors help in the operation of Hydroelectric power plants?
+A) By creating rain
+B) By monitoring water levels in the reservoir, dam structural integrity (strain gauges), and
+turbine vibration to optimize water release and power generation safely
+C) By catching fish
+D) By heating the water
+Answer: B
+131. In the context of IoT data routing, what does "Gateway to Cloud" architecture look
+like for a smart factory?
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+A) Bluetooth sensors connect directly to a server in another country
+B) Hundreds of factory sensors use a local protocol (like Zigbee) to connect to a central factory
+Gateway, which then uses a strong secure internet connection (Ethernet/5G) to push aggregated
+data to AWS or Azure
+C) The cloud connects to the gateway, which controls nothing
+D) Sensors print data on paper, which is scanned to the cloud
+Answer: B
+132. What major shift in the utility business model is driven by the deployment of IoT
+smart meters?
+A) Switching from electrical to gas power
+B) Moving from estimated monthly billing requiring human meter readers, to exact real-time
+billing, Time-of-Use (TOU) pricing, and prepaid electricity plans
+C) Providing electricity for free
+D) Charging customers by the weight of their appliances
+Answer: B
+133. When an industrial drive (VFD) is integrated with an IoT platform, technicians can
+perform "Remote Parameterization". This means:
+A) They must fly to the factory to press buttons on the drive
+B) They can securely log into the cloud platform from anywhere in the world to change the
+drive's operating parameters (like acceleration time or speed limits) without being physically
+present
+C) They can physically move the drive using a joystick
+D) They measure the perimeter of the drive case
+Answer: B
+134. How does IoT enable "Peak Shaving" in industrial electrical distribution?
+A) By cutting the top off of electrical poles
+Click to Join our Channel
+This is Free Study Material Provided by Campusifyplus.in
+B) By monitoring real-time power consumption and automatically shedding non-critical loads
+(like large HVAC units or pumps) to keep the facility's total power draw below a costly peakdemand threshold
+C) By increasing production during peak hours
+D) By shaving metal parts on the assembly line
+Answer: B
+135. Ultimately, the application of IoT across generation, transmission, distribution, and
+consumption transforms the electrical grid from a one-way power delivery system into:
+A) A system that delivers water
+B) A dynamic, two-way exchange of both power and real-time digital information
+C) A one-way information network
+D) A completely wireless power transmission system
+Answer: B

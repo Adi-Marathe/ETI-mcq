@@ -1,0 +1,1622 @@
+[
+    {
+        "id": 1,
+        "question": "In the context of electrical engineering, what does the term \"Tariff\" mean?",
+        "options": [
+            "a) The physical wire connecting to a house",
+            "b) The schedule of rates or charges framed by the utility for supplying electrical energy to various categories of consumers",
+            "c) The speed at which power is generated",
+            "d) A type of electrical transformer"
+        ],
+        "answer": "b) The schedule of rates or charges framed by the utility for supplying electrical energy to various categories of consumers",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 2,
+        "question": "What is a Power Purchase Agreement (PP",
+        "options": [
+            "a) ?",
+            "b) A legally binding contract between an electricity generator (seller) and a power purchaser (buyer, usually a DISCOM)",
+            "c) A permit to build a new house",
+            "d) An agreement to stop using electricity"
+        ],
+        "answer": "b) A legally binding contract between an electricity generator (seller) and a power purchaser (buyer, usually a DISCOM)",
+        "explanation": "The correct answer is 'A legally binding contract between an electricity generator (seller', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 3,
+        "question": "What are the two primary components typically included in the \"Power Purchase Cost\" under a standard long-term PPA?",
+        "options": [
+            "a) Solar charges and Wind charges",
+            "b) Fixed (Capacity) Charges and Variable (Energy) Charges",
+            "c) Transmission charges and Distribution charges",
+            "d) Maintenance charges and Labor charges"
+        ],
+        "answer": "b) Fixed (Capacity) Charges and Variable (Energy) Charges",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 4,
+        "question": "In a PPA, what does the \"Fixed Charge\" or \"Capacity Charge\" cover?",
+        "options": [
+            "a) The cost of fuel burned",
+            "b) The recovery of the generator's capital cost, debt service, return on equity, and fixed O&M costs, regardless of how much energy is dispatched",
+            "c) The cost of transporting coal",
+            "d) The customer's monthly bill"
+        ],
+        "answer": "b) The recovery of the generator's capital cost, debt service, return on equity, and fixed O&M costs, regardless of how much energy is dispatched",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 5,
+        "question": "In a PPA, what does the \"Variable Charge\" or \"Energy Charge\" primarily cover?",
+        "options": [
+            "a) The cost of building the power plant",
+            "b) The cost of the actual fuel consumed (e.g., coal, gas) to generate the electricity that is dispatched",
+            "c) The salaries of the utility executives",
+            "d) The cost of the land"
+        ],
+        "answer": "b) The cost of the actual fuel consumed (e.g., coal, gas) to generate the electricity that is dispatched",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 6,
+        "question": "Long-term Power Purchase Agreements (PPAs) typically have a duration of:",
+        "options": [
+            "a) 1 to 6 months",
+            "b) 1 to 3 years",
+            "c) 15 to 25 years",
+            "d) 100 years"
+        ],
+        "answer": "c) 15 to 25 years",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 7,
+        "question": "Why do DISCOMs (Distribution Companies) enter into long-term PPAs?",
+        "options": [
+            "a) To intentionally lose money",
+            "b) To ensure long-term energy security, price stability, and a guaranteed supply of power to meet future demand",
+            "c) To avoid building smart grids",
+            "d) Because the government forces them to buy from only one plant"
+        ],
+        "answer": "b) To ensure long-term energy security, price stability, and a guaranteed supply of power to meet future demand",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 8,
+        "question": "What is the significance of the \"Take-or-Pay\" clause often found in traditional thermal PPAs?",
+        "options": [
+            "a) The buyer must take the electricity or pay a penalty/fixed charge even if they do not need the power",
+            "b) The buyer can take electricity for free",
+            "c) The generator must pay the buyer to take the electricity",
+            "d) The generator can turn off the plant whenever they want"
+        ],
+        "answer": "a) The buyer must take the electricity or pay a penalty/fixed charge even if they do not need the power",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 9,
+        "question": "In India, who typically approves the Tariffs and PPAs between generators and DISCOMs to ensure fairness?",
+        "options": [
+            "a) The local police department",
+            "b) The State or Central Electricity Regulatory Commissions (SERC/CER",
+            "c) ",
+            "d) The individual consumers"
+        ],
+        "answer": "b) The State or Central Electricity Regulatory Commissions (SERC/CER",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 10,
+        "question": "What is a \"Merchant Power Plant\"?",
+        "options": [
+            "a) A plant that only generates power for ships",
+            "b) A power plant that does not have a long-term PPA and sells its electricity on the open shortterm spot market or power exchange",
+            "c) A plant owned by a retail store",
+            "d) A plant that runs purely on batteries"
+        ],
+        "answer": "b) A power plant that does not have a long-term PPA and sells its electricity on the open shortterm spot market or power exchange",
+        "explanation": "The Maharashtra Electricity Regulatory Commission (MERC) is the body responsible for approving tariffs and setting rules for the power sector in Maharashtra."
+    },
+    {
+        "id": 11,
+        "question": "How do Renewable Energy PPAs (like Solar or Wind) generally differ from traditional Thermal PPAs regarding tariff structure?",
+        "options": [
+            "a) They rely heavily on Variable Charges for fuel",
+            "b) They typically have a single-part tariff (only paying for the actual units generated) because there is no fuel cost",
+            "c) They only have Capacity Charges",
+            "d) They are only signed for 1 year"
+        ],
+        "answer": "b) They typically have a single-part tariff (only paying for the actual units generated) because there is no fuel cost",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 12,
+        "question": "When calculating Power Purchase Cost, what happens if the price of coal increases drastically during the term of a PPA?",
+        "options": [
+            "a) The generator goes bankrupt",
+            "b) The Variable (Energy) Charge increases, often passed onto the consumer via a fuel surcharge",
+            "c) The Fixed Charge increases",
+            "d) The PPA is automatically canceled"
+        ],
+        "answer": "b) The Variable (Energy) Charge increases, often passed onto the consumer via a fuel surcharge",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 13,
+        "question": "What is an \"Availability Factor\" or \"Plant Availability\" in a PPA?",
+        "options": [
+            "a) How available the plant manager is for phone calls",
+            "b) The percentage of time the power plant is ready and able to generate electricity; generators must maintain a high availability to earn their full Fixed Capacity Charges",
+            "c) The amount of coal left in the mine",
+            "d) The number of consumers connected to the grid"
+        ],
+        "answer": "b) The percentage of time the power plant is ready and able to generate electricity; generators must maintain a high availability to earn their full Fixed Capacity Charges",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 14,
+        "question": "What does the term \"Merit Order Dispatch\" mean for a DISCOM managing multiple PPAs?",
+        "options": [
+            "a) Dispatching power based on the alphabetical order of the plant names",
+            "b) Dispatching power by calling upon the cheapest available generators (lowest variable cost) first, and only using expensive plants when demand peaks",
+            "c) Dispatching power based purely on which plant was built first",
+            "d) Refusing to dispatch power to save money"
+        ],
+        "answer": "b) Dispatching power by calling upon the cheapest available generators (lowest variable cost) first, and only using expensive plants when demand peaks",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 15,
+        "question": "Which cost usually forms the largest percentage of a DISCOM's total operating expenses?",
+        "options": [
+            "a) Employee salaries",
+            "b) Office maintenance",
+            "c) Power Purchase Cost (paying generators for electricity)",
+            "d) Advertising"
+        ],
+        "answer": "c) Power Purchase Cost (paying generators for electricity)",
+        "explanation": "The correct answer is 'Power Purchase Cost (paying generators for electricity)', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 16,
+        "question": "What is a \"Virtual PPA\" (VPP",
+        "options": [
+            "a) ?",
+            "b) A financial contract where power is not physically delivered to the buyer, but the buyer and seller exchange cash flows based on the difference between the market price and a fixed strike price",
+            "c) A contract that is illegal in all countries",
+            "d) A PPA that relies on imaginary power plants"
+        ],
+        "answer": "b) A financial contract where power is not physically delivered to the buyer, but the buyer and seller exchange cash flows based on the difference between the market price and a fixed strike price",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 17,
+        "question": "Why is load forecasting critical for a DISCOM before signing a PPA?",
+        "options": [
+            "a) To predict the weather",
+            "b) To ensure they contract the correct amount of capacity so they do not suffer shortages or pay massive penalties for stranded (unused) capacity",
+            "c) To decide what color to paint the utility trucks",
+            "d) To predict stock market prices"
+        ],
+        "answer": "b) To ensure they contract the correct amount of capacity so they do not suffer shortages or pay massive penalties for stranded (unused) capacity",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 18,
+        "question": "What is the role of an \"Escalation Clause\" in a PPA?",
+        "options": [
+            "a) It forces the generator to build escalators",
+            "b) It allows certain components of the tariff (like O&M costs) to increase annually based on inflation indices",
+            "c) It cancels the contract if power demand falls",
+            "d) It allows the buyer to escalate their demands"
+        ],
+        "answer": "b) It allows certain components of the tariff (like O&M costs) to increase annually based on inflation indices",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 19,
+        "question": "How does \"Must-Run\" status affect PPAs for renewable energy?",
+        "options": [
+            "a) Renewable plants must run around the track",
+            "b) DISCOMs are obligated to absorb all power generated by renewables (solar/wind) whenever it is available, avoiding curtailment due to their zero marginal cost",
+            "c) Renewable plants are only allowed to run at night",
+            "d) It forces thermal plants to shut down permanently"
+        ],
+        "answer": "b) DISCOMs are obligated to absorb all power generated by renewables (solar/wind) whenever it is available, avoiding curtailment due to their zero marginal cost",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 20,
+        "question": "What is \"Levelized Tariff\"?",
+        "options": [
+            "a) A tariff that charges everyone the exact same bill regardless of usage",
+            "b) A single, constant tariff value calculated over the lifetime of the PPA that accounts for the time value of money, used to compare different power projects",
+            "c) A tariff that fluctuates every hour",
+            "d) A tariff only applied to flat, level ground"
+        ],
+        "answer": "b) A single, constant tariff value calculated over the lifetime of the PPA that accounts for the time value of money, used to compare different power projects",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 21,
+        "question": "If a DISCOM buys power from the short-term market (Power Exchange) instead of a long-term PPA, what is the primary risk?",
+        "options": [
+            "a) The power might not be electrical",
+            "b) Extreme price volatility; prices can spike massively during periods of high demand or coal shortages",
+            "c) The power takes weeks to arrive",
+            "d) The exchange only sells DC power"
+        ],
+        "answer": "b) Extreme price volatility; prices can spike massively during periods of high demand or coal shortages",
+        "explanation": "A Power Purchase Agreement (PPA) is a legally binding contract between a power generator and a buyer (usually a DISCOM) for the sale of electricity over a long period."
+    },
+    {
+        "id": 22,
+        "question": "Which of the following best describes the \"Two-Part Tariff\" system in bulk power purchase?",
+        "options": [
+            "a) Paying once in the morning and once at night",
+            "b) Charging a Fixed Cost based on capacity allocated and a Variable Cost based on actual energy scheduled and drawn",
+            "c) Paying half in cash and half in stock",
+            "d) Splitting the bill between two consumers"
+        ],
+        "answer": "b) Charging a Fixed Cost based on capacity allocated and a Variable Cost based on actual energy scheduled and drawn",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 23,
+        "question": "Which of the following is a primary objective of designing an electricity tariff?",
+        "options": [
+            "a) To make the bill as confusing as possible",
+            "b) To ensure the recovery of the cost of producing and supplying electricity, plus a reasonable profit",
+            "c) To discourage everyone from using electricity entirely",
+            "d) To provide free electricity to industries"
+        ],
+        "answer": "b) To ensure the recovery of the cost of producing and supplying electricity, plus a reasonable profit",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 24,
+        "question": "Which of the following is a \"Key Factor\" considered when designing an electricity tariff?",
+        "options": [
+            "a) The color of the consumer's house",
+            "b) The paying capacity of different consumer categories (e.g., agricultural vs. industrial)",
+            "c) The physical weight of the electrical appliances",
+            "d) The political affiliation of the consumer"
+        ],
+        "answer": "b) The paying capacity of different consumer categories (e.g., agricultural vs. industrial)",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 25,
+        "question": "A well-designed tariff should be \"Simple.\" What does this imply?",
+        "options": [
+            "a) It should only use one-digit numbers",
+            "b) The tariff structure should be easily understandable to the ordinary consumer",
+            "c) It should not involve any money",
+            "d) The utility should guess the bill"
+        ],
+        "answer": "b) The tariff structure should be easily understandable to the ordinary consumer",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 26,
+        "question": "In an electricity bill, what does the \"Fixed Charge\" (or Standing Charge) for a retail consumer represent?",
+        "options": [
+            "a) The charge for the actual units (kWh) consumed",
+            "b) A flat monthly charge to cover the utility's fixed infrastructure costs (poles, wires, meters, billing), regardless of how much energy is used",
+            "c) A tax paid directly to the central government",
+            "d) A penalty for paying the bill late"
+        ],
+        "answer": "b) A flat monthly charge to cover the utility's fixed infrastructure costs (poles, wires, meters, billing), regardless of how much energy is used",
+        "explanation": "Fixed charges (or Capacity Charges) recover the generator's capital investment and fixed operational costs, regardless of the actual energy generated."
+    },
+    {
+        "id": 27,
+        "question": "What does the \"Energy Charge\" on an electricity bill represent?",
+        "options": [
+            "a) The cost of maintaining the meter",
+            "b) The charge directly proportional to the actual volume of electrical energy consumed, measured in kilowatt-hours (kWh) or units",
+            "c) The tax on the electricity",
+            "d) The cost to rent the transformer"
+        ],
+        "answer": "b) The charge directly proportional to the actual volume of electrical energy consumed, measured in kilowatt-hours (kWh) or units",
+        "explanation": "The correct answer is 'The charge directly proportional to the actual volume of electrical energy consumed, measured in kilowatt-hours (kWh', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 28,
+        "question": "For Industrial and large Commercial consumers, a \"Maximum Demand Charge\" is often levied. What is this based on?",
+        "options": [
+            "a) The total energy used over the entire month",
+            "b) The highest peak power (kVA or kW) drawn by the consumer during a specific short interval (e.g., 15 or 30 minutes) within the billing cycle",
+            "c) The number of employees in the factory",
+            "d) The voltage of the incoming line"
+        ],
+        "answer": "b) The highest peak power (kVA or kW) drawn by the consumer during a specific short interval (e.g., 15 or 30 minutes) within the billing cycle",
+        "explanation": "The Maharashtra Electricity Regulatory Commission (MERC) is the body responsible for approving tariffs and setting rules for the power sector in Maharashtra."
+    },
+    {
+        "id": 29,
+        "question": "Why do utilities impose a \"Maximum Demand Charge\" on large consumers?",
+        "options": [
+            "a) Because they want to punish factories",
+            "b) Because the utility must size its transformers and generation capacity to handle that massive peak demand, even if it only happens for 15 minutes a month",
+            "c) To encourage factories to use more electricity at all times",
+            "d) To replace the fixed charge"
+        ],
+        "answer": "b) Because the utility must size its transformers and generation capacity to handle that massive peak demand, even if it only happens for 15 minutes a month",
+        "explanation": "The correct answer is 'Because the utility must size its transformers and generation capacity to handle that massive peak demand, even if it only happens for 15 minutes a month', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 30,
+        "question": "What is a \"Block Rate Tariff\" (or Telescopic/Slab Tariff) commonly used for residential consumers?",
+        "options": [
+            "a) Charging a flat rate for infinite units",
+            "b) Dividing energy consumption into blocks (slabs), where the price per unit progressively increases as consumption enters higher blocks (e.g., first 100 units are cheap, next 100 are more expensive)",
+            "c) Charging by the physical block of the neighborhood",
+            "d) Decreasing the rate as consumption increases"
+        ],
+        "answer": "b) Dividing energy consumption into blocks (slabs), where the price per unit progressively increases as consumption enters higher blocks (e.g., first 100 units are cheap, next 100 are more expensive)",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 31,
+        "question": "The primary goal of using an increasing \"Slab\" billing system for residential consumers is to:",
+        "options": [
+            "a) Maximize energy waste",
+            "b) Provide affordable lifeline power for basic needs while discouraging excessive consumption and promoting energy conservation",
+            "c) Punish people with small houses",
+            "d) Make billing calculation impossible"
+        ],
+        "answer": "b) Provide affordable lifeline power for basic needs while discouraging excessive consumption and promoting energy conservation",
+        "explanation": "Slab billing (or Telescopic Tariff) divides consumption into blocks where the price per unit increases as consumption moves into higher blocks to encourage conservation."
+    },
+    {
+        "id": 32,
+        "question": "What is a \"Power Factor Penalty\" commonly found in industrial electricity bills?",
+        "options": [
+            "a) A penalty for using too much active power",
+            "b) A financial surcharge applied if the consumer's power factor drops below a specified limit (e.g., 0.90), causing excessive reactive power burden on the grid",
+            "c) A penalty for turning off motors",
+            "d) A charge for using 3-phase power"
+        ],
+        "answer": "b) A financial surcharge applied if the consumer's power factor drops below a specified limit (e.g., 0.90), causing excessive reactive power burden on the grid",
+        "explanation": "The correct answer is 'A financial surcharge applied if the consumer's power factor drops below a specified limit (e.g., 0.90), causing excessive reactive power burden on the grid', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 33,
+        "question": "Conversely, what is a \"Power Factor Incentive\"?",
+        "options": [
+            "a) A rebate given to consumers who consume zero power",
+            "b) A discount given to industrial consumers who maintain a highly efficient power factor (e.g., near 1.0) through capacitor banks, reducing grid losses",
+            "c) A free smart meter",
+            "d) A tax break from the government"
+        ],
+        "answer": "b) A discount given to industrial consumers who maintain a highly efficient power factor (e.g., near 1.0) through capacitor banks, reducing grid losses",
+        "explanation": "The correct answer is 'A discount given to industrial consumers who maintain a highly efficient power factor (e.g., near 1.0', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 34,
+        "question": "What is \"Cross Subsidy\" in tariff design?",
+        "options": [
+            "a) When two utilities share the same poles",
+            "b) The practice of charging higher tariffs to one group of consumers (e.g., Industrial/Commercial) to intentionally offset the cost of providing cheaper, subsidized electricity to another group (e.g., Agricultural/Low-income Residential)",
+            "c) When the government pays the entire bill for everyone",
+            "d) Moving money across state borders"
+        ],
+        "answer": "b) The practice of charging higher tariffs to one group of consumers (e.g., Industrial/Commercial) to intentionally offset the cost of providing cheaper, subsidized electricity to another group (e.g., Agricultural/Low-income Residential)",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 35,
+        "question": "Why is \"Cross Subsidy\" often heavily debated and scrutinized by regulatory commissions?",
+        "options": [
+            "a) It makes electricity too cheap for factories",
+            "b) While it helps poor farmers, it places a heavy financial burden on industries, making their products less globally competitive",
+            "c) It causes transformers to blow up",
+            "d) It violates the laws of physics"
+        ],
+        "answer": "b) While it helps poor farmers, it places a heavy financial burden on industries, making their products less globally competitive",
+        "explanation": "Cross subsidy is the practice of charging higher rates to industrial/commercial users to lower the burden on residential or agricultural consumers."
+    },
+    {
+        "id": 36,
+        "question": "In a modern tariff design, what does ToD or ToU stand for?",
+        "options": [
+            "a) Time of Day / Time of Use",
+            "b) Total Operating Demand / Tariff of Units",
+            "c) Tax on Distribution / Tax on Usage",
+            "d) Transfer of Data / Transfer of Units"
+        ],
+        "answer": "a) Time of Day / Time of Use",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 37,
+        "question": "How does a Time of Day (To",
+        "options": [
+            "a) The tariff changes randomly every hour",
+            "b) Electricity rates vary depending on the time of day; rates are much higher during peak grid demand hours and lower during off-peak hours (like nighttime)",
+            "c) Consumers are only allowed to use power during the day",
+            "d) tariff work?"
+        ],
+        "answer": "b) Electricity rates vary depending on the time of day; rates are much higher during peak grid demand hours and lower during off-peak hours (like nighttime)",
+        "explanation": "The correct answer is 'Electricity rates vary depending on the time of day; rates are much higher during peak grid demand hours and lower during off-peak hours (like nighttime)', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 38,
+        "question": "The objective of a ToD (Time of Day) tariff is to:",
+        "options": [
+            "a) Ensure everyone uses electricity at exactly the same time",
+            "b) Incentivize consumers to shift their heavy loads to off-peak hours, thereby flattening the \"Duck Curve\" and reducing the need for expensive peaking power plants",
+            "c) Make solar panels obsolete",
+            "d) Increase the maximum demand of the grid"
+        ],
+        "answer": "b) Incentivize consumers to shift their heavy loads to off-peak hours, thereby flattening the \"Duck Curve\" and reducing the need for expensive peaking power plants",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 39,
+        "question": "What is \"Electricity Duty\" on a bill?",
+        "options": [
+            "a) The moral obligation to turn off lights",
+            "b) A tax levied by the State Government on the consumption of electricity, usually calculated as a percentage of the energy charges or per unit",
+            "c) A charge paid to the meter reader",
+            "d) The cost of the physical meter"
+        ],
+        "answer": "b) A tax levied by the State Government on the consumption of electricity, usually calculated as a percentage of the energy charges or per unit",
+        "explanation": "The correct answer is 'A tax levied by the State Government on the consumption of electricity, usually calculated as a percentage of the energy charges or per unit', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 40,
+        "question": "Are \"Electricity Duty\" and \"Electricity Tariff\" the same thing?",
+        "options": [
+            "a) Yes, they go to the exact same place",
+            "b) No; the Tariff goes to the DISCOM to cover costs of supply, while the Duty is a tax that goes to the State Government revenue",
+            "c) Yes, both are optional",
+            "d) No, the duty is paid to the federal government only"
+        ],
+        "answer": "b) No; the Tariff goes to the DISCOM to cover costs of supply, while the Duty is a tax that goes to the State Government revenue",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 41,
+        "question": "What is the FAC (Fuel Adjustment Charge) or FPPCA (Fuel and Power Purchase Cost Adjustment) on an electricity bill?",
+        "options": [
+            "a) A charge for the gas in utility trucks",
+            "b) A mechanism allowing the utility to recover the fluctuating, unforeseen increases in the cost of coal/gas from consumers without waiting for a full annual tariff review",
+            "c) A charge for fueling the smart meter",
+            "d) A discount for using fossil fuels"
+        ],
+        "answer": "b) A mechanism allowing the utility to recover the fluctuating, unforeseen increases in the cost of coal/gas from consumers without waiting for a full annual tariff review",
+        "explanation": "The correct answer is 'A mechanism allowing the utility to recover the fluctuating, unforeseen increases in the cost of coal/gas from consumers without waiting for a full annual tariff review', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 42,
+        "question": "Which consumer category in India traditionally receives the highest amount of subsidized electricity (often free)?",
+        "options": [
+            "a) Heavy Manufacturing Industries",
+            "b) Agriculture (for irrigation pumps)",
+            "c) IT Parks and Data Centers",
+            "d) Shopping Malls"
+        ],
+        "answer": "b) Agriculture (for irrigation pumps)",
+        "explanation": "The correct answer is 'Agriculture (for irrigation pumps)', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 43,
+        "question": "What is a \"Flat Rate Tariff\"?",
+        "options": [
+            "a) A tariff applied only to flat apartments",
+            "b) A tariff where different types of consumers (light vs. power) are charged at different single flat rates per unit, regardless of the amount consumed",
+            "c) A tariff where the charge is based only on the connected load, not units consumed",
+            "d) A tariff that is completely free"
+        ],
+        "answer": "b) A tariff where different types of consumers (light vs. power) are charged at different single flat rates per unit, regardless of the amount consumed",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 44,
+        "question": "What is a \"Two-Part Tariff\"?",
+        "options": [
+            "a) A bill printed on two pieces of paper",
+            "b) A tariff split into a fixed charge (based on connected load or max demand) and a running charge (based on actual units consumed)",
+            "c) A tariff paid by two different people",
+            "d) A tariff only applied to 2-phase supply"
+        ],
+        "answer": "b) A tariff split into a fixed charge (based on connected load or max demand) and a running charge (based on actual units consumed)",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 45,
+        "question": "If an industry improves its \"Load Factor,\" how does this affect its electricity bill under a standard industrial tariff?",
+        "options": [
+            "a) The bill will skyrocket",
+            "b) The bill will decrease or avoid penalties because the plant is utilizing its demanded capacity more efficiently and smoothly",
+            "c) It has absolutely no effect",
+            "d) The utility will cut off their power"
+        ],
+        "answer": "b) The bill will decrease or avoid penalties because the plant is utilizing its demanded capacity more efficiently and smoothly",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 46,
+        "question": "What is a \"Minimum Charge\" in tariff design?",
+        "options": [
+            "a) The smallest coin you can use to pay",
+            "b) A base amount the consumer must pay even if they consume zero units of electricity in a billing cycle, ensuring the utility recovers infrastructure maintenance costs",
+            "c) A discount for using the minimum amount of power",
+            "d) The charge for reading the meter"
+        ],
+        "answer": "b) A base amount the consumer must pay even if they consume zero units of electricity in a billing cycle, ensuring the utility recovers infrastructure maintenance costs",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 47,
+        "question": "The \"Cost of Supply\" (CoS) calculation by a utility includes:",
+        "options": [
+            "a) Only the cost of coal",
+            "b) Power purchase costs, transmission charges, distribution losses, employee salaries, and infrastructure depreciation",
+            "c) Only the cost of the smart meters",
+            "d) Only the profit margin"
+        ],
+        "answer": "b) Power purchase costs, transmission charges, distribution losses, employee salaries, and infrastructure depreciation",
+        "explanation": "The correct answer is 'Power purchase costs, transmission charges, distribution losses, employee salaries, and infrastructure depreciation', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 48,
+        "question": "Why do commercial establishments (like malls) usually have a much higher per-unit tariff than residential homes?",
+        "options": [
+            "a) Because malls use 120V power",
+            "b) To execute Cross-Subsidy policies; commercial entities have higher paying capacity and are billed heavily to keep residential rates low",
+            "c) Because malls generate their own power",
+            "d) Because malls only operate at night"
+        ],
+        "answer": "b) To execute Cross-Subsidy policies; commercial entities have higher paying capacity and are billed heavily to keep residential rates low",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 49,
+        "question": "What is a Smart Meter?",
+        "options": [
+            "a) An analog meter that looks modern",
+            "b) An advanced electronic solid-state meter that records electrical consumption in intervals and features robust two-way communication with the utility",
+            "c) A meter that generates electricity",
+            "d) A meter that forces consumers to pay in cash"
+        ],
+        "answer": "b) An advanced electronic solid-state meter that records electrical consumption in intervals and features robust two-way communication with the utility",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 50,
+        "question": "What is the fundamental difference between an AMR (Automated Meter Reading) system and an AMI (Advanced Metering Infrastructure) Smart Meter system?",
+        "options": [
+            "a) AMR uses physical wires; AMI uses Wi-Fi",
+            "b) AMR provides one-way communication (utility collects reading); AMI provides true two-way communication (utility can collect data, send pricing signals, and remotely disconnect)",
+            "c) AMR is digital; AMI is analog",
+            "d) There is no difference"
+        ],
+        "answer": "b) AMR provides one-way communication (utility collects reading); AMI provides true two-way communication (utility can collect data, send pricing signals, and remotely disconnect)",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 51,
+        "question": "Which of the following is a core hardware component inside a Smart Meter responsible for accurately measuring the current and voltage?",
+        "options": [
+            "a) Communication Module",
+            "b) Metrology Chip / Measuring Engine",
+            "c) LCD Display",
+            "d) Lithium Battery"
+        ],
+        "answer": "b) Metrology Chip / Measuring Engine",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 52,
+        "question": "What role does the \"Microcontroller\" play inside a Smart Meter?",
+        "options": [
+            "a) It generates the electricity",
+            "b) It acts as the brain, processing data from the metrology chip, storing data in memory, managing the display, and handling communication protocols",
+            "c) It measures the physical weight of the meter",
+            "d) It connects the high-voltage lines"
+        ],
+        "answer": "b) It acts as the brain, processing data from the metrology chip, storing data in memory, managing the display, and handling communication protocols",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 53,
+        "question": "To measure current, a single-phase residential smart meter most commonly utilizes which internal component?",
+        "options": [
+            "a) A massive step-up transformer",
+            "b) A Shunt Resistor or a Current Transformer (CT)",
+            "c) A mechanical spinning aluminum disc",
+            "d) A voltmeter"
+        ],
+        "answer": "b) A Shunt Resistor or a Current Transformer (CT)",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 54,
+        "question": "What is the purpose of the \"Real-Time Clock\" (RT",
+        "options": [
+            "a) To show the time of day to the consumer",
+            "b) To accurately time-stamp the energy consumption data into specific intervals (e.g., 15 minutes) for Time-of-Day (To",
+            "c) inside a Smart Meter?",
+            "d) billing"
+        ],
+        "answer": "b) To accurately time-stamp the energy consumption data into specific intervals (e.g., 15 minutes) for Time-of-Day (To",
+        "explanation": "The correct answer is 'To accurately time-stamp the energy consumption data into specific intervals (e.g., 15 minutes', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 55,
+        "question": "What is a \"CT-Operated\" Smart Meter?",
+        "options": [
+            "a) A meter used in Computed Tomography medical scanners",
+            "b) A meter used for high-load industrial/commercial connections where the main current is too massive to pass directly through the meter, requiring a Current Transformer to step it down safely for measurement",
+            "c) A meter that operates on Direct Current",
+            "d) A purely mechanical meter"
+        ],
+        "answer": "b) A meter used for high-load industrial/commercial connections where the main current is too massive to pass directly through the meter, requiring a Current Transformer to step it down safely for measurement",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 56,
+        "question": "A \"Prepaid\" Smart Meter functions by:",
+        "options": [
+            "a) Disconnecting when the power goes out",
+            "b) Allowing the consumer to \"recharge\" their meter balance via an app; the internal relay automatically disconnects power when the balance reaches zero",
+            "c) Charging the consumer double at the end of the year",
+            "d) Refusing to measure energy"
+        ],
+        "answer": "b) Allowing the consumer to \"recharge\" their meter balance via an app; the internal relay automatically disconnects power when the balance reaches zero",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 57,
+        "question": "Which of the following is a common \"Communication Technology\" used by Smart Meters to form a Neighborhood Area Network (NAN)?",
+        "options": [
+            "a) Bluetooth Only",
+            "b) RF (Radio Frequency) Mesh or PLC (Power Line Carrier)",
+            "c) Dial-up internet",
+            "d) Fiber optics to every single meter"
+        ],
+        "answer": "b) RF (Radio Frequency) Mesh or PLC (Power Line Carrier)",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 58,
+        "question": "How does an \"RF Mesh\" communication network work in a smart metering deployment?",
+        "options": [
+            "a) Each meter must have a direct cable to the utility",
+            "b) Meters communicate wirelessly with each other, hopping the data from meter to meter like a relay race until it reaches a central Data Concentrator Unit (DCU)",
+            "c) Meters use lasers to communicate",
+            "d) Meters do not communicate at all"
+        ],
+        "answer": "b) Meters communicate wirelessly with each other, hopping the data from meter to meter like a relay race until it reaches a central Data Concentrator Unit (DCU)",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 59,
+        "question": "What is PLC (Power Line Carrier) communication in smart metering?",
+        "options": [
+            "a) Using a dedicated telephone line",
+            "b) Superimposing a high-frequency digital communication signal directly over the existing 230V/415V AC electrical power cables to transmit data",
+            "c) Using a cellular SIM card",
+            "d) Using satellite dishes"
+        ],
+        "answer": "b) Superimposing a high-frequency digital communication signal directly over the existing 230V/415V AC electrical power cables to transmit data",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 60,
+        "question": "For rural or highly isolated smart meters, which communication technology is often the most practical?",
+        "options": [
+            "a) Short-range RF Mesh",
+            "b) Cellular / Mobile Networks (GPRS, 4G, NB-IoT) using a SIM card",
+            "c) Fiber Optics",
+            "d) Wi-Fi router"
+        ],
+        "answer": "b) Cellular / Mobile Networks (GPRS, 4G, NB-IoT) using a SIM card",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 61,
+        "question": "What does the \"Load Profiling\" feature of a Smart Meter do?",
+        "options": [
+            "a) It takes a picture of the appliances in the house",
+            "b) It records and stores the average power demand at continuous fixed intervals (e.g., every 15 mins) over a month, showing exactly when electricity is used",
+            "c) It changes the voltage of the load",
+            "d) It blocks heavy loads from turning on"
+        ],
+        "answer": "b) It records and stores the average power demand at continuous fixed intervals (e.g., every 15 mins) over a month, showing exactly when electricity is used",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 62,
+        "question": "A massive ADVANTAGE of smart meters for the Utility (DISCOM) is:",
+        "options": [
+            "a) They cost nothing to install",
+            "b) Complete elimination of manual meter reading, drastically reducing labor costs and eliminating human billing errors",
+            "c) The utility no longer has to generate power",
+            "d) They prevent lightning strikes"
+        ],
+        "answer": "b) Complete elimination of manual meter reading, drastically reducing labor costs and eliminating human billing errors",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 63,
+        "question": "How do smart meters help utilities detect \"Electricity Theft\" or tampering?",
+        "options": [
+            "a) By shocking the thief",
+            "b) They have advanced tamper-detection features (cover open, magnetic interference, neutral missing) that instantly send an alarm to the utility control center",
+            "c) By recording a video of the thief",
+            "d) They cannot detect theft"
+        ],
+        "answer": "b) They have advanced tamper-detection features (cover open, magnetic interference, neutral missing) that instantly send an alarm to the utility control center",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 64,
+        "question": "What is the \"Remote Connect/Disconnect\" feature of a Smart Meter?",
+        "options": [
+            "a) The ability to cut off or restore power to a customer instantly from the control room",
+            "b) An internal latching relay that allows the utility to cut off or restore power to a customer instantly from the control room (e.g., for non-payment or moving out)",
+            "c) A feature that turns off the internet",
+            "d) A physical switch on the outside of the box"
+        ],
+        "answer": "b) An internal latching relay that allows the utility to cut off or restore power to a customer instantly from the control room (e.g., for non-payment or moving out)",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 65,
+        "question": "How do Smart Meters benefit the Consumer?",
+        "options": [
+            "a) They make electricity completely free",
+            "b) They provide access to real-time consumption data via web portals/apps, enabling consumers to track usage and reduce waste, and eliminating estimated billing",
+            "c) They increase the voltage to the house",
+            "d) They hide the bill until the end of the year"
+        ],
+        "answer": "b) They provide access to real-time consumption data via web portals/apps, enabling consumers to track usage and reduce waste, and eliminating estimated billing",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 66,
+        "question": "Which of the following is a major CHALLENGE in the widespread deployment of Smart Meters?",
+        "options": [
+            "a) They are too quiet",
+            "b) High initial capital expenditure (CAPEX) for millions of meters, communication networks, and IT infrastructure",
+            "c) They cannot measure AC power",
+            "d) They are illegal"
+        ],
+        "answer": "b) High initial capital expenditure (CAPEX) for millions of meters, communication networks, and IT infrastructure",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 67,
+        "question": "Cybersecurity is a significant challenge for AMI because:",
+        "options": [
+            "a) The meters don't use passwords",
+            "b) The two-way communication network creates millions of potential entry points for hackers to steal private data or execute a mass remote disconnect attack on a city",
+            "c) Hackers can steal the physical electricity",
+            "d) The meters use too much Wi-Fi"
+        ],
+        "answer": "b) The two-way communication network creates millions of potential entry points for hackers to steal private data or execute a mass remote disconnect attack on a city",
+        "explanation": "Advanced Metering Infrastructure (AMI) provides the full two-way communication network required for remote reading, disconnects, and firmware updates."
+    },
+    {
+        "id": 68,
+        "question": "What is the \"Data Privacy\" concern associated with Smart Meters?",
+        "options": [
+            "a) The utility knows what TV show you are watching",
+            "b) High-resolution load profile data can theoretically be analyzed to deduce a consumer's daily habits, sleep schedules, and occupancy, raising privacy fears",
+            "c) The meter broadcasts your name to the street",
+            "d) The meter records audio"
+        ],
+        "answer": "b) High-resolution load profile data can theoretically be analyzed to deduce a consumer's daily habits, sleep schedules, and occupancy, raising privacy fears",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 69,
+        "question": "In the overall Smart Grid system, what role does the Smart Meter play?",
+        "options": [
+            "a) It acts as the main power generator",
+            "b) It acts as the fundamental \"edge sensor,\" providing the granular, real-time visibility and control required to balance distributed generation, demand response, and outage management",
+            "c) It replaces the distribution transformer",
+            "d) It serves as a decorative light"
+        ],
+        "answer": "b) It acts as the fundamental \"edge sensor,\" providing the granular, real-time visibility and control required to balance distributed generation, demand response, and outage management",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 70,
+        "question": "How do Smart Meters improve \"Outage Management\"?",
+        "options": [
+            "a) By causing blackouts",
+            "b) When power is lost, the meter uses a supercapacitor to send a final \"Last Gasp\" message to the utility, allowing precise, instant mapping of the outage without waiting for customer phone calls",
+            "c) By turning on a backup generator inside the meter",
+            "d) By glowing red"
+        ],
+        "answer": "b) When power is lost, the meter uses a supercapacitor to send a final \"Last Gasp\" message to the utility, allowing precise, instant mapping of the outage without waiting for customer phone calls",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 71,
+        "question": "In AMI architecture, what is the role of the MDMS (Meter Data Management System)?",
+        "options": [
+            "a) A mechanical gear inside the meter",
+            "b) The massive centralized enterprise software that receives, validates, stores, and analyzes the millions of data points from smart meters before sending it to the billing software",
+            "c) The physical truck that drives around to read meters",
+            "d) A smartphone app"
+        ],
+        "answer": "b) The massive centralized enterprise software that receives, validates, stores, and analyzes the millions of data points from smart meters before sending it to the billing software",
+        "explanation": "Advanced Metering Infrastructure (AMI) provides the full two-way communication network required for remote reading, disconnects, and firmware updates."
+    },
+    {
+        "id": 72,
+        "question": "What is \"Interoperability\" in the context of Smart Metering challenges?",
+        "options": [
+            "a) The ability of the meter to work without power",
+            "b) The challenge of ensuring that smart meters from multiple different vendors can all communicate seamlessly on the same utility network and MDMS",
+            "c) The ability of the meter to measure water and gas",
+            "d) The ability to run backward"
+        ],
+        "answer": "b) The challenge of ensuring that smart meters from multiple different vendors can all communicate seamlessly on the same utility network and MDMS",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 73,
+        "question": "What is an \"In-Home Display\" (IH",
+        "options": [
+            "a) A television provided by the utility",
+            "b) A small screen inside the house that connects locally to the smart meter (often via Zigbee) to show the consumer their real-time power usage and current tariff rate",
+            "c) The LCD screen on the meter outside",
+            "d) in relation to smart meters?"
+        ],
+        "answer": "b) A small screen inside the house that connects locally to the smart meter (often via Zigbee) to show the consumer their real-time power usage and current tariff rate",
+        "explanation": "The correct answer is 'A small screen inside the house that connects locally to the smart meter (often via Zigbee', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 74,
+        "question": "The communication architecture of AMI is typically divided into HAN, NAN, and WAN. What does WAN stand for?",
+        "options": [
+            "a) Wide Area Network (e.g., Cellular backhaul connecting the Data Concentrator to the Utility Data Center)",
+            "b) Wireless Area Node",
+            "c) Wired Access Network",
+            "d) Wattage Analysis Node"
+        ],
+        "answer": "a) Wide Area Network (e.g., Cellular backhaul connecting the Data Concentrator to the Utility Data Center)",
+        "explanation": "Advanced Metering Infrastructure (AMI) provides the full two-way communication network required for remote reading, disconnects, and firmware updates."
+    },
+    {
+        "id": 75,
+        "question": "What feature allows a smart meter to remain accurate even after a power outage?",
+        "options": [
+            "a) A diesel generator",
+            "b) Non-volatile memory (NVM) storing the cumulative kWh reading and a battery-backed RealTime Clock",
+            "c) The utility resets it to zero",
+            "d) A mechanical spring"
+        ],
+        "answer": "b) Non-volatile memory (NVM) storing the cumulative kWh reading and a battery-backed RealTime Clock",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 76,
+        "question": "Smart meters enable \"Demand Response\" programs by:",
+        "options": [
+            "a) Ignoring consumer demand",
+            "b) Sending real-time pricing signals to the meter/home, incentivizing the consumer (or automating smart appliances) to lower consumption during peak grid stress",
+            "c) Increasing the voltage to appliances",
+            "d) Forcing consumers to generate their own power"
+        ],
+        "answer": "b) Sending real-time pricing signals to the meter/home, incentivizing the consumer (or automating smart appliances) to lower consumption during peak grid stress",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 77,
+        "question": "The \"Metrology Chip\" inside a smart meter relies on high-speed ________ to calculate power.",
+        "options": [
+            "a) Analog gears",
+            "b) Analog-to-Digital Converters (ADCs) simultaneously sampling voltage and current waveforms thousands of times per second to compute active and reactive power",
+            "c) Mechanical springs",
+            "d) Water pressure sensors"
+        ],
+        "answer": "b) Analog-to-Digital Converters (ADCs) simultaneously sampling voltage and current waveforms thousands of times per second to compute active and reactive power",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 78,
+        "question": "A Three-Phase Smart Meter is typically used for:",
+        "options": [
+            "a) Small studio apartments",
+            "b) Large residential homes, commercial buildings, or small industries requiring 415V threephase supply",
+            "c) Charging cell phones",
+            "d) Single-phase water pumps"
+        ],
+        "answer": "b) Large residential homes, commercial buildings, or small industries requiring 415V threephase supply",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 79,
+        "question": "How do Smart Meters assist in identifying \"Non-Technical Losses\" (AT&C losses)?",
+        "options": [
+            "a) By breaking down",
+            "b) By allowing utilities to accurately compare the total energy supplied by a distribution transformer against the exact sum of energy billed by all smart meters connected to it, isolating areas with high theft",
+            "c) By lowering the voltage",
+            "d) By disconnecting everyone"
+        ],
+        "answer": "b) By allowing utilities to accurately compare the total energy supplied by a distribution transformer against the exact sum of energy billed by all smart meters connected to it, isolating areas with high theft",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 80,
+        "question": "What is \"Firmware Over-The-Air\" (FOT",
+        "options": [
+            "a) in smart metering?",
+            "b) The ability of the utility to remotely push software updates to the smart meters to add features, fix bugs, or update security, without sending a technician",
+            "c) Transmitting electricity through the air",
+            "d) Changing the meter into a radio"
+        ],
+        "answer": "b) The ability of the utility to remotely push software updates to the smart meters to add features, fix bugs, or update security, without sending a technician",
+        "explanation": "The correct answer is 'The ability of the utility to remotely push software updates to the smart meters to add features, fix bugs, or update security, without sending a technician', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 81,
+        "question": "What is \"Net Metering\"?",
+        "options": [
+            "a) A system where the consumer pays for internet usage",
+            "b) A billing mechanism that credits solar energy system owners for the electricity they add to the grid, charging them only for the \"net\" energy consumed (Import - Export)",
+            "c) A meter that captures fish in a net",
+            "d) A system where all generated power is wasted"
+        ],
+        "answer": "b) A billing mechanism that credits solar energy system owners for the electricity they add to the grid, charging them only for the \"net\" energy consumed (Import - Export)",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 82,
+        "question": "What is \"Gross Metering\"?",
+        "options": [
+            "a) A billing system where the meter smells bad",
+            "b) A billing mechanism where ALL electricity generated by the rooftop solar is exported and sold to the utility at a specific tariff, and ALL electricity consumed by the house is imported and billed separately at the retail tariff",
+            "c) A system where the consumer pays for gross errors",
+            "d) Measuring the total physical weight of the meter"
+        ],
+        "answer": "b) A billing mechanism where ALL electricity generated by the rooftop solar is exported and sold to the utility at a specific tariff, and ALL electricity consumed by the house is imported and billed separately at the retail tariff",
+        "explanation": "In Gross Metering, all generated solar power is sold to the grid at one rate, and all consumed power is bought from the grid at another rate."
+    },
+    {
+        "id": 83,
+        "question": "To implement Net Metering, what specific hardware is strictly required?",
+        "options": [
+            "a) Two separate analog meters",
+            "b) A Bi-directional Smart/Electronic Meter capable of recording both imported energy (from grid) and exported energy (to grid) in separate registers",
+            "c) A standard uni-directional meter",
+            "d) A water meter"
+        ],
+        "answer": "b) A Bi-directional Smart/Electronic Meter capable of recording both imported energy (from grid) and exported energy (to grid) in separate registers",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 84,
+        "question": "In Net Metering, if a consumer exports 300 units to the grid and imports 200 units from the grid in a month, what are they billed for regarding energy consumption?",
+        "options": [
+            "a) Billed for 200 units",
+            "b) Billed for zero units, and 100 units are \"banked\" (carried forward as a credit to the next billing cycle)",
+            "c) Billed for 500 units",
+            "d) The grid shuts off"
+        ],
+        "answer": "b) Billed for zero units, and 100 units are \"banked\" (carried forward as a credit to the next billing cycle)",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 85,
+        "question": "What does MERC stand for in the context of Maharashtra's electricity regulations?",
+        "options": [
+            "a) Mumbai Electrical Rating Commission",
+            "b) Maharashtra Electricity Regulatory Commission",
+            "c) Metropolitan Energy Rules Committee",
+            "d) Maharashtra Energy and Resource Council"
+        ],
+        "answer": "b) Maharashtra Electricity Regulatory Commission",
+        "explanation": "The Maharashtra Electricity Regulatory Commission (MERC) is the body responsible for approving tariffs and setting rules for the power sector in Maharashtra."
+    },
+    {
+        "id": 86,
+        "question": "According to standard MERC rules for Net Metering, how are unadjusted banked units typically settled at the end of the financial year?",
+        "options": [
+            "a) They are carried forward infinitely",
+            "b) The utility purchases the surplus banked units from the prosumer at a pre-determined, lower tariff (often the Average Power Purchase Cost), and the bank is reset to zero",
+            "c) They are deleted without compensation",
+            "d) The prosumer must pay a penalty"
+        ],
+        "answer": "b) The utility purchases the surplus banked units from the prosumer at a pre-determined, lower tariff (often the Average Power Purchase Cost), and the bank is reset to zero",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 87,
+        "question": "Under Net Metering regulations, what is the typical limitation on the capacity of the rooftop solar system a consumer can install?",
+        "options": [
+            "a) There is no limit",
+            "b) It is usually capped at 100% of the consumer's \"Sanctioned Load\" or \"Contract Demand\" to prevent overloading the local grid",
+            "c) Exactly 1000 kW for everyone",
+            "d) Only 1 kW maximum"
+        ],
+        "answer": "b) It is usually capped at 100% of the consumer's \"Sanctioned Load\" or \"Contract Demand\" to prevent overloading the local grid",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 88,
+        "question": "Why do DISCOMs generally prefer Gross Metering over Net Metering for high-tariff commercial consumers?",
+        "options": [
+            "a) It uses fewer meters",
+            "b) Net metering causes the DISCOM to lose their highest-paying retail revenue, as the consumer offsets expensive units with their own solar; Gross metering forces them to still buy at the high retail rate",
+            "c) Gross metering is better for the environment",
+            "d) Net metering causes grid blackouts"
+        ],
+        "answer": "b) Net metering causes the DISCOM to lose their highest-paying retail revenue, as the consumer offsets expensive units with their own solar; Gross metering forces them to still buy at the high retail rate",
+        "explanation": "Tariff refers to the schedule of rates and charges defined by a utility to recover the cost of supplying electrical energy to consumers."
+    },
+    {
+        "id": 89,
+        "question": "What is a \"Micro-generator\" in the context of grid integration?",
+        "options": [
+            "a) A tiny battery",
+            "b) A small-scale decentralized energy source, like a residential rooftop solar PV system or small wind turbine, usually below 1 MW",
+            "c) A generator that only powers microscopes",
+            "d) A nuclear reactor"
+        ],
+        "answer": "b) A small-scale decentralized energy source, like a residential rooftop solar PV system or small wind turbine, usually below 1 MW",
+        "explanation": "The correct answer is 'A small-scale decentralized energy source, like a residential rooftop solar PV system or small wind turbine, usually below 1 MW', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 90,
+        "question": "MERC rules often place a limit on the cumulative capacity of all net-metered solar systems connected to a single Distribution Transformer (DTR). Why?",
+        "options": [
+            "a) To make the transformer look better",
+            "b) To prevent voltage rise, reverse power flow overloads, and grid instability at the local distribution level (e.g., capping total solar to 70% or 100% of DTR capacity)",
+            "c) To force people to buy more transformers",
+            "d) Solar power melts transformers instantly"
+        ],
+        "answer": "b) To prevent voltage rise, reverse power flow overloads, and grid instability at the local distribution level (e.g., capping total solar to 70% or 100% of DTR capacity)",
+        "explanation": "The Maharashtra Electricity Regulatory Commission (MERC) is the body responsible for approving tariffs and setting rules for the power sector in Maharashtra."
+    },
+    {
+        "id": 91,
+        "question": "Under Net Metering, does the consumer still have to pay \"Fixed Charges\"?",
+        "options": [
+            "a) No, solar panels eliminate fixed charges",
+            "b) Yes, the consumer is still connected to the grid and must pay the monthly fixed demand charge, even if their net energy consumption is zero",
+            "c) Only if they consume power at night",
+            "d) The utility pays the fixed charge to the consumer"
+        ],
+        "answer": "b) Yes, the consumer is still connected to the grid and must pay the monthly fixed demand charge, even if their net energy consumption is zero",
+        "explanation": "Fixed charges (or Capacity Charges) recover the generator's capital investment and fixed operational costs, regardless of the actual energy generated."
+    },
+    {
+        "id": 92,
+        "question": "For integrating a micro-generator (Solar PV) to the grid, what device ensures the DC power from the panels is converted to grid-synchronized AC power?",
+        "options": [
+            "a) The Smart Meter",
+            "b) The Grid-Tied Inverter",
+            "c) The Transformer",
+            "d) The Junction Box"
+        ],
+        "answer": "b) The Grid-Tied Inverter",
+        "explanation": "The correct answer is 'The Grid-Tied Inverter', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 93,
+        "question": "What is the \"Banking Cycle\" in Net Metering regulations?",
+        "options": [
+            "a) The time it takes for a bank to clear a check",
+            "b) The accounting period (usually April to March) over which a prosumer can carry forward surplus exported energy units to offset future consumption",
+            "c) The physical spinning of the meter",
+            "d) A 24-hour cycle"
+        ],
+        "answer": "b) The accounting period (usually April to March) over which a prosumer can carry forward surplus exported energy units to offset future consumption",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 94,
+        "question": "If a residential consumer installs a grid-tied solar system without batteries under a Net Metering agreement, what happens during a utility power blackout?",
+        "options": [
+            "a) The house runs perfectly on solar",
+            "b) The grid-tied inverter automatically shuts down (Anti-Islanding) to protect line workers, so the house loses power despite the sun shining",
+            "c) The solar panels explode",
+            "d) The meter runs backward rapidly"
+        ],
+        "answer": "b) The grid-tied inverter automatically shuts down (Anti-Islanding) to protect line workers, so the house loses power despite the sun shining",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 95,
+        "question": "A major application of Net Metering is promoting \"Prosumers\". A prosumer acts as:",
+        "options": [
+            "a) A pure consumer",
+            "b) Both a producer and a consumer of electricity",
+            "c) A utility executive",
+            "d) An energy auditor"
+        ],
+        "answer": "b) Both a producer and a consumer of electricity",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 96,
+        "question": "According to recent regulatory amendments in various Indian states, Net Metering is sometimes restricted to residential/agricultural consumers, while commercial/industrial consumers are mandated to use:",
+        "options": [
+            "a) No metering",
+            "b) Gross Metering or Net Billing",
+            "c) Analog meters only",
+            "d) Mechanical generators"
+        ],
+        "answer": "b) Gross Metering or Net Billing",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 97,
+        "question": "What is \"Net Billing\" (or Net Feed-in)?",
+        "options": [
+            "a) A hybrid model where the exported energy is monetized at a lower feed-in tariff immediately and deducted from the monetary value of imported energy at retail rate, rather than doing a 1:1 unit offset like Net Metering",
+            "b) A bill sent over the internet",
+            "c) Billing based on the net weight of the meter",
+            "d) A system where the consumer pays for everything twice"
+        ],
+        "answer": "a) A hybrid model where the exported energy is monetized at a lower feed-in tariff immediately and deducted from the monetary value of imported energy at retail rate, rather than doing a 1:1 unit offset like Net Metering",
+        "explanation": "The correct answer is 'A hybrid model where the exported energy is monetized at a lower feed-in tariff immediately and deducted from the monetary value of imported energy at retail rate, rather than doing a 1:1 unit offset like Net Metering', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 98,
+        "question": "Why must an existing uni-directional analog meter be replaced when a rooftop solar system is installed?",
+        "options": [
+            "a) Because analog meters are ugly",
+            "b) Because a uni-directional meter cannot differentiate between import and export, and might actually charge the consumer for the power they are exporting to the grid",
+            "c) Because solar power burns analog meters",
+            "d) Because analog meters spin too fast"
+        ],
+        "answer": "b) Because a uni-directional meter cannot differentiate between import and export, and might actually charge the consumer for the power they are exporting to the grid",
+        "explanation": "The correct answer is 'Because a uni-directional meter cannot differentiate between import and export, and might actually charge the consumer for the power they are exporting to the grid', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 99,
+        "question": "In the context of billing, what is a \"Provisional Bill\"?",
+        "options": [
+            "a) A bill that provides provisions (food)",
+            "b) An estimated bill issued by the utility when the actual meter reading cannot be obtained for that month due to communication failure or a locked door",
+            "c) A bill for a new connection",
+            "d) A bill that is paid in advance for 10 years"
+        ],
+        "answer": "b) An estimated bill issued by the utility when the actual meter reading cannot be obtained for that month due to communication failure or a locked door",
+        "explanation": "The correct answer is 'An estimated bill issued by the utility when the actual meter reading cannot be obtained for that month due to communication failure or a locked door', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 100,
+        "question": "How does Net Metering economically benefit the prosumer?",
+        "options": [
+            "a) It increases their taxes",
+            "b) It slashes their monthly electricity bill by offsetting expensive grid imports with free solar energy, accelerating the Return on Investment (ROI) of the solar plant",
+            "c) It guarantees they will win the lottery",
+            "d) It removes all maintenance costs"
+        ],
+        "answer": "b) It slashes their monthly electricity bill by offsetting expensive grid imports with free solar energy, accelerating the Return on Investment (ROI) of the solar plant",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 101,
+        "question": "What does the \"Import Register\" on a Bi-directional meter record?",
+        "options": [
+            "a) Energy pushed into the grid from solar",
+            "b) Energy drawn from the utility grid to power the house",
+            "c) The total energy generated by the solar panels",
+            "d) The reactive power only"
+        ],
+        "answer": "b) Energy drawn from the utility grid to power the house",
+        "explanation": "The correct answer is 'Energy drawn from the utility grid to power the house', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 102,
+        "question": "What does the \"Export Register\" on a Bi-directional meter record?",
+        "options": [
+            "a) Energy drawn from the grid",
+            "b) Surplus solar energy pushed into the utility grid",
+            "c) Energy consumed by the house",
+            "d) Maximum demand from the grid"
+        ],
+        "answer": "b) Surplus solar energy pushed into the utility grid",
+        "explanation": "The correct answer is 'Surplus solar energy pushed into the utility grid', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 103,
+        "question": "If a solar inverter produces 15 units a day, the house consumes 10 units during the day, and 5 units at night. Assuming no battery, what does the Net Meter record for that day?",
+        "options": [
+            "a) Import: 15, Export: 15",
+            "b) Export: 5 units (during day), Import: 5 units (at night). Net = 0.",
+            "c) Import: 10, Export: 0",
+            "d) Export: 10, Import: 10"
+        ],
+        "answer": "b) Export: 5 units (during day), Import: 5 units (at night). Net = 0.",
+        "explanation": "The correct answer is 'Export: 5 units (during day), Import: 5 units (at night). Net = 0.', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 104,
+        "question": "Which billing mechanism strongly incentivizes a consumer to consume their own solar power instantly rather than exporting it?",
+        "options": [
+            "a) Net Metering",
+            "b) Gross Metering or Net Billing (where export rates are much lower than retail import rates)",
+            "c) Unmetered supply",
+            "d) Flat rate billing"
+        ],
+        "answer": "b) Gross Metering or Net Billing (where export rates are much lower than retail import rates)",
+        "explanation": "The correct answer is 'Gross Metering or Net Billing (where export rates are much lower than retail import rates)', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 105,
+        "question": "Under MERC regulations, a Net Metering application requires the approval and technical feasibility clearance from:",
+        "options": [
+            "a) The local mayor",
+            "b) The respective Distribution Licensee (DISCOM)",
+            "c) The Supreme Court",
+            "d) The solar panel manufacturer"
+        ],
+        "answer": "b) The respective Distribution Licensee (DISCOM)",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 106,
+        "question": "A \"Solar Generation Meter\" is sometimes installed alongside the Bi-directional Net Meter. What is its purpose?",
+        "options": [
+            "a) To measure water flow",
+            "b) To purely measure the total gross generation of the solar inverter for subsidy calculations or RPO accounting, regardless of house consumption",
+            "c) To replace the net meter",
+            "d) To block solar power"
+        ],
+        "answer": "b) To purely measure the total gross generation of the solar inverter for subsidy calculations or RPO accounting, regardless of house consumption",
+        "explanation": "The correct answer is 'To purely measure the total gross generation of the solar inverter for subsidy calculations or RPO accounting, regardless of house consumption', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 107,
+        "question": "Which component protects the micro-generator and the grid from severe voltage and frequency fluctuations at the Point of Common Coupling?",
+        "options": [
+            "a) The solar panels",
+            "b) The Grid-Tied Inverter's built-in protection relays (Under/Over Voltage, Under/Over Frequency)",
+            "c) The mounting structure",
+            "d) The DC cables"
+        ],
+        "answer": "b) The Grid-Tied Inverter's built-in protection relays (Under/Over Voltage, Under/Over Frequency)",
+        "explanation": "The correct answer is 'The Grid-Tied Inverter's built-in protection relays (Under/Over Voltage, Under/Over Frequency)', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 108,
+        "question": "Net metering promotes the integration of micro-generators, which helps the utility by:",
+        "options": [
+            "a) Overloading the transmission lines",
+            "b) Generating power close to the load, reducing transmission & distribution (T&",
+            "c) Making the grid completely unstable",
+            "d) losses and shaving daytime peak demand"
+        ],
+        "answer": "b) Generating power close to the load, reducing transmission & distribution (T&",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 109,
+        "question": "What is a \"Wheeling Charge\"?",
+        "options": [
+            "a) The cost to buy wheels for a utility truck",
+            "b) A fee charged by the transmission/distribution network operator for the use of their lines to transport electricity from a generator to a consumer",
+            "c) A charge for using a smart meter",
+            "d) The cost of solar panels"
+        ],
+        "answer": "b) A fee charged by the transmission/distribution network operator for the use of their lines to transport electricity from a generator to a consumer",
+        "explanation": "The correct answer is 'A fee charged by the transmission/distribution network operator for the use of their lines to transport electricity from a generator to a consumer', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 110,
+        "question": "In some states, if a rooftop solar system is purely for captive use under Net Metering, the government waives which charges?",
+        "options": [
+            "a) Fixed capacity charges",
+            "b) Wheeling charges and cross-subsidy surcharges",
+            "c) All electricity bills forever",
+            "d) The cost of the solar panels"
+        ],
+        "answer": "b) Wheeling charges and cross-subsidy surcharges",
+        "explanation": "Net Metering allows prosumers to offset their energy consumption with their own solar generation, paying only for the 'net' units imported from the grid."
+    },
+    {
+        "id": 111,
+        "question": "What does AMR stand for in meter reading techniques?",
+        "options": [
+            "a) Automated Mechanical Reader",
+            "b) Automated Meter Reading",
+            "c) Advanced Meter Reset",
+            "d) Analog Measurement Ratio"
+        ],
+        "answer": "b) Automated Meter Reading",
+        "explanation": "Automated Meter Reading (AMR) is a one-way system where the utility collects readings remotely, eliminating the need for manual meter readers."
+    },
+    {
+        "id": 112,
+        "question": "What does MRI stand for in traditional digital meter reading?",
+        "options": [
+            "a) Magnetic Resonance Imaging",
+            "b) Meter Reading Instrument",
+            "c) Manual Recording Interface",
+            "d) Microprocessor Relay Indicator"
+        ],
+        "answer": "b) Meter Reading Instrument",
+        "explanation": "The correct answer is 'Meter Reading Instrument', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 113,
+        "question": "How is an MRI (Meter Reading Instrument) or HHU (Hand-Held Unit) typically used by a meter reader?",
+        "options": [
+            "a) They take a photograph of the meter from their car",
+            "b) They walk to the meter and physically connect the MRI device to the meter's optical port to securely download the billing and tamper data",
+            "c) The MRI reads the meter via satellite",
+            "d) The MRI forces the consumer to read the meter"
+        ],
+        "answer": "b) They walk to the meter and physically connect the MRI device to the meter's optical port to securely download the billing and tamper data",
+        "explanation": "The correct answer is 'They walk to the meter and physically connect the MRI device to the meter's optical port to securely download the billing and tamper data', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 114,
+        "question": "The transition from Manual Reading (clipboard and pen) to MRI/HHU reading eliminated what major problem?",
+        "options": [
+            "a) The need for electricity",
+            "b) Human data entry errors (punching mistakes) and \"table reading\" (guessing the reading without visiting)",
+            "c) The need for a meter",
+            "d) The cost of power generation"
+        ],
+        "answer": "b) Human data entry errors (punching mistakes) and \"table reading\" (guessing the reading without visiting)",
+        "explanation": "The correct answer is 'Human data entry errors (punching mistakes', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 115,
+        "question": "While MRI improved accuracy, it is still considered \"Walk-by\" technology. AMR improves this by:",
+        "options": [
+            "a) Making the meter reader walk faster",
+            "b) Using communication modules (like RF or Cellular) to transmit the meter data to the utility remotely, eliminating the need to physically visit the meter",
+            "c) Using a drone to look at the meter",
+            "d) Making the consumer mail the meter to the utility"
+        ],
+        "answer": "b) Using communication modules (like RF or Cellular) to transmit the meter data to the utility remotely, eliminating the need to physically visit the meter",
+        "explanation": "Automated Meter Reading (AMR) is a one-way system where the utility collects readings remotely, eliminating the need for manual meter readers."
+    },
+    {
+        "id": 116,
+        "question": "In AMR, what is a \"Drive-by\" system?",
+        "options": [
+            "a) Cars driving over the meter",
+            "b) A meter reader drives a vehicle equipped with an RF receiver through a neighborhood, wirelessly collecting data from all AMR meters within a short radius",
+            "c) A system where the consumer drives to the utility",
+            "d) Reading the meter from a fast-moving train"
+        ],
+        "answer": "b) A meter reader drives a vehicle equipped with an RF receiver through a neighborhood, wirelessly collecting data from all AMR meters within a short radius",
+        "explanation": "Automated Meter Reading (AMR) is a one-way system where the utility collects readings remotely, eliminating the need for manual meter readers."
+    },
+    {
+        "id": 117,
+        "question": "How does Deep Learning assist in modern meter reading techniques?",
+        "options": [
+            "a) It teaches the meter to speak English",
+            "b) Utilizing Optical Character Recognition (OCR) and Convolutional Neural Networks (CNNs) to automatically extract accurate digit readings from photographs of older analog/digital meters submitted by consumers via an app",
+            "c) It predicts the weather for the meter reader",
+            "d) It changes the physical numbers on the meter"
+        ],
+        "answer": "b) Utilizing Optical Character Recognition (OCR) and Convolutional Neural Networks (CNNs) to automatically extract accurate digit readings from photographs of older analog/digital meters submitted by consumers via an app",
+        "explanation": "Deep learning models (like CNNs) are used in smart billing for Optical Character Recognition (OCR) to read analog meter dials from photographs."
+    },
+    {
+        "id": 118,
+        "question": "Which deep learning architecture is incredibly powerful for image processing and is widely used for reading meter dials from images?",
+        "options": [
+            "a) RNN (Recurrent Neural Network)",
+            "b) CNN (Convolutional Neural Network)",
+            "c) GAN (Generative Adversarial Network)",
+            "d) Linear Regression"
+        ],
+        "answer": "b) CNN (Convolutional Neural Network)",
+        "explanation": "Deep learning models (like CNNs) are used in smart billing for Optical Character Recognition (OCR) to read analog meter dials from photographs."
+    },
+    {
+        "id": 119,
+        "question": "A utility launches an app where a consumer snaps a photo of their old analog meter to generate a bill. What AI technology converts the image of the numbers '12345' into actual digital text data?",
+        "options": [
+            "a) Natural Language Processing (NLP)",
+            "b) Optical Character Recognition (OCR) powered by Deep Learning",
+            "c) Speech to Text",
+            "d) Blockchain"
+        ],
+        "answer": "b) Optical Character Recognition (OCR) powered by Deep Learning",
+        "explanation": "The correct answer is 'Optical Character Recognition (OCR', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 120,
+        "question": "How can Deep Learning models be used to detect meter tampering or electricity theft (Non-Technical Losses)?",
+        "options": [
+            "a) By shocking the thief",
+            "b) By analyzing millions of historical load profiles to identify anomalous consumption patterns (e.g., sudden unexplained drops in usage) that strongly indicate a bypassed meter",
+            "c) By installing cameras in people's bedrooms",
+            "d) By turning off all power to the city"
+        ],
+        "answer": "b) By analyzing millions of historical load profiles to identify anomalous consumption patterns (e.g., sudden unexplained drops in usage) that strongly indicate a bypassed meter",
+        "explanation": "Deep learning models (like CNNs) are used in smart billing for Optical Character Recognition (OCR) to read analog meter dials from photographs."
+    },
+    {
+        "id": 121,
+        "question": "In an AMR system, what is the function of a Data Concentrator Unit (DCU)?",
+        "options": [
+            "a) It makes the data physically heavier",
+            "b) It aggregates the wireless data from hundreds of local RF meters in a neighborhood and sends it in one large batch over a Cellular/WAN network to the utility",
+            "c) It concentrates power to blow up the meters",
+            "d) It encrypts the power lines"
+        ],
+        "answer": "b) It aggregates the wireless data from hundreds of local RF meters in a neighborhood and sends it in one large batch over a Cellular/WAN network to the utility",
+        "explanation": "Automated Meter Reading (AMR) is a one-way system where the utility collects readings remotely, eliminating the need for manual meter readers."
+    },
+    {
+        "id": 122,
+        "question": "Which communication method for AMR involves sending data over the existing 230V AC distribution lines?",
+        "options": [
+            "a) RF Mesh",
+            "b) PLC (Power Line Carrier)",
+            "c) GPRS / Cellular",
+            "d) Bluetooth"
+        ],
+        "answer": "b) PLC (Power Line Carrier)",
+        "explanation": "Automated Meter Reading (AMR) is a one-way system where the utility collects readings remotely, eliminating the need for manual meter readers."
+    },
+    {
+        "id": 123,
+        "question": "What is a major disadvantage of using PLC (Power Line Carrier) communication for AMR in India?",
+        "options": [
+            "a) It is too fast",
+            "b) High noise, signal attenuation, and the fact that signals cannot easily pass through distribution transformers without expensive bypass equipment",
+            "c) It requires building new telephone lines",
+            "d) It causes the power grid to become radioactive"
+        ],
+        "answer": "b) High noise, signal attenuation, and the fact that signals cannot easily pass through distribution transformers without expensive bypass equipment",
+        "explanation": "Automated Meter Reading (AMR) is a one-way system where the utility collects readings remotely, eliminating the need for manual meter readers."
+    },
+    {
+        "id": 124,
+        "question": "For industrial bulk consumers, AMR systems almost exclusively use which communication method for reliable, direct point-to-point remote reading?",
+        "options": [
+            "a) Short-range Bluetooth",
+            "b) Cellular modems (GPRS/3G/4G) installed directly inside the meter",
+            "c) Dial-up modems",
+            "d) Walk-by RF"
+        ],
+        "answer": "b) Cellular modems (GPRS/3G/4G) installed directly inside the meter",
+        "explanation": "Automated Meter Reading (AMR) is a one-way system where the utility collects readings remotely, eliminating the need for manual meter readers."
+    },
+    {
+        "id": 125,
+        "question": "When training a Deep Learning model to read meters (OCR), what is the \"Training Dataset\"?",
+        "options": [
+            "a) The electrical power used to train",
+            "b) Thousands of manually labeled images of different meters showing various numbers, glare, and angles, teaching the neural network how to recognize digits in the real world",
+            "c) A textbook about electricity",
+            "d) A list of customer names"
+        ],
+        "answer": "b) Thousands of manually labeled images of different meters showing various numbers, glare, and angles, teaching the neural network how to recognize digits in the real world",
+        "explanation": "Deep learning models (like CNNs) are used in smart billing for Optical Character Recognition (OCR) to read analog meter dials from photographs."
+    },
+    {
+        "id": 126,
+        "question": "An AMR system is \"One-Way.\" This means:",
+        "options": [
+            "a) It can only read current, not voltage",
+            "b) The meter sends reading data to the utility, but the utility cannot send commands (like remote disconnect or firmware updates) back to the meter",
+            "c) It only works on one-way streets",
+            "d) It only records exported power"
+        ],
+        "answer": "b) The meter sends reading data to the utility, but the utility cannot send commands (like remote disconnect or firmware updates) back to the meter",
+        "explanation": "Automated Meter Reading (AMR) is a one-way system where the utility collects readings remotely, eliminating the need for manual meter readers."
+    },
+    {
+        "id": 127,
+        "question": "Why are utilities integrating Deep Learning into their Meter Data Management Systems (MDMS)?",
+        "options": [
+            "a) To make the software run slower",
+            "b) To perform advanced \"Load Forecasting\" by finding complex correlations between historical consumption, weather patterns, and holidays",
+            "c) To play chess against the grid operator",
+            "d) To delete customer data efficiently"
+        ],
+        "answer": "b) To perform advanced \"Load Forecasting\" by finding complex correlations between historical consumption, weather patterns, and holidays",
+        "explanation": "Deep learning models (like CNNs) are used in smart billing for Optical Character Recognition (OCR) to read analog meter dials from photographs."
+    },
+    {
+        "id": 128,
+        "question": "What is the \"Optical Port\" on an electronic energy meter?",
+        "options": [
+            "a) A camera that watches the consumer",
+            "b) A standardized infrared port (often IEC 1107 or ANSI) on the face of the meter used to magnetically attach an MRI probe for secure, fast, contactless local data download",
+            "c) A hole to look inside the meter",
+            "d) A laser weapon"
+        ],
+        "answer": "b) A standardized infrared port (often IEC 1107 or ANSI) on the face of the meter used to magnetically attach an MRI probe for secure, fast, contactless local data download",
+        "explanation": "The correct answer is 'A standardized infrared port (often IEC 1107 or ANSI', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 129,
+        "question": "If a smart meter uses \"NB-IoT\" for communication, what does this refer to?",
+        "options": [
+            "a) No Bandwidth Internet of Things",
+            "b) Narrowband IoT; a low-power wide-area cellular network technology designed specifically for devices that send small amounts of data and require long battery life/deep indoor penetration",
+            "c) National Broadcasting IoT",
+            "d) Negative Byte IoT"
+        ],
+        "answer": "b) Narrowband IoT; a low-power wide-area cellular network technology designed specifically for devices that send small amounts of data and require long battery life/deep indoor penetration",
+        "explanation": "A Smart Meter is a digital device that records energy consumption in near real-time and enables two-way communication between the utility and the consumer."
+    },
+    {
+        "id": 130,
+        "question": "What is \"Spot Billing\"?",
+        "options": [
+            "a) Billing a customer who has spots on their shirt",
+            "b) A process where the meter reader uses an MRI/HHU and a portable Bluetooth thermal printer to download the reading, calculate the tariff, and hand the printed bill to the consumer instantly on the spot",
+            "c) Billing a customer based on the spot price of coal",
+            "d) Sending a bill through the mail 3 months late"
+        ],
+        "answer": "b) A process where the meter reader uses an MRI/HHU and a portable Bluetooth thermal printer to download the reading, calculate the tariff, and hand the printed bill to the consumer instantly on the spot",
+        "explanation": "The correct answer is 'A process where the meter reader uses an MRI/HHU and a portable Bluetooth thermal printer to download the reading, calculate the tariff, and hand the printed bill to the consumer instantly on the spot', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    },
+    {
+        "id": 131,
+        "question": "Deep learning anomaly detection can identify a \"Meter Swap\" fraud. What does this entail?",
+        "options": [
+            "a) A consumer trading meters with their neighbor",
+            "b) A consumer replacing the utility meter with a fake or slower meter during the month and swapping the real one back just before the reading date",
+            "c) The utility upgrading the meter for free",
+            "d) Swapping an electric meter for a water meter"
+        ],
+        "answer": "b) A consumer replacing the utility meter with a fake or slower meter during the month and swapping the real one back just before the reading date",
+        "explanation": "Deep learning models (like CNNs) are used in smart billing for Optical Character Recognition (OCR) to read analog meter dials from photographs."
+    },
+    {
+        "id": 132,
+        "question": "Which of the following limits the accuracy of Deep Learning OCR for photo-based meter reading?",
+        "options": [
+            "a) The AI reads too fast",
+            "b) Poor image quality due to dirty meter glass, severe sun glare, dark environments, or blurred photos submitted by the user",
+            "c) The AI cannot do mathematics",
+            "d) The meter does not use electricity"
+        ],
+        "answer": "b) Poor image quality due to dirty meter glass, severe sun glare, dark environments, or blurred photos submitted by the user",
+        "explanation": "Deep learning models (like CNNs) are used in smart billing for Optical Character Recognition (OCR) to read analog meter dials from photographs."
+    },
+    {
+        "id": 133,
+        "question": "What is the overarching benefit of moving from manual reading to AMR/AMI combined with AI analytics?",
+        "options": [
+            "a) It drastically increases human error",
+            "b) Massive reduction in operational costs (OPEX), near 100% billing accuracy, immediate fraud detection, and the foundation for a truly dynamic Smart Grid",
+            "c) It requires the utility to hire thousands of new meter readers",
+            "d) It makes billing completely random"
+        ],
+        "answer": "b) Massive reduction in operational costs (OPEX), near 100% billing accuracy, immediate fraud detection, and the foundation for a truly dynamic Smart Grid",
+        "explanation": "Advanced Metering Infrastructure (AMI) provides the full two-way communication network required for remote reading, disconnects, and firmware updates."
+    },
+    {
+        "id": 134,
+        "question": "In an RF Mesh AMR network, what happens if one meter's radio breaks?",
+        "options": [
+            "a) The entire city loses power",
+            "b) Because it is a \"Mesh,\" the surrounding meters automatically find a new routing path to send their data around the broken node to the Data Concentrator",
+            "c) The utility shuts down permanently",
+            "d) The meter explodes"
+        ],
+        "answer": "b) Because it is a \"Mesh,\" the surrounding meters automatically find a new routing path to send their data around the broken node to the Data Concentrator",
+        "explanation": "Automated Meter Reading (AMR) is a one-way system where the utility collects readings remotely, eliminating the need for manual meter readers."
+    },
+    {
+        "id": 135,
+        "question": "Time-of-Use (ToU) billing is practically impossible to implement accurately without:",
+        "options": [
+            "a) Guessing the usage",
+            "b) MRI, AMR, or AMI systems that can download the time-stamped interval \"Load Profile\" data, rather than just a single monthly cumulative reading",
+            "c) A purely mechanical spinning disk meter",
+            "d) Hiring someone to watch the meter 24/7"
+        ],
+        "answer": "b) MRI, AMR, or AMI systems that can download the time-stamped interval \"Load Profile\" data, rather than just a single monthly cumulative reading",
+        "explanation": "The correct answer is 'MRI, AMR, or AMI systems that can download the time-stamped interval \"Load Profile\" data, rather than just a single monthly cumulative reading', which is a fundamental concept in power system tariffs and smart billing covered in Unit 5."
+    }
+]
