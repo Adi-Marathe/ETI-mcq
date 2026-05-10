@@ -1,0 +1,2402 @@
+[
+    {
+        "id": 1,
+        "question": "Digital forensics primarily deals with:",
+        "options": [
+            "a) Physical evidence only",
+            "b) Digital evidence investigation",
+            "c) Paper records",
+            "d) Manual auditing"
+        ],
+        "answer": "b) Digital evidence investigation",
+        "explanation": "The correct answer is 'Digital evidence investigation'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 2,
+        "question": "Digital evidence must be:",
+        "options": [
+            "a) Modified",
+            "b) Deleted",
+            "c) Preserved carefully",
+            "d) Edited"
+        ],
+        "answer": "c) Preserved carefully",
+        "explanation": "The correct answer is 'Preserved carefully'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 3,
+        "question": "A forensic image is:",
+        "options": [
+            "a) Screenshot",
+            "b) Exact bit-by-bit copy",
+            "c) Photo of device",
+            "d) Backup file"
+        ],
+        "answer": "b) Exact bit-by-bit copy",
+        "explanation": "The correct answer is 'Exact bit-by-bit copy'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 4,
+        "question": "Hash values are used to:",
+        "options": [
+            "a) Encrypt data",
+            "b) Verify integrity",
+            "c) Delete files",
+            "d) Format disk"
+        ],
+        "answer": "b) Verify integrity",
+        "explanation": "The correct answer is 'Verify integrity'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 5,
+        "question": "Chain of custody ensures:",
+        "options": [
+            "a) File compression",
+            "b) Accountability of evidence handling",
+            "c) Data deletion",
+            "d) Fast processing"
+        ],
+        "answer": "b) Accountability of evidence handling",
+        "explanation": "The correct answer is 'Accountability of evidence handling'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 6,
+        "question": "Volatile data is found in:",
+        "options": [
+            "a) Hard disk",
+            "b) RAM",
+            "c) DVD",
+            "d) USB only"
+        ],
+        "answer": "b) RAM",
+        "explanation": "The correct answer is 'RAM'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 7,
+        "question": "File carving is used to: Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "options": [
+            "a) Print files",
+            "b) Recover deleted files",
+            "c) Encrypt files",
+            "d) Compress files"
+        ],
+        "answer": "b) Recover deleted files",
+        "explanation": "The correct answer is 'Recover deleted files'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 8,
+        "question": "Timeline reconstruction helps in:",
+        "options": [
+            "a) Speeding system",
+            "b) Understanding sequence of events",
+            "c) Printing logs",
+            "d) Deleting malware"
+        ],
+        "answer": "b) Understanding sequence of events",
+        "explanation": "The correct answer is 'Understanding sequence of events'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 9,
+        "question": "DFRWS model was proposed in:",
+        "options": [
+            "a) 1998",
+            "b) 2001",
+            "c) 2005",
+            "d) 2010"
+        ],
+        "answer": "b) 2001",
+        "explanation": "The correct answer is '2001'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 10,
+        "question": "ADFM adds which extra phase?",
+        "options": [
+            "a) Presentation",
+            "b) Preparation",
+            "c) Analysis",
+            "d) Examination"
+        ],
+        "answer": "b) Preparation",
+        "explanation": "The correct answer is 'Preparation'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 11,
+        "question": "IDIP integrates:",
+        "options": [
+            "a) Digital & physical crime scenes",
+            "b) Printer & network",
+            "c) Software & hardware",
+            "d) OS & database"
+        ],
+        "answer": "a) Digital & physical crime scenes",
+        "explanation": "The correct answer is 'Digital & physical crime scenes'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 12,
+        "question": "EEDIP emphasizes:",
+        "options": [
+            "a) Automation & traceability",
+            "b) Paper work",
+            "c) Manual logging",
+            "d) Printing"
+        ],
+        "answer": "a) Automation & traceability",
+        "explanation": "The correct answer is 'Automation & traceability'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 13,
+        "question": "UMDFPM uses:",
+        "options": [
+            "a) Java",
+            "b) UML diagrams",
+            "c) Python",
+            "d) SQL"
+        ],
+        "answer": "b) UML diagrams",
+        "explanation": "The correct answer is 'UML diagrams'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 14,
+        "question": "Examination stage involves: Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "options": [
+            "a) Filtering relevant data",
+            "b) Destroying data",
+            "c) Printing data",
+            "d) Formatting"
+        ],
+        "answer": "a) Filtering relevant data",
+        "explanation": "The correct answer is 'Filtering relevant data'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 15,
+        "question": "Preservation stage ensures:",
+        "options": [
+            "a) Data integrity",
+            "b) Data deletion",
+            "c) Data duplication",
+            "d) Data printing"
+        ],
+        "answer": "a) Data integrity",
+        "explanation": "The correct answer is 'Data integrity'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 16,
+        "question": "Evidence handling begins with:",
+        "options": [
+            "a) Presentation",
+            "b) Seizure",
+            "c) Analysis",
+            "d) Documentation"
+        ],
+        "answer": "b) Seizure",
+        "explanation": "The correct answer is 'Seizure'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 17,
+        "question": "Forensic tools must be:",
+        "options": [
+            "a) Random",
+            "b) Scientifically accepted",
+            "c) Manual",
+            "d) Free only"
+        ],
+        "answer": "b) Scientifically accepted",
+        "explanation": "The correct answer is 'Scientifically accepted'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 18,
+        "question": "Never trust the operating system because:",
+        "options": [
+            "a) It may be compromised",
+            "b) It is slow",
+            "c) It deletes files",
+            "d) It prints logs"
+        ],
+        "answer": "a) It may be compromised",
+        "explanation": "The correct answer is 'It may be compromised'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 19,
+        "question": "Ethical hacking is:",
+        "options": [
+            "a) Illegal hacking",
+            "b) Authorized security testing",
+            "c) Cybercrime",
+            "d) Data theft"
+        ],
+        "answer": "b) Authorized security testing",
+        "explanation": "The correct answer is 'Authorized security testing'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 20,
+        "question": "Ethical hackers must obtain:",
+        "options": [
+            "a) Password",
+            "b) Legal permission",
+            "c) IP address",
+            "d) Cable"
+        ],
+        "answer": "b) Legal permission",
+        "explanation": "The correct answer is 'Legal permission'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 21,
+        "question": "Reconnaissance phase involves: Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "options": [
+            "a) Information gathering",
+            "b) Data deletion",
+            "c) Printing",
+            "d) Encryption"
+        ],
+        "answer": "a) Information gathering",
+        "explanation": "The correct answer is 'Information gathering'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 22,
+        "question": "Scanning phase identifies:",
+        "options": [
+            "a) Open ports",
+            "b) Printer speed",
+            "c) Cable faults",
+            "d) Storage"
+        ],
+        "answer": "a) Open ports",
+        "explanation": "The correct answer is 'Open ports'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 23,
+        "question": "Exploitation phase attempts:",
+        "options": [
+            "a) Controlled attack",
+            "b) Data deletion",
+            "c) Manual login",
+            "d) Printing"
+        ],
+        "answer": "a) Controlled attack",
+        "explanation": "The correct answer is 'Controlled attack'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 24,
+        "question": "White hat hackers are:",
+        "options": [
+            "a) Criminals",
+            "b) Authorized professionals",
+            "c) Hacktivists",
+            "d) Spammers"
+        ],
+        "answer": "b) Authorized professionals",
+        "explanation": "The correct answer is 'Authorized professionals'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 25,
+        "question": "Black hat hackers act:",
+        "options": [
+            "a) Legally",
+            "b) Illegally",
+            "c) Academically",
+            "d) Publicly"
+        ],
+        "answer": "b) Illegally",
+        "explanation": "The correct answer is 'Illegally'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 26,
+        "question": "Grey hat hackers:",
+        "options": [
+            "a) Always legal",
+            "b) Always illegal",
+            "c) Operate without permission but no malicious intent",
+            "d) Work for government only"
+        ],
+        "answer": "c) Operate without permission but no malicious intent",
+        "explanation": "The correct answer is 'Operate without permission but no malicious intent'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 27,
+        "question": "Blue hat hackers are usually:",
+        "options": [
+            "a) Experts",
+            "b) Beginners",
+            "c) Government officials",
+            "d) Judges"
+        ],
+        "answer": "b) Beginners",
+        "explanation": "The correct answer is 'Beginners'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 28,
+        "question": "Green hat hackers are: Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "options": [
+            "a) Learning hackers",
+            "b) Criminal hackers",
+            "c) Bank officials",
+            "d) Auditors"
+        ],
+        "answer": "a) Learning hackers",
+        "explanation": "The correct answer is 'Learning hackers'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 29,
+        "question": "Red hat hackers:",
+        "options": [
+            "a) Fight black hats aggressively",
+            "b) Print data",
+            "c) Use paper logs",
+            "d) Work offline"
+        ],
+        "answer": "a) Fight black hats aggressively",
+        "explanation": "The correct answer is 'Fight black hats aggressively'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 30,
+        "question": "Network hacking targets:",
+        "options": [
+            "a) Routers and switches",
+            "b) Paper files",
+            "c) Printers",
+            "d) Cameras only"
+        ],
+        "answer": "a) Routers and switches",
+        "explanation": "The correct answer is 'Routers and switches'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 31,
+        "question": "AI-powered phishing uses:",
+        "options": [
+            "a) Machine learning",
+            "b) Cable",
+            "c) Printer",
+            "d) Router"
+        ],
+        "answer": "a) Machine learning",
+        "explanation": "The correct answer is 'Machine learning'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 32,
+        "question": "Ransomware 2.0 includes:",
+        "options": [
+            "a) Double extortion",
+            "b) Triple extortion",
+            "c) Data theft",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 33,
+        "question": "IoT exploits target:",
+        "options": [
+            "a) Smart devices",
+            "b) Paper",
+            "c) Printer",
+            "d) Fax"
+        ],
+        "answer": "a) Smart devices",
+        "explanation": "The correct answer is 'Smart devices'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 34,
+        "question": "Deepfake uses:",
+        "options": [
+            "a) Machine learning",
+            "b) Cable",
+            "c) Printer",
+            "d) Router"
+        ],
+        "answer": "a) Machine learning",
+        "explanation": "The correct answer is 'Machine learning'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 35,
+        "question": "OS downgrade attack installs:",
+        "options": [
+            "a) Latest OS Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+            "b) Older vulnerable OS",
+            "c) Secure OS",
+            "d) Updated OS"
+        ],
+        "answer": "b) Older vulnerable OS",
+        "explanation": "The correct answer is 'Older vulnerable OS'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 36,
+        "question": "Firmware exploits target:",
+        "options": [
+            "a) BIOS/UEFI",
+            "b) Printer",
+            "c) Cable",
+            "d) Mouse"
+        ],
+        "answer": "a) BIOS/UEFI",
+        "explanation": "The correct answer is 'BIOS/UEFI'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 37,
+        "question": "WAF bypass techniques attempt to:",
+        "options": [
+            "a) Evade firewall filters",
+            "b) Delete files",
+            "c) Print logs",
+            "d) Disconnect router"
+        ],
+        "answer": "a) Evade firewall filters",
+        "explanation": "The correct answer is 'Evade firewall filters'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 38,
+        "question": "Zero-day vulnerability is:",
+        "options": [
+            "a) Known and patched",
+            "b) Unknown and unpatched",
+            "c) Printer error",
+            "d) Cable break"
+        ],
+        "answer": "b) Unknown and unpatched",
+        "explanation": "The correct answer is 'Unknown and unpatched'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 39,
+        "question": "NCSP 2013 protects:",
+        "options": [
+            "a) National cyberspace",
+            "b) Printer",
+            "c) Cable",
+            "d) Paper"
+        ],
+        "answer": "a) National cyberspace",
+        "explanation": "The correct answer is 'National cyberspace'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 40,
+        "question": "IT Act 2000 provides legal recognition to:",
+        "options": [
+            "a) Electronic records",
+            "b) Paper files",
+            "c) Fax",
+            "d) Printer"
+        ],
+        "answer": "a) Electronic records",
+        "explanation": "The correct answer is 'Electronic records'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 41,
+        "question": "Section 66C deals with:",
+        "options": [
+            "a) Identity theft",
+            "b) Printer",
+            "c) Cable",
+            "d) Router"
+        ],
+        "answer": "a) Identity theft",
+        "explanation": "The correct answer is 'Identity theft'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 42,
+        "question": "Section 66F deals with:",
+        "options": [
+            "a) Cyber terrorism",
+            "b) Paper",
+            "c) Printer Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+            "d) Cable"
+        ],
+        "answer": "a) Cyber terrorism",
+        "explanation": "The correct answer is 'Cyber terrorism'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 43,
+        "question": "DPDP Act 2023 protects:",
+        "options": [
+            "a) Personal data",
+            "b) Printer",
+            "c) Router",
+            "d) Cable"
+        ],
+        "answer": "a) Personal data",
+        "explanation": "The correct answer is 'Personal data'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 44,
+        "question": "Data Principal refers to:",
+        "options": [
+            "a) Individual",
+            "b) Company",
+            "c) Router",
+            "d) Printer"
+        ],
+        "answer": "a) Individual",
+        "explanation": "The correct answer is 'Individual'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 45,
+        "question": "Data Fiduciary refers to:",
+        "options": [
+            "a) Organization handling data",
+            "b) Printer",
+            "c) Cable",
+            "d) Router"
+        ],
+        "answer": "a) Organization handling data",
+        "explanation": "The correct answer is 'Organization handling data'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 46,
+        "question": "CCPWC scheme protects:",
+        "options": [
+            "a) Women & children",
+            "b) Printers",
+            "c) Routers",
+            "d) Servers"
+        ],
+        "answer": "a) Women & children",
+        "explanation": "The correct answer is 'Women & children'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 47,
+        "question": "CERT-In is responsible for:",
+        "options": [
+            "a) Cyber incident response",
+            "b) Printing",
+            "c) Cable repair",
+            "d) OS installation"
+        ],
+        "answer": "a) Cyber incident response",
+        "explanation": "The correct answer is 'Cyber incident response'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 48,
+        "question": "Section 69 allows government to:",
+        "options": [
+            "a) Intercept data",
+            "b) Print data",
+            "c) Delete logs",
+            "d) Remove OS"
+        ],
+        "answer": "a) Intercept data",
+        "explanation": "The correct answer is 'Intercept data'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 49,
+        "question": "Section 43 deals with:",
+        "options": [
+            "a) Unauthorized access",
+            "b) Printer",
+            "c) Cable",
+            "d) Mouse"
+        ],
+        "answer": "a) Unauthorized access Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Unauthorized access Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 50,
+        "question": "Ethical hacking improves:",
+        "options": [
+            "a) Security posture",
+            "b) Printer speed",
+            "c) Cable",
+            "d) Paper"
+        ],
+        "answer": "a) Security posture",
+        "explanation": "The correct answer is 'Security posture'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 51,
+        "question": "In digital forensics, identification stage involves:",
+        "options": [
+            "a) Recovering deleted files",
+            "b) Recognizing incident occurrence",
+            "c) Reporting findings",
+            "d) Court presentation"
+        ],
+        "answer": "b) Recognizing incident occurrence",
+        "explanation": "The correct answer is 'Recognizing incident occurrence'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 52,
+        "question": "Preservation phase prevents:",
+        "options": [
+            "a) Evidence tampering",
+            "b) Evidence printing",
+            "c) Evidence deletion",
+            "d) Evidence formatting"
+        ],
+        "answer": "a) Evidence tampering",
+        "explanation": "The correct answer is 'Evidence tampering'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 53,
+        "question": "Collection phase gathers:",
+        "options": [
+            "a) Relevant digital data",
+            "b) Paper documents",
+            "c) Printer logs only",
+            "d) Manual notes"
+        ],
+        "answer": "a) Relevant digital data",
+        "explanation": "The correct answer is 'Relevant digital data'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 54,
+        "question": "Examination phase removes:",
+        "options": [
+            "a) Relevant data",
+            "b) Irrelevant data",
+            "c) Entire evidence",
+            "d) Chain of custody"
+        ],
+        "answer": "b) Irrelevant data",
+        "explanation": "The correct answer is 'Irrelevant data'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 55,
+        "question": "Presentation stage requires:",
+        "options": [
+            "a) Clear documentation",
+            "b) Deleting files",
+            "c) Formatting drives",
+            "d) Printing random logs"
+        ],
+        "answer": "a) Clear documentation",
+        "explanation": "The correct answer is 'Clear documentation'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 56,
+        "question": "Decision phase in DFRWS involves:",
+        "options": [
+            "a) Legal action",
+            "b) Printing reports",
+            "c) System shutdown",
+            "d) Data deletion"
+        ],
+        "answer": "a) Legal action Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Legal action Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 57,
+        "question": "ADFM Return of Evidence phase ensures:",
+        "options": [
+            "a) Proper device return",
+            "b) Device deletion",
+            "c) Printer usage",
+            "d) Cable removal"
+        ],
+        "answer": "a) Proper device return",
+        "explanation": "The correct answer is 'Proper device return'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 58,
+        "question": "IDIP readiness phase ensures:",
+        "options": [
+            "a) Preparation before incident",
+            "b) Deleting malware",
+            "c) Printer installation",
+            "d) OS upgrade"
+        ],
+        "answer": "a) Preparation before incident",
+        "explanation": "The correct answer is 'Preparation before incident'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 59,
+        "question": "Deployment phase begins when:",
+        "options": [
+            "a) Incident detected",
+            "b) Printer installed",
+            "c) Cable connected",
+            "d) OS updated"
+        ],
+        "answer": "a) Incident detected",
+        "explanation": "The correct answer is 'Incident detected'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 60,
+        "question": "Review phase in IDIP focuses on:",
+        "options": [
+            "a) Improving future investigations",
+            "b) Deleting evidence",
+            "c) Printing documents",
+            "d) Formatting disk"
+        ],
+        "answer": "a) Improving future investigations",
+        "explanation": "The correct answer is 'Improving future investigations'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 61,
+        "question": "EEDIP Authorization phase ensures:",
+        "options": [
+            "a) Legal permission",
+            "b) Printer control",
+            "c) Cable security",
+            "d) Router access"
+        ],
+        "answer": "a) Legal permission",
+        "explanation": "The correct answer is 'Legal permission'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 62,
+        "question": "Extended model supports:",
+        "options": [
+            "a) Multi-agency coordination",
+            "b) Single investigator only",
+            "c) Printer network",
+            "d) Cable testing"
+        ],
+        "answer": "a) Multi-agency coordination",
+        "explanation": "The correct answer is 'Multi-agency coordination'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 63,
+        "question": "Use case diagram shows:",
+        "options": [
+            "a) Actors and roles",
+            "b) Printer layout",
+            "c) Cable path",
+            "d) Storage capacity"
+        ],
+        "answer": "a) Actors and roles Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Actors and roles Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 64,
+        "question": "Activity diagram represents:",
+        "options": [
+            "a) Workflow",
+            "b) File system",
+            "c) Network cable",
+            "d) Storage format"
+        ],
+        "answer": "a) Workflow",
+        "explanation": "The correct answer is 'Workflow'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 65,
+        "question": "Sequence diagram shows:",
+        "options": [
+            "a) Interaction order",
+            "b) Printer speed",
+            "c) Cable order",
+            "d) Router configuration"
+        ],
+        "answer": "a) Interaction order",
+        "explanation": "The correct answer is 'Interaction order'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 66,
+        "question": "RAM data should be collected:",
+        "options": [
+            "a) After shutdown",
+            "b) Before shutdown",
+            "c) Never",
+            "d) After formatting"
+        ],
+        "answer": "b) Before shutdown",
+        "explanation": "The correct answer is 'Before shutdown'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 67,
+        "question": "Steganography detection finds:",
+        "options": [
+            "a) Hidden data",
+            "b) Printed files",
+            "c) Deleted cables",
+            "d) Offline systems"
+        ],
+        "answer": "a) Hidden data",
+        "explanation": "The correct answer is 'Hidden data'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 68,
+        "question": "Keyword search helps identify:",
+        "options": [
+            "a) Suspicious terms",
+            "b) Printer speed",
+            "c) Cable type",
+            "d) OS version"
+        ],
+        "answer": "a) Suspicious terms",
+        "explanation": "The correct answer is 'Suspicious terms'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 69,
+        "question": "Documentation stage increases:",
+        "options": [
+            "a) Legal credibility",
+            "b) Printer usage",
+            "c) Cable usage",
+            "d) OS upgrade"
+        ],
+        "answer": "a) Legal credibility",
+        "explanation": "The correct answer is 'Legal credibility'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 70,
+        "question": "Ethical hackers simulate:",
+        "options": [
+            "a) Real attacks legally",
+            "b) Paper filing",
+            "c) Printing",
+            "d) Cable testing"
+        ],
+        "answer": "a) Real attacks legally Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Real attacks legally Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 71,
+        "question": "Maintaining access phase checks:",
+        "options": [
+            "a) Persistence",
+            "b) Printing",
+            "c) Cable",
+            "d) Storage"
+        ],
+        "answer": "a) Persistence",
+        "explanation": "The correct answer is 'Persistence'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 72,
+        "question": "Reporting phase includes:",
+        "options": [
+            "a) Vulnerability details",
+            "b) Printer logs only",
+            "c) Cable diagram",
+            "d) OS update"
+        ],
+        "answer": "a) Vulnerability details",
+        "explanation": "The correct answer is 'Vulnerability details'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 73,
+        "question": "Ethical hacking improves:",
+        "options": [
+            "a) Incident response readiness",
+            "b) Paper storage",
+            "c) Printer ink",
+            "d) Cable repair"
+        ],
+        "answer": "a) Incident response readiness",
+        "explanation": "The correct answer is 'Incident response readiness'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 74,
+        "question": "AI phishing emails often show:",
+        "options": [
+            "a) Perfect grammar",
+            "b) Spelling errors only",
+            "c) Printer logs",
+            "d) Cable details"
+        ],
+        "answer": "a) Perfect grammar",
+        "explanation": "The correct answer is 'Perfect grammar'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 75,
+        "question": "Double extortion ransomware includes:",
+        "options": [
+            "a) Encryption + data theft",
+            "b) Encryption only",
+            "c) Deletion only",
+            "d) Printer attack"
+        ],
+        "answer": "a) Encryption + data theft",
+        "explanation": "The correct answer is 'Encryption + data theft'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 76,
+        "question": "Triple extortion adds:",
+        "options": [
+            "a) DDoS or blackmail",
+            "b) Printer repair",
+            "c) Cable testing",
+            "d) OS upgrade"
+        ],
+        "answer": "a) DDoS or blackmail",
+        "explanation": "The correct answer is 'DDoS or blackmail'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 77,
+        "question": "Indicators of ransomware include:",
+        "options": [
+            "a) Mass file encryption",
+            "b) Printer slowdown",
+            "c) Cable noise",
+            "d) Paper jam"
+        ],
+        "answer": "a) Mass file encryption Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Mass file encryption Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 78,
+        "question": "EDR stands for:",
+        "options": [
+            "a) Endpoint Detection and Response",
+            "b) Electronic Data Recovery",
+            "c) Evidence Data Removal",
+            "d) Emergency Digital Router"
+        ],
+        "answer": "a) Endpoint Detection and Response",
+        "explanation": "The correct answer is 'Endpoint Detection and Response'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 79,
+        "question": "IoT default passwords cause:",
+        "options": [
+            "a) Vulnerability",
+            "b) Printer speed",
+            "c) Cable issue",
+            "d) Storage expansion"
+        ],
+        "answer": "a) Vulnerability",
+        "explanation": "The correct answer is 'Vulnerability'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 80,
+        "question": "VLAN helps in:",
+        "options": [
+            "a) Network isolation",
+            "b) Printer repair",
+            "c) Cable deletion",
+            "d) File formatting"
+        ],
+        "answer": "a) Network isolation",
+        "explanation": "The correct answer is 'Network isolation'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 81,
+        "question": "Deepfake detection checks:",
+        "options": [
+            "a) Metadata",
+            "b) Printer logs",
+            "c) Cable signals",
+            "d) Router configuration"
+        ],
+        "answer": "a) Metadata",
+        "explanation": "The correct answer is 'Metadata'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 82,
+        "question": "OS hacking targets:",
+        "options": [
+            "a) System vulnerabilities",
+            "b) Paper files",
+            "c) Printer drivers",
+            "d) Cable"
+        ],
+        "answer": "a) System vulnerabilities",
+        "explanation": "The correct answer is 'System vulnerabilities'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 83,
+        "question": "Secure boot prevents:",
+        "options": [
+            "a) Unauthorized firmware",
+            "b) Printer errors",
+            "c) Cable faults",
+            "d) Storage errors"
+        ],
+        "answer": "a) Unauthorized firmware",
+        "explanation": "The correct answer is 'Unauthorized firmware'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 84,
+        "question": "TPM stands for:",
+        "options": [
+            "a) Trusted Platform Module",
+            "b) Temporary Print Module",
+            "c) Technical Printer Model",
+            "d) Terminal Port Manager"
+        ],
+        "answer": "a) Trusted Platform Module Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Trusted Platform Module Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 85,
+        "question": "SQL injection is:",
+        "options": [
+            "a) Application vulnerability",
+            "b) Printer failure",
+            "c) Cable break",
+            "d) Router issue"
+        ],
+        "answer": "a) Application vulnerability",
+        "explanation": "The correct answer is 'Application vulnerability'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 86,
+        "question": "Log4j was example of:",
+        "options": [
+            "a) Zero-day exploit",
+            "b) Printer bug",
+            "c) Cable error",
+            "d) OS update"
+        ],
+        "answer": "a) Zero-day exploit",
+        "explanation": "The correct answer is 'Zero-day exploit'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 87,
+        "question": "NCSP focuses on protecting:",
+        "options": [
+            "a) Critical infrastructure",
+            "b) Printer network",
+            "c) Cable design",
+            "d) Router layout"
+        ],
+        "answer": "a) Critical infrastructure",
+        "explanation": "The correct answer is 'Critical infrastructure'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 88,
+        "question": "CERT-In stands for:",
+        "options": [
+            "a) Computer Emergency Response Team \u2013 India",
+            "b) Central Router Testing",
+            "c) Cyber Equipment Repair Team",
+            "d) Certified Router Inspector"
+        ],
+        "answer": "a) Computer Emergency Response Team \u2013 India",
+        "explanation": "The correct answer is 'Computer Emergency Response Team \u2013 India'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 89,
+        "question": "Section 66D deals with:",
+        "options": [
+            "a) Online cheating",
+            "b) Printer misuse",
+            "c) Cable theft",
+            "d) OS downgrade"
+        ],
+        "answer": "a) Online cheating",
+        "explanation": "The correct answer is 'Online cheating'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 90,
+        "question": "Section 72A relates to:",
+        "options": [
+            "a) Breach of confidentiality",
+            "b) Printer hacking",
+            "c) Cable theft",
+            "d) OS upgrade"
+        ],
+        "answer": "a) Breach of confidentiality",
+        "explanation": "The correct answer is 'Breach of confidentiality'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 91,
+        "question": "DPDP requires:",
+        "options": [
+            "a) User consent",
+            "b) Printer logs",
+            "c) Cable testing",
+            "d) Router approval"
+        ],
+        "answer": "a) User consent Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'User consent Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 92,
+        "question": "Data Protection Board oversees:",
+        "options": [
+            "a) Compliance",
+            "b) Printer repair",
+            "c) Cable usage",
+            "d) Router traffic"
+        ],
+        "answer": "a) Compliance",
+        "explanation": "The correct answer is 'Compliance'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 93,
+        "question": "CCPWC portal allows:",
+        "options": [
+            "a) Cybercrime reporting",
+            "b) Printer installation",
+            "c) Cable registration",
+            "d) OS activation"
+        ],
+        "answer": "a) Cybercrime reporting",
+        "explanation": "The correct answer is 'Cybercrime reporting'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 94,
+        "question": "Cyber stalking is:",
+        "options": [
+            "a) Online harassment",
+            "b) Printer misuse",
+            "c) Cable theft",
+            "d) Router attack"
+        ],
+        "answer": "a) Online harassment",
+        "explanation": "The correct answer is 'Online harassment'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 95,
+        "question": "Evidence integrity is verified using:",
+        "options": [
+            "a) Hash values",
+            "b) Printer log",
+            "c) Cable ID",
+            "d) OS version"
+        ],
+        "answer": "a) Hash values",
+        "explanation": "The correct answer is 'Hash values'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 96,
+        "question": "Memory dump analysis helps in:",
+        "options": [
+            "a) Malware detection",
+            "b) Printer repair",
+            "c) Cable fixing",
+            "d) Paper filing"
+        ],
+        "answer": "a) Malware detection",
+        "explanation": "The correct answer is 'Malware detection'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 97,
+        "question": "Forensic readiness improves:",
+        "options": [
+            "a) Investigation efficiency",
+            "b) Printer speed",
+            "c) Cable length",
+            "d) Storage"
+        ],
+        "answer": "a) Investigation efficiency",
+        "explanation": "The correct answer is 'Investigation efficiency'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 98,
+        "question": "Legal admissibility requires:",
+        "options": [
+            "a) Proper chain of custody",
+            "b) Printer",
+            "c) Cable",
+            "d) Router"
+        ],
+        "answer": "a) Proper chain of custody Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Proper chain of custody Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 99,
+        "question": "Ethical hacking reduces:",
+        "options": [
+            "a) Security risks",
+            "b) Printer errors",
+            "c) Cable damage",
+            "d) OS bugs"
+        ],
+        "answer": "a) Security risks",
+        "explanation": "The correct answer is 'Security risks'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 100,
+        "question": "The ultimate aim of digital forensics is:",
+        "options": [
+            "a) Court-admissible evidence",
+            "b) Printing",
+            "c) Cable repair",
+            "d) OS update"
+        ],
+        "answer": "a) Court-admissible evidence",
+        "explanation": "The correct answer is 'Court-admissible evidence'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 101,
+        "question": "In digital forensics, integrity ensures that evidence is:",
+        "options": [
+            "a) Modified",
+            "b) Authentic and unchanged",
+            "c) Deleted",
+            "d) Printed"
+        ],
+        "answer": "b) Authentic and unchanged",
+        "explanation": "The correct answer is 'Authentic and unchanged'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 102,
+        "question": "A write blocker is used to:",
+        "options": [
+            "a) Prevent data modification",
+            "b) Delete files",
+            "c) Format drives",
+            "d) Encrypt systems"
+        ],
+        "answer": "a) Prevent data modification",
+        "explanation": "The correct answer is 'Prevent data modification'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 103,
+        "question": "Forensic duplication is also known as:",
+        "options": [
+            "a) Logical backup",
+            "b) Bit-stream copy",
+            "c) Data deletion",
+            "d) Compression"
+        ],
+        "answer": "b) Bit-stream copy",
+        "explanation": "The correct answer is 'Bit-stream copy'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 104,
+        "question": "Volatile evidence includes:",
+        "options": [
+            "a) Hard disk files",
+            "b) RAM contents",
+            "c) Archived backups",
+            "d) Printed documents"
+        ],
+        "answer": "b) RAM contents",
+        "explanation": "The correct answer is 'RAM contents'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 105,
+        "question": "Log analysis helps investigators detect:",
+        "options": [
+            "a) System activities",
+            "b) Printer errors",
+            "c) Cable failures",
+            "d) OS installation"
+        ],
+        "answer": "a) System activities Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'System activities Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 106,
+        "question": "Evidence should be stored in:",
+        "options": [
+            "a) Open area",
+            "b) Secure environment",
+            "c) Shared folder",
+            "d) Public network"
+        ],
+        "answer": "b) Secure environment",
+        "explanation": "The correct answer is 'Secure environment'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 107,
+        "question": "MD5 and SHA are examples of:",
+        "options": [
+            "a) Encryption keys",
+            "b) Hash algorithms",
+            "c) Firewalls",
+            "d) Antivirus tools"
+        ],
+        "answer": "b) Hash algorithms",
+        "explanation": "The correct answer is 'Hash algorithms'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 108,
+        "question": "Forensic soundness means:",
+        "options": [
+            "a) Using approved tools",
+            "b) Deleting data",
+            "c) Modifying logs",
+            "d) Skipping documentation"
+        ],
+        "answer": "a) Using approved tools",
+        "explanation": "The correct answer is 'Using approved tools'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 109,
+        "question": "Chain of custody includes:",
+        "options": [
+            "a) Who handled evidence",
+            "b) When it was handled",
+            "c) Why it was handled",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 110,
+        "question": "Preparation phase in investigation ensures:",
+        "options": [
+            "a) Legal readiness",
+            "b) Data deletion",
+            "c) Cable setup",
+            "d) Printer installation"
+        ],
+        "answer": "a) Legal readiness",
+        "explanation": "The correct answer is 'Legal readiness'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 111,
+        "question": "Ethical hacking primarily identifies:",
+        "options": [
+            "a) Security vulnerabilities",
+            "b) Printer speed",
+            "c) Cable length",
+            "d) Storage size"
+        ],
+        "answer": "a) Security vulnerabilities",
+        "explanation": "The correct answer is 'Security vulnerabilities'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 112,
+        "question": "Penetration testing is conducted:",
+        "options": [
+            "a) Without permission",
+            "b) With authorization",
+            "c) Secretly",
+            "d) Illegally"
+        ],
+        "answer": "b) With authorization Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'With authorization Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 113,
+        "question": "Vulnerability assessment focuses on:",
+        "options": [
+            "a) Identifying weaknesses",
+            "b) Deleting systems",
+            "c) Formatting drives",
+            "d) Printing logs"
+        ],
+        "answer": "a) Identifying weaknesses",
+        "explanation": "The correct answer is 'Identifying weaknesses'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 114,
+        "question": "Social engineering attacks exploit:",
+        "options": [
+            "a) Human psychology",
+            "b) Hardware failure",
+            "c) Cable damage",
+            "d) Printer malfunction"
+        ],
+        "answer": "a) Human psychology",
+        "explanation": "The correct answer is 'Human psychology'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 115,
+        "question": "Multi-Factor Authentication (MFA) improves:",
+        "options": [
+            "a) Security",
+            "b) Printer performance",
+            "c) Cable speed",
+            "d) Storage"
+        ],
+        "answer": "a) Security",
+        "explanation": "The correct answer is 'Security'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 116,
+        "question": "SPF, DKIM, and DMARC protect against:",
+        "options": [
+            "a) Phishing emails",
+            "b) Printer hacks",
+            "c) Cable faults",
+            "d) OS errors"
+        ],
+        "answer": "a) Phishing emails",
+        "explanation": "The correct answer is 'Phishing emails'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 117,
+        "question": "Double extortion ransomware threatens:",
+        "options": [
+            "a) Data publication",
+            "b) Printer damage",
+            "c) Cable theft",
+            "d) OS crash"
+        ],
+        "answer": "a) Data publication",
+        "explanation": "The correct answer is 'Data publication'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 118,
+        "question": "Endpoint Detection and Response tools monitor:",
+        "options": [
+            "a) End-user devices",
+            "b) Printers only",
+            "c) Routers only",
+            "d) Cables only"
+        ],
+        "answer": "a) End-user devices",
+        "explanation": "The correct answer is 'End-user devices'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 119,
+        "question": "Firmware malware can survive:",
+        "options": [
+            "a) OS reinstallation",
+            "b) Cable replacement",
+            "c) Printer reset",
+            "d) File deletion"
+        ],
+        "answer": "a) OS reinstallation Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'OS reinstallation Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 120,
+        "question": "Zero-day exploit targets:",
+        "options": [
+            "a) Unknown vulnerabilities",
+            "b) Patched systems",
+            "c) Printer firmware",
+            "d) Paper records"
+        ],
+        "answer": "a) Unknown vulnerabilities",
+        "explanation": "The correct answer is 'Unknown vulnerabilities'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 121,
+        "question": "Section 66B relates to:",
+        "options": [
+            "a) Receiving stolen computer resources",
+            "b) Printer misuse",
+            "c) Cable theft",
+            "d) OS downgrade"
+        ],
+        "answer": "a) Receiving stolen computer resources",
+        "explanation": "The correct answer is 'Receiving stolen computer resources'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 122,
+        "question": "Section 66C addresses:",
+        "options": [
+            "a) Identity theft",
+            "b) Printer theft",
+            "c) Cable misuse",
+            "d) Data compression"
+        ],
+        "answer": "a) Identity theft",
+        "explanation": "The correct answer is 'Identity theft'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 123,
+        "question": "Section 66D punishes:",
+        "options": [
+            "a) Cheating by personation",
+            "b) Printer hacking",
+            "c) Cable damage",
+            "d) Storage deletion"
+        ],
+        "answer": "a) Cheating by personation",
+        "explanation": "The correct answer is 'Cheating by personation'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 124,
+        "question": "Section 66F defines:",
+        "options": [
+            "a) Cyber terrorism",
+            "b) Printer malfunction",
+            "c) Router error",
+            "d) Cable break"
+        ],
+        "answer": "a) Cyber terrorism",
+        "explanation": "The correct answer is 'Cyber terrorism'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 125,
+        "question": "Section 72A deals with:",
+        "options": [
+            "a) Breach of confidentiality",
+            "b) Printer logs",
+            "c) Cable ID",
+            "d) OS update"
+        ],
+        "answer": "a) Breach of confidentiality",
+        "explanation": "The correct answer is 'Breach of confidentiality'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 126,
+        "question": "DPDP Act 2023 requires organizations to:",
+        "options": [
+            "a) Obtain user consent",
+            "b) Delete user data",
+            "c) Print user logs",
+            "d) Share data publicly"
+        ],
+        "answer": "a) Obtain user consent Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Obtain user consent Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 127,
+        "question": "Data Principal has right to:",
+        "options": [
+            "a) Access personal data",
+            "b) Delete printer",
+            "c) Change cable",
+            "d) Update router"
+        ],
+        "answer": "a) Access personal data",
+        "explanation": "The correct answer is 'Access personal data'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 128,
+        "question": "Data Fiduciary must ensure:",
+        "options": [
+            "a) Lawful data processing",
+            "b) Printer control",
+            "c) Cable testing",
+            "d) OS upgrade"
+        ],
+        "answer": "a) Lawful data processing",
+        "explanation": "The correct answer is 'Lawful data processing'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 129,
+        "question": "CCPWC portal enables:",
+        "options": [
+            "a) Reporting cybercrime",
+            "b) Printing complaints",
+            "c) Cable setup",
+            "d) Router activation"
+        ],
+        "answer": "a) Reporting cybercrime",
+        "explanation": "The correct answer is 'Reporting cybercrime'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 130,
+        "question": "CERT-In provides:",
+        "options": [
+            "a) Incident response",
+            "b) Printer repair",
+            "c) Cable installation",
+            "d) Storage"
+        ],
+        "answer": "a) Incident response",
+        "explanation": "The correct answer is 'Incident response'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 131,
+        "question": "Forensic imaging tools must:",
+        "options": [
+            "a) Preserve metadata",
+            "b) Delete timestamps",
+            "c) Modify files",
+            "d) Compress logs"
+        ],
+        "answer": "a) Preserve metadata",
+        "explanation": "The correct answer is 'Preserve metadata'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 132,
+        "question": "Metadata analysis helps determine:",
+        "options": [
+            "a) File creation time",
+            "b) Printer speed",
+            "c) Cable type",
+            "d) Router model"
+        ],
+        "answer": "a) File creation time",
+        "explanation": "The correct answer is 'File creation time'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 133,
+        "question": "In ransomware case, volatile memory capture helps find:",
+        "options": [
+            "a) Encryption keys",
+            "b) Printer ID",
+            "c) Cable number",
+            "d) OS version"
+        ],
+        "answer": "a) Encryption keys Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Encryption keys Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 134,
+        "question": "Digital evidence admissibility depends on:",
+        "options": [
+            "a) Proper handling",
+            "b) Fast processing",
+            "c) Printer logs",
+            "d) Cable replacement"
+        ],
+        "answer": "a) Proper handling",
+        "explanation": "The correct answer is 'Proper handling'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 135,
+        "question": "Incident response planning improves:",
+        "options": [
+            "a) Cyber resilience",
+            "b) Printer output",
+            "c) Cable speed",
+            "d) Storage size"
+        ],
+        "answer": "a) Cyber resilience",
+        "explanation": "The correct answer is 'Cyber resilience'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 136,
+        "question": "Ethical hacking is different from malicious hacking because it is:",
+        "options": [
+            "a) Legal",
+            "b) Anonymous",
+            "c) Hidden",
+            "d) Unauthorized"
+        ],
+        "answer": "a) Legal",
+        "explanation": "The correct answer is 'Legal'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 137,
+        "question": "Reconnaissance can be:",
+        "options": [
+            "a) Active",
+            "b) Passive",
+            "c) Both",
+            "d) None"
+        ],
+        "answer": "c) Both",
+        "explanation": "The correct answer is 'Both'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 138,
+        "question": "Network segmentation limits:",
+        "options": [
+            "a) Attack spread",
+            "b) Printer speed",
+            "c) Cable length",
+            "d) OS performance"
+        ],
+        "answer": "a) Attack spread",
+        "explanation": "The correct answer is 'Attack spread'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 139,
+        "question": "Security audits help:",
+        "options": [
+            "a) Identify risks",
+            "b) Delete logs",
+            "c) Print reports only",
+            "d) Format drives"
+        ],
+        "answer": "a) Identify risks",
+        "explanation": "The correct answer is 'Identify risks'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 140,
+        "question": "Phishing indicators include:",
+        "options": [
+            "a) Suspicious links",
+            "b) Urgent requests",
+            "c) Unknown sender domains",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 141,
+        "question": "Malware analysis is part of:",
+        "options": [
+            "a) Digital forensics",
+            "b) Printing",
+            "c) Cable testing",
+            "d) OS installation"
+        ],
+        "answer": "a) Digital forensics",
+        "explanation": "The correct answer is 'Digital forensics'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 142,
+        "question": "Evidence examination should be done on:",
+        "options": [
+            "a) Forensic copy",
+            "b) Original device",
+            "c) Printer",
+            "d) Public system"
+        ],
+        "answer": "a) Forensic copy",
+        "explanation": "The correct answer is 'Forensic copy'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 143,
+        "question": "Deepfake forensic detection checks:",
+        "options": [
+            "a) Frame inconsistencies",
+            "b) Printer logs",
+            "c) Cable damage",
+            "d) Router speed"
+        ],
+        "answer": "a) Frame inconsistencies",
+        "explanation": "The correct answer is 'Frame inconsistencies'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 144,
+        "question": "IoT botnets are commonly used for:",
+        "options": [
+            "a) DDoS attacks",
+            "b) Printing",
+            "c) Cable theft",
+            "d) OS downgrade"
+        ],
+        "answer": "a) DDoS attacks",
+        "explanation": "The correct answer is 'DDoS attacks'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 145,
+        "question": "OS downgrade attacks exploit:",
+        "options": [
+            "a) Old vulnerabilities",
+            "b) New patches",
+            "c) Printer updates",
+            "d) Cable length"
+        ],
+        "answer": "a) Old vulnerabilities",
+        "explanation": "The correct answer is 'Old vulnerabilities'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 146,
+        "question": "Cyber law ensures:",
+        "options": [
+            "a) Legal regulation of cyberspace",
+            "b) Printer repair",
+            "c) Cable installation",
+            "d) OS deletion"
+        ],
+        "answer": "a) Legal regulation of cyberspace",
+        "explanation": "The correct answer is 'Legal regulation of cyberspace'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 147,
+        "question": "National Cyber Security Policy 2013 strengthens:",
+        "options": [
+            "a) Cyber defense framework",
+            "b) Printer network",
+            "c) Cable quality",
+            "d) Router size"
+        ],
+        "answer": "a) Cyber defense framework Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Cyber defense framework Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 148,
+        "question": "Data breach penalties under DPDP can be:",
+        "options": [
+            "a) Financial fines",
+            "b) Printer ban",
+            "c) Cable removal",
+            "d) OS suspension"
+        ],
+        "answer": "a) Financial fines",
+        "explanation": "The correct answer is 'Financial fines'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 149,
+        "question": "Cybercrime against women includes:",
+        "options": [
+            "a) Cyber stalking",
+            "b) Online harassment",
+            "c) Identity misuse",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 150,
+        "question": "The main goal of ethical hacking is to:",
+        "options": [
+            "a) Strengthen cybersecurity",
+            "b) Destroy systems",
+            "c) Steal data",
+            "d) Crash networks"
+        ],
+        "answer": "a) Strengthen cybersecurity",
+        "explanation": "The correct answer is 'Strengthen cybersecurity'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 151,
+        "question": "Digital forensics supports law enforcement by:",
+        "options": [
+            "a) Recovering digital evidence",
+            "b) Printing reports",
+            "c) Deleting logs",
+            "d) Formatting drives"
+        ],
+        "answer": "a) Recovering digital evidence",
+        "explanation": "The correct answer is 'Recovering digital evidence'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 152,
+        "question": "Integrity of evidence is verified using:",
+        "options": [
+            "a) Hash comparison",
+            "b) Printer logs",
+            "c) Cable ID",
+            "d) OS update"
+        ],
+        "answer": "a) Hash comparison",
+        "explanation": "The correct answer is 'Hash comparison'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 153,
+        "question": "A forensic workstation is used to:",
+        "options": [
+            "a) Analyze copied evidence",
+            "b) Modify original data",
+            "c) Print documents",
+            "d) Delete files"
+        ],
+        "answer": "a) Analyze copied evidence",
+        "explanation": "The correct answer is 'Analyze copied evidence'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 154,
+        "question": "Evidence contamination occurs when:",
+        "options": [
+            "a) Original data is altered",
+            "b) Printer jams",
+            "c) Cable disconnects",
+            "d) Router fails"
+        ],
+        "answer": "a) Original data is altered Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Original data is altered Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 155,
+        "question": "Forensic timeline helps determine:",
+        "options": [
+            "a) Attack sequence",
+            "b) Printer speed",
+            "c) Cable path",
+            "d) OS version"
+        ],
+        "answer": "a) Attack sequence",
+        "explanation": "The correct answer is 'Attack sequence'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 156,
+        "question": "A memory dump contains:",
+        "options": [
+            "a) Active system processes",
+            "b) Printed logs",
+            "c) Cable data",
+            "d) BIOS firmware"
+        ],
+        "answer": "a) Active system processes",
+        "explanation": "The correct answer is 'Active system processes'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 157,
+        "question": "Disk imaging tools must maintain:",
+        "options": [
+            "a) Write protection",
+            "b) Data deletion",
+            "c) Printer control",
+            "d) Cable format"
+        ],
+        "answer": "a) Write protection",
+        "explanation": "The correct answer is 'Write protection'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 158,
+        "question": "Metadata can reveal:",
+        "options": [
+            "a) File ownership",
+            "b) Creation date",
+            "c) Modification history",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 159,
+        "question": "In ransomware investigation, first action is:",
+        "options": [
+            "a) Isolate infected system",
+            "b) Pay ransom",
+            "c) Delete files",
+            "d) Restart system"
+        ],
+        "answer": "a) Isolate infected system",
+        "explanation": "The correct answer is 'Isolate infected system'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 160,
+        "question": "Digital forensics ensures evidence is:",
+        "options": [
+            "a) Court admissible",
+            "b) Random",
+            "c) Unverified",
+            "d) Deleted"
+        ],
+        "answer": "a) Court admissible",
+        "explanation": "The correct answer is 'Court admissible'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 161,
+        "question": "Ethical hacking requires defining:",
+        "options": [
+            "a) Scope of testing",
+            "b) Printer model",
+            "c) Cable size",
+            "d) OS brand"
+        ],
+        "answer": "a) Scope of testing Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Scope of testing Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 162,
+        "question": "Passive reconnaissance involves:",
+        "options": [
+            "a) Public information gathering",
+            "b) Direct system attack",
+            "c) File deletion",
+            "d) Printer testing"
+        ],
+        "answer": "a) Public information gathering",
+        "explanation": "The correct answer is 'Public information gathering'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 163,
+        "question": "Active reconnaissance involves:",
+        "options": [
+            "a) Direct interaction with target",
+            "b) Reading newspapers",
+            "c) Printing logs",
+            "d) Cable inspection"
+        ],
+        "answer": "a) Direct interaction with target",
+        "explanation": "The correct answer is 'Direct interaction with target'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 164,
+        "question": "Port scanning identifies:",
+        "options": [
+            "a) Open network ports",
+            "b) Printer ink levels",
+            "c) Cable faults",
+            "d) Storage errors"
+        ],
+        "answer": "a) Open network ports",
+        "explanation": "The correct answer is 'Open network ports'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 165,
+        "question": "Exploitation phase tests:",
+        "options": [
+            "a) Vulnerability impact",
+            "b) Printer performance",
+            "c) Cable resistance",
+            "d) Router height"
+        ],
+        "answer": "a) Vulnerability impact",
+        "explanation": "The correct answer is 'Vulnerability impact'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 166,
+        "question": "Privilege escalation attack aims to:",
+        "options": [
+            "a) Gain higher system access",
+            "b) Print documents",
+            "c) Delete logs",
+            "d) Restart OS"
+        ],
+        "answer": "a) Gain higher system access",
+        "explanation": "The correct answer is 'Gain higher system access'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 167,
+        "question": "Maintaining access helps attacker test:",
+        "options": [
+            "a) Persistence",
+            "b) Printer stability",
+            "c) Cable durability",
+            "d) Storage capacity"
+        ],
+        "answer": "a) Persistence",
+        "explanation": "The correct answer is 'Persistence'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 168,
+        "question": "Reporting phase should include:",
+        "options": [
+            "a) Risk level",
+            "b) Impact analysis",
+            "c) Remediation steps",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 169,
+        "question": "Risk assessment helps identify:",
+        "options": [
+            "a) Potential threats",
+            "b) Printer faults",
+            "c) Cable damage",
+            "d) Router speed"
+        ],
+        "answer": "a) Potential threats",
+        "explanation": "The correct answer is 'Potential threats'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 170,
+        "question": "Firewall primarily protects:",
+        "options": [
+            "a) Network perimeter",
+            "b) Printer",
+            "c) Cable",
+            "d) Mouse"
+        ],
+        "answer": "a) Network perimeter",
+        "explanation": "The correct answer is 'Network perimeter'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 171,
+        "question": "AI phishing scams are dangerous because they are:",
+        "options": [
+            "a) Personalized",
+            "b) Grammatically accurate",
+            "c) Context-aware",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 172,
+        "question": "Ransomware encryption uses:",
+        "options": [
+            "a) Cryptographic algorithms",
+            "b) Printer commands",
+            "c) Cable signals",
+            "d) Router settings"
+        ],
+        "answer": "a) Cryptographic algorithms",
+        "explanation": "The correct answer is 'Cryptographic algorithms'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 173,
+        "question": "DDoS attack aims to:",
+        "options": [
+            "a) Overload server",
+            "b) Print files",
+            "c) Delete logs",
+            "d) Upgrade OS"
+        ],
+        "answer": "a) Overload server",
+        "explanation": "The correct answer is 'Overload server'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 174,
+        "question": "IoT botnets consist of:",
+        "options": [
+            "a) Compromised smart devices",
+            "b) Printers only",
+            "c) Routers only",
+            "d) Servers only"
+        ],
+        "answer": "a) Compromised smart devices",
+        "explanation": "The correct answer is 'Compromised smart devices'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 175,
+        "question": "Deepfake fraud may involve:",
+        "options": [
+            "a) CEO impersonation",
+            "b) Printer hacking",
+            "c) Cable theft",
+            "d) OS update"
+        ],
+        "answer": "a) CEO impersonation Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'CEO impersonation Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 176,
+        "question": "Secure firmware updates require:",
+        "options": [
+            "a) Digital signatures",
+            "b) Printer logs",
+            "c) Cable marking",
+            "d) OS removal"
+        ],
+        "answer": "a) Digital signatures",
+        "explanation": "The correct answer is 'Digital signatures'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 177,
+        "question": "BIOS malware is dangerous because it:",
+        "options": [
+            "a) Survives OS reinstall",
+            "b) Prints logs",
+            "c) Deletes files",
+            "d) Corrupts printer"
+        ],
+        "answer": "a) Survives OS reinstall",
+        "explanation": "The correct answer is 'Survives OS reinstall'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 178,
+        "question": "WAF protects against:",
+        "options": [
+            "a) Web application attacks",
+            "b) Printer hacking",
+            "c) Cable misuse",
+            "d) Router errors"
+        ],
+        "answer": "a) Web application attacks",
+        "explanation": "The correct answer is 'Web application attacks'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 179,
+        "question": "SQL injection targets:",
+        "options": [
+            "a) Database queries",
+            "b) Printer spool",
+            "c) Cable network",
+            "d) OS boot"
+        ],
+        "answer": "a) Database queries",
+        "explanation": "The correct answer is 'Database queries'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 180,
+        "question": "Zero-day attacks are hard to prevent because:",
+        "options": [
+            "a) No patch available",
+            "b) Printer error",
+            "c) Cable cut",
+            "d) Router crash"
+        ],
+        "answer": "a) No patch available",
+        "explanation": "The correct answer is 'No patch available'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 181,
+        "question": "NCSP 2013 promotes:",
+        "options": [
+            "a) Public-private partnership",
+            "b) Printer networks",
+            "c) Cable design",
+            "d) OS printing"
+        ],
+        "answer": "a) Public-private partnership",
+        "explanation": "The correct answer is 'Public-private partnership'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 182,
+        "question": "Critical Information Infrastructure includes:",
+        "options": [
+            "a) Banking systems",
+            "b) Power grids",
+            "c) Defense networks",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 183,
+        "question": "IT Act 2000 supports:",
+        "options": [
+            "a) E-commerce",
+            "b) E-governance",
+            "c) Digital signatures",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 184,
+        "question": "Section 43 penalizes:",
+        "options": [
+            "a) Unauthorized access",
+            "b) Printer damage",
+            "c) Cable theft",
+            "d) OS deletion"
+        ],
+        "answer": "a) Unauthorized access",
+        "explanation": "The correct answer is 'Unauthorized access'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 185,
+        "question": "Section 69 authorizes:",
+        "options": [
+            "a) Data interception",
+            "b) Printer shutdown",
+            "c) Cable removal",
+            "d) Router deletion"
+        ],
+        "answer": "a) Data interception",
+        "explanation": "The correct answer is 'Data interception'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 186,
+        "question": "DPDP Act emphasizes:",
+        "options": [
+            "a) Data privacy rights",
+            "b) Printer control",
+            "c) Cable inspection",
+            "d) OS updates"
+        ],
+        "answer": "a) Data privacy rights",
+        "explanation": "The correct answer is 'Data privacy rights'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 187,
+        "question": "Consent under DPDP must be:",
+        "options": [
+            "a) Clear and informed",
+            "b) Hidden",
+            "c) Implied only",
+            "d) Verbal only"
+        ],
+        "answer": "a) Clear and informed",
+        "explanation": "The correct answer is 'Clear and informed'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 188,
+        "question": "CCPWC scheme focuses on:",
+        "options": [
+            "a) Cyber safety awareness",
+            "b) Printer usage",
+            "c) Cable repair",
+            "d) Router upgrade"
+        ],
+        "answer": "a) Cyber safety awareness",
+        "explanation": "The correct answer is 'Cyber safety awareness'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 189,
+        "question": "Cyber harassment includes:",
+        "options": [
+            "a) Online abuse",
+            "b) Cyber stalking",
+            "c) Threat messages",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 190,
+        "question": "Cyber terrorism under Section 66F includes:",
+        "options": [
+            "a) Threat to national security",
+            "b) Printer hacking",
+            "c) Cable theft",
+            "d) OS downgrade"
+        ],
+        "answer": "a) Threat to national security",
+        "explanation": "The correct answer is 'Threat to national security'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 191,
+        "question": "Forensic documentation must be:",
+        "options": [
+            "a) Accurate",
+            "b) Detailed",
+            "c) Time-stamped",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 192,
+        "question": "Evidence preservation ensures:",
+        "options": [
+            "a) No alteration",
+            "b) Fast printing",
+            "c) Cable fixing",
+            "d) OS update"
+        ],
+        "answer": "a) No alteration",
+        "explanation": "The correct answer is 'No alteration'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 193,
+        "question": "Digital investigation models provide:",
+        "options": [
+            "a) Structured approach",
+            "b) Printer workflow",
+            "c) Cable mapping",
+            "d) OS setup"
+        ],
+        "answer": "a) Structured approach",
+        "explanation": "The correct answer is 'Structured approach'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 194,
+        "question": "Forensic readiness reduces:",
+        "options": [
+            "a) Investigation delay",
+            "b) Printer ink",
+            "c) Cable usage",
+            "d) Router size"
+        ],
+        "answer": "a) Investigation delay",
+        "explanation": "The correct answer is 'Investigation delay'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 195,
+        "question": "Ethical hacking certifications include:",
+        "options": [
+            "a) CEH",
+            "b) OSCP",
+            "c) CISSP",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 196,
+        "question": "Social engineering prevention requires:",
+        "options": [
+            "a) Awareness training",
+            "b) Printer upgrade",
+            "c) Cable testing",
+            "d) OS removal"
+        ],
+        "answer": "a) Awareness training Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
+        "explanation": "The correct answer is 'Awareness training Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 197,
+        "question": "Cyber resilience means:",
+        "options": [
+            "a) Ability to recover quickly",
+            "b) Printer repair",
+            "c) Cable replacement",
+            "d) OS downgrade"
+        ],
+        "answer": "a) Ability to recover quickly",
+        "explanation": "The correct answer is 'Ability to recover quickly'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 198,
+        "question": "Incident response plan includes:",
+        "options": [
+            "a) Detection",
+            "b) Containment",
+            "c) Recovery",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 199,
+        "question": "Digital forensic investigation ends with:",
+        "options": [
+            "a) Case closure",
+            "b) Printer shutdown",
+            "c) Cable removal",
+            "d) OS update"
+        ],
+        "answer": "a) Case closure",
+        "explanation": "The correct answer is 'Case closure'. This concept is essential to Digital Forensics and Ethical Hacking."
+    },
+    {
+        "id": 200,
+        "question": "The ultimate objective of UNIT 5 concepts is:",
+        "options": [
+            "a) Secure and legally compliant cyberspace",
+            "b) Printer maintenance",
+            "c) Cable control",
+            "d) OS deletion"
+        ],
+        "answer": "a) Secure and legally compliant cyberspace",
+        "explanation": "The correct answer is 'Secure and legally compliant cyberspace'. This concept is essential to Digital Forensics and Ethical Hacking."
+    }
+]

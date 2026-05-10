@@ -1,0 +1,677 @@
+UNIT 4 – IMMERSIVE TECHNOLOGY 
+AND SUSTAINABLE COMPUTING  
+1. Immersive technology mainly creates: 
+a) Paper records 
+b) Digital interactive environments 
+c) Cable systems 
+d) Offline files 
+Answer: b) Digital interactive environments 
+2. Immersive systems enhance which type of experience? 
+a) Sensory 
+b) Manual 
+c) Printed 
+d) Offline 
+Answer: a) Sensory 
+3. VR creates a: 
+a) Partial environment 
+b) Fully artificial environment 
+c) Real-only environment 
+d) Paper-based system 
+Answer: b) Fully artificial environment 
+4. VR users cannot see: 
+a) Digital objects 
+b) Real world 
+c) Audio 
+d) Motion 
+Answer: b) Real world 
+5. VR requires: 
+a) Keyboard only 
+b) VR headset 
+c) Printer 
+d) Fax 
+Answer: b) VR headset 
+6. VR is widely used in: 
+a) Flight simulation 
+b) Paper printing 
+c) Radio 
+d) Telephone 
+Answer: a) Flight simulation 
+7. AR enhances: 
+a) Only digital world 
+b) Real world with digital content 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+c) Offline world 
+d) Paper records 
+Answer: b) Real world with digital content 
+8. AR works mainly through: 
+a) Smartphones 
+b) Fax 
+c) Printer 
+d) Typewriter 
+Answer: a) Smartphones 
+9. AR does NOT: 
+a) Replace real world 
+b) Add digital objects 
+c) Provide interaction 
+d) Enhance environment 
+Answer: a) Replace real world 
+10. Pokémon GO is example of: 
+a) VR 
+b) AR 
+c) MR 
+d) XR 
+Answer: b) AR 
+11. MR combines: 
+a) Only VR 
+b) Only AR 
+c) VR and AR 
+d) None 
+Answer: c) VR and AR 
+12. MR allows digital objects to: 
+a) Remain static 
+b) Interact with real objects 
+c) Be invisible 
+d) Delete data 
+Answer: b) Interact with real objects 
+13. XR stands for: 
+a) Extended Reality 
+b) External Reality 
+c) Extra Rendering 
+d) Extended Robotics 
+Answer: a) Extended Reality 
+14. XR includes: 
+a) VR 
+b) AR 
+c) MR 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+d) All of the above 
+Answer: d) All of the above 
+15. Haptic technology provides: 
+a) Sound feedback 
+b) Touch feedback 
+c) Visual feedback only 
+d) Data storage 
+Answer: b) Touch feedback 
+16. Haptic devices simulate: 
+a) Temperature 
+b) Touch sensation 
+c) Smell 
+d) Color 
+Answer: b) Touch sensation 
+17. VR improves understanding through: 
+a) Simulation 
+b) Paper 
+c) Manual 
+d) Cable 
+Answer: a) Simulation 
+18. AR improves: 
+a) Real-time information 
+b) Offline data 
+c) Printer speed 
+d) Cable length 
+Answer: a) Real-time information 
+19. MR is used in: 
+a) Remote collaboration 
+b) Fax 
+c) Printer 
+d) Paper 
+Answer: a) Remote collaboration 
+20. Immersive tech is used in: 
+a) Healthcare 
+b) Education 
+c) Gaming 
+d) All of the above 
+Answer: d) All of the above 
+21. VR in healthcare is mainly used for: 
+a) Surgery simulation 
+b) Printing 
+c) Radio 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+d) Fax 
+Answer: a) Surgery simulation 
+22. VR helps in dangerous training because it is: 
+a) Risk-free 
+b) Slow 
+c) Manual 
+d) Offline 
+Answer: a) Risk-free 
+23. AR navigation displays: 
+a) Digital directions 
+b) Paper map 
+c) Cable 
+d) Printer 
+Answer: a) Digital directions 
+24. Immersive tech improves: 
+a) Industrial safety 
+b) Manual errors 
+c) Delay 
+d) Paper logs 
+Answer: a) Industrial safety 
+25. VR tourism allows: 
+a) Virtual tours 
+b) Physical travel 
+c) Cable 
+d) Printer 
+Answer: a) Virtual tours 
+26. MR uses: 
+a) Sensors and cameras 
+b) Paper 
+c) Ink 
+d) Fax 
+Answer: a) Sensors and cameras 
+27. VR gaming requires: 
+a) Immersive headset 
+b) Typewriter 
+c) Printer 
+d) Router 
+Answer: a) Immersive headset 
+28. AR product visualization helps in: 
+a) Marketing 
+b) Cable repair 
+c) Printing 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+d) Paper filing 
+Answer: a) Marketing 
+29. XR offers: 
+a) Flexible immersive solutions 
+b) Manual records 
+c) Paper 
+d) Fax 
+Answer: a) Flexible immersive solutions 
+30. Haptic feedback enhances: 
+a) Realism 
+b) Paper 
+c) Cable 
+d) Printer 
+Answer: a) Realism 
+31. Green computing aims to reduce: 
+a) Energy consumption 
+b) Data 
+c) Users 
+d) Servers 
+Answer: a) Energy consumption 
+32. Green IT promotes: 
+a) Sustainability 
+b) Pollution 
+c) Paper waste 
+d) Data loss 
+Answer: a) Sustainability 
+33. Green computing reduces: 
+a) Carbon emission 
+b) Storage 
+c) Network 
+d) Devices 
+Answer: a) Carbon emission 
+34. Virtualization reduces: 
+a) Physical servers 
+b) Users 
+c) Network 
+d) Printers 
+Answer: a) Physical servers 
+35. Data centers consume: 
+a) Large electricity 
+b) Low electricity 
+c) No electricity 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+d) Solar only 
+Answer: a) Large electricity 
+36. Efficient cooling helps: 
+a) Save energy 
+b) Increase heat 
+c) Slow server 
+d) Delete data 
+Answer: a) Save energy 
+37. E-waste includes: 
+a) Discarded electronics 
+b) Paper 
+c) Ink 
+d) Water 
+Answer: a) Discarded electronics 
+38. Improper e-waste disposal causes: 
+a) Pollution 
+b) Speed 
+c) Transparency 
+d) Security 
+Answer: a) Pollution 
+39. Recycling recovers: 
+a) Valuable materials 
+b) Paper 
+c) Cable 
+d) Fax 
+Answer: a) Valuable materials 
+40. First step in e-waste recycling: 
+a) Collection 
+b) Printing 
+c) Burning 
+d) Deleting 
+Answer: a) Collection 
+41. Magnetic separation is used for: 
+a) Metal separation 
+b) Paper 
+c) Plastic 
+d) Water 
+Answer: a) Metal separation 
+42. Eddy current separation removes: 
+a) Non-ferrous metals 
+b) Paper 
+c) Plastic 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+d) Ink 
+Answer: a) Non-ferrous metals 
+43. Green computing lowers: 
+a) Operational cost 
+b) Productivity 
+c) Security 
+d) Transparency 
+Answer: a) Operational cost 
+44. Water separation is used in: 
+a) Recycling process 
+b) VR 
+c) AR 
+d) MR 
+Answer: a) Recycling process 
+45. Sustainable IT practices help: 
+a) Environment 
+b) Pollution 
+c) Waste 
+d) Carbon increase 
+Answer: a) Environment 
+46. Energy-efficient hardware: 
+a) Reduces power usage 
+b) Increases heat 
+c) Slows system 
+d) Deletes data 
+Answer: a) Reduces power usage 
+47. Green computing focuses on: 
+a) Eco-friendly computing 
+b) Fast gaming 
+c) Printing 
+d) Fax 
+Answer: a) Eco-friendly computing 
+48. Data center optimization improves: 
+a) Efficiency 
+b) Pollution 
+c) Delay 
+d) Paper waste 
+Answer: a) Efficiency 
+49. Green IT encourages: 
+a) Recycling 
+b) Dumping 
+c) Burning 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+d) Deleting 
+Answer: a) Recycling 
+50. Proper e-waste management prevents: 
+a) Environmental hazards 
+b) Transparency 
+c) Security 
+d) Printing 
+Answer: a) Environmental hazards 
+51. Quantum computing uses: 
+a) Quantum mechanics 
+b) Printer 
+c) Paper 
+d) Cable 
+Answer: a) Quantum mechanics 
+52. Basic unit of quantum computing: 
+a) Bit 
+b) Qubit 
+c) Byte 
+d) Block 
+Answer: b) Qubit 
+53. Qubit can exist in: 
+a) 0 only 
+b) 1 only 
+c) Both 0 and 1 
+d) None 
+Answer: c) Both 0 and 1 
+54. Superposition allows: 
+a) Parallel processing 
+b) Sequential only 
+c) Printing 
+d) Cable 
+Answer: a) Parallel processing 
+55. Entanglement links: 
+a) Two qubits 
+b) Two printers 
+c) Two cables 
+d) Two routers 
+Answer: a) Two qubits 
+56. Quantum interference helps: 
+a) Amplify correct results 
+b) Delete blocks 
+c) Print faster 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+d) Cable repair 
+Answer: a) Amplify correct results 
+57. Classical computer uses: 
+a) Bits 
+b) Qubits 
+c) Blocks 
+d) Hash 
+Answer: a) Bits 
+58. Quantum computer supports: 
+a) Parallel processing 
+b) Manual processing 
+c) Offline processing 
+d) Paper processing 
+Answer: a) Parallel processing 
+59. IBM Quantum is example of: 
+a) Classical computer 
+b) Quantum computer 
+c) Printer 
+d) Router 
+Answer: b) Quantum computer 
+60. Quantum computing helps in: 
+a) Cryptography 
+b) Drug discovery 
+c) Optimization 
+d) All of the above 
+Answer: d) All of the above 
+61. Quantum computers may break: 
+a) RSA encryption 
+b) Printer 
+c) Cable 
+d) Fax 
+Answer: a) RSA encryption 
+62. Quantum computers simulate: 
+a) Molecular structures 
+b) Paper 
+c) Printer 
+d) Cable 
+Answer: a) Molecular structures 
+63. Qubit stability is: 
+a) Challenge 
+b) Advantage 
+c) Printer 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+d) Cable 
+Answer: a) Challenge 
+64. Quantum error correction is: 
+a) Difficult 
+b) Easy 
+c) Printer-based 
+d) Cable-based 
+Answer: a) Difficult 
+65. Quantum computing cost is: 
+a) High 
+b) Low 
+c) Free 
+d) Zero 
+Answer: a) High 
+66. Quantum computing enhances: 
+a) AI 
+b) Printing 
+c) Cable 
+d) Fax 
+Answer: a) AI 
+67. Exponential growth in power depends on: 
+a) Number of qubits 
+b) Printer 
+c) Cable 
+d) Router 
+Answer: a) Number of qubits 
+68. Quantum systems are still: 
+a) Developing 
+b) Complete 
+c) Finished 
+d) Manual 
+Answer: a) Developing 
+69. Quantum computing is best for: 
+a) Complex problems 
+b) Simple typing 
+c) Printing 
+d) Paper filing 
+Answer: a) Complex problems 
+70. Future of quantum computing may: 
+a) Revolutionize computing 
+b) Stop computing 
+c) Replace paper 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+d) Delete internet 
+Answer: a) Revolutionize computing 
+116. Virtual Reality system mainly consists of: 
+a) Head-mounted display 
+b) Sensors 
+c) Controllers 
+d) All of the above 
+Answer: d) All of the above 
+117. Field of View (FOV) in VR affects: 
+a) Immersion level 
+b) Printer speed 
+c) Cable length 
+d) Storage size 
+Answer: a) Immersion level 
+118. Motion tracking in VR is used to: 
+a) Detect user movement 
+b) Delete files 
+c) Print faster 
+d) Store data 
+Answer: a) Detect user movement 
+119. AR markers are used to: 
+a) Align digital objects 
+b) Print documents 
+c) Connect cables 
+d) Delete records 
+Answer: a) Align digital objects 
+120. Markerless AR uses: 
+a) GPS and sensors 
+b) Paper codes 
+c) Printer ink 
+d) Fax signals 
+Answer: a) GPS and sensors 
+121. Immersive tech in education increases: 
+a) Student engagement 
+b) Paper usage 
+c) Manual learning 
+d) Delay 
+Answer: a) Student engagement 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+122. VR sickness is caused due to: 
+a) Motion mismatch 
+b) Cable fault 
+c) Printer issue 
+d) Storage error 
+Answer: a) Mo on mismatch 
+123. AR is useful in maintenance because it: 
+a) Displays repair instructions 
+b) Deletes files 
+c) Prints manuals 
+d) Disconnects network 
+Answer: a) Displays repair instruc ons 
+124. Mixed Reality devices include: 
+a) Microsoft HoloLens 
+b) Printer 
+c) Router 
+d) Keyboard 
+Answer: a) Microso HoloLens 
+125. XR technology improves: 
+a) Remote collaboration 
+b) Paper filing 
+c) Manual entry 
+d) Cable testing 
+Answer: a) Remote collabora on 
+126. Power Usage Effectiveness (PUE) measures: 
+a) Data center efficiency 
+b) Printer speed 
+c) Cable length 
+d) Storage capacity 
+Answer: a) Data center efficiency 
+127. Green cloud computing reduces: 
+a) Carbon footprint 
+b) Data 
+c) Nodes 
+d) Routers 
+Answer: a) Carbon footprint 
+128. Sustainable IT procurement encourages: 
+a) Eco-friendly hardware 
+b) High power devices 
+c) Manual systems 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+d) Paper systems 
+Answer: a) Eco-friendly hardware 
+129. E-waste recycling helps recover: 
+a) Gold 
+b) Silver 
+c) Copper 
+d) All of the above 
+Answer: d) All of the above 
+130. Biodegradable components reduce: 
+a) Environmental impact 
+b) Network speed 
+c) Data storage 
+d) Printer usage 
+Answer: a) Environmental impact 
+131. Server virtualization allows: 
+a) Multiple OS on one machine 
+b) One OS per server 
+c) Printer control 
+d) Cable removal 
+Answer: a) Mul ple OS on one machine 
+132. Sleep mode in devices helps: 
+a) Save energy 
+b) Increase power use 
+c) Delete files 
+d) Print faster 
+Answer: a) Save energy 
+133. Renewable energy in data centers uses: 
+a) Solar power 
+b) Wind power 
+c) Hydro power 
+d) All of the above 
+Answer: d) All of the above 
+134. Proper disposal of batteries prevents: 
+a) Toxic leakage 
+b) Faster printing 
+c) Cable damage 
+d) Storage issues 
+Answer: a) Toxic leakage 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+135. Smart grids improve: 
+a) Energy distribution efficiency 
+b) Paper work 
+c) Printing 
+d) Manual logging 
+Answer: a) Energy distribu on efficiency 
+136. Quantum annealing is mainly used for: 
+a) Optimization problems 
+b) Printing 
+c) Data deletion 
+d) Cable management 
+Answer: a) Opmiza on problems 
+137. Shor’s algorithm is used for: 
+a) Factoring large numbers 
+b) Printing 
+c) File compression 
+d) Data deletion 
+Answer: a) Factoring large numbers 
+138. Grover’s algorithm improves: 
+a) Search speed 
+b) Printing 
+c) Cable testing 
+d) Typing speed 
+Answer: a) Search speed 
+139. Quantum cryptography provides: 
+a) Secure key distribution 
+b) Printer encryption 
+c) Cable testing 
+d) Offline security 
+Answer: a) Secure key distribu on 
+140. Quantum teleportation transfers: 
+a) Quantum state 
+b) Printer 
+c) Cable 
+d) Hardware 
+Answer: a) Quantum state 
+141. Decoherence limits: 
+a) Computation accuracy 
+b) Printer output 
+c) Storage 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+d) Network 
+Answer: a) Computa on accuracy 
+142. Quantum supremacy demonstrates: 
+a) Quantum advantage over classical 
+b) Printer speed 
+c) Cable efficiency 
+d) Paper system 
+Answer: a) Quantum advantage over classical 
+143. Qubit coherence time affects: 
+a) Stability 
+b) Printer 
+c) Cable 
+d) Paper 
+Answer: a) Stability 
+144. Superconducting qubits operate at: 
+a) Very low temperatures 
+b) Room temperature 
+c) High temperature 
+d) Outdoor temperature 
+Answer: a) Very low temperatures 
+145. Quantum computers are best suited for: 
+a) Complex simulations 
+b) Basic typing 
+c) Printing 
+d) Fax 
+Answer: a) Complex simula ons 
+146. Classical computing is based on: 
+a) Boolean logic 
+b) Quantum physics 
+c) Superposition 
+d) Entanglement 
+Answer: a) Boolean logic 
+147. Quantum computing research is led by: 
+a) IBM 
+b) Google 
+c) Microsoft 
+d) All of the above 
+Answer: d) All of the above 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+148. Quantum computing may impact cybersecurity by: 
+a) Breaking traditional encryption 
+b) Printing faster 
+c) Cable testing 
+d) Paper removal 
+Answer: a) Breaking tradi onal encryp on 
+149. One major barrier in quantum computing is: 
+a) Hardware complexity 
+b) Paper 
+c) Printer 
+d) Cable 
+Answer: a) Hardware complexity 
+150. The future of quantum computing is expected to: 
+a) Transform computing industry 
+b) Replace printers 
+c) Remove cables 
+d) Eliminate internet 
+Answer: a) Transform compu ng industry

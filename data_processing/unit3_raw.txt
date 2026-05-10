@@ -1,0 +1,1403 @@
+UNIT 3 – BLOCKCHAIN TECHNOLOGY 
+1. Who invented blockchain technology? 
+a) Elon Musk 
+b) Satoshi Nakamoto 
+c) Vitalik Buterin 
+d) Tim Berners-Lee 
+Answer: b) Satoshi Nakamoto 
+Explanation: Blockchain technology was introduced by Satoshi Nakamoto in 2008 along 
+with Bitcoin as a decentralized digital currency system. 
+2. What is a blockchain? 
+a) A centralized database 
+b) A decentralized digital ledger 
+c) A traditional banking system 
+d) A programming language 
+Answer: b) A decentralized digital ledger 
+Explanation: Blockchain is a distributed ledger that records transactions across multiple 
+nodes without central authority. 
+3. What is the first block in the blockchain called? 
+a) Prime block 
+b) Genesis block 
+c) Root block 
+d) Initial block 
+Answer: b) Genesis block 
+Explanation: The first block of any blockchain is called the Genesis block and it has no 
+previous block hash. 
+4. The blockchain ledger is  . 
+a) Mutable 
+b) Immutable 
+c) Partially mutable 
+d) Deleted regularly 
+Answer: b) Immutable 
+Explanation: Once data is recorded in a blockchain, it cannot be changed or deleted, 
+ensuring data integrity. 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+5. Which feature allows all nodes to keep a copy of the blockchain? 
+a) Transparency 
+b) Decentralization 
+c) Anonymity 
+d) Centralization 
+Answer: b) Decentralization 
+Explanation: In decentralization, every node maintains a copy of the blockchain ledger. 
+6. The hash in a blockchain block is  . 
+a) The user’s password 
+b) A unique identifier of the block 
+c) The blockchain’s name 
+d) The transaction amount 
+Answer: b) A unique identifier of the block 
+Explanation: Hash uniquely identifies a block and ensures data integrity. 
+7. What links a block to its previous block? 
+a) Timestamp 
+b) Previous block’s hash 
+c) User ID 
+d) Transaction amount 
+Answer: b) Previous block’s hash 
+Explanation: Each block stores the hash of the previous block, forming a secure chain. 
+8. What process do miners perform? 
+a) Code smart contracts 
+b) Verify and add blocks to the blockchain 
+c) Delete invalid transactions 
+d) Create cryptocurrencies 
+Answer: b) Verify and add blocks to the blockchain 
+Explanation: Miners validate transactions and add them to the blockchain through consensus mechanisms. 
+9. Which of the following is NOT a key feature of blockchain? 
+a) Centralized control 
+b) Immutability 
+c) Transparency 
+d) Decentralization 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+Answer: a) Centralized control 
+Explanation: Blockchain is decentralized, not centrally controlled. 
+10. What ensures transactions on the blockchain cannot be altered? 
+a) Consensus algorithm 
+b) Digital wallets 
+c) Miners’ IDs 
+d) Private keys 
+Answer: a) Consensus algorithm 
+Explanation: Consensus algorithms ensure agreement across nodes and prevent 
+unauthorized modifications. 
+11. Blockchain network participants are called  . 
+a) Servers 
+b) Miners 
+c) Nodes 
+d) Clients 
+Answer: c) Nodes 
+Explanation: Nodes are computers that participate in maintaining the blockchain network. 
+12. What property ensures all network copies remain consistent? 
+a) Central authority control 
+b) Consensus protocols 
+c) Data encryption 
+d) Transaction fees 
+Answer: b) Consensus protocols 
+Explanation: Consensus ensures all nodes agree on the same blockchain state. 
+13. Which system has a single point of failure? 
+a) Blockchain 
+b) Traditional centralized system 
+c) Peer-to-peer network 
+d) Decentralized system 
+Answer: b) Traditional centralized system 
+Explanation: Centralized systems rely on one authority, making them vulnerable to failure. 
+14. Which system provides higher transparency? 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+a) Traditional system 
+b) Blockchain 
+c) Neither 
+d) Both equally 
+Answer: b) Blockchain 
+Explanation: Blockchain transactions are visible and verifiable by all participants. 
+15. Which system is typically slower for cross-border transactions? 
+a) Blockchain 
+b) Traditional centralized system 
+c) Both the same 
+d) None of these 
+Answer: b) Traditional centralized system 
+Explanation: Traditional banking systems involve intermediaries and delays. 
+16. Blockchain eliminates the need for  . 
+a) Cryptography 
+b) Intermediaries 
+c) Data storage 
+d) Recording transactions 
+Answer: b) Intermediaries 
+Explanation: Blockchain enables peer-to-peer transactions without third parties. 
+17. Public blockchains are  . 
+a) Permissioned and private 
+b) Open to anyone 
+c) Operated by a single company 
+d) Always faster than private blockchains 
+Answer: b) Open to anyone 
+Explanation: Public blockchains allow anyone to join, read, and write transactions. 
+18. Private blockchains are  . 
+a) Open to the public 
+b) Permissioned and controlled by an organization 
+c) Same as public blockchains 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+d) More decentralized 
+Answer: b) Permissioned and controlled by an organization 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+Explanation: Private blockchains restrict access and are managed by a single entity. 
+19. Consortium blockchains are  . 
+a) Public blockchains 
+b) Governed by multiple organizations 
+c) Controlled by no one 
+d) Managed by governments 
+Answer: b) Governed by multiple organizations 
+Explanation: Consortium blockchains are jointly controlled by multiple institutions. 
+20. Hybrid blockchains  . 
+a) Combine features of public and private blockchains 
+b) Are fully centralized 
+c) Are prohibited 
+d) Do not use cryptography 
+Answer: a) Combine features of public and private blockchains 
+Explanation: Hybrid blockchains provide controlled access with transparency benefits. 
+21. Which industry uses blockchain for secure cross-border payments? 
+a) Healthcare 
+b) Finance 
+c) Supply Chain 
+d) Gaming 
+Answer: b) Finance 
+Explanation: Blockchain enables fast and secure international financial transactions. 
+22. Blockchain improves supply chains by  . 
+a) Reducing transparency 
+b) Tracking products from origin to consumer 
+c) Hiding product details 
+d) Increasing fraud risk 
+Answer: b) Tracking products from origin to consumer 
+Explanation: Blockchain ensures traceability and transparency in supply chains. 
+23. In healthcare, blockchain helps by  
+. 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+a) Making patient data public 
+b) Securely storing and sharing medical records 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+c) Slowing data access 
+d) Reducing data collection 
+Answer: b) Securely storing and sharing medical records 
+Explanation: Blockchain improves security and interoperability of healthcare data. 
+24. Blockchain offers gamers the ability to  
+. 
+a) Own in-game assets as NFTs 
+b) Cheat on games 
+c) Avoid transparency 
+d) Use centralized servers 
+Answer: a) Own in-game assets as NFTs 
+Explanation: NFTs allow true ownership of digital assets in gaming. 
+25. Smart contracts  . 
+a) Require a lawyer 
+b) Are self-executing contracts coded on blockchain 
+c) Can be changed anytime 
+d) Need intermediaries 
+Answer: b) Are self-executing contracts coded on blockchain 
+Explanation: Smart contracts automatically execute when conditions are met. 
+26. Which is a key feature of smart contracts? 
+a) Autonomy and immutability 
+b) Manual execution 
+c) Human intervention 
+d) Easy erasure 
+Answer: a) Autonomy and immutability 
+Explanation: Smart contracts run independently and cannot be altered once deployed. 
+27. Bitcoin is  . 
+a) A centralized digital currency 
+b) A cryptocurrency operating on blockchain 
+c) A fiat currency 
+d) Not related to blockchain 
+Answer: b) A cryptocurrency operating on blockchain 
+Explanation: Bitcoin was the first blockchain-based cryptocurrency. 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+28. Ethereum is known for  . 
+a) Only cryptocurrency transactions 
+b) Enabling smart contract execution 
+c) Being private blockchain 
+d) Centralized control 
+Answer: b) Enabling smart contract execution 
+Explanation: Ethereum supports decentralized applications via smart contracts. 
+29. The biggest scalability challenge is  
+. 
+a) Slow transactions as network grows 
+b) Too much transparency 
+c) Lack of security 
+d) Too many users 
+Answer: a) Slow transactions as network grows 
+Explanation: Increased network size affects processing speed. 
+30. Proof of Work consensus consumes  . 
+a) Minimal energy 
+b) High energy due to mining computations 
+c) No electricity 
+d) Renewable resources only 
+Answer: b) High energy due to mining computations 
+Explanation: PoW requires heavy computational power, consuming significant energy. 
+31. Regulatory uncertainty  . 
+a) Encourages rapid adoption 
+b) Hinders blockchain adoption globally 
+c) Is resolved everywhere 
+d) Does not affect blockchain 
+Answer: b) Hinders blockchain adoption globally 
+Explanation: Lack of uniform laws creates legal risks. 
+32. What is a “51% attack”? 
+a) When a single user controls over half of mining power 
+b) More than half network uses blockchain 
+c) All transactions are instant 
+d) None of the above 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+Answer: a) When a single user controls over half of mining power 
+Explanation: This allows manipulation of blockchain transactions. 
+33. Immutability challenges include  . 
+a) Inability to correct errors once stored 
+b) Data easily altered 
+c) Automatic deletion 
+d) Frequent rollbacks 
+Answer: a) Inability to correct errors once stored 
+Explanation: Errors once recorded cannot be changed. 
+34. A privacy issue in public blockchains is  
+. 
+a) Complete anonymity 
+b) Exposure of transaction details publicly 
+c) Data encryption 
+d) Trusted-only access 
+Answer: b) Exposure of transaction details publicly 
+Explanation: Public visibility can compromise privacy. 
+35. What is a node in blockchain? 
+a) Centralized server 
+b) Participant computer maintaining blockchain 
+c) Programming language 
+d) Data block 
+Answer: b) Participant computer maintaining blockchain 
+Explanation: Nodes store, validate, and propagate blockchain data. 
+36. Which cryptographic function identifies blocks uniquely? 
+a) Hash function 
+b) Digital signature 
+c) Public key 
+d) Private key 
+Answer: a) Hash function 
+Explanation: Hash uniquely identifies each block. 
+37. What does the consensus mechanism do? 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+a) Deletes blocks 
+b) Ensures network agreement 
+c) Hides transactions 
+d) Creates private keys 
+Answer: b) Ensures network agreement 
+Explanation: Consensus maintains consistency across nodes. 
+38. Which blockchain is best for enterprise privacy? 
+a) Public 
+b) Private 
+c) Hybrid 
+d) Consortium 
+Answer: b) Private 
+Explanation: Private blockchains restrict access. 
+39. What is tokenization? 
+a) Converting assets into digital tokens 
+b) Hiding identity 
+c) Destroying records 
+d) Encrypting personal data 
+Answer: a) Converting assets into digital tokens 
+Explanation: Tokenization enables digital asset transfer. 
+40. Auditability refers to  
+. 
+a) Erasing transactions 
+b) Traceability and verification 
+c) Central bank control 
+d) Private logs 
+Answer: b) Traceability and verification 
+Explanation: Blockchain allows full transaction audit trails. 
+41. Which feature supports financial inclusion? 
+a) Central authority 
+b) Open access and no intermediaries 
+c) High fees 
+d) Complex licensing 
+Answer: b) Open access and no intermediaries 
+Explanation: Blockchain enables access without banks. 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+42. Smart contracts are based on  . 
+a) “if/when…then” logic 
+b) Manual approval 
+c) Paper documentation 
+d) Arbitration 
+Answer: a) “if/when…then” logic 
+Explanation: Smart contracts execute automatically on conditions. 
+43. Which consensus reduces energy compared to PoW? 
+a) Proof of Work 
+b) Proof of Stake 
+c) Proof of Authority 
+d) Proof of Power 
+Answer: b) Proof of Stake 
+Explanation: PoS avoids intensive mining computations. 
+44. Cross-border payments on blockchain are  . 
+a) Slow and costly 
+b) Faster and cheaper 
+c) Only for crypto 
+d) Not traceable 
+Answer: b) Faster and cheaper 
+Explanation: Blockchain removes intermediaries. 
+45. Blockchain transparency affects users by  
+. 
+a) Increasing trust 
+b) Hiding transactions 
+c) Removing privacy 
+d) Centralizing control 
+Answer: a) Increasing trust 
+Explanation: Transparency builds confidence in data. 
+46. Ripple is known for  . 
+a) Public blockchain 
+b) Consortium blockchain 
+c) Private blockchain 
+d) Hybrid blockchain 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+Answer: b) Consortium blockchain 
+Explanation: Ripple is governed by multiple institutions. 
+47. When a new node joins a blockchain  . 
+a) It receives full blockchain copy 
+b) Gets limited data 
+c) Controls network 
+d) Manages rewards 
+Answer: a) It receives full blockchain copy 
+Explanation: Nodes synchronize full ledger. 
+48. Decentralization enhances security by  
+. 
+a) Making tampering easy 
+b) Increasing failure risk 
+c) Multiple copies of data 
+d) Central server dependency 
+Answer: c) Multiple copies of data 
+Explanation: Multiple copies prevent single-point attacks. 
+49. Gas fees in Ethereum are used to  . 
+a) Pay transaction processing 
+b) Control access 
+c) Reward tokens 
+d) None 
+Answer: a) Pay transaction processing 
+Explanation: Gas fees compensate miners/validators. 
+50. Which blockchain pioneered smart contracts? 
+a) Bitcoin 
+b) Ethereum 
+c) Litecoin 
+d) Dogecoin 
+Answer: b) Ethereum 
+Explanation: Ethereum introduced programmable smart contracts. 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+51. Blockchain is a: 
+a) Centralized database 
+b) Distributed digital ledger 
+c) Spreadsheet 
+d) Operating system 
+Answer: b) Distributed digital ledger 
+52. Data in blockchain is stored in the form of: 
+a) Tables 
+b) Files 
+c) Blocks 
+d) Sheets 
+Answer: c) Blocks 
+53. Blocks are connected using: 
+a) Cables 
+b) IP address 
+c) Cryptographic hash 
+d) HTTP 
+Answer: c) Cryptographic hash 
+54. Once data is stored in blockchain, it: 
+a) Can be modified 
+b) Can be deleted 
+c) Cannot be changed 
+d) Can be edited anytime 
+Answer: c) Cannot be changed 
+55. Blockchain follows which model? 
+a) Client-server 
+b) Peer-to-peer 
+c) Centralized 
+d) Star topology 
+Answer: b) Peer-to-peer 
+56. Blockchain ensures: 
+a) Transparency 
+b) Security 
+c) Trust 
+d) All of the above 
+Answer: d) All of the above 
+57. Traditional systems depend on: 
+a) Decentralization 
+b) Central authority 
+c) Blockchain 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+d) Peer-to-peer 
+Answer: b) Central authority 
+58. Single point of failure exists in: 
+a) Blockchain 
+b) Traditional system 
+c) Peer network 
+d) Consortium 
+Answer: b) Traditional system 
+59. Blockchain removes: 
+a) Nodes 
+b) Intermediaries 
+c) Users 
+d) Miners 
+Answer: b) Intermediaries 
+60. Distributed ledger means: 
+a) One server 
+b) Multiple copies of ledger 
+c) Offline storage 
+d) Paper record 
+Answer: b) Multiple copies of ledger 
+61. Immutability means: 
+a) Data is editable 
+b) Data cannot be changed 
+c) Data deleted 
+d) Data hidden 
+Answer: b) Data cannot be changed 
+62. Blockchain security uses: 
+a) Cryptographic hashing 
+b) Digital signatures 
+c) Encryption 
+d) All of the above 
+Answer: d) All of the above 
+63. Transparency in blockchain means: 
+a) Hidden transactions 
+b) Visible transactions 
+c) No records 
+d) Manual records 
+Answer: b) Visible transactions 
+64. Blockchain is: 
+a) Centralized 
+b) Decentralized 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+c) Offline 
+d) Isolated 
+Answer: b) Decentralized 
+65. A node in blockchain is: 
+a) Printer 
+b) Computer/user in network 
+c) Cable 
+d) Database 
+Answer: b) Computer/user in network 
+66. Miners perform: 
+a) Cooking 
+b) Verification process 
+c) Editing data 
+d) Deleting blocks 
+Answer: b) Verification process 
+67. Consensus protocol is: 
+a) File format 
+b) Set of rules 
+c) Cable type 
+d) Hash value 
+Answer: b) Set of rules 
+68. Each new transaction results in: 
+a) File deletion 
+b) New block creation 
+c) Cable change 
+d) Printer update 
+Answer: b) New block creation 
+69. Blockchain provides fault tolerance because: 
+a) Single server 
+b) Multiple nodes 
+c) Offline system 
+d) Manual record 
+Answer: b) Multiple nodes 
+70. Trustless system means: 
+a) No trust 
+b) Third party needed 
+c) No central authority required 
+d) Manual approval 
+Answer: c) No central authority required 
+71. In traditional system, verification is: 
+a) Consensus based 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+b) Third-party based 
+c) Automatic 
+d) Blockchain based 
+Answer: b) Third-party based 
+72. Blockchain verification is: 
+a) Manual 
+b) Consensus based 
+c) Paper based 
+d) Printer based 
+Answer: b) Consensus based 
+73. Blockchain transaction cost is: 
+a) High 
+b) Medium 
+c) Low 
+d) Unlimited 
+Answer: c) Low 
+74. Data modification in blockchain is: 
+a) Possible 
+b) Easy 
+c) Not possible 
+d) Allowed 
+Answer: c) Not possible 
+75. Public blockchain is: 
+a) Permissioned 
+b) Open 
+c) Private 
+d) Closed 
+Answer: b) Open 
+76. Example of public blockchain: 
+a) Hyperledger 
+b) R3 Corda 
+c) Bitcoin 
+d) Private chain 
+Answer: c) Bitcoin 
+77. Public blockchain disadvantage: 
+a) High speed 
+b) High energy consumption 
+c) Low transparency 
+d) No scalability 
+Answer: b) High energy consumption 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+78. Private blockchain is: 
+a) Open 
+b) Permissionless 
+c) Restricted 
+d) Public 
+Answer: c) Restricted 
+79. Private blockchain is controlled by: 
+a) Many users 
+b) Single organization 
+c) Government only 
+d) Miners only 
+Answer: b) Single organization 
+80. Consortium blockchain is controlled by: 
+a) One person 
+b) Group of organizations 
+c) Public 
+d) None 
+Answer: b) Group of organizations 
+81. Hybrid blockchain combines: 
+a) Public and private 
+b) Only public 
+c) Only private 
+d) Only consortium 
+Answer: a) Public and private 
+82. Smart contracts are: 
+a) Manual agreements 
+b) Self-executing programs 
+c) Paper contracts 
+d) Email contracts 
+Answer: b) Self-executing programs 
+83. Smart contracts execute when: 
+a) Conditions met 
+b) Printer connected 
+c) Cable attached 
+d) Manual approval 
+Answer: a) Conditions met 
+84. Cryptocurrency is: 
+a) Physical currency 
+b) Digital currency 
+c) Paper currency 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+d) Coin only 
+Answer: b) Digital currency 
+85. Cryptocurrency uses: 
+a) Cryptography 
+b) Manual approval 
+c) Printer 
+d) Fax 
+Answer: a) Cryptography 
+86. Bitcoin is example of: 
+a) Smart contract 
+b) Cryptocurrency 
+c) Node 
+d) Block 
+Answer: b) Cryptocurrency 
+87. Blockchain in banking helps: 
+a) Fraud 
+b) Secure transfer 
+c) Delay 
+d) Manual work 
+Answer: b) Secure transfer 
+88. Blockchain in supply chain helps: 
+a) Counterfeit goods 
+b) Tracking products 
+c) Data loss 
+d) Delay 
+Answer: b) Tracking products 
+89. Blockchain in healthcare stores: 
+a) Patient records 
+b) TV shows 
+c) Music 
+d) Games 
+Answer: a) Patient records 
+90. Blockchain voting prevents: 
+a) Transparency 
+b) Vote tampering 
+c) Security 
+d) Verification 
+Answer: b) Vote tampering 
+91. Blockchain in education helps: 
+a) Certificate verification 
+b) Gaming 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+c) Printing 
+d) Music 
+Answer: a) Certificate verification 
+92. Advantage of blockchain: 
+a) High security 
+b) Data tampering 
+c) Manual verification 
+d) High failure 
+Answer: a) High security 
+93. Scalability issue means: 
+a) Faster processing 
+b) Slower processing with growth 
+c) No blocks 
+d) No data 
+Answer: b) Slower processing with growth 
+94. Proof of Work consumes: 
+a) Low energy 
+b) High energy 
+c) No energy 
+d) Solar only 
+Answer: b) High energy 
+95. 51% attack affects: 
+a) Printer 
+b) Blockchain security 
+c) Cloud 
+d) Database 
+Answer: b) Blockchain security 
+96. Storage requirement increases because: 
+a) Ledger grows 
+b) Data deletes 
+c) Nodes reduce 
+d) Blocks shrink 
+Answer: a) Ledger grows 
+97. Blockchain complexity requires: 
+a) Skilled professionals 
+b) No knowledge 
+c) Manual labor 
+d) Printer 
+Answer: a) Skilled professionals 
+98. Regulatory issues arise because: 
+a) No uniform laws 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+b) Too many printers 
+c) Low data 
+d) Offline system 
+Answer: a) No uniform laws 
+99. Privacy challenge arises due to: 
+a) Transparency 
+b) Security 
+c) Encryption 
+d) Nodes 
+Answer: a) Transparency 
+100.Smart contract error leads to: 
+a) Easy correction 
+b) Financial loss 
+c) Data deletion 
+d) Speed increase 
+Answer: b) Financial loss 
+101.Blockchain ledger is stored: 
+a) In one central server 
+b) In distributed nodes 
+c) In printer 
+d) In offline file 
+Answer: b) In distributed nodes 
+102.Cryptographic hash ensures: 
+a) Data linking 
+b) Data deletion 
+c) Data printing 
+d) Data formatting 
+Answer: a) Data linking 
+103.If one block is modified, it: 
+a) Has no effect 
+b) Breaks the chain 
+c) Updates automatically 
+d) Deletes previous block 
+Answer: b) Breaks the chain 
+104.Blockchain improves trust because it is: 
+a) Manual 
+b) Transparent 
+c) Private only 
+d) Offline 
+Answer: b) Transparent 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+105.The smallest building block in blockchain is: 
+a) Node 
+b) Block 
+c) Transaction 
+d) Miner 
+Answer: c) Transaction 
+106.Chain in blockchain means: 
+a) Cables 
+b) Sequence of blocks 
+c) User connection 
+d) Database 
+Answer: b) Sequence of blocks 
+107.Consensus ensures: 
+a) Agreement among nodes 
+b) Single authority control 
+c) Manual approval 
+d) Printer access 
+Answer: a) Agreement among nodes 
+108.Digital signature ensures: 
+a) Data authenticity 
+b) Cable safety 
+c) Printing 
+d) Formatting 
+Answer: a) Data authenticity 
+109.Blockchain reduces fraud because: 
+a) Data is centralized 
+b) Data is immutable 
+c) Data is hidden 
+d) Data is temporary 
+Answer: b) Data is immutable 
+110.Blockchain provides availability due to: 
+a) Single server 
+b) Multiple copies 
+c) Offline storage 
+d) Printer 
+Answer: b) Multiple copies 
+111.Public blockchain allows: 
+a) Anyone to participate 
+b) Only admins 
+c) Only government 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+d) No users 
+Answer: a) Anyone to participate 
+112.Ethereum is example of: 
+a) Private blockchain 
+b) Public blockchain 
+c) Hybrid 
+d) Consortium 
+Answer: b) Public blockchain 
+113.Private blockchain provides: 
+a) High privacy 
+b) Public transparency 
+c) Unlimited access 
+d) No control 
+Answer: a) High privacy 
+114.Consortium blockchain is suitable for: 
+a) Single company 
+b) Multiple organizations 
+c) Public only 
+d) Printer only 
+Answer: b) Multiple organizations 
+115.Hybrid blockchain gives: 
+a) No flexibility 
+b) Full openness 
+c) Controlled transparency 
+d) No security 
+Answer: c) Controlled transparency 
+116.Blockchain speed in public chain is: 
+a) Faster than private 
+b) Slower 
+c) Same as private 
+d) Unlimited 
+Answer: b) Slower 
+117.High energy usage is major issue in: 
+a) Proof of Work 
+b) Proof of Stake 
+c) Private blockchain 
+d) Consortium 
+Answer: a) Proof of Work 
+118.Smart contracts remove need for: 
+a) Intermediaries 
+b) Nodes 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+c) Blocks 
+d) Miners 
+Answer: a) Intermediaries 
+119.Smart contracts are stored on: 
+a) Printer 
+b) Blockchain 
+c) Database 
+d) Hard disk 
+Answer: b) Blockchain 
+120.Cryptocurrency operates on: 
+a) Blockchain 
+b) Printer 
+c) Paper 
+d) Offline server 
+Answer: a) Blockchain 
+121.Blockchain transparency allows: 
+a) Public verification 
+b) Hidden data 
+c) Data deletion 
+d) Data modification 
+Answer: a) Public verification 
+122.Traditional systems are vulnerable due to: 
+a) Centralization 
+b) Decentralization 
+c) Transparency 
+d) Immutability 
+Answer: a) Centralization 
+123.Blockchain fault tolerance exists because: 
+a) Single server 
+b) Distributed nodes 
+c) Manual verification 
+d) Paper records 
+Answer: b) Distributed nodes 
+124.Transaction verification in blockchain is done by: 
+a) Printer 
+b) Miners 
+c) Cable 
+d) Paper 
+Answer: b) Miners 
+125.Consensus mechanism prevents: 
+a) Fraudulent transactions 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+b) Transparency 
+c) Security 
+d) Blocks 
+Answer: a) Fraudulent transactions 
+126.Blockchain ensures data integrity through: 
+a) Hashing 
+b) Printing 
+c) Paper record 
+d) Formatting 
+Answer: a) Hashing 
+127.Peer-to-peer means: 
+a) Central control 
+b) Direct user interaction 
+c) Manual control 
+d) Offline 
+Answer: b) Direct user interaction 
+128.Data tampering is prevented by: 
+a) Immutability 
+b) Central authority 
+c) Manual update 
+d) Paper 
+Answer: a) Immutability 
+129.Blockchain reduces cost by removing: 
+a) Users 
+b) Intermediaries 
+c) Nodes 
+d) Blocks 
+Answer: b) Intermediaries 
+130.Smart contracts execute: 
+a) Automatically 
+b) Manually 
+c) Slowly 
+d) Offline 
+Answer: a) Automatically 
+131.Blockchain improves supply chain by: 
+a) Tracking goods 
+b) Deleting records 
+c) Manual logging 
+d) Paper 
+Answer: a) Tracking goods 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+132.Blockchain in voting ensures: 
+a) Transparency 
+b) Tampering 
+c) Delay 
+d) Manual counting 
+Answer: a) Transparency 
+133.Blockchain architecture includes: 
+a) Nodes 
+b) Blocks 
+c) Transactions 
+d) All of the above 
+Answer: d) All of the above 
+134.A block contains: 
+a) Set of transactions 
+b) Printer data 
+c) Cable 
+d) IP address 
+Answer: a) Set of transactions 
+135.Each block contains previous block’s: 
+a) Address 
+b) Hash 
+c) Cable 
+d) Signature only 
+Answer: b) Hash 
+136.Blockchain storage requirement increases with: 
+a) More blocks 
+b) Fewer nodes 
+c) Printer 
+d) Cable 
+Answer: a) More blocks 
+137.51% attack occurs when: 
+a) Majority control network 
+b) Printer fails 
+c) Node deletes 
+d) Cable breaks 
+Answer: a) Majority control network 
+138.Blockchain adoption challenge: 
+a) Technical complexity 
+b) Manual system 
+c) Paper storage 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+d) Printer 
+Answer: a) Technical complexity 
+139.Legal uncertainty affects: 
+a) Blockchain deployment 
+b) Cable 
+c) Printer 
+d) Router 
+Answer: a) Blockchain deployment 
+140.Blockchain privacy issue arises due to: 
+a) Public visibility 
+b) Security 
+c) Encryption 
+d) Nodes 
+Answer: a) Public visibility 
+141.Distributed ledger increases: 
+a) Availability 
+b) Vulnerability 
+c) Deletion 
+d) Printer speed 
+Answer: a) Availability 
+142.Smart contract vulnerability can lead to: 
+a) Financial loss 
+b) Printing error 
+c) Cable damage 
+d) Light failure 
+Answer: a) Financial loss 
+143.Blockchain is suitable for: 
+a) Secure transactions 
+b) Paper filing 
+c) Manual control 
+d) Offline systems 
+Answer: a) Secure transactions 
+144.Blockchain provides higher: 
+a) Transparency 
+b) Isolation 
+c) Delay 
+d) Manual work 
+Answer: a) Transparency 
+145.Blockchain eliminates need for: 
+a) Trusted third party 
+b) Nodes 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+c) Blocks 
+d) Transactions 
+Answer: a) Trusted third party 
+146.Blockchain security is based on: 
+a) Cryptography 
+b) Printer 
+c) Cable 
+d) Paper 
+Answer: a) Cryptography 
+147.Blockchain speed compared to traditional: 
+a) Always faster 
+b) Slower in some cases 
+c) Same 
+d) No difference 
+Answer: b) Slower in some cases 
+148.Proof of Work mainly consumes: 
+a) Electricity 
+b) Paper 
+c) Ink 
+d) Cable 
+Answer: a) Electricity 
+149.Blockchain enables: 
+a) Decentralized applications 
+b) Central servers 
+c) Paper logs 
+d) Manual verification 
+Answer: a) Decentralized applications 
+150.The core idea of blockchain is: 
+a) Decentralized trust 
+b) Central authority 
+c) Printer control 
+d) Offline record 
+Answer: a) Decentralized trust 
+151.Blockchain mainly provides: 
+a) Centralized control 
+b) Distributed control 
+c) Manual control 
+d) Printer control 
+Answer: b) Distributed control 
+152.In blockchain, each block contains: 
+a) Previous block hash 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+b) Transaction data 
+c) Timestamp 
+d) All of the above 
+Answer: d) All of the above 
+153.Timestamp in block is used to: 
+a) Record transaction time 
+b) Delete data 
+c) Print data 
+d) Encrypt cable 
+Answer: a) Record transaction time 
+154.A hash function produces: 
+a) Fixed length output 
+b) Variable length output 
+c) Random cable 
+d) Printer signal 
+Answer: a) Fixed length output 
+155.If any data inside block changes: 
+a) Hash remains same 
+b) Hash changes 
+c) Nothing happens 
+d) Block deletes 
+Answer: b) Hash changes 
+156.Blockchain verification is done before: 
+a) Block deletion 
+b) Block addition 
+c) Printing 
+d) Storage removal 
+Answer: b) Block addition 
+157.Fault tolerance in blockchain means: 
+a) Network survives node failure 
+b) Entire network stops 
+c) Printer fails 
+d) Block deleted 
+Answer: a) Network survives node failure 
+158.Blockchain ensures data consistency because: 
+a) All nodes have same copy 
+b) Only one copy exists 
+c) Data stored offline 
+d) Data printed 
+Answer: a) All nodes have same copy 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+159.Blockchain adoption in finance reduces: 
+a) Fraud 
+b) Transparency 
+c) Security 
+d) Data 
+Answer: a) Fraud 
+160.Public blockchain example includes: 
+a) Bitcoin 
+b) Hyperledger 
+c) R3 Corda 
+d) Private chain 
+Answer: a) Bitcoin 
+161.Private blockchain improves: 
+a) Privacy 
+b) Public access 
+c) Open participation 
+d) Transparency 
+Answer: a) Privacy 
+162.Consortium blockchain is suitable for: 
+a) Banking groups 
+b) Individual user only 
+c) Printer network 
+d) Cable network 
+Answer: a) Banking groups 
+163.Hybrid blockchain allows: 
+a) Partial transparency 
+b) No control 
+c) Full openness only 
+d) No privacy 
+Answer: a) Partial transparency 
+164.Proof of Work is used for: 
+a) Block validation 
+b) Data printing 
+c) Cable encryption 
+d) Node deletion 
+Answer: a) Block validation 
+165.High energy consumption is associated with: 
+a) Proof of Work 
+b) Private blockchain 
+c) Consortium blockchain 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+d) Hybrid blockchain 
+Answer: a) Proof of Work 
+166.Smart contracts reduce: 
+a) Human error 
+b) Automation 
+c) Security 
+d) Transparency 
+Answer: a) Human error 
+167.Smart contracts are coded using: 
+a) Programming languages 
+b) Printer language 
+c) Cable format 
+d) Paper format 
+Answer: a) Programming languages 
+168.Cryptocurrency transactions are: 
+a) Peer-to-peer 
+b) Manual 
+c) Offline 
+d) Paper-based 
+Answer: a) Peer-to-peer 
+169.Blockchain in healthcare ensures: 
+a) Secure data sharing 
+b) Data deletion 
+c) Paper records 
+d) Manual logs 
+Answer: a) Secure data sharing 
+170.Blockchain in supply chain prevents: 
+a) Counterfeit goods 
+b) Tracking 
+c) Transparency 
+d) Security 
+Answer: a) Counterfeit goods 
+171.Blockchain in voting ensures: 
+a) Tamper-proof voting 
+b) Manual counting 
+c) Paper ballots 
+d) Offline voting 
+Answer: a) Tamper-proof voting 
+172.Blockchain improves education by: 
+a) Secure certificate verification 
+b) Printing marksheets 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+c) Deleting records 
+d) Offline records 
+Answer: a) Secure certificate verification 
+173.Blockchain scalability issue refers to: 
+a) Slow processing at high load 
+b) Faster processing 
+c) No transactions 
+d) Printer failure 
+Answer: a) Slow processing at high load 
+174.Storage issue arises because: 
+a) Ledger grows continuously 
+b) Blocks shrink 
+c) Nodes delete data 
+d) Data removed 
+Answer: a) Ledger grows continuously 
+175.51% attack occurs when: 
+a) Majority control network 
+b) Single printer fails 
+c) Node disconnects 
+d) Data deleted 
+Answer: a) Majority control network 
+176.Private key theft leads to: 
+a) Security breach 
+b) Faster speed 
+c) Data deletion 
+d) Printer error 
+Answer: a) Security breach 
+177.Blockchain complexity limits: 
+a) Adoption 
+b) Security 
+c) Transparency 
+d) Nodes 
+Answer: a) Adoption 
+178.Regulatory issues cause: 
+a) Legal uncertainty 
+b) High speed 
+c) Lower cost 
+d) Faster adoption 
+Answer: a) Legal uncertainty 
+179.Blockchain transparency may cause: 
+a) Privacy concerns 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+b) Higher security 
+c) Faster speed 
+d) No issues 
+Answer: a) Privacy concerns 
+180.Integrating blockchain with traditional systems is: 
+a) Easy 
+b) Complex 
+c) Automatic 
+d) Free 
+Answer: b) Complex 
+181.Initial implementation cost of blockchain is: 
+a) Low 
+b) Medium 
+c) High 
+d) Zero 
+Answer: c) High 
+182.Blockchain adoption is limited due to: 
+a) Lack of awareness 
+b) High transparency 
+c) Low security 
+d) Immutability 
+Answer: a) Lack of awareness 
+183.Smart contract bug can cause: 
+a) Financial loss 
+b) Faster speed 
+c) More nodes 
+d) Less storage 
+Answer: a) Financial loss 
+184.Blockchain improves trust by: 
+a) Decentralization 
+b) Central authority 
+c) Manual approval 
+d) Paper 
+Answer: a) Decentralization 
+185.Distributed ledger increases: 
+a) Reliability 
+b) Vulnerability 
+c) Deletion 
+d) Failure 
+Answer: a) Reliability 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+186.Blockchain data once added becomes: 
+a) Mutable 
+b) Immutable 
+c) Temporary 
+d) Editable 
+Answer: b) Immutable 
+187.Peer-to-peer network means: 
+a) Direct node interaction 
+b) Central server 
+c) Manual control 
+d) Offline system 
+Answer: a) Direct node interaction 
+188.Blockchain is suitable for: 
+a) Secure digital transactions 
+b) Manual paper work 
+c) Printer networks 
+d) Offline systems 
+Answer: a) Secure digital transactions 
+189.Hash linking ensures: 
+a) Data integrity 
+b) Data deletion 
+c) Cable safety 
+d) Printer output 
+Answer: a) Data integrity 
+190.Blockchain consensus ensures: 
+a) Network agreement 
+b) Central authority 
+c) Printer 
+d) Cable 
+Answer: a) Network agreement 
+191.Digital signatures ensure: 
+a) Authentication 
+b) Data deletion 
+c) Printer error 
+d) Speed 
+Answer: a) Authentication 
+192.Blockchain increases transparency by: 
+a) Allowing transaction verification 
+b) Hiding records 
+c) Deleting data 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+d) Manual approval 
+Answer: a) Allowing transaction verification 
+193.Blockchain removes single point of failure because: 
+a) Distributed network 
+b) Single server 
+c) Printer 
+d) Paper 
+Answer: a) Distributed network 
+194.Cryptocurrency example includes: 
+a) Bitcoin 
+b) Printer 
+c) Router 
+d) Cable 
+Answer: a) Bitcoin 
+195.Blockchain reduces transaction time by: 
+a) Removing intermediaries 
+b) Adding manual steps 
+c) Printing 
+d) Offline storage 
+Answer: a) Removing intermediaries 
+196.Blockchain architecture mainly includes: 
+a) Nodes 
+b) Blocks 
+c) Transactions 
+d) All of the above 
+Answer: d) All of the above 
+197.Mining is process of: 
+a) Verifying transactions 
+b) Deleting blocks 
+c) Printing 
+d) Cable installation 
+Answer: a) Verifying transactions 
+198.Blockchain security is based on: 
+a) Cryptography 
+b) Paper 
+c) Printer 
+d) Cable 
+Answer: a) Cryptography 
+199.Blockchain provides high: 
+a) Security 
+b) Transparency 
+Mob No : 9326050669 / 9372072139 | Youtube : @v2vedtechllp|
+Insta : v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | ETI (CO/IT) (316313) | MCQs
+V2V EdTech LLP | ETI (CO/IT) (316313) | Notes
+c) Reliability 
+d) All of the above 
+Answer: d) All of the above 
+200.Core principle of blockchain technology is: 
+a) Decentralized trust system 
+b) Centralized control 
+c) Manual approval 
+d) Printer network 
+Answer: a) Decentralized trust system

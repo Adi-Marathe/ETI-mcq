@@ -1,0 +1,2402 @@
+[
+    {
+        "id": 1,
+        "question": "Who invented blockchain technology?",
+        "options": [
+            "a) Elon Musk",
+            "b) Satoshi Nakamoto",
+            "c) Vitalik Buterin",
+            "d) Tim Berners-Lee"
+        ],
+        "answer": "b) Satoshi Nakamoto",
+        "explanation": "Blockchain technology was introduced by Satoshi Nakamoto in 2008 along \nwith Bitcoin as a decentralized digital currency system."
+    },
+    {
+        "id": 2,
+        "question": "What is a blockchain?",
+        "options": [
+            "a) A centralized database",
+            "b) A decentralized digital ledger",
+            "c) A traditional banking system",
+            "d) A programming language"
+        ],
+        "answer": "b) A decentralized digital ledger",
+        "explanation": "Blockchain is a distributed ledger that records transactions across multiple \nnodes without central authority."
+    },
+    {
+        "id": 3,
+        "question": "What is the first block in the blockchain called?",
+        "options": [
+            "a) Prime block",
+            "b) Genesis block",
+            "c) Root block",
+            "d) Initial block"
+        ],
+        "answer": "b) Genesis block",
+        "explanation": "The first block of any blockchain is called the Genesis block and it has no \nprevious block hash."
+    },
+    {
+        "id": 4,
+        "question": "The blockchain ledger is  .",
+        "options": [
+            "a) Mutable",
+            "b) Immutable",
+            "c) Partially mutable",
+            "d) Deleted regularly"
+        ],
+        "answer": "b) Immutable",
+        "explanation": "Once data is recorded in a blockchain, it cannot be changed or deleted, \nensuring data integrity. \n Youtube : @v2vedtechllp|"
+    },
+    {
+        "id": 5,
+        "question": "Which feature allows all nodes to keep a copy of the blockchain?",
+        "options": [
+            "a) Transparency",
+            "b) Decentralization",
+            "c) Anonymity",
+            "d) Centralization"
+        ],
+        "answer": "b) Decentralization",
+        "explanation": "In decentralization, every node maintains a copy of the blockchain ledger."
+    },
+    {
+        "id": 6,
+        "question": "The hash in a blockchain block is  .",
+        "options": [
+            "a) The user\u2019s password",
+            "b) A unique identifier of the block",
+            "c) The blockchain\u2019s name",
+            "d) The transaction amount"
+        ],
+        "answer": "b) A unique identifier of the block",
+        "explanation": "Hash uniquely identifies a block and ensures data integrity."
+    },
+    {
+        "id": 7,
+        "question": "What links a block to its previous block?",
+        "options": [
+            "a) Timestamp",
+            "b) Previous block\u2019s hash",
+            "c) User ID",
+            "d) Transaction amount"
+        ],
+        "answer": "b) Previous block\u2019s hash",
+        "explanation": "Each block stores the hash of the previous block, forming a secure chain."
+    },
+    {
+        "id": 8,
+        "question": "What process do miners perform?",
+        "options": [
+            "a) Code smart contracts",
+            "b) Verify and add blocks to the blockchain",
+            "c) Delete invalid transactions",
+            "d) Create cryptocurrencies"
+        ],
+        "answer": "b) Verify and add blocks to the blockchain",
+        "explanation": "Miners validate transactions and add them to the blockchain through consensus mechanisms."
+    },
+    {
+        "id": 9,
+        "question": "Which of the following is NOT a key feature of blockchain?",
+        "options": [
+            "a) Centralized control",
+            "b) Immutability",
+            "c) Transparency",
+            "d) Decentralization Youtube : @v2vedtechllp|"
+        ],
+        "answer": "a) Centralized control",
+        "explanation": "Blockchain is decentralized, not centrally controlled."
+    },
+    {
+        "id": 10,
+        "question": "What ensures transactions on the blockchain cannot be altered?",
+        "options": [
+            "a) Consensus algorithm",
+            "b) Digital wallets",
+            "c) Miners\u2019 IDs",
+            "d) Private keys"
+        ],
+        "answer": "a) Consensus algorithm",
+        "explanation": "Consensus algorithms ensure agreement across nodes and prevent \nunauthorized modifications."
+    },
+    {
+        "id": 11,
+        "question": "Blockchain network participants are called  .",
+        "options": [
+            "a) Servers",
+            "b) Miners",
+            "c) Nodes",
+            "d) Clients"
+        ],
+        "answer": "c) Nodes",
+        "explanation": "Nodes are computers that participate in maintaining the blockchain network."
+    },
+    {
+        "id": 12,
+        "question": "What property ensures all network copies remain consistent?",
+        "options": [
+            "a) Central authority control",
+            "b) Consensus protocols",
+            "c) Data encryption",
+            "d) Transaction fees"
+        ],
+        "answer": "b) Consensus protocols",
+        "explanation": "Consensus ensures all nodes agree on the same blockchain state."
+    },
+    {
+        "id": 13,
+        "question": "Which system has a single point of failure?",
+        "options": [
+            "a) Blockchain",
+            "b) Traditional centralized system",
+            "c) Peer-to-peer network",
+            "d) Decentralized system"
+        ],
+        "answer": "b) Traditional centralized system",
+        "explanation": "Centralized systems rely on one authority, making them vulnerable to failure."
+    },
+    {
+        "id": 14,
+        "question": "Which system provides higher transparency? Youtube : @v2vedtechllp|",
+        "options": [
+            "a) Traditional system",
+            "b) Blockchain",
+            "c) Neither",
+            "d) Both equally"
+        ],
+        "answer": "b) Blockchain",
+        "explanation": "Blockchain transactions are visible and verifiable by all participants."
+    },
+    {
+        "id": 15,
+        "question": "Which system is typically slower for cross-border transactions?",
+        "options": [
+            "a) Blockchain",
+            "b) Traditional centralized system",
+            "c) Both the same",
+            "d) None of these"
+        ],
+        "answer": "b) Traditional centralized system",
+        "explanation": "Traditional banking systems involve intermediaries and delays."
+    },
+    {
+        "id": 16,
+        "question": "Blockchain eliminates the need for  .",
+        "options": [
+            "a) Cryptography",
+            "b) Intermediaries",
+            "c) Data storage",
+            "d) Recording transactions"
+        ],
+        "answer": "b) Intermediaries",
+        "explanation": "Blockchain enables peer-to-peer transactions without third parties."
+    },
+    {
+        "id": 17,
+        "question": "Public blockchains are  .",
+        "options": [
+            "a) Permissioned and private",
+            "b) Open to anyone",
+            "c) Operated by a single company",
+            "d) Always faster than private blockchains"
+        ],
+        "answer": "b) Open to anyone",
+        "explanation": "Public blockchains allow anyone to join, read, and write transactions."
+    },
+    {
+        "id": 18,
+        "question": "Private blockchains are  .",
+        "options": [
+            "a) Open to the public",
+            "b) Permissioned and controlled by an organization",
+            "c) Same as public blockchains Youtube : @v2vedtechllp|",
+            "d) More decentralized"
+        ],
+        "answer": "b) Permissioned and controlled by an organization Youtube : @v2vedtechllp|",
+        "explanation": "Private blockchains restrict access and are managed by a single entity."
+    },
+    {
+        "id": 19,
+        "question": "Consortium blockchains are  .",
+        "options": [
+            "a) Public blockchains",
+            "b) Governed by multiple organizations",
+            "c) Controlled by no one",
+            "d) Managed by governments"
+        ],
+        "answer": "b) Governed by multiple organizations",
+        "explanation": "Consortium blockchains are jointly controlled by multiple institutions."
+    },
+    {
+        "id": 20,
+        "question": "Hybrid blockchains  .",
+        "options": [
+            "a) Combine features of public and private blockchains",
+            "b) Are fully centralized",
+            "c) Are prohibited",
+            "d) Do not use cryptography"
+        ],
+        "answer": "a) Combine features of public and private blockchains",
+        "explanation": "Hybrid blockchains provide controlled access with transparency benefits."
+    },
+    {
+        "id": 21,
+        "question": "Which industry uses blockchain for secure cross-border payments?",
+        "options": [
+            "a) Healthcare",
+            "b) Finance",
+            "c) Supply Chain",
+            "d) Gaming"
+        ],
+        "answer": "b) Finance",
+        "explanation": "Blockchain enables fast and secure international financial transactions."
+    },
+    {
+        "id": 22,
+        "question": "Blockchain improves supply chains by  .",
+        "options": [
+            "a) Reducing transparency",
+            "b) Tracking products from origin to consumer",
+            "c) Hiding product details",
+            "d) Increasing fraud risk"
+        ],
+        "answer": "b) Tracking products from origin to consumer",
+        "explanation": "Blockchain ensures traceability and transparency in supply chains."
+    },
+    {
+        "id": 23,
+        "question": "In healthcare, blockchain helps by . Youtube : @v2vedtechllp|",
+        "options": [
+            "a) Making patient data public",
+            "b) Securely storing and sharing medical records Youtube : @v2vedtechllp|",
+            "c) Slowing data access",
+            "d) Reducing data collection"
+        ],
+        "answer": "b) Securely storing and sharing medical records",
+        "explanation": "Blockchain improves security and interoperability of healthcare data."
+    },
+    {
+        "id": 24,
+        "question": "Blockchain offers gamers the ability to .",
+        "options": [
+            "a) Own in-game assets as NFTs",
+            "b) Cheat on games",
+            "c) Avoid transparency",
+            "d) Use centralized servers"
+        ],
+        "answer": "a) Own in-game assets as NFTs",
+        "explanation": "NFTs allow true ownership of digital assets in gaming."
+    },
+    {
+        "id": 25,
+        "question": "Smart contracts  .",
+        "options": [
+            "a) Require a lawyer",
+            "b) Are self-executing contracts coded on blockchain",
+            "c) Can be changed anytime",
+            "d) Need intermediaries"
+        ],
+        "answer": "b) Are self-executing contracts coded on blockchain",
+        "explanation": "Smart contracts automatically execute when conditions are met."
+    },
+    {
+        "id": 26,
+        "question": "Which is a key feature of smart contracts?",
+        "options": [
+            "a) Autonomy and immutability",
+            "b) Manual execution",
+            "c) Human intervention",
+            "d) Easy erasure"
+        ],
+        "answer": "a) Autonomy and immutability",
+        "explanation": "Smart contracts run independently and cannot be altered once deployed."
+    },
+    {
+        "id": 27,
+        "question": "Bitcoin is  .",
+        "options": [
+            "a) A centralized digital currency",
+            "b) A cryptocurrency operating on blockchain",
+            "c) A fiat currency",
+            "d) Not related to blockchain"
+        ],
+        "answer": "b) A cryptocurrency operating on blockchain",
+        "explanation": "Bitcoin was the first blockchain-based cryptocurrency. \n Youtube : @v2vedtechllp|"
+    },
+    {
+        "id": 28,
+        "question": "Ethereum is known for  .",
+        "options": [
+            "a) Only cryptocurrency transactions",
+            "b) Enabling smart contract execution",
+            "c) Being private blockchain",
+            "d) Centralized control"
+        ],
+        "answer": "b) Enabling smart contract execution",
+        "explanation": "Ethereum supports decentralized applications via smart contracts."
+    },
+    {
+        "id": 29,
+        "question": "The biggest scalability challenge is .",
+        "options": [
+            "a) Slow transactions as network grows",
+            "b) Too much transparency",
+            "c) Lack of security",
+            "d) Too many users"
+        ],
+        "answer": "a) Slow transactions as network grows",
+        "explanation": "Increased network size affects processing speed."
+    },
+    {
+        "id": 30,
+        "question": "Proof of Work consensus consumes  .",
+        "options": [
+            "a) Minimal energy",
+            "b) High energy due to mining computations",
+            "c) No electricity",
+            "d) Renewable resources only"
+        ],
+        "answer": "b) High energy due to mining computations",
+        "explanation": "PoW requires heavy computational power, consuming significant energy."
+    },
+    {
+        "id": 31,
+        "question": "Regulatory uncertainty  .",
+        "options": [
+            "a) Encourages rapid adoption",
+            "b) Hinders blockchain adoption globally",
+            "c) Is resolved everywhere",
+            "d) Does not affect blockchain"
+        ],
+        "answer": "b) Hinders blockchain adoption globally",
+        "explanation": "Lack of uniform laws creates legal risks."
+    },
+    {
+        "id": 32,
+        "question": "What is a \u201c51% attack\u201d?",
+        "options": [
+            "a) When a single user controls over half of mining power",
+            "b) More than half network uses blockchain",
+            "c) All transactions are instant",
+            "d) None of the above Youtube : @v2vedtechllp|"
+        ],
+        "answer": "a) When a single user controls over half of mining power",
+        "explanation": "This allows manipulation of blockchain transactions."
+    },
+    {
+        "id": 33,
+        "question": "Immutability challenges include  .",
+        "options": [
+            "a) Inability to correct errors once stored",
+            "b) Data easily altered",
+            "c) Automatic deletion",
+            "d) Frequent rollbacks"
+        ],
+        "answer": "a) Inability to correct errors once stored",
+        "explanation": "Errors once recorded cannot be changed."
+    },
+    {
+        "id": 34,
+        "question": "A privacy issue in public blockchains is .",
+        "options": [
+            "a) Complete anonymity",
+            "b) Exposure of transaction details publicly",
+            "c) Data encryption",
+            "d) Trusted-only access"
+        ],
+        "answer": "b) Exposure of transaction details publicly",
+        "explanation": "Public visibility can compromise privacy."
+    },
+    {
+        "id": 35,
+        "question": "What is a node in blockchain?",
+        "options": [
+            "a) Centralized server",
+            "b) Participant computer maintaining blockchain",
+            "c) Programming language",
+            "d) Data block"
+        ],
+        "answer": "b) Participant computer maintaining blockchain",
+        "explanation": "Nodes store, validate, and propagate blockchain data."
+    },
+    {
+        "id": 36,
+        "question": "Which cryptographic function identifies blocks uniquely?",
+        "options": [
+            "a) Hash function",
+            "b) Digital signature",
+            "c) Public key",
+            "d) Private key"
+        ],
+        "answer": "a) Hash function",
+        "explanation": "Hash uniquely identifies each block."
+    },
+    {
+        "id": 37,
+        "question": "What does the consensus mechanism do? Youtube : @v2vedtechllp|",
+        "options": [
+            "a) Deletes blocks",
+            "b) Ensures network agreement",
+            "c) Hides transactions",
+            "d) Creates private keys"
+        ],
+        "answer": "b) Ensures network agreement",
+        "explanation": "Consensus maintains consistency across nodes."
+    },
+    {
+        "id": 38,
+        "question": "Which blockchain is best for enterprise privacy?",
+        "options": [
+            "a) Public",
+            "b) Private",
+            "c) Hybrid",
+            "d) Consortium"
+        ],
+        "answer": "b) Private",
+        "explanation": "Private blockchains restrict access."
+    },
+    {
+        "id": 39,
+        "question": "What is tokenization?",
+        "options": [
+            "a) Converting assets into digital tokens",
+            "b) Hiding identity",
+            "c) Destroying records",
+            "d) Encrypting personal data"
+        ],
+        "answer": "a) Converting assets into digital tokens",
+        "explanation": "Tokenization enables digital asset transfer."
+    },
+    {
+        "id": 40,
+        "question": "Auditability refers to .",
+        "options": [
+            "a) Erasing transactions",
+            "b) Traceability and verification",
+            "c) Central bank control",
+            "d) Private logs"
+        ],
+        "answer": "b) Traceability and verification",
+        "explanation": "Blockchain allows full transaction audit trails."
+    },
+    {
+        "id": 41,
+        "question": "Which feature supports financial inclusion?",
+        "options": [
+            "a) Central authority",
+            "b) Open access and no intermediaries",
+            "c) High fees",
+            "d) Complex licensing"
+        ],
+        "answer": "b) Open access and no intermediaries",
+        "explanation": "Blockchain enables access without banks. \n Youtube : @v2vedtechllp|"
+    },
+    {
+        "id": 42,
+        "question": "Smart contracts are based on  .",
+        "options": [
+            "a) \u201cif/when\u2026then\u201d logic",
+            "b) Manual approval",
+            "c) Paper documentation",
+            "d) Arbitration"
+        ],
+        "answer": "a) \u201cif/when\u2026then\u201d logic",
+        "explanation": "Smart contracts execute automatically on conditions."
+    },
+    {
+        "id": 43,
+        "question": "Which consensus reduces energy compared to PoW?",
+        "options": [
+            "a) Proof of Work",
+            "b) Proof of Stake",
+            "c) Proof of Authority",
+            "d) Proof of Power"
+        ],
+        "answer": "b) Proof of Stake",
+        "explanation": "PoS avoids intensive mining computations."
+    },
+    {
+        "id": 44,
+        "question": "Cross-border payments on blockchain are  .",
+        "options": [
+            "a) Slow and costly",
+            "b) Faster and cheaper",
+            "c) Only for crypto",
+            "d) Not traceable"
+        ],
+        "answer": "b) Faster and cheaper",
+        "explanation": "Blockchain removes intermediaries."
+    },
+    {
+        "id": 45,
+        "question": "Blockchain transparency affects users by .",
+        "options": [
+            "a) Increasing trust",
+            "b) Hiding transactions",
+            "c) Removing privacy",
+            "d) Centralizing control"
+        ],
+        "answer": "a) Increasing trust",
+        "explanation": "Transparency builds confidence in data."
+    },
+    {
+        "id": 46,
+        "question": "Ripple is known for  .",
+        "options": [
+            "a) Public blockchain",
+            "b) Consortium blockchain",
+            "c) Private blockchain",
+            "d) Hybrid blockchain Youtube : @v2vedtechllp|"
+        ],
+        "answer": "b) Consortium blockchain",
+        "explanation": "Ripple is governed by multiple institutions."
+    },
+    {
+        "id": 47,
+        "question": "When a new node joins a blockchain  .",
+        "options": [
+            "a) It receives full blockchain copy",
+            "b) Gets limited data",
+            "c) Controls network",
+            "d) Manages rewards"
+        ],
+        "answer": "a) It receives full blockchain copy",
+        "explanation": "Nodes synchronize full ledger."
+    },
+    {
+        "id": 48,
+        "question": "Decentralization enhances security by .",
+        "options": [
+            "a) Making tampering easy",
+            "b) Increasing failure risk",
+            "c) Multiple copies of data",
+            "d) Central server dependency"
+        ],
+        "answer": "c) Multiple copies of data",
+        "explanation": "Multiple copies prevent single-point attacks."
+    },
+    {
+        "id": 49,
+        "question": "Gas fees in Ethereum are used to  .",
+        "options": [
+            "a) Pay transaction processing",
+            "b) Control access",
+            "c) Reward tokens",
+            "d) None"
+        ],
+        "answer": "a) Pay transaction processing",
+        "explanation": "Gas fees compensate miners/validators."
+    },
+    {
+        "id": 50,
+        "question": "Which blockchain pioneered smart contracts?",
+        "options": [
+            "a) Bitcoin",
+            "b) Ethereum",
+            "c) Litecoin",
+            "d) Dogecoin"
+        ],
+        "answer": "b) Ethereum",
+        "explanation": "Ethereum introduced programmable smart contracts. \n Youtube : @v2vedtechllp|"
+    },
+    {
+        "id": 51,
+        "question": "Blockchain is a:",
+        "options": [
+            "a) Centralized database",
+            "b) Distributed digital ledger",
+            "c) Spreadsheet",
+            "d) Operating system"
+        ],
+        "answer": "b) Distributed digital ledger",
+        "explanation": "The correct answer is 'Distributed digital ledger'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 52,
+        "question": "Data in blockchain is stored in the form of:",
+        "options": [
+            "a) Tables",
+            "b) Files",
+            "c) Blocks",
+            "d) Sheets"
+        ],
+        "answer": "c) Blocks",
+        "explanation": "The correct answer is 'Blocks'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 53,
+        "question": "Blocks are connected using:",
+        "options": [
+            "a) Cables",
+            "b) IP address",
+            "c) Cryptographic hash",
+            "d) HTTP"
+        ],
+        "answer": "c) Cryptographic hash",
+        "explanation": "The correct answer is 'Cryptographic hash'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 54,
+        "question": "Once data is stored in blockchain, it:",
+        "options": [
+            "a) Can be modified",
+            "b) Can be deleted",
+            "c) Cannot be changed",
+            "d) Can be edited anytime"
+        ],
+        "answer": "c) Cannot be changed",
+        "explanation": "The correct answer is 'Cannot be changed'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 55,
+        "question": "Blockchain follows which model?",
+        "options": [
+            "a) Client-server",
+            "b) Peer-to-peer",
+            "c) Centralized",
+            "d) Star topology"
+        ],
+        "answer": "b) Peer-to-peer",
+        "explanation": "The correct answer is 'Peer-to-peer'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 56,
+        "question": "Blockchain ensures:",
+        "options": [
+            "a) Transparency",
+            "b) Security",
+            "c) Trust",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 57,
+        "question": "Traditional systems depend on:",
+        "options": [
+            "a) Decentralization",
+            "b) Central authority",
+            "c) Blockchain Youtube : @v2vedtechllp|",
+            "d) Peer-to-peer"
+        ],
+        "answer": "b) Central authority",
+        "explanation": "The correct answer is 'Central authority'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 58,
+        "question": "Single point of failure exists in:",
+        "options": [
+            "a) Blockchain",
+            "b) Traditional system",
+            "c) Peer network",
+            "d) Consortium"
+        ],
+        "answer": "b) Traditional system",
+        "explanation": "The correct answer is 'Traditional system'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 59,
+        "question": "Blockchain removes:",
+        "options": [
+            "a) Nodes",
+            "b) Intermediaries",
+            "c) Users",
+            "d) Miners"
+        ],
+        "answer": "b) Intermediaries",
+        "explanation": "The correct answer is 'Intermediaries'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 60,
+        "question": "Distributed ledger means:",
+        "options": [
+            "a) One server",
+            "b) Multiple copies of ledger",
+            "c) Offline storage",
+            "d) Paper record"
+        ],
+        "answer": "b) Multiple copies of ledger",
+        "explanation": "The correct answer is 'Multiple copies of ledger'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 61,
+        "question": "Immutability means:",
+        "options": [
+            "a) Data is editable",
+            "b) Data cannot be changed",
+            "c) Data deleted",
+            "d) Data hidden"
+        ],
+        "answer": "b) Data cannot be changed",
+        "explanation": "The correct answer is 'Data cannot be changed'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 62,
+        "question": "Blockchain security uses:",
+        "options": [
+            "a) Cryptographic hashing",
+            "b) Digital signatures",
+            "c) Encryption",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 63,
+        "question": "Transparency in blockchain means:",
+        "options": [
+            "a) Hidden transactions",
+            "b) Visible transactions",
+            "c) No records",
+            "d) Manual records"
+        ],
+        "answer": "b) Visible transactions",
+        "explanation": "The correct answer is 'Visible transactions'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 64,
+        "question": "Blockchain is:",
+        "options": [
+            "a) Centralized",
+            "b) Decentralized Youtube : @v2vedtechllp|",
+            "c) Offline",
+            "d) Isolated"
+        ],
+        "answer": "b) Decentralized",
+        "explanation": "The correct answer is 'Decentralized'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 65,
+        "question": "A node in blockchain is:",
+        "options": [
+            "a) Printer",
+            "b) Computer/user in network",
+            "c) Cable",
+            "d) Database"
+        ],
+        "answer": "b) Computer/user in network",
+        "explanation": "The correct answer is 'Computer/user in network'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 66,
+        "question": "Miners perform:",
+        "options": [
+            "a) Cooking",
+            "b) Verification process",
+            "c) Editing data",
+            "d) Deleting blocks"
+        ],
+        "answer": "b) Verification process",
+        "explanation": "The correct answer is 'Verification process'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 67,
+        "question": "Consensus protocol is:",
+        "options": [
+            "a) File format",
+            "b) Set of rules",
+            "c) Cable type",
+            "d) Hash value"
+        ],
+        "answer": "b) Set of rules",
+        "explanation": "The correct answer is 'Set of rules'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 68,
+        "question": "Each new transaction results in:",
+        "options": [
+            "a) File deletion",
+            "b) New block creation",
+            "c) Cable change",
+            "d) Printer update"
+        ],
+        "answer": "b) New block creation",
+        "explanation": "The correct answer is 'New block creation'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 69,
+        "question": "Blockchain provides fault tolerance because:",
+        "options": [
+            "a) Single server",
+            "b) Multiple nodes",
+            "c) Offline system",
+            "d) Manual record"
+        ],
+        "answer": "b) Multiple nodes",
+        "explanation": "The correct answer is 'Multiple nodes'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 70,
+        "question": "Trustless system means:",
+        "options": [
+            "a) No trust",
+            "b) Third party needed",
+            "c) No central authority required",
+            "d) Manual approval"
+        ],
+        "answer": "c) No central authority required",
+        "explanation": "The correct answer is 'No central authority required'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 71,
+        "question": "In traditional system, verification is:",
+        "options": [
+            "a) Consensus based Youtube : @v2vedtechllp|",
+            "b) Third-party based",
+            "c) Automatic",
+            "d) Blockchain based"
+        ],
+        "answer": "b) Third-party based",
+        "explanation": "The correct answer is 'Third-party based'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 72,
+        "question": "Blockchain verification is:",
+        "options": [
+            "a) Manual",
+            "b) Consensus based",
+            "c) Paper based",
+            "d) Printer based"
+        ],
+        "answer": "b) Consensus based",
+        "explanation": "The correct answer is 'Consensus based'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 73,
+        "question": "Blockchain transaction cost is:",
+        "options": [
+            "a) High",
+            "b) Medium",
+            "c) Low",
+            "d) Unlimited"
+        ],
+        "answer": "c) Low",
+        "explanation": "The correct answer is 'Low'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 74,
+        "question": "Data modification in blockchain is:",
+        "options": [
+            "a) Possible",
+            "b) Easy",
+            "c) Not possible",
+            "d) Allowed"
+        ],
+        "answer": "c) Not possible",
+        "explanation": "The correct answer is 'Not possible'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 75,
+        "question": "Public blockchain is:",
+        "options": [
+            "a) Permissioned",
+            "b) Open",
+            "c) Private",
+            "d) Closed"
+        ],
+        "answer": "b) Open",
+        "explanation": "The correct answer is 'Open'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 76,
+        "question": "Example of public blockchain:",
+        "options": [
+            "a) Hyperledger",
+            "b) R3 Corda",
+            "c) Bitcoin",
+            "d) Private chain"
+        ],
+        "answer": "c) Bitcoin",
+        "explanation": "The correct answer is 'Bitcoin'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 77,
+        "question": "Public blockchain disadvantage:",
+        "options": [
+            "a) High speed",
+            "b) High energy consumption",
+            "c) Low transparency",
+            "d) No scalability"
+        ],
+        "answer": "b) High energy consumption Youtube : @v2vedtechllp|",
+        "explanation": "The correct answer is 'High energy consumption Youtube : @v2vedtechllp|'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 78,
+        "question": "Private blockchain is:",
+        "options": [
+            "a) Open",
+            "b) Permissionless",
+            "c) Restricted",
+            "d) Public"
+        ],
+        "answer": "c) Restricted",
+        "explanation": "The correct answer is 'Restricted'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 79,
+        "question": "Private blockchain is controlled by:",
+        "options": [
+            "a) Many users",
+            "b) Single organization",
+            "c) Government only",
+            "d) Miners only"
+        ],
+        "answer": "b) Single organization",
+        "explanation": "The correct answer is 'Single organization'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 80,
+        "question": "Consortium blockchain is controlled by:",
+        "options": [
+            "a) One person",
+            "b) Group of organizations",
+            "c) Public",
+            "d) None"
+        ],
+        "answer": "b) Group of organizations",
+        "explanation": "The correct answer is 'Group of organizations'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 81,
+        "question": "Hybrid blockchain combines:",
+        "options": [
+            "a) Public and private",
+            "b) Only public",
+            "c) Only private",
+            "d) Only consortium"
+        ],
+        "answer": "a) Public and private",
+        "explanation": "The correct answer is 'Public and private'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 82,
+        "question": "Smart contracts are:",
+        "options": [
+            "a) Manual agreements",
+            "b) Self-executing programs",
+            "c) Paper contracts",
+            "d) Email contracts"
+        ],
+        "answer": "b) Self-executing programs",
+        "explanation": "The correct answer is 'Self-executing programs'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 83,
+        "question": "Smart contracts execute when:",
+        "options": [
+            "a) Conditions met",
+            "b) Printer connected",
+            "c) Cable attached",
+            "d) Manual approval"
+        ],
+        "answer": "a) Conditions met",
+        "explanation": "The correct answer is 'Conditions met'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 84,
+        "question": "Cryptocurrency is:",
+        "options": [
+            "a) Physical currency",
+            "b) Digital currency",
+            "c) Paper currency Youtube : @v2vedtechllp|",
+            "d) Coin only"
+        ],
+        "answer": "b) Digital currency",
+        "explanation": "The correct answer is 'Digital currency'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 85,
+        "question": "Cryptocurrency uses:",
+        "options": [
+            "a) Cryptography",
+            "b) Manual approval",
+            "c) Printer",
+            "d) Fax"
+        ],
+        "answer": "a) Cryptography",
+        "explanation": "The correct answer is 'Cryptography'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 86,
+        "question": "Bitcoin is example of:",
+        "options": [
+            "a) Smart contract",
+            "b) Cryptocurrency",
+            "c) Node",
+            "d) Block"
+        ],
+        "answer": "b) Cryptocurrency",
+        "explanation": "The correct answer is 'Cryptocurrency'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 87,
+        "question": "Blockchain in banking helps:",
+        "options": [
+            "a) Fraud",
+            "b) Secure transfer",
+            "c) Delay",
+            "d) Manual work"
+        ],
+        "answer": "b) Secure transfer",
+        "explanation": "The correct answer is 'Secure transfer'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 88,
+        "question": "Blockchain in supply chain helps:",
+        "options": [
+            "a) Counterfeit goods",
+            "b) Tracking products",
+            "c) Data loss",
+            "d) Delay"
+        ],
+        "answer": "b) Tracking products",
+        "explanation": "The correct answer is 'Tracking products'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 89,
+        "question": "Blockchain in healthcare stores:",
+        "options": [
+            "a) Patient records",
+            "b) TV shows",
+            "c) Music",
+            "d) Games"
+        ],
+        "answer": "a) Patient records",
+        "explanation": "The correct answer is 'Patient records'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 90,
+        "question": "Blockchain voting prevents:",
+        "options": [
+            "a) Transparency",
+            "b) Vote tampering",
+            "c) Security",
+            "d) Verification"
+        ],
+        "answer": "b) Vote tampering",
+        "explanation": "The correct answer is 'Vote tampering'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 91,
+        "question": "Blockchain in education helps:",
+        "options": [
+            "a) Certificate verification",
+            "b) Gaming Youtube : @v2vedtechllp|",
+            "c) Printing",
+            "d) Music"
+        ],
+        "answer": "a) Certificate verification",
+        "explanation": "The correct answer is 'Certificate verification'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 92,
+        "question": "Advantage of blockchain:",
+        "options": [
+            "a) High security",
+            "b) Data tampering",
+            "c) Manual verification",
+            "d) High failure"
+        ],
+        "answer": "a) High security",
+        "explanation": "The correct answer is 'High security'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 93,
+        "question": "Scalability issue means:",
+        "options": [
+            "a) Faster processing",
+            "b) Slower processing with growth",
+            "c) No blocks",
+            "d) No data"
+        ],
+        "answer": "b) Slower processing with growth",
+        "explanation": "The correct answer is 'Slower processing with growth'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 94,
+        "question": "Proof of Work consumes:",
+        "options": [
+            "a) Low energy",
+            "b) High energy",
+            "c) No energy",
+            "d) Solar only"
+        ],
+        "answer": "b) High energy",
+        "explanation": "The correct answer is 'High energy'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 95,
+        "question": "51% attack affects:",
+        "options": [
+            "a) Printer",
+            "b) Blockchain security",
+            "c) Cloud",
+            "d) Database"
+        ],
+        "answer": "b) Blockchain security",
+        "explanation": "The correct answer is 'Blockchain security'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 96,
+        "question": "Storage requirement increases because:",
+        "options": [
+            "a) Ledger grows",
+            "b) Data deletes",
+            "c) Nodes reduce",
+            "d) Blocks shrink"
+        ],
+        "answer": "a) Ledger grows",
+        "explanation": "The correct answer is 'Ledger grows'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 97,
+        "question": "Blockchain complexity requires:",
+        "options": [
+            "a) Skilled professionals",
+            "b) No knowledge",
+            "c) Manual labor",
+            "d) Printer"
+        ],
+        "answer": "a) Skilled professionals",
+        "explanation": "The correct answer is 'Skilled professionals'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 98,
+        "question": "Regulatory issues arise because:",
+        "options": [
+            "a) No uniform laws Youtube : @v2vedtechllp|",
+            "b) Too many printers",
+            "c) Low data",
+            "d) Offline system"
+        ],
+        "answer": "a) No uniform laws",
+        "explanation": "The correct answer is 'No uniform laws'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 99,
+        "question": "Privacy challenge arises due to:",
+        "options": [
+            "a) Transparency",
+            "b) Security",
+            "c) Encryption",
+            "d) Nodes"
+        ],
+        "answer": "a) Transparency",
+        "explanation": "The correct answer is 'Transparency'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 100,
+        "question": "Smart contract error leads to:",
+        "options": [
+            "a) Easy correction",
+            "b) Financial loss",
+            "c) Data deletion",
+            "d) Speed increase"
+        ],
+        "answer": "b) Financial loss",
+        "explanation": "The correct answer is 'Financial loss'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 101,
+        "question": "Blockchain ledger is stored:",
+        "options": [
+            "a) In one central server",
+            "b) In distributed nodes",
+            "c) In printer",
+            "d) In offline file"
+        ],
+        "answer": "b) In distributed nodes",
+        "explanation": "The correct answer is 'In distributed nodes'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 102,
+        "question": "Cryptographic hash ensures:",
+        "options": [
+            "a) Data linking",
+            "b) Data deletion",
+            "c) Data printing",
+            "d) Data formatting"
+        ],
+        "answer": "a) Data linking",
+        "explanation": "The correct answer is 'Data linking'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 103,
+        "question": "If one block is modified, it:",
+        "options": [
+            "a) Has no effect",
+            "b) Breaks the chain",
+            "c) Updates automatically",
+            "d) Deletes previous block"
+        ],
+        "answer": "b) Breaks the chain",
+        "explanation": "The correct answer is 'Breaks the chain'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 104,
+        "question": "Blockchain improves trust because it is:",
+        "options": [
+            "a) Manual",
+            "b) Transparent",
+            "c) Private only",
+            "d) Offline"
+        ],
+        "answer": "b) Transparent Youtube : @v2vedtechllp|",
+        "explanation": "The correct answer is 'Transparent Youtube : @v2vedtechllp|'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 105,
+        "question": "The smallest building block in blockchain is:",
+        "options": [
+            "a) Node",
+            "b) Block",
+            "c) Transaction",
+            "d) Miner"
+        ],
+        "answer": "c) Transaction",
+        "explanation": "The correct answer is 'Transaction'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 106,
+        "question": "Chain in blockchain means:",
+        "options": [
+            "a) Cables",
+            "b) Sequence of blocks",
+            "c) User connection",
+            "d) Database"
+        ],
+        "answer": "b) Sequence of blocks",
+        "explanation": "The correct answer is 'Sequence of blocks'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 107,
+        "question": "Consensus ensures:",
+        "options": [
+            "a) Agreement among nodes",
+            "b) Single authority control",
+            "c) Manual approval",
+            "d) Printer access"
+        ],
+        "answer": "a) Agreement among nodes",
+        "explanation": "The correct answer is 'Agreement among nodes'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 108,
+        "question": "Digital signature ensures:",
+        "options": [
+            "a) Data authenticity",
+            "b) Cable safety",
+            "c) Printing",
+            "d) Formatting"
+        ],
+        "answer": "a) Data authenticity",
+        "explanation": "The correct answer is 'Data authenticity'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 109,
+        "question": "Blockchain reduces fraud because:",
+        "options": [
+            "a) Data is centralized",
+            "b) Data is immutable",
+            "c) Data is hidden",
+            "d) Data is temporary"
+        ],
+        "answer": "b) Data is immutable",
+        "explanation": "The correct answer is 'Data is immutable'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 110,
+        "question": "Blockchain provides availability due to:",
+        "options": [
+            "a) Single server",
+            "b) Multiple copies",
+            "c) Offline storage",
+            "d) Printer"
+        ],
+        "answer": "b) Multiple copies",
+        "explanation": "The correct answer is 'Multiple copies'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 111,
+        "question": "Public blockchain allows:",
+        "options": [
+            "a) Anyone to participate",
+            "b) Only admins",
+            "c) Only government Youtube : @v2vedtechllp|",
+            "d) No users"
+        ],
+        "answer": "a) Anyone to participate",
+        "explanation": "The correct answer is 'Anyone to participate'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 112,
+        "question": "Ethereum is example of:",
+        "options": [
+            "a) Private blockchain",
+            "b) Public blockchain",
+            "c) Hybrid",
+            "d) Consortium"
+        ],
+        "answer": "b) Public blockchain",
+        "explanation": "The correct answer is 'Public blockchain'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 113,
+        "question": "Private blockchain provides:",
+        "options": [
+            "a) High privacy",
+            "b) Public transparency",
+            "c) Unlimited access",
+            "d) No control"
+        ],
+        "answer": "a) High privacy",
+        "explanation": "The correct answer is 'High privacy'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 114,
+        "question": "Consortium blockchain is suitable for:",
+        "options": [
+            "a) Single company",
+            "b) Multiple organizations",
+            "c) Public only",
+            "d) Printer only"
+        ],
+        "answer": "b) Multiple organizations",
+        "explanation": "The correct answer is 'Multiple organizations'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 115,
+        "question": "Hybrid blockchain gives:",
+        "options": [
+            "a) No flexibility",
+            "b) Full openness",
+            "c) Controlled transparency",
+            "d) No security"
+        ],
+        "answer": "c) Controlled transparency",
+        "explanation": "The correct answer is 'Controlled transparency'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 116,
+        "question": "Blockchain speed in public chain is:",
+        "options": [
+            "a) Faster than private",
+            "b) Slower",
+            "c) Same as private",
+            "d) Unlimited"
+        ],
+        "answer": "b) Slower",
+        "explanation": "The correct answer is 'Slower'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 117,
+        "question": "High energy usage is major issue in:",
+        "options": [
+            "a) Proof of Work",
+            "b) Proof of Stake",
+            "c) Private blockchain",
+            "d) Consortium"
+        ],
+        "answer": "a) Proof of Work",
+        "explanation": "The correct answer is 'Proof of Work'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 118,
+        "question": "Smart contracts remove need for:",
+        "options": [
+            "a) Intermediaries",
+            "b) Nodes Youtube : @v2vedtechllp|",
+            "c) Blocks",
+            "d) Miners"
+        ],
+        "answer": "a) Intermediaries",
+        "explanation": "The correct answer is 'Intermediaries'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 119,
+        "question": "Smart contracts are stored on:",
+        "options": [
+            "a) Printer",
+            "b) Blockchain",
+            "c) Database",
+            "d) Hard disk"
+        ],
+        "answer": "b) Blockchain",
+        "explanation": "The correct answer is 'Blockchain'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 120,
+        "question": "Cryptocurrency operates on:",
+        "options": [
+            "a) Blockchain",
+            "b) Printer",
+            "c) Paper",
+            "d) Offline server"
+        ],
+        "answer": "a) Blockchain",
+        "explanation": "The correct answer is 'Blockchain'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 121,
+        "question": "Blockchain transparency allows:",
+        "options": [
+            "a) Public verification",
+            "b) Hidden data",
+            "c) Data deletion",
+            "d) Data modification"
+        ],
+        "answer": "a) Public verification",
+        "explanation": "The correct answer is 'Public verification'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 122,
+        "question": "Traditional systems are vulnerable due to:",
+        "options": [
+            "a) Centralization",
+            "b) Decentralization",
+            "c) Transparency",
+            "d) Immutability"
+        ],
+        "answer": "a) Centralization",
+        "explanation": "The correct answer is 'Centralization'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 123,
+        "question": "Blockchain fault tolerance exists because:",
+        "options": [
+            "a) Single server",
+            "b) Distributed nodes",
+            "c) Manual verification",
+            "d) Paper records"
+        ],
+        "answer": "b) Distributed nodes",
+        "explanation": "The correct answer is 'Distributed nodes'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 124,
+        "question": "Transaction verification in blockchain is done by:",
+        "options": [
+            "a) Printer",
+            "b) Miners",
+            "c) Cable",
+            "d) Paper"
+        ],
+        "answer": "b) Miners",
+        "explanation": "The correct answer is 'Miners'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 125,
+        "question": "Consensus mechanism prevents:",
+        "options": [
+            "a) Fraudulent transactions Youtube : @v2vedtechllp|",
+            "b) Transparency",
+            "c) Security",
+            "d) Blocks"
+        ],
+        "answer": "a) Fraudulent transactions",
+        "explanation": "The correct answer is 'Fraudulent transactions'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 126,
+        "question": "Blockchain ensures data integrity through:",
+        "options": [
+            "a) Hashing",
+            "b) Printing",
+            "c) Paper record",
+            "d) Formatting"
+        ],
+        "answer": "a) Hashing",
+        "explanation": "The correct answer is 'Hashing'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 127,
+        "question": "Peer-to-peer means:",
+        "options": [
+            "a) Central control",
+            "b) Direct user interaction",
+            "c) Manual control",
+            "d) Offline"
+        ],
+        "answer": "b) Direct user interaction",
+        "explanation": "The correct answer is 'Direct user interaction'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 128,
+        "question": "Data tampering is prevented by:",
+        "options": [
+            "a) Immutability",
+            "b) Central authority",
+            "c) Manual update",
+            "d) Paper"
+        ],
+        "answer": "a) Immutability",
+        "explanation": "The correct answer is 'Immutability'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 129,
+        "question": "Blockchain reduces cost by removing:",
+        "options": [
+            "a) Users",
+            "b) Intermediaries",
+            "c) Nodes",
+            "d) Blocks"
+        ],
+        "answer": "b) Intermediaries",
+        "explanation": "The correct answer is 'Intermediaries'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 130,
+        "question": "Smart contracts execute:",
+        "options": [
+            "a) Automatically",
+            "b) Manually",
+            "c) Slowly",
+            "d) Offline"
+        ],
+        "answer": "a) Automatically",
+        "explanation": "The correct answer is 'Automatically'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 131,
+        "question": "Blockchain improves supply chain by:",
+        "options": [
+            "a) Tracking goods",
+            "b) Deleting records",
+            "c) Manual logging",
+            "d) Paper"
+        ],
+        "answer": "a) Tracking goods Youtube : @v2vedtechllp|",
+        "explanation": "The correct answer is 'Tracking goods Youtube : @v2vedtechllp|'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 132,
+        "question": "Blockchain in voting ensures:",
+        "options": [
+            "a) Transparency",
+            "b) Tampering",
+            "c) Delay",
+            "d) Manual counting"
+        ],
+        "answer": "a) Transparency",
+        "explanation": "The correct answer is 'Transparency'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 133,
+        "question": "Blockchain architecture includes:",
+        "options": [
+            "a) Nodes",
+            "b) Blocks",
+            "c) Transactions",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 134,
+        "question": "A block contains:",
+        "options": [
+            "a) Set of transactions",
+            "b) Printer data",
+            "c) Cable",
+            "d) IP address"
+        ],
+        "answer": "a) Set of transactions",
+        "explanation": "The correct answer is 'Set of transactions'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 135,
+        "question": "Each block contains previous block\u2019s:",
+        "options": [
+            "a) Address",
+            "b) Hash",
+            "c) Cable",
+            "d) Signature only"
+        ],
+        "answer": "b) Hash",
+        "explanation": "The correct answer is 'Hash'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 136,
+        "question": "Blockchain storage requirement increases with:",
+        "options": [
+            "a) More blocks",
+            "b) Fewer nodes",
+            "c) Printer",
+            "d) Cable"
+        ],
+        "answer": "a) More blocks",
+        "explanation": "The correct answer is 'More blocks'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 137,
+        "question": "51% attack occurs when:",
+        "options": [
+            "a) Majority control network",
+            "b) Printer fails",
+            "c) Node deletes",
+            "d) Cable breaks"
+        ],
+        "answer": "a) Majority control network",
+        "explanation": "The correct answer is 'Majority control network'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 138,
+        "question": "Blockchain adoption challenge:",
+        "options": [
+            "a) Technical complexity",
+            "b) Manual system",
+            "c) Paper storage Youtube : @v2vedtechllp|",
+            "d) Printer"
+        ],
+        "answer": "a) Technical complexity",
+        "explanation": "The correct answer is 'Technical complexity'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 139,
+        "question": "Legal uncertainty affects:",
+        "options": [
+            "a) Blockchain deployment",
+            "b) Cable",
+            "c) Printer",
+            "d) Router"
+        ],
+        "answer": "a) Blockchain deployment",
+        "explanation": "The correct answer is 'Blockchain deployment'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 140,
+        "question": "Blockchain privacy issue arises due to:",
+        "options": [
+            "a) Public visibility",
+            "b) Security",
+            "c) Encryption",
+            "d) Nodes"
+        ],
+        "answer": "a) Public visibility",
+        "explanation": "The correct answer is 'Public visibility'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 141,
+        "question": "Distributed ledger increases:",
+        "options": [
+            "a) Availability",
+            "b) Vulnerability",
+            "c) Deletion",
+            "d) Printer speed"
+        ],
+        "answer": "a) Availability",
+        "explanation": "The correct answer is 'Availability'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 142,
+        "question": "Smart contract vulnerability can lead to:",
+        "options": [
+            "a) Financial loss",
+            "b) Printing error",
+            "c) Cable damage",
+            "d) Light failure"
+        ],
+        "answer": "a) Financial loss",
+        "explanation": "The correct answer is 'Financial loss'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 143,
+        "question": "Blockchain is suitable for:",
+        "options": [
+            "a) Secure transactions",
+            "b) Paper filing",
+            "c) Manual control",
+            "d) Offline systems"
+        ],
+        "answer": "a) Secure transactions",
+        "explanation": "The correct answer is 'Secure transactions'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 144,
+        "question": "Blockchain provides higher:",
+        "options": [
+            "a) Transparency",
+            "b) Isolation",
+            "c) Delay",
+            "d) Manual work"
+        ],
+        "answer": "a) Transparency",
+        "explanation": "The correct answer is 'Transparency'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 145,
+        "question": "Blockchain eliminates need for:",
+        "options": [
+            "a) Trusted third party",
+            "b) Nodes Youtube : @v2vedtechllp|",
+            "c) Blocks",
+            "d) Transactions"
+        ],
+        "answer": "a) Trusted third party",
+        "explanation": "The correct answer is 'Trusted third party'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 146,
+        "question": "Blockchain security is based on:",
+        "options": [
+            "a) Cryptography",
+            "b) Printer",
+            "c) Cable",
+            "d) Paper"
+        ],
+        "answer": "a) Cryptography",
+        "explanation": "The correct answer is 'Cryptography'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 147,
+        "question": "Blockchain speed compared to traditional:",
+        "options": [
+            "a) Always faster",
+            "b) Slower in some cases",
+            "c) Same",
+            "d) No difference"
+        ],
+        "answer": "b) Slower in some cases",
+        "explanation": "The correct answer is 'Slower in some cases'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 148,
+        "question": "Proof of Work mainly consumes:",
+        "options": [
+            "a) Electricity",
+            "b) Paper",
+            "c) Ink",
+            "d) Cable"
+        ],
+        "answer": "a) Electricity",
+        "explanation": "The correct answer is 'Electricity'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 149,
+        "question": "Blockchain enables:",
+        "options": [
+            "a) Decentralized applications",
+            "b) Central servers",
+            "c) Paper logs",
+            "d) Manual verification"
+        ],
+        "answer": "a) Decentralized applications",
+        "explanation": "The correct answer is 'Decentralized applications'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 150,
+        "question": "The core idea of blockchain is:",
+        "options": [
+            "a) Decentralized trust",
+            "b) Central authority",
+            "c) Printer control",
+            "d) Offline record"
+        ],
+        "answer": "a) Decentralized trust",
+        "explanation": "The correct answer is 'Decentralized trust'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 151,
+        "question": "Blockchain mainly provides:",
+        "options": [
+            "a) Centralized control",
+            "b) Distributed control",
+            "c) Manual control",
+            "d) Printer control"
+        ],
+        "answer": "b) Distributed control",
+        "explanation": "The correct answer is 'Distributed control'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 152,
+        "question": "In blockchain, each block contains:",
+        "options": [
+            "a) Previous block hash Youtube : @v2vedtechllp|",
+            "b) Transaction data",
+            "c) Timestamp",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 153,
+        "question": "Timestamp in block is used to:",
+        "options": [
+            "a) Record transaction time",
+            "b) Delete data",
+            "c) Print data",
+            "d) Encrypt cable"
+        ],
+        "answer": "a) Record transaction time",
+        "explanation": "The correct answer is 'Record transaction time'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 154,
+        "question": "A hash function produces:",
+        "options": [
+            "a) Fixed length output",
+            "b) Variable length output",
+            "c) Random cable",
+            "d) Printer signal"
+        ],
+        "answer": "a) Fixed length output",
+        "explanation": "The correct answer is 'Fixed length output'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 155,
+        "question": "If any data inside block changes:",
+        "options": [
+            "a) Hash remains same",
+            "b) Hash changes",
+            "c) Nothing happens",
+            "d) Block deletes"
+        ],
+        "answer": "b) Hash changes",
+        "explanation": "The correct answer is 'Hash changes'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 156,
+        "question": "Blockchain verification is done before:",
+        "options": [
+            "a) Block deletion",
+            "b) Block addition",
+            "c) Printing",
+            "d) Storage removal"
+        ],
+        "answer": "b) Block addition",
+        "explanation": "The correct answer is 'Block addition'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 157,
+        "question": "Fault tolerance in blockchain means:",
+        "options": [
+            "a) Network survives node failure",
+            "b) Entire network stops",
+            "c) Printer fails",
+            "d) Block deleted"
+        ],
+        "answer": "a) Network survives node failure",
+        "explanation": "The correct answer is 'Network survives node failure'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 158,
+        "question": "Blockchain ensures data consistency because:",
+        "options": [
+            "a) All nodes have same copy",
+            "b) Only one copy exists",
+            "c) Data stored offline",
+            "d) Data printed"
+        ],
+        "answer": "a) All nodes have same copy Youtube : @v2vedtechllp|",
+        "explanation": "The correct answer is 'All nodes have same copy Youtube : @v2vedtechllp|'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 159,
+        "question": "Blockchain adoption in finance reduces:",
+        "options": [
+            "a) Fraud",
+            "b) Transparency",
+            "c) Security",
+            "d) Data"
+        ],
+        "answer": "a) Fraud",
+        "explanation": "The correct answer is 'Fraud'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 160,
+        "question": "Public blockchain example includes:",
+        "options": [
+            "a) Bitcoin",
+            "b) Hyperledger",
+            "c) R3 Corda",
+            "d) Private chain"
+        ],
+        "answer": "a) Bitcoin",
+        "explanation": "The correct answer is 'Bitcoin'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 161,
+        "question": "Private blockchain improves:",
+        "options": [
+            "a) Privacy",
+            "b) Public access",
+            "c) Open participation",
+            "d) Transparency"
+        ],
+        "answer": "a) Privacy",
+        "explanation": "The correct answer is 'Privacy'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 162,
+        "question": "Consortium blockchain is suitable for:",
+        "options": [
+            "a) Banking groups",
+            "b) Individual user only",
+            "c) Printer network",
+            "d) Cable network"
+        ],
+        "answer": "a) Banking groups",
+        "explanation": "The correct answer is 'Banking groups'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 163,
+        "question": "Hybrid blockchain allows:",
+        "options": [
+            "a) Partial transparency",
+            "b) No control",
+            "c) Full openness only",
+            "d) No privacy"
+        ],
+        "answer": "a) Partial transparency",
+        "explanation": "The correct answer is 'Partial transparency'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 164,
+        "question": "Proof of Work is used for:",
+        "options": [
+            "a) Block validation",
+            "b) Data printing",
+            "c) Cable encryption",
+            "d) Node deletion"
+        ],
+        "answer": "a) Block validation",
+        "explanation": "The correct answer is 'Block validation'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 165,
+        "question": "High energy consumption is associated with:",
+        "options": [
+            "a) Proof of Work",
+            "b) Private blockchain",
+            "c) Consortium blockchain Youtube : @v2vedtechllp|",
+            "d) Hybrid blockchain"
+        ],
+        "answer": "a) Proof of Work",
+        "explanation": "The correct answer is 'Proof of Work'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 166,
+        "question": "Smart contracts reduce:",
+        "options": [
+            "a) Human error",
+            "b) Automation",
+            "c) Security",
+            "d) Transparency"
+        ],
+        "answer": "a) Human error",
+        "explanation": "The correct answer is 'Human error'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 167,
+        "question": "Smart contracts are coded using:",
+        "options": [
+            "a) Programming languages",
+            "b) Printer language",
+            "c) Cable format",
+            "d) Paper format"
+        ],
+        "answer": "a) Programming languages",
+        "explanation": "The correct answer is 'Programming languages'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 168,
+        "question": "Cryptocurrency transactions are:",
+        "options": [
+            "a) Peer-to-peer",
+            "b) Manual",
+            "c) Offline",
+            "d) Paper-based"
+        ],
+        "answer": "a) Peer-to-peer",
+        "explanation": "The correct answer is 'Peer-to-peer'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 169,
+        "question": "Blockchain in healthcare ensures:",
+        "options": [
+            "a) Secure data sharing",
+            "b) Data deletion",
+            "c) Paper records",
+            "d) Manual logs"
+        ],
+        "answer": "a) Secure data sharing",
+        "explanation": "The correct answer is 'Secure data sharing'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 170,
+        "question": "Blockchain in supply chain prevents:",
+        "options": [
+            "a) Counterfeit goods",
+            "b) Tracking",
+            "c) Transparency",
+            "d) Security"
+        ],
+        "answer": "a) Counterfeit goods",
+        "explanation": "The correct answer is 'Counterfeit goods'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 171,
+        "question": "Blockchain in voting ensures:",
+        "options": [
+            "a) Tamper-proof voting",
+            "b) Manual counting",
+            "c) Paper ballots",
+            "d) Offline voting"
+        ],
+        "answer": "a) Tamper-proof voting",
+        "explanation": "The correct answer is 'Tamper-proof voting'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 172,
+        "question": "Blockchain improves education by:",
+        "options": [
+            "a) Secure certificate verification",
+            "b) Printing marksheets Youtube : @v2vedtechllp|",
+            "c) Deleting records",
+            "d) Offline records"
+        ],
+        "answer": "a) Secure certificate verification",
+        "explanation": "The correct answer is 'Secure certificate verification'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 173,
+        "question": "Blockchain scalability issue refers to:",
+        "options": [
+            "a) Slow processing at high load",
+            "b) Faster processing",
+            "c) No transactions",
+            "d) Printer failure"
+        ],
+        "answer": "a) Slow processing at high load",
+        "explanation": "The correct answer is 'Slow processing at high load'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 174,
+        "question": "Storage issue arises because:",
+        "options": [
+            "a) Ledger grows continuously",
+            "b) Blocks shrink",
+            "c) Nodes delete data",
+            "d) Data removed"
+        ],
+        "answer": "a) Ledger grows continuously",
+        "explanation": "The correct answer is 'Ledger grows continuously'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 175,
+        "question": "51% attack occurs when:",
+        "options": [
+            "a) Majority control network",
+            "b) Single printer fails",
+            "c) Node disconnects",
+            "d) Data deleted"
+        ],
+        "answer": "a) Majority control network",
+        "explanation": "The correct answer is 'Majority control network'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 176,
+        "question": "Private key theft leads to:",
+        "options": [
+            "a) Security breach",
+            "b) Faster speed",
+            "c) Data deletion",
+            "d) Printer error"
+        ],
+        "answer": "a) Security breach",
+        "explanation": "The correct answer is 'Security breach'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 177,
+        "question": "Blockchain complexity limits:",
+        "options": [
+            "a) Adoption",
+            "b) Security",
+            "c) Transparency",
+            "d) Nodes"
+        ],
+        "answer": "a) Adoption",
+        "explanation": "The correct answer is 'Adoption'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 178,
+        "question": "Regulatory issues cause:",
+        "options": [
+            "a) Legal uncertainty",
+            "b) High speed",
+            "c) Lower cost",
+            "d) Faster adoption"
+        ],
+        "answer": "a) Legal uncertainty",
+        "explanation": "The correct answer is 'Legal uncertainty'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 179,
+        "question": "Blockchain transparency may cause:",
+        "options": [
+            "a) Privacy concerns Youtube : @v2vedtechllp|",
+            "b) Higher security",
+            "c) Faster speed",
+            "d) No issues"
+        ],
+        "answer": "a) Privacy concerns",
+        "explanation": "The correct answer is 'Privacy concerns'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 180,
+        "question": "Integrating blockchain with traditional systems is:",
+        "options": [
+            "a) Easy",
+            "b) Complex",
+            "c) Automatic",
+            "d) Free"
+        ],
+        "answer": "b) Complex",
+        "explanation": "The correct answer is 'Complex'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 181,
+        "question": "Initial implementation cost of blockchain is:",
+        "options": [
+            "a) Low",
+            "b) Medium",
+            "c) High",
+            "d) Zero"
+        ],
+        "answer": "c) High",
+        "explanation": "The correct answer is 'High'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 182,
+        "question": "Blockchain adoption is limited due to:",
+        "options": [
+            "a) Lack of awareness",
+            "b) High transparency",
+            "c) Low security",
+            "d) Immutability"
+        ],
+        "answer": "a) Lack of awareness",
+        "explanation": "The correct answer is 'Lack of awareness'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 183,
+        "question": "Smart contract bug can cause:",
+        "options": [
+            "a) Financial loss",
+            "b) Faster speed",
+            "c) More nodes",
+            "d) Less storage"
+        ],
+        "answer": "a) Financial loss",
+        "explanation": "The correct answer is 'Financial loss'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 184,
+        "question": "Blockchain improves trust by:",
+        "options": [
+            "a) Decentralization",
+            "b) Central authority",
+            "c) Manual approval",
+            "d) Paper"
+        ],
+        "answer": "a) Decentralization",
+        "explanation": "The correct answer is 'Decentralization'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 185,
+        "question": "Distributed ledger increases:",
+        "options": [
+            "a) Reliability",
+            "b) Vulnerability",
+            "c) Deletion",
+            "d) Failure"
+        ],
+        "answer": "a) Reliability Youtube : @v2vedtechllp|",
+        "explanation": "The correct answer is 'Reliability Youtube : @v2vedtechllp|'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 186,
+        "question": "Blockchain data once added becomes:",
+        "options": [
+            "a) Mutable",
+            "b) Immutable",
+            "c) Temporary",
+            "d) Editable"
+        ],
+        "answer": "b) Immutable",
+        "explanation": "The correct answer is 'Immutable'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 187,
+        "question": "Peer-to-peer network means:",
+        "options": [
+            "a) Direct node interaction",
+            "b) Central server",
+            "c) Manual control",
+            "d) Offline system"
+        ],
+        "answer": "a) Direct node interaction",
+        "explanation": "The correct answer is 'Direct node interaction'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 188,
+        "question": "Blockchain is suitable for:",
+        "options": [
+            "a) Secure digital transactions",
+            "b) Manual paper work",
+            "c) Printer networks",
+            "d) Offline systems"
+        ],
+        "answer": "a) Secure digital transactions",
+        "explanation": "The correct answer is 'Secure digital transactions'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 189,
+        "question": "Hash linking ensures:",
+        "options": [
+            "a) Data integrity",
+            "b) Data deletion",
+            "c) Cable safety",
+            "d) Printer output"
+        ],
+        "answer": "a) Data integrity",
+        "explanation": "The correct answer is 'Data integrity'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 190,
+        "question": "Blockchain consensus ensures:",
+        "options": [
+            "a) Network agreement",
+            "b) Central authority",
+            "c) Printer",
+            "d) Cable"
+        ],
+        "answer": "a) Network agreement",
+        "explanation": "The correct answer is 'Network agreement'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 191,
+        "question": "Digital signatures ensure:",
+        "options": [
+            "a) Authentication",
+            "b) Data deletion",
+            "c) Printer error",
+            "d) Speed"
+        ],
+        "answer": "a) Authentication",
+        "explanation": "The correct answer is 'Authentication'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 192,
+        "question": "Blockchain increases transparency by:",
+        "options": [
+            "a) Allowing transaction verification",
+            "b) Hiding records",
+            "c) Deleting data Youtube : @v2vedtechllp|",
+            "d) Manual approval"
+        ],
+        "answer": "a) Allowing transaction verification",
+        "explanation": "The correct answer is 'Allowing transaction verification'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 193,
+        "question": "Blockchain removes single point of failure because:",
+        "options": [
+            "a) Distributed network",
+            "b) Single server",
+            "c) Printer",
+            "d) Paper"
+        ],
+        "answer": "a) Distributed network",
+        "explanation": "The correct answer is 'Distributed network'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 194,
+        "question": "Cryptocurrency example includes:",
+        "options": [
+            "a) Bitcoin",
+            "b) Printer",
+            "c) Router",
+            "d) Cable"
+        ],
+        "answer": "a) Bitcoin",
+        "explanation": "The correct answer is 'Bitcoin'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 195,
+        "question": "Blockchain reduces transaction time by:",
+        "options": [
+            "a) Removing intermediaries",
+            "b) Adding manual steps",
+            "c) Printing",
+            "d) Offline storage"
+        ],
+        "answer": "a) Removing intermediaries",
+        "explanation": "The correct answer is 'Removing intermediaries'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 196,
+        "question": "Blockchain architecture mainly includes:",
+        "options": [
+            "a) Nodes",
+            "b) Blocks",
+            "c) Transactions",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 197,
+        "question": "Mining is process of:",
+        "options": [
+            "a) Verifying transactions",
+            "b) Deleting blocks",
+            "c) Printing",
+            "d) Cable installation"
+        ],
+        "answer": "a) Verifying transactions",
+        "explanation": "The correct answer is 'Verifying transactions'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 198,
+        "question": "Blockchain security is based on:",
+        "options": [
+            "a) Cryptography",
+            "b) Paper",
+            "c) Printer",
+            "d) Cable"
+        ],
+        "answer": "a) Cryptography",
+        "explanation": "The correct answer is 'Cryptography'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 199,
+        "question": "Blockchain provides high:",
+        "options": [
+            "a) Security",
+            "b) Transparency Youtube : @v2vedtechllp|",
+            "c) Reliability",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "explanation": "The correct answer is 'All of the above'. This concept is essential to Blockchain Technology."
+    },
+    {
+        "id": 200,
+        "question": "Core principle of blockchain technology is:",
+        "options": [
+            "a) Decentralized trust system",
+            "b) Centralized control",
+            "c) Manual approval",
+            "d) Printer network"
+        ],
+        "answer": "a) Decentralized trust system",
+        "explanation": "The correct answer is 'Decentralized trust system'. This concept is essential to Blockchain Technology."
+    }
+]

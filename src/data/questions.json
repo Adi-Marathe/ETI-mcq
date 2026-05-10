@@ -1,0 +1,1802 @@
+[
+    {
+        "id": 1,
+        "question": "Artificial Intelligence primarily aims to:",
+        "options": [
+            "a) Replace hardware",
+            "b) Increase internet speed",
+            "c) Mimic human intelligence",
+            "d) Store large data"
+        ],
+        "answer": "c) Mimic human intelligence",
+        "explanation": "AI's primary goal is to create systems capable of performing tasks that typically require human intelligence, such as visual perception, speech recognition, and decision-making."
+    },
+    {
+        "id": 2,
+        "question": "The father of Artificial Intelligence is:",
+        "options": [
+            "a) Alan Turing",
+            "b) Geoffrey Hinton",
+            "c) John McCarthy",
+            "d) Elon Musk"
+        ],
+        "answer": "c) John McCarthy",
+        "explanation": "John McCarthy is considered one of the 'founding fathers' of AI. He coined the term 'Artificial Intelligence' in 1955 for the Dartmouth Conference."
+    },
+    {
+        "id": 3,
+        "question": "AI integrates ideas from:",
+        "options": [
+            "a) Only computer science",
+            "b) Mathematics only",
+            "c) Multiple disciplines",
+            "d) Robotics only"
+        ],
+        "answer": "c) Multiple disciplines",
+        "explanation": "AI is an interdisciplinary field that draws upon computer science, mathematics, psychology, linguistics, philosophy, and neuroscience to build intelligent systems."
+    },
+    {
+        "id": 4,
+        "question": "Which discipline contributes probability and statistics to AI?",
+        "options": [
+            "a) Psychology",
+            "b) Mathematics",
+            "c) Philosophy",
+            "d) Linguistics"
+        ],
+        "answer": "b) Mathematics",
+        "explanation": "Mathematics provides the theoretical foundation for AI, especially through probability, statistics (for machine learning), calculus, and linear algebra."
+    },
+    {
+        "id": 5,
+        "question": "NLP stands for:",
+        "options": [
+            "a) Neural Logic Programming",
+            "b) Natural Language Processing",
+            "c) Network Learning Process",
+            "d) Numerical Learning Program"
+        ],
+        "answer": "b) Natural Language Processing",
+        "explanation": "NLP stands for Natural Language Processing, which is a branch of AI that helps computers understand, interpret, and manipulate human language."
+    },
+    {
+        "id": 6,
+        "question": "Machine Learning is a subset of:",
+        "options": [
+            "a) Data Science",
+            "b) AI",
+            "c) Robotics",
+            "d) Statistics"
+        ],
+        "answer": "b) AI",
+        "explanation": "The correct concept here is 'AI'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 7,
+        "question": "Deep Learning is a subset of:",
+        "options": [
+            "a) AI",
+            "b) Robotics",
+            "c) Machine Learning",
+            "d) Data Mining"
+        ],
+        "answer": "c) Machine Learning",
+        "explanation": "The correct concept here is 'Machine Learning'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 8,
+        "question": "Which AI approach focuses on rational thinking?",
+        "options": [
+            "a) Act like humans",
+            "b) Think well",
+            "c) Act well",
+            "d) Behaviourist approach"
+        ],
+        "answer": "b) Think well",
+        "explanation": "The correct concept here is 'Think well'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 9,
+        "question": "ELIZA program is an example of:",
+        "options": [
+            "a) Think rationally",
+            "b) Act like humans",
+            "c) Think like humans",
+            "d) Super AI"
+        ],
+        "answer": "b) Act like humans",
+        "explanation": "The correct concept here is 'Act like humans'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 10,
+        "question": "Narrow AI is also called:",
+        "options": [
+            "a) Strong AI",
+            "b) General AI",
+            "c) Weak AI",
+            "d) Super AI"
+        ],
+        "answer": "c) Weak AI",
+        "explanation": "The correct concept here is 'Weak AI'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 11,
+        "question": "General AI currently:",
+        "options": [
+            "a) Exists widely",
+            "b) Does not exist",
+            "c) Used in hospitals",
+            "d) Used in cars"
+        ],
+        "answer": "b) Does not exist",
+        "explanation": "The correct concept here is 'Does not exist'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 12,
+        "question": "Super AI is:",
+        "options": [
+            "a) Available in labs",
+            "b) Used in gaming",
+            "c) Hypothetical",
+            "d) Weak AI"
+        ],
+        "answer": "c) Hypothetical",
+        "explanation": "The correct concept here is 'Hypothetical'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 13,
+        "question": "Reactive machines:",
+        "options": [
+            "a) Store memory",
+            "b) Learn from past",
+            "c) React to present only",
+            "d) Think independently"
+        ],
+        "answer": "c) React to present only",
+        "explanation": "The correct concept here is 'React to present only'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 14,
+        "question": "IBM Deep Blue is:",
+        "options": [
+            "a) General AI",
+            "b) Super AI",
+            "c) Reactive Machine",
+            "d) Theory of Mind AI"
+        ],
+        "answer": "c) Reactive Machine",
+        "explanation": "The correct concept here is 'Reactive Machine'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 15,
+        "question": "Self-driving cars are example of:",
+        "options": [
+            "a) Reactive machines",
+            "b) Limited memory AI",
+            "c) Super AI",
+            "d) Self-aware AI"
+        ],
+        "answer": "b) Limited memory AI",
+        "explanation": "The correct concept here is 'Limited memory AI'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 16,
+        "question": "Theory of Mind AI focuses on:",
+        "options": [
+            "a) Hardware",
+            "b) Human emotions",
+            "c) Data storage",
+            "d) Coding"
+        ],
+        "answer": "b) Human emotions",
+        "explanation": "The correct concept here is 'Human emotions'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 17,
+        "question": "Self-awareness AI:",
+        "options": [
+            "a) Exists in robots",
+            "b) Exists in labs",
+            "c) Is hypothetical",
+            "d) Used in banking"
+        ],
+        "answer": "c) Is hypothetical",
+        "explanation": "The correct concept here is 'Is hypothetical'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 18,
+        "question": "Supervised learning uses:",
+        "options": [
+            "a) Unlabeled data",
+            "b) Random data",
+            "c) Labeled data",
+            "d) Reinforcement signals"
+        ],
+        "answer": "c) Labeled data",
+        "explanation": "The correct concept here is 'Labeled data'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 19,
+        "question": "Spam detection is example of:",
+        "options": [
+            "a) Unsupervised learning",
+            "b) Reinforcement learning",
+            "c) Supervised learning",
+            "d) Deep AI"
+        ],
+        "answer": "c) Supervised learning",
+        "explanation": "The correct concept here is 'Supervised learning'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 20,
+        "question": "K-Means clustering belongs to:",
+        "options": [
+            "a) Supervised learning",
+            "b) Reinforcement learning",
+            "c) Unsupervised learning",
+            "d) Deep learning"
+        ],
+        "answer": "c) Unsupervised learning",
+        "explanation": "The correct concept here is 'Unsupervised learning'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 21,
+        "question": "Reinforcement learning works on:",
+        "options": [
+            "a) Labels",
+            "b) Rewards and penalties",
+            "c) Manual coding",
+            "d) Static logic"
+        ],
+        "answer": "b) Rewards and penalties",
+        "explanation": "The correct concept here is 'Rewards and penalties'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 22,
+        "question": "Q-learning is used in:",
+        "options": [
+            "a) Supervised learning",
+            "b) Unsupervised learning",
+            "c) Reinforcement learning",
+            "d) Regression"
+        ],
+        "answer": "c) Reinforcement learning",
+        "explanation": "The correct concept here is 'Reinforcement learning'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 23,
+        "question": "Deep Learning uses:",
+        "options": [
+            "a) Decision trees",
+            "b) Neural networks",
+            "c) Sorting algorithms",
+            "d) Search trees"
+        ],
+        "answer": "b) Neural networks",
+        "explanation": "The correct concept here is 'Neural networks'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 24,
+        "question": "Deep Learning requires:",
+        "options": [
+            "a) Small data",
+            "b) Medium data",
+            "c) Large datasets",
+            "d) No data"
+        ],
+        "answer": "c) Large datasets",
+        "explanation": "The correct concept here is 'Large datasets'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 25,
+        "question": "Neural networks are inspired by:",
+        "options": [
+            "a) CPU architecture",
+            "b) Human brain",
+            "c) Hard disk",
+            "d) Internet"
+        ],
+        "answer": "b) Human brain",
+        "explanation": "The correct concept here is 'Human brain'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 26,
+        "question": "Backpropagation is used to:",
+        "options": [
+            "a) Increase speed",
+            "b) Adjust weights",
+            "c) Delete data",
+            "d) Encrypt files"
+        ],
+        "answer": "b) Adjust weights",
+        "explanation": "The correct concept here is 'Adjust weights'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 27,
+        "question": "Data Science mainly focuses on:",
+        "options": [
+            "a) Hardware",
+            "b) Extracting insights from data",
+            "c) Robotics",
+            "d) Automation only"
+        ],
+        "answer": "b) Extracting insights from data",
+        "explanation": "The correct concept here is 'Extracting insights from data'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 28,
+        "question": "Deep Learning automatically:",
+        "options": [
+            "a) Deletes features",
+            "b) Extracts features",
+            "c) Stores hardware",
+            "d) Encrypts data"
+        ],
+        "answer": "b) Extracts features",
+        "explanation": "The correct concept here is 'Extracts features'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 29,
+        "question": "One disadvantage of Deep Learning:",
+        "options": [
+            "a) Needs small data",
+            "b) Requires low power",
+            "c) Hard to interpret",
+            "d) Easy to explain"
+        ],
+        "answer": "c) Hard to interpret",
+        "explanation": "The correct concept here is 'Hard to interpret'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 30,
+        "question": "AI in healthcare helps in:",
+        "options": [
+            "a) Gaming",
+            "b) Diagnosis",
+            "c) Coding",
+            "d) Designing hardware"
+        ],
+        "answer": "b) Diagnosis",
+        "explanation": "The correct concept here is 'Diagnosis'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 31,
+        "question": "AI in finance is used for:",
+        "options": [
+            "a) Fraud detection",
+            "b) Cooking",
+            "c) Printing",
+            "d) Hardware design"
+        ],
+        "answer": "a) Fraud detection",
+        "explanation": "The correct concept here is 'Fraud detection'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 32,
+        "question": "Recommendation systems use:",
+        "options": [
+            "a) ML",
+            "b) OS",
+            "c) Hardware",
+            "d) BIOS"
+        ],
+        "answer": "a) ML",
+        "explanation": "The correct concept here is 'ML'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 33,
+        "question": "Actor-Critic methods belong to:",
+        "options": [
+            "a) Supervised learning",
+            "b) Reinforcement learning",
+            "c) Unsupervised learning",
+            "d) NLP"
+        ],
+        "answer": "b) Reinforcement learning",
+        "explanation": "The correct concept here is 'Reinforcement learning'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 34,
+        "question": "GANs are used in:",
+        "options": [
+            "a) Sorting",
+            "b) Image generation",
+            "c) Typing",
+            "d) Data storage"
+        ],
+        "answer": "b) Image generation",
+        "explanation": "The correct concept here is 'Image generation'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 35,
+        "question": "Generative AI creates:",
+        "options": [
+            "a) Only tables",
+            "b) Only code",
+            "c) New content",
+            "d) Hardware"
+        ],
+        "answer": "c) New content",
+        "explanation": "The correct concept here is 'New content'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 36,
+        "question": "GPT is based on:",
+        "options": [
+            "a) CNN",
+            "b) RNN",
+            "c) Transformer",
+            "d) KNN"
+        ],
+        "answer": "c) Transformer",
+        "explanation": "The correct concept here is 'Transformer'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 37,
+        "question": "Self-attention is part of:",
+        "options": [
+            "a) Neural trees",
+            "b) Transformers",
+            "c) Regression",
+            "d) Sorting"
+        ],
+        "answer": "b) Transformers",
+        "explanation": "The correct concept here is 'Transformers'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 38,
+        "question": "Data poisoning attack affects:",
+        "options": [
+            "a) Hardware",
+            "b) Training data",
+            "c) CPU",
+            "d) GPU"
+        ],
+        "answer": "b) Training data",
+        "explanation": "The correct concept here is 'Training data'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 39,
+        "question": "MFA stands for:",
+        "options": [
+            "a) Multi-Function Access",
+            "b) Multi-Factor Authentication",
+            "c) Machine Feature Algorithm",
+            "d) Multiple Firewall Access"
+        ],
+        "answer": "b) Multi-Factor Authentication",
+        "explanation": "The correct concept here is 'Multi-Factor Authentication'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 40,
+        "question": "Overfitting means:",
+        "options": [
+            "a) Model underperforms",
+            "b) Model memorizes training data",
+            "c) Model deletes data",
+            "d) Model encrypts"
+        ],
+        "answer": "b) Model memorizes training data",
+        "explanation": "The correct concept here is 'Model memorizes training data'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 41,
+        "question": "IBM Watson is example of:",
+        "options": [
+            "a) Super AI",
+            "b) Narrow AI",
+            "c) Self-aware AI",
+            "d) AGI"
+        ],
+        "answer": "b) Narrow AI",
+        "explanation": "The correct concept here is 'Narrow AI'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 42,
+        "question": "Computer Vision deals with:",
+        "options": [
+            "a) Text",
+            "b) Audio",
+            "c) Images and video",
+            "d) Numbers"
+        ],
+        "answer": "c) Images and video",
+        "explanation": "The correct concept here is 'Images and video'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 43,
+        "question": "Logistic Regression is used in:",
+        "options": [
+            "a) Supervised learning",
+            "b) Clustering",
+            "c) Reinforcement",
+            "d) Sorting"
+        ],
+        "answer": "a) Supervised learning",
+        "explanation": "The correct concept here is 'Supervised learning'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 44,
+        "question": "PCA is used for:",
+        "options": [
+            "a) Clustering",
+            "b) Dimensionality reduction",
+            "c) Encryption",
+            "d) Sorting"
+        ],
+        "answer": "b) Dimensionality reduction",
+        "explanation": "The correct concept here is 'Dimensionality reduction'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 45,
+        "question": "AI\u2019s goal is to:",
+        "options": [
+            "a) Reduce RAM",
+            "b) Mimic intelligence",
+            "c) Increase battery",
+            "d) Format data"
+        ],
+        "answer": "b) Mimic intelligence",
+        "explanation": "The correct concept here is 'Mimic intelligence'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 46,
+        "question": "Robotics uses AI for:",
+        "options": [
+            "a) Manual work only",
+            "b) Intelligent automation",
+            "c) Storage",
+            "d) Deletion"
+        ],
+        "answer": "b) Intelligent automation",
+        "explanation": "The correct concept here is 'Intelligent automation'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 47,
+        "question": "AI-powered cybersecurity detects:",
+        "options": [
+            "a) Hardware faults",
+            "b) Network anomalies",
+            "c) Printer issues",
+            "d) File size"
+        ],
+        "answer": "b) Network anomalies",
+        "explanation": "The correct concept here is 'Network anomalies'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 48,
+        "question": "Deep Learning works best for:",
+        "options": [
+            "a) Small tasks",
+            "b) Complex tasks",
+            "c) Manual coding",
+            "d) Basic math"
+        ],
+        "answer": "b) Complex tasks",
+        "explanation": "The correct concept here is 'Complex tasks'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 49,
+        "question": "ML improves performance by:",
+        "options": [
+            "a) Explicit programming",
+            "b) Learning from data",
+            "c) Deleting files",
+            "d) Resetting systems"
+        ],
+        "answer": "b) Learning from data",
+        "explanation": "The correct concept here is 'Learning from data'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 50,
+        "question": "ANI stands for:",
+        "options": [
+            "a) Artificial Neural Intelligence",
+            "b) Artificial Narrow Intelligence",
+            "c) Advanced Network Intelligence",
+            "d) Autonomous Neural Interface"
+        ],
+        "answer": "b) Artificial Narrow Intelligence",
+        "explanation": "The correct concept here is 'Artificial Narrow Intelligence'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 51,
+        "question": "AGI stands for:",
+        "options": [
+            "a) Artificial General Intelligence",
+            "b) Advanced Global Interface",
+            "c) Automated General Input",
+            "d) Artificial Graph Intelligence"
+        ],
+        "answer": "a) Artificial General Intelligence",
+        "explanation": "The correct concept here is 'Artificial General Intelligence'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 52,
+        "question": "ASI refers to:",
+        "options": [
+            "a) Artificial System Intelligence",
+            "b) Artificial Super Intelligence",
+            "c) Advanced Super Interface",
+            "d) Automated Smart Intelligence"
+        ],
+        "answer": "b) Artificial Super Intelligence",
+        "explanation": "The correct concept here is 'Artificial Super Intelligence'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 53,
+        "question": "Which type of AI can perform only a specific task?",
+        "options": [
+            "a) General AI",
+            "b) Super AI",
+            "c) Narrow AI",
+            "d) Self-aware AI"
+        ],
+        "answer": "c) Narrow AI",
+        "explanation": "The correct concept here is 'Narrow AI'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 54,
+        "question": "In supervised learning, output is:",
+        "options": [
+            "a) Unknown",
+            "b) Labeled",
+            "c) Random",
+            "d) Encrypted"
+        ],
+        "answer": "b) Labeled",
+        "explanation": "The correct concept here is 'Labeled'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 55,
+        "question": "Which learning method is used in customer segmentation?",
+        "options": [
+            "a) Supervised learning",
+            "b) Unsupervised learning",
+            "c) Reinforcement learning",
+            "d) Deep learning only"
+        ],
+        "answer": "b) Unsupervised learning",
+        "explanation": "The correct concept here is 'Unsupervised learning'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 56,
+        "question": "Reinforcement learning is commonly used in:",
+        "options": [
+            "a) Email sorting",
+            "b) Game AI",
+            "c) Word processing",
+            "d) Spreadsheet design"
+        ],
+        "answer": "b) Game AI",
+        "explanation": "The correct concept here is 'Game AI'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 57,
+        "question": "Decision Tree is an algorithm used in:",
+        "options": [
+            "a) Supervised learning",
+            "b) Unsupervised learning",
+            "c) Reinforcement learning",
+            "d) Robotics only"
+        ],
+        "answer": "a) Supervised learning",
+        "explanation": "The correct concept here is 'Supervised learning'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 58,
+        "question": "Deep learning models require:",
+        "options": [
+            "a) Less computation",
+            "b) Moderate computation",
+            "c) High computational power",
+            "d) No computation"
+        ],
+        "answer": "c) High computational power",
+        "explanation": "The correct concept here is 'High computational power'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 59,
+        "question": "Hidden layers are present in:",
+        "options": [
+            "a) Basic algorithms",
+            "b) Neural networks",
+            "c) Search trees",
+            "d) Operating systems"
+        ],
+        "answer": "b) Neural networks",
+        "explanation": "The correct concept here is 'Neural networks'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 60,
+        "question": "Backpropagation is mainly used for:",
+        "options": [
+            "a) Data cleaning",
+            "b) Weight adjustment",
+            "c) Encryption",
+            "d) Sorting"
+        ],
+        "answer": "b) Weight adjustment",
+        "explanation": "The correct concept here is 'Weight adjustment'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 61,
+        "question": "The input layer in neural network:",
+        "options": [
+            "a) Produces output",
+            "b) Receives data",
+            "c) Deletes data",
+            "d) Encrypts data"
+        ],
+        "answer": "b) Receives data",
+        "explanation": "The correct concept here is 'Receives data'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 62,
+        "question": "Overfitting occurs when:",
+        "options": [
+            "a) Model performs well on new data",
+            "b) Model memorizes training data",
+            "c) Model deletes errors",
+            "d) Model underperforms"
+        ],
+        "answer": "b) Model memorizes training data",
+        "explanation": "The correct concept here is 'Model memorizes training data'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 63,
+        "question": "One advantage of deep learning:",
+        "options": [
+            "a) Requires small dataset",
+            "b) High interpretability",
+            "c) Automated feature extraction",
+            "d) Low computational need"
+        ],
+        "answer": "c) Automated feature extraction",
+        "explanation": "The correct concept here is 'Automated feature extraction'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 64,
+        "question": "One disadvantage of deep learning:",
+        "options": [
+            "a) Easy to interpret",
+            "b) Low accuracy",
+            "c) Requires large dataset",
+            "d) Needs no hardware"
+        ],
+        "answer": "c) Requires large dataset",
+        "explanation": "The correct concept here is 'Requires large dataset'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 65,
+        "question": "NLP helps machines to:",
+        "options": [
+            "a) Build hardware",
+            "b) Understand human language",
+            "c) Repair software",
+            "d) Encrypt networks"
+        ],
+        "answer": "b) Understand human language",
+        "explanation": "The correct concept here is 'Understand human language'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 66,
+        "question": "Example of Generative AI:",
+        "options": [
+            "a) K-Means",
+            "b) ChatGPT",
+            "c) Excel",
+            "d) Router"
+        ],
+        "answer": "b) ChatGPT",
+        "explanation": "The correct concept here is 'ChatGPT'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 67,
+        "question": "GAN stands for:",
+        "options": [
+            "a) General AI Network",
+            "b) Generative Adversarial Network",
+            "c) Global Artificial Node",
+            "d) Graphical AI Network"
+        ],
+        "answer": "b) Generative Adversarial Network",
+        "explanation": "The correct concept here is 'Generative Adversarial Network'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 68,
+        "question": "Transformer architecture is mainly used in:",
+        "options": [
+            "a) Hardware design",
+            "b) NLP tasks",
+            "c) Operating systems",
+            "d) Networking"
+        ],
+        "answer": "b) NLP tasks",
+        "explanation": "The correct concept here is 'NLP tasks'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 69,
+        "question": "Self-attention mechanism helps to:",
+        "options": [
+            "a) Delete tokens",
+            "b) Focus on relevant words",
+            "c) Encrypt data",
+            "d) Sort data"
+        ],
+        "answer": "b) Focus on relevant words",
+        "explanation": "The correct concept here is 'Focus on relevant words'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 70,
+        "question": "Data Science overlaps with:",
+        "options": [
+            "a) AI and ML",
+            "b) Hardware",
+            "c) BIOS",
+            "d) Firmware"
+        ],
+        "answer": "a) AI and ML",
+        "explanation": "The correct concept here is 'AI and ML'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 71,
+        "question": "Fraud detection mainly uses:",
+        "options": [
+            "a) ML algorithms",
+            "b) Printers",
+            "c) Modems",
+            "d) RAM"
+        ],
+        "answer": "a) ML algorithms",
+        "explanation": "The correct concept here is 'ML algorithms'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 72,
+        "question": "Robotics combined with AI leads to:",
+        "options": [
+            "a) Manual control",
+            "b) Intelligent automation",
+            "c) Data deletion",
+            "d) Network failure"
+        ],
+        "answer": "b) Intelligent automation",
+        "explanation": "The correct concept here is 'Intelligent automation'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 73,
+        "question": "Image recognition is example of:",
+        "options": [
+            "a) Computer Vision",
+            "b) Data entry",
+            "c) Encryption",
+            "d) Formatting"
+        ],
+        "answer": "a) Computer Vision",
+        "explanation": "The correct concept here is 'Computer Vision'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 74,
+        "question": "Spam filtering is:",
+        "options": [
+            "a) Unsupervised learning",
+            "b) Supervised learning",
+            "c) Reinforcement learning",
+            "d) Reactive AI"
+        ],
+        "answer": "b) Supervised learning",
+        "explanation": "The correct concept here is 'Supervised learning'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 75,
+        "question": "Actor-Critic methods are used in:",
+        "options": [
+            "a) Supervised learning",
+            "b) Unsupervised learning",
+            "c) Reinforcement learning",
+            "d) Regression only"
+        ],
+        "answer": "c) Reinforcement learning",
+        "explanation": "The correct concept here is 'Reinforcement learning'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 76,
+        "question": "AI in manufacturing is used for:",
+        "options": [
+            "a) Predictive maintenance",
+            "b) Formatting drives",
+            "c) Typing",
+            "d) Gaming"
+        ],
+        "answer": "a) Predictive maintenance",
+        "explanation": "The correct concept here is 'Predictive maintenance'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 77,
+        "question": "Which AI type understands social interactions?",
+        "options": [
+            "a) Limited memory",
+            "b) Reactive machine",
+            "c) Theory of Mind",
+            "d) Narrow AI"
+        ],
+        "answer": "c) Theory of Mind",
+        "explanation": "The correct concept here is 'Theory of Mind'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 78,
+        "question": "AI-powered anomaly detection is used in:",
+        "options": [
+            "a) Gaming",
+            "b) Cybersecurity",
+            "c) Cooking",
+            "d) Painting"
+        ],
+        "answer": "b) Cybersecurity",
+        "explanation": "The correct concept here is 'Cybersecurity'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 79,
+        "question": "Deep learning performs feature extraction:",
+        "options": [
+            "a) Manually",
+            "b) Automatically",
+            "c) Randomly",
+            "d) Sequentially"
+        ],
+        "answer": "b) Automatically",
+        "explanation": "The correct concept here is 'Automatically'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 80,
+        "question": "Neural networks are useful for:",
+        "options": [
+            "a) Linear problems only",
+            "b) Complex non-linear problems",
+            "c) Hardware repair",
+            "d) File deletion"
+        ],
+        "answer": "b) Complex non-linear problems",
+        "explanation": "The correct concept here is 'Complex non-linear problems'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 81,
+        "question": "Which ML type does not use labels?",
+        "options": [
+            "a) Supervised",
+            "b) Reinforcement",
+            "c) Unsupervised",
+            "d) Deep"
+        ],
+        "answer": "c) Unsupervised",
+        "explanation": "The correct concept here is 'Unsupervised'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 82,
+        "question": "Example of supervised algorithm:",
+        "options": [
+            "a) K-Means",
+            "b) PCA",
+            "c) Decision Tree",
+            "d) Hierarchical clustering"
+        ],
+        "answer": "c) Decision Tree",
+        "explanation": "The correct concept here is 'Decision Tree'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 83,
+        "question": "Example of unsupervised algorithm:",
+        "options": [
+            "a) Logistic Regression",
+            "b) K-Means",
+            "c) SVM",
+            "d) Random Forest"
+        ],
+        "answer": "b) K-Means",
+        "explanation": "The correct concept here is 'K-Means'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 84,
+        "question": "Reinforcement learning agent learns through:",
+        "options": [
+            "a) Labels",
+            "b) Instructions",
+            "c) Rewards",
+            "d) Hardcoding"
+        ],
+        "answer": "c) Rewards",
+        "explanation": "The correct concept here is 'Rewards'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 85,
+        "question": "AI in autonomous vehicles is used for:",
+        "options": [
+            "a) Typing",
+            "b) Navigation",
+            "c) Formatting",
+            "d) Printing"
+        ],
+        "answer": "b) Navigation",
+        "explanation": "The correct concept here is 'Navigation'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 86,
+        "question": "Data poisoning attack targets:",
+        "options": [
+            "a) Hardware",
+            "b) Training data",
+            "c) CPU",
+            "d) RAM"
+        ],
+        "answer": "b) Training data",
+        "explanation": "The correct concept here is 'Training data'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 87,
+        "question": "Adversarial attack aims to:",
+        "options": [
+            "a) Improve model",
+            "b) Deceive AI model",
+            "c) Train faster",
+            "d) Increase memory"
+        ],
+        "answer": "b) Deceive AI model",
+        "explanation": "The correct concept here is 'Deceive AI model'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 88,
+        "question": "MFA increases:",
+        "options": [
+            "a) Storage",
+            "b) Security",
+            "c) Speed",
+            "d) RAM"
+        ],
+        "answer": "b) Security",
+        "explanation": "The correct concept here is 'Security'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 89,
+        "question": "Philosophy contributes to AI in:",
+        "options": [
+            "a) Ethics",
+            "b) Hardware",
+            "c) Coding",
+            "d) Formatting"
+        ],
+        "answer": "a) Ethics",
+        "explanation": "The correct concept here is 'Ethics'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 90,
+        "question": "Psychology contributes to AI by studying:",
+        "options": [
+            "a) CPU",
+            "b) Human behaviour",
+            "c) Hard disk",
+            "d) Networks"
+        ],
+        "answer": "b) Human behaviour",
+        "explanation": "The correct concept here is 'Human behaviour'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 91,
+        "question": "Neuroscience inspired:",
+        "options": [
+            "a) Firewalls",
+            "b) Neural networks",
+            "c) Modems",
+            "d) BIOS"
+        ],
+        "answer": "b) Neural networks",
+        "explanation": "The correct concept here is 'Neural networks'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 92,
+        "question": "Linguistics helps in:",
+        "options": [
+            "a) NLP",
+            "b) Robotics",
+            "c) Hardware",
+            "d) Encryption"
+        ],
+        "answer": "a) NLP",
+        "explanation": "The correct concept here is 'NLP'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 93,
+        "question": "AI in retail is used for:",
+        "options": [
+            "a) Hardware repair",
+            "b) Recommendation systems",
+            "c) Formatting",
+            "d) Coding"
+        ],
+        "answer": "b) Recommendation systems",
+        "explanation": "The correct concept here is 'Recommendation systems'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 94,
+        "question": "Deep Learning works best with:",
+        "options": [
+            "a) Small data",
+            "b) Large data",
+            "c) No data",
+            "d) Static data"
+        ],
+        "answer": "b) Large data",
+        "explanation": "The correct concept here is 'Large data'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 95,
+        "question": "ML model generalizes to:",
+        "options": [
+            "a) Old data only",
+            "b) New unseen data",
+            "c) No data",
+            "d) Corrupt data"
+        ],
+        "answer": "b) New unseen data",
+        "explanation": "The correct concept here is 'New unseen data'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 96,
+        "question": "GPU is required for:",
+        "options": [
+            "a) Basic ML",
+            "b) Deep Learning training",
+            "c) Word processing",
+            "d) Printing"
+        ],
+        "answer": "b) Deep Learning training",
+        "explanation": "The correct concept here is 'Deep Learning training'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 97,
+        "question": "Generative AI mainly creates:",
+        "options": [
+            "a) Hardware",
+            "b) Static code only",
+            "c) New content",
+            "d) Operating systems"
+        ],
+        "answer": "c) New content",
+        "explanation": "The correct concept here is 'New content'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 98,
+        "question": "Foundation model is:",
+        "options": [
+            "a) Small model",
+            "b) Large pre-trained model",
+            "c) Antivirus",
+            "d) Firewall"
+        ],
+        "answer": "b) Large pre-trained model",
+        "explanation": "The correct concept here is 'Large pre-trained model'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 99,
+        "question": "Chatbots use:",
+        "options": [
+            "a) NLP",
+            "b) BIOS",
+            "c) Hardware",
+            "d) Printer drivers"
+        ],
+        "answer": "a) NLP",
+        "explanation": "The correct concept here is 'NLP'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 100,
+        "question": "Generative AI is subset of:",
+        "options": [
+            "a) AI",
+            "b) ML",
+            "c) Deep Learning",
+            "d) Data Science"
+        ],
+        "answer": "c) Deep Learning",
+        "explanation": "The correct concept here is 'Deep Learning'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 101,
+        "question": "Who is known as the father of Artificial Intelligence?",
+        "options": [
+            "a) Alan Turing",
+            "b) John McCarthy",
+            "c) Andrew Ng",
+            "d) Geoffrey Hinton"
+        ],
+        "answer": "b) John McCarthy",
+        "explanation": "The correct concept here is 'John McCarthy'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 102,
+        "question": "Which discipline is NOT directly a part of AI core contributors?",
+        "options": [
+            "a) Mathematics",
+            "b) Psychology",
+            "c) Astrology",
+            "d) Linguistics"
+        ],
+        "answer": "c) Astrology",
+        "explanation": "The correct concept here is 'Astrology'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 103,
+        "question": "What is the ultimate goal of Artificial Intelligence?",
+        "options": [
+            "a) Only solve mathematical problems.",
+            "b) Mimic human intelligence to solve complex tasks.",
+            "c) Operate machines without human intervention.",
+            "d) Build hardware devices."
+        ],
+        "answer": "b) Mimic human intelligence to solve complex tasks.",
+        "explanation": "The correct concept here is 'Mimic human intelligence to solve complex tasks.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 104,
+        "question": "Which statement its \u201cWeak AI\u201d or Narrow AI?",
+        "options": [
+            "a) Has general human-level intelligence.",
+            "b) Excels at multiple tasks simultaneously.",
+            "c) Performs dedicated tasks within a limited scope.",
+            "d) Can reason like a human."
+        ],
+        "answer": "c) Performs dedicated tasks within a limited scope.",
+        "explanation": "The correct concept here is 'Performs dedicated tasks within a limited scope.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 105,
+        "question": "What differentiates Super AI from General AI?",
+        "options": [
+            "a) Super AI has narrowly focused skills.",
+            "b) General AI can exceed human intellectual performance.",
+            "c) Super AI surpasses human intelligence in every domain.",
+            "d) Super AI has no cognitive abilities."
+        ],
+        "answer": "c) Super AI surpasses human intelligence in every domain.",
+        "explanation": "The correct concept here is 'Super AI surpasses human intelligence in every domain.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 106,
+        "question": "Reactive Machines in AI are characterized by \u2026\u2026",
+        "options": [
+            "a) the ability to store past experiences.",
+            "b) purely reacting to current inputs without memory.",
+            "c) being self-aware.",
+            "d) understanding human emotions."
+        ],
+        "answer": "b) purely reacting to current inputs without memory.",
+        "explanation": "The correct concept here is 'purely reacting to current inputs without memory.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 107,
+        "question": "What is the major focus of Theory of Mind AI?",
+        "options": [
+            "a) Data storage",
+            "b) Understanding emotions and beliefs",
+            "c) Performing calculations quickly",
+            "d) Robot mechanics"
+        ],
+        "answer": "b) Understanding emotions and beliefs",
+        "explanation": "The correct concept here is 'Understanding emotions and beliefs'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 108,
+        "question": "Which AI category is still hypothetical and involves consciousness?",
+        "options": [
+            "a) Reactive Machines",
+            "b) Limited Memory",
+            "c) Self-Awareness AI",
+            "d) Narrow AI"
+        ],
+        "answer": "c) Self-Awareness AI",
+        "explanation": "The correct concept here is 'Self-Awareness AI'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 109,
+        "question": "AI helps in healthcare by \u2026\u2026",
+        "options": [
+            "a) Diagnosing diseases and patient monitoring.",
+            "b) Replacing doctors fully.",
+            "c) Only recording patient data.",
+            "d) Eliminating all human interaction."
+        ],
+        "answer": "a) Diagnosing diseases and patient monitoring.",
+        "explanation": "The correct concept here is 'Diagnosing diseases and patient monitoring.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 110,
+        "question": "What role does linguistics play in AI?",
+        "options": [
+            "a) Hardware design",
+            "b) Natural Language Processing",
+            "c) Robotics control",
+            "d) Statistical analysis"
+        ],
+        "answer": "b) Natural Language Processing",
+        "explanation": "The correct concept here is 'Natural Language Processing'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 111,
+        "question": "Machine Learning is best described as:",
+        "options": [
+            "a) Programming specific instructions explicitly",
+            "b) Training systems to learn from data",
+            "c) Hardware manufacturing",
+            "d) Software debugging"
+        ],
+        "answer": "b) Training systems to learn from data",
+        "explanation": "The correct concept here is 'Training systems to learn from data'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 112,
+        "question": "Which is an example of supervised learning?",
+        "options": [
+            "a) Clustering customer groups",
+            "b) Email spam filtering with labeled emails",
+            "c) Random data generation",
+            "d) Exploring databases"
+        ],
+        "answer": "b) Email spam filtering with labeled emails",
+        "explanation": "The correct concept here is 'Email spam filtering with labeled emails'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 113,
+        "question": "What algorithm is mainly used in supervised learning?",
+        "options": [
+            "a) K-means clustering",
+            "b) Logistic regression",
+            "c) PCA",
+            "d) Reinforcement learning"
+        ],
+        "answer": "b) Logistic regression",
+        "explanation": "The correct concept here is 'Logistic regression'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 114,
+        "question": "Unsupervised learning primarily involves:",
+        "options": [
+            "a) Learning from labelled data.",
+            "b) Discovering patterns from unlabelled data.",
+            "c) Making decisions based on rewards.",
+            "d) Pre-programmed rules."
+        ],
+        "answer": "b) Discovering patterns from unlabelled data.",
+        "explanation": "The correct concept here is 'Discovering patterns from unlabelled data.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 115,
+        "question": "Reinforcement learning is based on \u2026\u2026",
+        "options": [
+            "a) receiving rewards or penalties through trial and error.",
+            "b) grouping data clusters.",
+            "c) identifying keywords.",
+            "d) using labeled data only."
+        ],
+        "answer": "a) receiving rewards or penalties through trial and error.",
+        "explanation": "The correct concept here is 'receiving rewards or penalties through trial and error.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 116,
+        "question": "Which of the following is NOT an example of ML application?",
+        "options": [
+            "a) Fraud detection.",
+            "b) Spam detection.",
+            "c) Chess playing with fixed rules only.",
+            "d) Customer segmentation."
+        ],
+        "answer": "c) Chess playing with fixed rules only.",
+        "explanation": "The correct concept here is 'Chess playing with fixed rules only.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 117,
+        "question": "Q-learning is a technique used in \u2026\u2026",
+        "options": [
+            "a) Unsupervised Learning.",
+            "b) Supervised Learning.",
+            "c) Reinforcement Learning.",
+            "d) Data Mining."
+        ],
+        "answer": "c) Reinforcement Learning.",
+        "explanation": "The correct concept here is 'Reinforcement Learning.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 118,
+        "question": "ML benefits retail mainly by \u2026\u2026",
+        "options": [
+            "a) Robotics automation.",
+            "b) Customer behaviour analysis and recommendations.",
+            "c) Manufacturing.",
+            "d) Network security."
+        ],
+        "answer": "b) Customer behaviour analysis and recommendations.",
+        "explanation": "The correct concept here is 'Customer behaviour analysis and recommendations.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 119,
+        "question": "Which technique is part of unsupervised learning?",
+        "options": [
+            "a) Support Vector Machines.",
+            "b) K-means clustering.",
+            "c) Decision Trees.",
+            "d) Reinforcement learning."
+        ],
+        "answer": "b) K-means clustering.",
+        "explanation": "The correct concept here is 'K-means clustering.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 120,
+        "question": "Which field overlaps with AI/ML but is focused on data-driven insights?",
+        "options": [
+            "a) Physics.",
+            "b) Data Science.",
+            "c) Hardware Engineering.",
+            "d) Linguistics."
+        ],
+        "answer": "b) Data Science.",
+        "explanation": "The correct concept here is 'Data Science.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 121,
+        "question": "Deep Learning primarily uses \u2026\u2026",
+        "options": [
+            "a) Decision Trees.",
+            "b) Neural Networks with many layers.",
+            "c) Statistical methods only.",
+            "d) Simple linear regression."
+        ],
+        "answer": "b) Neural Networks with many layers.",
+        "explanation": "The correct concept here is 'Neural Networks with many layers.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 122,
+        "question": "Deep Learning models excel at processing \u2026\u2026",
+        "options": [
+            "a) Simple numerical data only.",
+            "b) Complex unstructured data like images and speech.",
+            "c) Only texts.",
+            "d) Only numerical data."
+        ],
+        "answer": "b) Complex unstructured data like images and speech.",
+        "explanation": "The correct concept here is 'Complex unstructured data like images and speech.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 123,
+        "question": "An advantage of Deep Learning is \u2026\u2026",
+        "options": [
+            "a) Manual feature engineering.",
+            "b) High accuracy in complex tasks.",
+            "c) Low computational resources needed.",
+            "d) Easy interpretability."
+        ],
+        "answer": "b) High accuracy in complex tasks.",
+        "explanation": "The correct concept here is 'High accuracy in complex tasks.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 124,
+        "question": "A big challenge in Deep Learning is \u2026\u2026",
+        "options": [
+            "a) Lack of data.",
+            "b) Excessive interpretability.",
+            "c) Simplicity of models.",
+            "d) Universal understanding by humans."
+        ],
+        "answer": "b) Excessive interpretability.",
+        "explanation": "The correct concept here is 'Excessive interpretability.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 125,
+        "question": "GPUs are important in DL because they \u2026\u2026",
+        "options": [
+            "a) Provide more storage.",
+            "b) Accelerate complex computations efficiently.",
+            "c) Reduce data requirements.",
+            "d) Produce data labels."
+        ],
+        "answer": "b) Accelerate complex computations efficiently.",
+        "explanation": "The correct concept here is 'Accelerate complex computations efficiently.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 126,
+        "question": "What is overfitting in Deep Learning?",
+        "options": [
+            "a) Model performs well on new data only.",
+            "b) Model fits training data too closely reducing generalization.",
+            "c) Model training completed fast.",
+            "d) Data normalization process."
+        ],
+        "answer": "b) Model fits training data too closely reducing generalization.",
+        "explanation": "The correct concept here is 'Model fits training data too closely reducing generalization.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 127,
+        "question": "Deep learning models improve with \u2026\u2026",
+        "options": [
+            "a) More data and training time.",
+            "b) Less computational power.",
+            "c) Fixed data only.",
+            "d) Manual intervention in feature selection."
+        ],
+        "answer": "a) More data and training time.",
+        "explanation": "The correct concept here is 'More data and training time.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 128,
+        "question": "Which layer in deep learning captures non-linear transformations?",
+        "options": [
+            "a) Input Layer",
+            "b) Hidden Layers",
+            "c) Output Layer",
+            "d) Data preprocessing"
+        ],
+        "answer": "b) Hidden Layers",
+        "explanation": "The correct concept here is 'Hidden Layers'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 129,
+        "question": "An example of DL application in healthcare is \u2026\u2026",
+        "options": [
+            "a) Algorithmic trading.",
+            "b) Medical image analysis.",
+            "c) Automated marketing.",
+            "d) Cybersecurity threat detection."
+        ],
+        "answer": "b) Medical image analysis.",
+        "explanation": "The correct concept here is 'Medical image analysis.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 130,
+        "question": "Which is a disadvantage of DL models?",
+        "options": [
+            "a) They require minimal data.",
+            "b) Difficult to interpret results (black-box).",
+            "c) Easy to train on CPUs.",
+            "d) Limited applicability."
+        ],
+        "answer": "b) Difficult to interpret results (black-box).",
+        "explanation": "The correct concept here is 'Difficult to interpret results (black-box).'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 131,
+        "question": "Neural networks are inspired by \u2026\u2026",
+        "options": [
+            "a) Human brain neurons",
+            "b) Computer circuits",
+            "c) Statistical models",
+            "d) Logistic regression"
+        ],
+        "answer": "a) Human brain neurons",
+        "explanation": "The correct concept here is 'Human brain neurons'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 132,
+        "question": "The activation function in neural networks:",
+        "options": [
+            "a) Summarizes inputs linearly.",
+            "b) Normalizes weights.",
+            "c) Introduces non-linearity.",
+            "d) Connects layers."
+        ],
+        "answer": "c) Introduces non-linearity.",
+        "explanation": "The correct concept here is 'Introduces non-linearity.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 133,
+        "question": "The learning process in neural networks mainly involves \u2026\u2026",
+        "options": [
+            "a) manually adjusting weights.",
+            "b) weight adjustment through backpropagation.",
+            "c) clustering data.",
+            "d) data labelling."
+        ],
+        "answer": "b) weight adjustment through backpropagation.",
+        "explanation": "The correct concept here is 'weight adjustment through backpropagation.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 134,
+        "question": "What is weighted sum in neural networks?",
+        "options": [
+            "a) Sum of all inputs without weights.",
+            "b) Sum of inputs multiplied by weights.",
+            "c) Average of output values.",
+            "d) Total number of nodes."
+        ],
+        "answer": "b) Sum of inputs multiplied by weights.",
+        "explanation": "The correct concept here is 'Sum of inputs multiplied by weights.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 135,
+        "question": "Neural networks are widely used for \u2026\u2026",
+        "options": [
+            "a) Pattern recognition and classification.",
+            "b) Operating systems.",
+            "c) Hardware design.",
+            "d) Network set-up."
+        ],
+        "answer": "a) Pattern recognition and classification.",
+        "explanation": "The correct concept here is 'Pattern recognition and classification.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 136,
+        "question": "What is the output layer's job?",
+        "options": [
+            "a) Process input data.",
+            "b) Adjust weights during training.",
+            "c) Generate final model prediction.",
+            "d) Store training data."
+        ],
+        "answer": "c) Generate final model prediction.",
+        "explanation": "The correct concept here is 'Generate final model prediction.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 137,
+        "question": "Why are neural networks sometimes called \"black box\" systems?",
+        "options": [
+            "a) Because they are simple to understand.",
+            "b) Their internal decision processes are complex and hard to interpret.",
+            "c) Because they use black colored hardware.",
+            "d) They do not produce outputs."
+        ],
+        "answer": "b) Their internal decision processes are complex and hard to interpret.",
+        "explanation": "The correct concept here is 'Their internal decision processes are complex and hard to interpret.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 138,
+        "question": "Which method helps neural networks learn from error?",
+        "options": [
+            "a) Forward propagation.",
+            "b) Backpropagation.",
+            "c) Data preprocessing.",
+            "d) Parameter tuning."
+        ],
+        "answer": "b) Backpropagation.",
+        "explanation": "The correct concept here is 'Backpropagation.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 139,
+        "question": "Layers between input and output layers are called \u2026\u2026",
+        "options": [
+            "a) Data layers.",
+            "b) Hidden layers.",
+            "c) Input layers.",
+            "d) Output layers."
+        ],
+        "answer": "b) Hidden layers.",
+        "explanation": "The correct concept here is 'Hidden layers.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 140,
+        "question": "Neural networks can adapt and recognize patterns better than \u2026\u2026",
+        "options": [
+            "a) Rule-based systems.",
+            "b) Linear models.",
+            "c) Traditional programming.",
+            "d) All of the above."
+        ],
+        "answer": "d) All of the above.",
+        "explanation": "The correct concept here is 'All of the above.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 141,
+        "question": "Generative AI is designed to \u2026\u2026",
+        "options": [
+            "a) Analyze but not create content",
+            "b) Create new content from learned patterns",
+            "c) Only classify data",
+            "d) Run hardware operations"
+        ],
+        "answer": "b) Create new content from learned patterns",
+        "explanation": "The correct concept here is 'Create new content from learned patterns'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 142,
+        "question": "Which data format is NOT used to train Generative AI?",
+        "options": [
+            "a) Text",
+            "b) Images",
+            "c) 3D signals",
+            "d) Only numeric tables"
+        ],
+        "answer": "d) Only numeric tables",
+        "explanation": "The correct concept here is 'Only numeric tables'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 143,
+        "question": "The \u201cFoundation Model\u201d in Generative AI is \u2026\u2026",
+        "options": [
+            "a) A small lightweight model.",
+            "b) A large neural network trained on massive diverse data.",
+            "c) A simple decision tree.",
+            "d) A rule-based system."
+        ],
+        "answer": "b) A large neural network trained on massive diverse data.",
+        "explanation": "The correct concept here is 'A large neural network trained on massive diverse data.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 144,
+        "question": "The self-attention mechanism in Transformers helps \u2026\u2026",
+        "options": [
+            "a) Focus on all parts of the input sequence for context.",
+            "b) Filter irrelevant data before training.",
+            "c) Generate random outputs.",
+            "d) Only translate languages."
+        ],
+        "answer": "a) Focus on all parts of the input sequence for context.",
+        "explanation": "The correct concept here is 'Focus on all parts of the input sequence for context.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 145,
+        "question": "Multi-head attention means \u2026\u2026",
+        "options": [
+            "a) Running several attention layers in parallel.",
+            "b) One attention head per sequence.",
+            "c) Removing attention heads.",
+            "d) Simple output generation."
+        ],
+        "answer": "a) Running several attention layers in parallel.",
+        "explanation": "The correct concept here is 'Running several attention layers in parallel.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 146,
+        "question": "Positional encoding in Transformers is used because \u2026\u2026",
+        "options": [
+            "a) Transformers have no inherent sequence processing.",
+            "b) To encode data size.",
+            "c) To speed-up training.",
+            "d) To eliminate tokens."
+        ],
+        "answer": "a) Transformers have no inherent sequence processing.",
+        "explanation": "The correct concept here is 'Transformers have no inherent sequence processing.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 147,
+        "question": "Which is NOT a type of Generative AI?",
+        "options": [
+            "a) Text generation",
+            "b) Image generation",
+            "c) Database management",
+            "d) Music generation"
+        ],
+        "answer": "c) Database management",
+        "explanation": "The correct concept here is 'Database management'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 148,
+        "question": "An example of text generation model is \u2026\u2026",
+        "options": [
+            "a) DALL\u00b7E",
+            "b) GPT",
+            "c) MidJourney",
+            "d) Jukebox"
+        ],
+        "answer": "b) GPT",
+        "explanation": "The correct concept here is 'GPT'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 149,
+        "question": "One application of Generative AI in finance is \u2026\u2026",
+        "options": [
+            "a) Fraud detection.",
+            "b) Automated report generation.",
+            "c) Stock trading without AI.",
+            "d) Network security hardware."
+        ],
+        "answer": "b) Automated report generation.",
+        "explanation": "The correct concept here is 'Automated report generation.'. This is a foundational principle of the topic being tested."
+    },
+    {
+        "id": 150,
+        "question": "Transformer models use which processing architecture?",
+        "options": [
+            "a) Encoder-decoder",
+            "b) Recurrent networks",
+            "c) Feedforward only",
+            "d) Clustering layers"
+        ],
+        "answer": "a) Encoder-decoder",
+        "explanation": "The correct concept here is 'Encoder-decoder'. This is a foundational principle of the topic being tested."
+    }
+]

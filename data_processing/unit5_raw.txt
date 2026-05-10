@@ -1,0 +1,1286 @@
+UNIT 5 – DIGITAL FORENSICS & 
+ETHICAL HACKING 
+1. Digital forensics primarily deals with: 
+a) Physical evidence only 
+b) Digital evidence investigation 
+c) Paper records 
+d) Manual auditing 
+Answer: b) Digital evidence investigation 
+2. Digital evidence must be: 
+a) Modified 
+b) Deleted 
+c) Preserved carefully 
+d) Edited 
+Answer: c) Preserved carefully 
+3. A forensic image is: 
+a) Screenshot 
+b) Exact bit-by-bit copy 
+c) Photo of device 
+d) Backup file 
+Answer: b) Exact bit-by-bit copy 
+4. Hash values are used to: 
+a) Encrypt data 
+b) Verify integrity 
+c) Delete files 
+d) Format disk 
+Answer: b) Verify integrity 
+5. Chain of custody ensures: 
+a) File compression 
+b) Accountability of evidence handling 
+c) Data deletion 
+d) Fast processing 
+Answer: b) Accountability of evidence handling 
+6. Volatile data is found in: 
+a) Hard disk 
+b) RAM 
+c) DVD 
+d) USB only 
+Answer: b) RAM 
+7. File carving is used to: 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+a) Print files 
+b) Recover deleted files 
+c) Encrypt files 
+d) Compress files 
+Answer: b) Recover deleted files 
+8. Timeline reconstruction helps in: 
+a) Speeding system 
+b) Understanding sequence of events 
+c) Printing logs 
+d) Deleting malware 
+Answer: b) Understanding sequence of events 
+9. DFRWS model was proposed in: 
+a) 1998 
+b) 2001 
+c) 2005 
+d) 2010 
+Answer: b) 2001 
+10. ADFM adds which extra phase? 
+a) Presentation 
+b) Preparation 
+c) Analysis 
+d) Examination 
+Answer: b) Preparation 
+11. IDIP integrates: 
+a) Digital & physical crime scenes 
+b) Printer & network 
+c) Software & hardware 
+d) OS & database 
+Answer: a) Digital & physical crime scenes 
+12. EEDIP emphasizes: 
+a) Automation & traceability 
+b) Paper work 
+c) Manual logging 
+d) Printing 
+Answer: a) Automation & traceability 
+13. UMDFPM uses: 
+a) Java 
+b) UML diagrams 
+c) Python 
+d) SQL 
+Answer: b) UML diagrams 
+14. Examination stage involves: 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+a) Filtering relevant data 
+b) Destroying data 
+c) Printing data 
+d) Formatting 
+Answer: a) Filtering relevant data 
+15. Preservation stage ensures: 
+a) Data integrity 
+b) Data deletion 
+c) Data duplication 
+d) Data printing 
+Answer: a) Data integrity 
+16. Evidence handling begins with: 
+a) Presentation 
+b) Seizure 
+c) Analysis 
+d) Documentation 
+Answer: b) Seizure 
+17. Forensic tools must be: 
+a) Random 
+b) Scientifically accepted 
+c) Manual 
+d) Free only 
+Answer: b) Scientifically accepted 
+18. Never trust the operating system because: 
+a) It may be compromised 
+b) It is slow 
+c) It deletes files 
+d) It prints logs 
+Answer: a) It may be compromised 
+19. Ethical hacking is: 
+a) Illegal hacking 
+b) Authorized security testing 
+c) Cybercrime 
+d) Data theft 
+Answer: b) Authorized security testing 
+20. Ethical hackers must obtain: 
+a) Password 
+b) Legal permission 
+c) IP address 
+d) Cable 
+Answer: b) Legal permission 
+21. Reconnaissance phase involves: 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+a) Information gathering 
+b) Data deletion 
+c) Printing 
+d) Encryption 
+Answer: a) Information gathering 
+22. Scanning phase identifies: 
+a) Open ports 
+b) Printer speed 
+c) Cable faults 
+d) Storage 
+Answer: a) Open ports 
+23. Exploitation phase attempts: 
+a) Controlled attack 
+b) Data deletion 
+c) Manual login 
+d) Printing 
+Answer: a) Controlled attack 
+24. White hat hackers are: 
+a) Criminals 
+b) Authorized professionals 
+c) Hacktivists 
+d) Spammers 
+Answer: b) Authorized professionals 
+25. Black hat hackers act: 
+a) Legally 
+b) Illegally 
+c) Academically 
+d) Publicly 
+Answer: b) Illegally 
+26. Grey hat hackers: 
+a) Always legal 
+b) Always illegal 
+c) Operate without permission but no malicious intent 
+d) Work for government only 
+Answer: c) Operate without permission but no malicious intent 
+27. Blue hat hackers are usually: 
+a) Experts 
+b) Beginners 
+c) Government officials 
+d) Judges 
+Answer: b) Beginners 
+28. Green hat hackers are: 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+a) Learning hackers 
+b) Criminal hackers 
+c) Bank officials 
+d) Auditors 
+Answer: a) Learning hackers 
+29. Red hat hackers: 
+a) Fight black hats aggressively 
+b) Print data 
+c) Use paper logs 
+d) Work offline 
+Answer: a) Fight black hats aggressively 
+30. Network hacking targets: 
+a) Routers and switches 
+b) Paper files 
+c) Printers 
+d) Cameras only 
+Answer: a) Routers and switches 
+31. AI-powered phishing uses: 
+a) Machine learning 
+b) Cable 
+c) Printer 
+d) Router 
+Answer: a) Machine learning 
+32. Ransomware 2.0 includes: 
+a) Double extortion 
+b) Triple extortion 
+c) Data theft 
+d) All of the above 
+Answer: d) All of the above 
+33. IoT exploits target: 
+a) Smart devices 
+b) Paper 
+c) Printer 
+d) Fax 
+Answer: a) Smart devices 
+34. Deepfake uses: 
+a) Machine learning 
+b) Cable 
+c) Printer 
+d) Router 
+Answer: a) Machine learning 
+35. OS downgrade attack installs: 
+a) Latest OS 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+b) Older vulnerable OS 
+c) Secure OS 
+d) Updated OS 
+Answer: b) Older vulnerable OS 
+36. Firmware exploits target: 
+a) BIOS/UEFI 
+b) Printer 
+c) Cable 
+d) Mouse 
+Answer: a) BIOS/UEFI 
+37. WAF bypass techniques attempt to: 
+a) Evade firewall filters 
+b) Delete files 
+c) Print logs 
+d) Disconnect router 
+Answer: a) Evade firewall filters 
+38. Zero-day vulnerability is: 
+a) Known and patched 
+b) Unknown and unpatched 
+c) Printer error 
+d) Cable break 
+Answer: b) Unknown and unpatched 
+39. NCSP 2013 protects: 
+a) National cyberspace 
+b) Printer 
+c) Cable 
+d) Paper 
+Answer: a) National cyberspace 
+40. IT Act 2000 provides legal recognition to: 
+a) Electronic records 
+b) Paper files 
+c) Fax 
+d) Printer 
+Answer: a) Electronic records 
+41. Section 66C deals with: 
+a) Identity theft 
+b) Printer 
+c) Cable 
+d) Router 
+Answer: a) Identity theft 
+42. Section 66F deals with: 
+a) Cyber terrorism 
+b) Paper 
+c) Printer 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+d) Cable 
+Answer: a) Cyber terrorism 
+43. DPDP Act 2023 protects: 
+a) Personal data 
+b) Printer 
+c) Router 
+d) Cable 
+Answer: a) Personal data 
+44. Data Principal refers to: 
+a) Individual 
+b) Company 
+c) Router 
+d) Printer 
+Answer: a) Individual 
+45. Data Fiduciary refers to: 
+a) Organization handling data 
+b) Printer 
+c) Cable 
+d) Router 
+Answer: a) Organization handling data 
+46. CCPWC scheme protects: 
+a) Women & children 
+b) Printers 
+c) Routers 
+d) Servers 
+Answer: a) Women & children 
+47. CERT-In is responsible for: 
+a) Cyber incident response 
+b) Printing 
+c) Cable repair 
+d) OS installation 
+Answer: a) Cyber incident response 
+48. Section 69 allows government to: 
+a) Intercept data 
+b) Print data 
+c) Delete logs 
+d) Remove OS 
+Answer: a) Intercept data 
+49. Section 43 deals with: 
+a) Unauthorized access 
+b) Printer 
+c) Cable 
+d) Mouse 
+Answer: a) Unauthorized access 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+50. Ethical hacking improves: 
+a) Security posture 
+b) Printer speed 
+c) Cable 
+d) Paper 
+Answer: a) Security posture 
+51. In digital forensics, identification stage involves: 
+a) Recovering deleted files 
+b) Recognizing incident occurrence 
+c) Reporting findings 
+d) Court presentation 
+Answer: b) Recognizing incident occurrence 
+52. Preservation phase prevents: 
+a) Evidence tampering 
+b) Evidence printing 
+c) Evidence deletion 
+d) Evidence formatting 
+Answer: a) Evidence tampering 
+53. Collection phase gathers: 
+a) Relevant digital data 
+b) Paper documents 
+c) Printer logs only 
+d) Manual notes 
+Answer: a) Relevant digital data 
+54. Examination phase removes: 
+a) Relevant data 
+b) Irrelevant data 
+c) Entire evidence 
+d) Chain of custody 
+Answer: b) Irrelevant data 
+55. Presentation stage requires: 
+a) Clear documentation 
+b) Deleting files 
+c) Formatting drives 
+d) Printing random logs 
+Answer: a) Clear documentation 
+56. Decision phase in DFRWS involves: 
+a) Legal action 
+b) Printing reports 
+c) System shutdown 
+d) Data deletion 
+Answer: a) Legal action 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+57. ADFM Return of Evidence phase ensures: 
+a) Proper device return 
+b) Device deletion 
+c) Printer usage 
+d) Cable removal 
+Answer: a) Proper device return 
+58. IDIP readiness phase ensures: 
+a) Preparation before incident 
+b) Deleting malware 
+c) Printer installation 
+d) OS upgrade 
+Answer: a) Preparation before incident 
+59. Deployment phase begins when: 
+a) Incident detected 
+b) Printer installed 
+c) Cable connected 
+d) OS updated 
+Answer: a) Incident detected 
+60. Review phase in IDIP focuses on: 
+a) Improving future investigations 
+b) Deleting evidence 
+c) Printing documents 
+d) Formatting disk 
+Answer: a) Improving future investigations 
+61. EEDIP Authorization phase ensures: 
+a) Legal permission 
+b) Printer control 
+c) Cable security 
+d) Router access 
+Answer: a) Legal permission 
+62. Extended model supports: 
+a) Multi-agency coordination 
+b) Single investigator only 
+c) Printer network 
+d) Cable testing 
+Answer: a) Multi-agency coordination 
+63. Use case diagram shows: 
+a) Actors and roles 
+b) Printer layout 
+c) Cable path 
+d) Storage capacity 
+Answer: a) Actors and roles 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+64. Activity diagram represents: 
+a) Workflow 
+b) File system 
+c) Network cable 
+d) Storage format 
+Answer: a) Workflow 
+65. Sequence diagram shows: 
+a) Interaction order 
+b) Printer speed 
+c) Cable order 
+d) Router configuration 
+Answer: a) Interaction order 
+66. RAM data should be collected: 
+a) After shutdown 
+b) Before shutdown 
+c) Never 
+d) After formatting 
+Answer: b) Before shutdown 
+67. Steganography detection finds: 
+a) Hidden data 
+b) Printed files 
+c) Deleted cables 
+d) Offline systems 
+Answer: a) Hidden data 
+68. Keyword search helps identify: 
+a) Suspicious terms 
+b) Printer speed 
+c) Cable type 
+d) OS version 
+Answer: a) Suspicious terms 
+69. Documentation stage increases: 
+a) Legal credibility 
+b) Printer usage 
+c) Cable usage 
+d) OS upgrade 
+Answer: a) Legal credibility 
+70. Ethical hackers simulate: 
+a) Real attacks legally 
+b) Paper filing 
+c) Printing 
+d) Cable testing 
+Answer: a) Real attacks legally 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+71. Maintaining access phase checks: 
+a) Persistence 
+b) Printing 
+c) Cable 
+d) Storage 
+Answer: a) Persistence 
+72. Reporting phase includes: 
+a) Vulnerability details 
+b) Printer logs only 
+c) Cable diagram 
+d) OS update 
+Answer: a) Vulnerability details 
+73. Ethical hacking improves: 
+a) Incident response readiness 
+b) Paper storage 
+c) Printer ink 
+d) Cable repair 
+Answer: a) Incident response readiness 
+74. AI phishing emails often show: 
+a) Perfect grammar 
+b) Spelling errors only 
+c) Printer logs 
+d) Cable details 
+Answer: a) Perfect grammar 
+75. Double extortion ransomware includes: 
+a) Encryption + data theft 
+b) Encryption only 
+c) Deletion only 
+d) Printer attack 
+Answer: a) Encryption + data theft 
+76. Triple extortion adds: 
+a) DDoS or blackmail 
+b) Printer repair 
+c) Cable testing 
+d) OS upgrade 
+Answer: a) DDoS or blackmail 
+77. Indicators of ransomware include: 
+a) Mass file encryption 
+b) Printer slowdown 
+c) Cable noise 
+d) Paper jam 
+Answer: a) Mass file encryption 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+78. EDR stands for: 
+a) Endpoint Detection and Response 
+b) Electronic Data Recovery 
+c) Evidence Data Removal 
+d) Emergency Digital Router 
+Answer: a) Endpoint Detection and Response 
+79. IoT default passwords cause: 
+a) Vulnerability 
+b) Printer speed 
+c) Cable issue 
+d) Storage expansion 
+Answer: a) Vulnerability 
+80. VLAN helps in: 
+a) Network isolation 
+b) Printer repair 
+c) Cable deletion 
+d) File formatting 
+Answer: a) Network isolation 
+81. Deepfake detection checks: 
+a) Metadata 
+b) Printer logs 
+c) Cable signals 
+d) Router configuration 
+Answer: a) Metadata 
+82. OS hacking targets: 
+a) System vulnerabilities 
+b) Paper files 
+c) Printer drivers 
+d) Cable 
+Answer: a) System vulnerabilities 
+83. Secure boot prevents: 
+a) Unauthorized firmware 
+b) Printer errors 
+c) Cable faults 
+d) Storage errors 
+Answer: a) Unauthorized firmware 
+84. TPM stands for: 
+a) Trusted Platform Module 
+b) Temporary Print Module 
+c) Technical Printer Model 
+d) Terminal Port Manager 
+Answer: a) Trusted Platform Module 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+85. SQL injection is: 
+a) Application vulnerability 
+b) Printer failure 
+c) Cable break 
+d) Router issue 
+Answer: a) Application vulnerability 
+86. Log4j was example of: 
+a) Zero-day exploit 
+b) Printer bug 
+c) Cable error 
+d) OS update 
+Answer: a) Zero-day exploit 
+87. NCSP focuses on protecting: 
+a) Critical infrastructure 
+b) Printer network 
+c) Cable design 
+d) Router layout 
+Answer: a) Critical infrastructure 
+88. CERT-In stands for: 
+a) Computer Emergency Response Team – India 
+b) Central Router Testing 
+c) Cyber Equipment Repair Team 
+d) Certified Router Inspector 
+Answer: a) Computer Emergency Response Team – India 
+89. Section 66D deals with: 
+a) Online cheating 
+b) Printer misuse 
+c) Cable theft 
+d) OS downgrade 
+Answer: a) Online cheating 
+90. Section 72A relates to: 
+a) Breach of confidentiality 
+b) Printer hacking 
+c) Cable theft 
+d) OS upgrade 
+Answer: a) Breach of confidentiality 
+91. DPDP requires: 
+a) User consent 
+b) Printer logs 
+c) Cable testing 
+d) Router approval 
+Answer: a) User consent 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+92. Data Protection Board oversees: 
+a) Compliance 
+b) Printer repair 
+c) Cable usage 
+d) Router traffic 
+Answer: a) Compliance 
+93. CCPWC portal allows: 
+a) Cybercrime reporting 
+b) Printer installation 
+c) Cable registration 
+d) OS activation 
+Answer: a) Cybercrime reporting 
+94. Cyber stalking is: 
+a) Online harassment 
+b) Printer misuse 
+c) Cable theft 
+d) Router attack 
+Answer: a) Online harassment 
+95. Evidence integrity is verified using: 
+a) Hash values 
+b) Printer log 
+c) Cable ID 
+d) OS version 
+Answer: a) Hash values 
+96. Memory dump analysis helps in: 
+a) Malware detection 
+b) Printer repair 
+c) Cable fixing 
+d) Paper filing 
+Answer: a) Malware detection 
+97. Forensic readiness improves: 
+a) Investigation efficiency 
+b) Printer speed 
+c) Cable length 
+d) Storage 
+Answer: a) Investigation efficiency 
+98. Legal admissibility requires: 
+a) Proper chain of custody 
+b) Printer 
+c) Cable 
+d) Router 
+Answer: a) Proper chain of custody 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+99. Ethical hacking reduces: 
+a) Security risks 
+b) Printer errors 
+c) Cable damage 
+d) OS bugs 
+Answer: a) Security risks 
+100. The ultimate aim of digital forensics is: 
+a) Court-admissible evidence 
+b) Printing 
+c) Cable repair 
+d) OS update 
+Answer: a) Court-admissible evidence 
+101. In digital forensics, integrity ensures that evidence is: 
+a) Modified 
+b) Authentic and unchanged 
+c) Deleted 
+d) Printed 
+Answer: b) Authentic and unchanged 
+102. A write blocker is used to: 
+a) Prevent data modification 
+b) Delete files 
+c) Format drives 
+d) Encrypt systems 
+Answer: a) Prevent data modification 
+103. Forensic duplication is also known as: 
+a) Logical backup 
+b) Bit-stream copy 
+c) Data deletion 
+d) Compression 
+Answer: b) Bit-stream copy 
+104. Volatile evidence includes: 
+a) Hard disk files 
+b) RAM contents 
+c) Archived backups 
+d) Printed documents 
+Answer: b) RAM contents 
+105. Log analysis helps investigators detect: 
+a) System activities 
+b) Printer errors 
+c) Cable failures 
+d) OS installation 
+Answer: a) System activities 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+106. Evidence should be stored in: 
+a) Open area 
+b) Secure environment 
+c) Shared folder 
+d) Public network 
+Answer: b) Secure environment 
+107. MD5 and SHA are examples of: 
+a) Encryption keys 
+b) Hash algorithms 
+c) Firewalls 
+d) Antivirus tools 
+Answer: b) Hash algorithms 
+108. Forensic soundness means: 
+a) Using approved tools 
+b) Deleting data 
+c) Modifying logs 
+d) Skipping documentation 
+Answer: a) Using approved tools 
+109. Chain of custody includes: 
+a) Who handled evidence 
+b) When it was handled 
+c) Why it was handled 
+d) All of the above 
+Answer: d) All of the above 
+110. Preparation phase in investigation ensures: 
+a) Legal readiness 
+b) Data deletion 
+c) Cable setup 
+d) Printer installation 
+Answer: a) Legal readiness 
+111. Ethical hacking primarily identifies: 
+a) Security vulnerabilities 
+b) Printer speed 
+c) Cable length 
+d) Storage size 
+Answer: a) Security vulnerabilities 
+112. Penetration testing is conducted: 
+a) Without permission 
+b) With authorization 
+c) Secretly 
+d) Illegally 
+Answer: b) With authorization 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+113. Vulnerability assessment focuses on: 
+a) Identifying weaknesses 
+b) Deleting systems 
+c) Formatting drives 
+d) Printing logs 
+Answer: a) Identifying weaknesses 
+114. Social engineering attacks exploit: 
+a) Human psychology 
+b) Hardware failure 
+c) Cable damage 
+d) Printer malfunction 
+Answer: a) Human psychology 
+115. Multi-Factor Authentication (MFA) improves: 
+a) Security 
+b) Printer performance 
+c) Cable speed 
+d) Storage 
+Answer: a) Security 
+116. SPF, DKIM, and DMARC protect against: 
+a) Phishing emails 
+b) Printer hacks 
+c) Cable faults 
+d) OS errors 
+Answer: a) Phishing emails 
+117. Double extortion ransomware threatens: 
+a) Data publication 
+b) Printer damage 
+c) Cable theft 
+d) OS crash 
+Answer: a) Data publication 
+118. Endpoint Detection and Response tools monitor: 
+a) End-user devices 
+b) Printers only 
+c) Routers only 
+d) Cables only 
+Answer: a) End-user devices 
+119. Firmware malware can survive: 
+a) OS reinstallation 
+b) Cable replacement 
+c) Printer reset 
+d) File deletion 
+Answer: a) OS reinstallation 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+120. Zero-day exploit targets: 
+a) Unknown vulnerabilities 
+b) Patched systems 
+c) Printer firmware 
+d) Paper records 
+Answer: a) Unknown vulnerabilities 
+121. Section 66B relates to: 
+a) Receiving stolen computer resources 
+b) Printer misuse 
+c) Cable theft 
+d) OS downgrade 
+Answer: a) Receiving stolen computer resources 
+122. Section 66C addresses: 
+a) Identity theft 
+b) Printer theft 
+c) Cable misuse 
+d) Data compression 
+Answer: a) Identity theft 
+123. Section 66D punishes: 
+a) Cheating by personation 
+b) Printer hacking 
+c) Cable damage 
+d) Storage deletion 
+Answer: a) Cheating by personation 
+124. Section 66F defines: 
+a) Cyber terrorism 
+b) Printer malfunction 
+c) Router error 
+d) Cable break 
+Answer: a) Cyber terrorism 
+125. Section 72A deals with: 
+a) Breach of confidentiality 
+b) Printer logs 
+c) Cable ID 
+d) OS update 
+Answer: a) Breach of confidentiality 
+126. DPDP Act 2023 requires organizations to: 
+a) Obtain user consent 
+b) Delete user data 
+c) Print user logs 
+d) Share data publicly 
+Answer: a) Obtain user consent 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+127. Data Principal has right to: 
+a) Access personal data 
+b) Delete printer 
+c) Change cable 
+d) Update router 
+Answer: a) Access personal data 
+128. Data Fiduciary must ensure: 
+a) Lawful data processing 
+b) Printer control 
+c) Cable testing 
+d) OS upgrade 
+Answer: a) Lawful data processing 
+129. CCPWC portal enables: 
+a) Reporting cybercrime 
+b) Printing complaints 
+c) Cable setup 
+d) Router activation 
+Answer: a) Reporting cybercrime 
+130. CERT-In provides: 
+a) Incident response 
+b) Printer repair 
+c) Cable installation 
+d) Storage 
+Answer: a) Incident response 
+131. Forensic imaging tools must: 
+a) Preserve metadata 
+b) Delete timestamps 
+c) Modify files 
+d) Compress logs 
+Answer: a) Preserve metadata 
+132. Metadata analysis helps determine: 
+a) File creation time 
+b) Printer speed 
+c) Cable type 
+d) Router model 
+Answer: a) File creation time 
+133. In ransomware case, volatile memory capture helps find: 
+a) Encryption keys 
+b) Printer ID 
+c) Cable number 
+d) OS version 
+Answer: a) Encryption keys 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+134. Digital evidence admissibility depends on: 
+a) Proper handling 
+b) Fast processing 
+c) Printer logs 
+d) Cable replacement 
+Answer: a) Proper handling 
+135. Incident response planning improves: 
+a) Cyber resilience 
+b) Printer output 
+c) Cable speed 
+d) Storage size 
+Answer: a) Cyber resilience 
+136. Ethical hacking is different from malicious hacking because it is: 
+a) Legal 
+b) Anonymous 
+c) Hidden 
+d) Unauthorized 
+Answer: a) Legal 
+137. Reconnaissance can be: 
+a) Active 
+b) Passive 
+c) Both 
+d) None 
+Answer: c) Both 
+138. Network segmentation limits: 
+a) Attack spread 
+b) Printer speed 
+c) Cable length 
+d) OS performance 
+Answer: a) Attack spread 
+139. Security audits help: 
+a) Identify risks 
+b) Delete logs 
+c) Print reports only 
+d) Format drives 
+Answer: a) Identify risks 
+140. Phishing indicators include: 
+a) Suspicious links 
+b) Urgent requests 
+c) Unknown sender domains 
+d) All of the above 
+Answer: d) All of the above 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+141. Malware analysis is part of: 
+a) Digital forensics 
+b) Printing 
+c) Cable testing 
+d) OS installation 
+Answer: a) Digital forensics 
+142. Evidence examination should be done on: 
+a) Forensic copy 
+b) Original device 
+c) Printer 
+d) Public system 
+Answer: a) Forensic copy 
+143. Deepfake forensic detection checks: 
+a) Frame inconsistencies 
+b) Printer logs 
+c) Cable damage 
+d) Router speed 
+Answer: a) Frame inconsistencies 
+144. IoT botnets are commonly used for: 
+a) DDoS attacks 
+b) Printing 
+c) Cable theft 
+d) OS downgrade 
+Answer: a) DDoS attacks 
+145. OS downgrade attacks exploit: 
+a) Old vulnerabilities 
+b) New patches 
+c) Printer updates 
+d) Cable length 
+Answer: a) Old vulnerabilities 
+146. Cyber law ensures: 
+a) Legal regulation of cyberspace 
+b) Printer repair 
+c) Cable installation 
+d) OS deletion 
+Answer: a) Legal regulation of cyberspace 
+147. National Cyber Security Policy 2013 strengthens: 
+a) Cyber defense framework 
+b) Printer network 
+c) Cable quality 
+d) Router size 
+Answer: a) Cyber defense framework 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+148. Data breach penalties under DPDP can be: 
+a) Financial fines 
+b) Printer ban 
+c) Cable removal 
+d) OS suspension 
+Answer: a) Financial fines 
+149. Cybercrime against women includes: 
+a) Cyber stalking 
+b) Online harassment 
+c) Identity misuse 
+d) All of the above 
+Answer: d) All of the above 
+150. The main goal of ethical hacking is to: 
+a) Strengthen cybersecurity 
+b) Destroy systems 
+c) Steal data 
+d) Crash networks 
+Answer: a) Strengthen cybersecurity 
+151. Digital forensics supports law enforcement by: 
+a) Recovering digital evidence 
+b) Printing reports 
+c) Deleting logs 
+d) Formatting drives 
+Answer: a) Recovering digital evidence 
+152. Integrity of evidence is verified using: 
+a) Hash comparison 
+b) Printer logs 
+c) Cable ID 
+d) OS update 
+Answer: a) Hash comparison 
+153. A forensic workstation is used to: 
+a) Analyze copied evidence 
+b) Modify original data 
+c) Print documents 
+d) Delete files 
+Answer: a) Analyze copied evidence 
+154. Evidence contamination occurs when: 
+a) Original data is altered 
+b) Printer jams 
+c) Cable disconnects 
+d) Router fails 
+Answer: a) Original data is altered 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+155. Forensic timeline helps determine: 
+a) Attack sequence 
+b) Printer speed 
+c) Cable path 
+d) OS version 
+Answer: a) Attack sequence 
+156. A memory dump contains: 
+a) Active system processes 
+b) Printed logs 
+c) Cable data 
+d) BIOS firmware 
+Answer: a) Active system processes 
+157. Disk imaging tools must maintain: 
+a) Write protection 
+b) Data deletion 
+c) Printer control 
+d) Cable format 
+Answer: a) Write protection 
+158. Metadata can reveal: 
+a) File ownership 
+b) Creation date 
+c) Modification history 
+d) All of the above 
+Answer: d) All of the above 
+159. In ransomware investigation, first action is: 
+a) Isolate infected system 
+b) Pay ransom 
+c) Delete files 
+d) Restart system 
+Answer: a) Isolate infected system 
+160. Digital forensics ensures evidence is: 
+a) Court admissible 
+b) Random 
+c) Unverified 
+d) Deleted 
+Answer: a) Court admissible 
+161. Ethical hacking requires defining: 
+a) Scope of testing 
+b) Printer model 
+c) Cable size 
+d) OS brand 
+Answer: a) Scope of testing 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+162. Passive reconnaissance involves: 
+a) Public information gathering 
+b) Direct system attack 
+c) File deletion 
+d) Printer testing 
+Answer: a) Public information gathering 
+163. Active reconnaissance involves: 
+a) Direct interaction with target 
+b) Reading newspapers 
+c) Printing logs 
+d) Cable inspection 
+Answer: a) Direct interaction with target 
+164. Port scanning identifies: 
+a) Open network ports 
+b) Printer ink levels 
+c) Cable faults 
+d) Storage errors 
+Answer: a) Open network ports 
+165. Exploitation phase tests: 
+a) Vulnerability impact 
+b) Printer performance 
+c) Cable resistance 
+d) Router height 
+Answer: a) Vulnerability impact 
+166. Privilege escalation attack aims to: 
+a) Gain higher system access 
+b) Print documents 
+c) Delete logs 
+d) Restart OS 
+Answer: a) Gain higher system access 
+167. Maintaining access helps attacker test: 
+a) Persistence 
+b) Printer stability 
+c) Cable durability 
+d) Storage capacity 
+Answer: a) Persistence 
+168. Reporting phase should include: 
+a) Risk level 
+b) Impact analysis 
+c) Remediation steps 
+d) All of the above 
+Answer: d) All of the above 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+169. Risk assessment helps identify: 
+a) Potential threats 
+b) Printer faults 
+c) Cable damage 
+d) Router speed 
+Answer: a) Potential threats 
+170. Firewall primarily protects: 
+a) Network perimeter 
+b) Printer 
+c) Cable 
+d) Mouse 
+Answer: a) Network perimeter 
+171. AI phishing scams are dangerous because they are: 
+a) Personalized 
+b) Grammatically accurate 
+c) Context-aware 
+d) All of the above 
+Answer: d) All of the above 
+172. Ransomware encryption uses: 
+a) Cryptographic algorithms 
+b) Printer commands 
+c) Cable signals 
+d) Router settings 
+Answer: a) Cryptographic algorithms 
+173. DDoS attack aims to: 
+a) Overload server 
+b) Print files 
+c) Delete logs 
+d) Upgrade OS 
+Answer: a) Overload server 
+174. IoT botnets consist of: 
+a) Compromised smart devices 
+b) Printers only 
+c) Routers only 
+d) Servers only 
+Answer: a) Compromised smart devices 
+175. Deepfake fraud may involve: 
+a) CEO impersonation 
+b) Printer hacking 
+c) Cable theft 
+d) OS update 
+Answer: a) CEO impersonation 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+176. Secure firmware updates require: 
+a) Digital signatures 
+b) Printer logs 
+c) Cable marking 
+d) OS removal 
+Answer: a) Digital signatures 
+177. BIOS malware is dangerous because it: 
+a) Survives OS reinstall 
+b) Prints logs 
+c) Deletes files 
+d) Corrupts printer 
+Answer: a) Survives OS reinstall 
+178. WAF protects against: 
+a) Web application attacks 
+b) Printer hacking 
+c) Cable misuse 
+d) Router errors 
+Answer: a) Web application attacks 
+179. SQL injection targets: 
+a) Database queries 
+b) Printer spool 
+c) Cable network 
+d) OS boot 
+Answer: a) Database queries 
+180. Zero-day attacks are hard to prevent because: 
+a) No patch available 
+b) Printer error 
+c) Cable cut 
+d) Router crash 
+Answer: a) No patch available 
+181. NCSP 2013 promotes: 
+a) Public-private partnership 
+b) Printer networks 
+c) Cable design 
+d) OS printing 
+Answer: a) Public-private partnership 
+182. Critical Information Infrastructure includes: 
+a) Banking systems 
+b) Power grids 
+c) Defense networks 
+d) All of the above 
+Answer: d) All of the above 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+183. IT Act 2000 supports: 
+a) E-commerce 
+b) E-governance 
+c) Digital signatures 
+d) All of the above 
+Answer: d) All of the above 
+184. Section 43 penalizes: 
+a) Unauthorized access 
+b) Printer damage 
+c) Cable theft 
+d) OS deletion 
+Answer: a) Unauthorized access 
+185. Section 69 authorizes: 
+a) Data interception 
+b) Printer shutdown 
+c) Cable removal 
+d) Router deletion 
+Answer: a) Data interception 
+186. DPDP Act emphasizes: 
+a) Data privacy rights 
+b) Printer control 
+c) Cable inspection 
+d) OS updates 
+Answer: a) Data privacy rights 
+187. Consent under DPDP must be: 
+a) Clear and informed 
+b) Hidden 
+c) Implied only 
+d) Verbal only 
+Answer: a) Clear and informed 
+188. CCPWC scheme focuses on: 
+a) Cyber safety awareness 
+b) Printer usage 
+c) Cable repair 
+d) Router upgrade 
+Answer: a) Cyber safety awareness 
+189. Cyber harassment includes: 
+a) Online abuse 
+b) Cyber stalking 
+c) Threat messages 
+d) All of the above 
+Answer: d) All of the above 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+190. Cyber terrorism under Section 66F includes: 
+a) Threat to national security 
+b) Printer hacking 
+c) Cable theft 
+d) OS downgrade 
+Answer: a) Threat to national security 
+191. Forensic documentation must be: 
+a) Accurate 
+b) Detailed 
+c) Time-stamped 
+d) All of the above 
+Answer: d) All of the above 
+192. Evidence preservation ensures: 
+a) No alteration 
+b) Fast printing 
+c) Cable fixing 
+d) OS update 
+Answer: a) No alteration 
+193. Digital investigation models provide: 
+a) Structured approach 
+b) Printer workflow 
+c) Cable mapping 
+d) OS setup 
+Answer: a) Structured approach 
+194. Forensic readiness reduces: 
+a) Investigation delay 
+b) Printer ink 
+c) Cable usage 
+d) Router size 
+Answer: a) Investigation delay 
+195. Ethical hacking certifications include: 
+a) CEH 
+b) OSCP 
+c) CISSP 
+d) All of the above 
+Answer: d) All of the above 
+196. Social engineering prevention requires: 
+a) Awareness training 
+b) Printer upgrade 
+c) Cable testing 
+d) OS removal 
+Answer: a) Awareness training 
+Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp 
+Insta: v2vedtech | App Link | v2vedtech
+V2V EdTech LLP | DFH (CO/IT) (316315) | Notes
+197. Cyber resilience means: 
+a) Ability to recover quickly 
+b) Printer repair 
+c) Cable replacement 
+d) OS downgrade 
+Answer: a) Ability to recover quickly 
+198. Incident response plan includes: 
+a) Detection 
+b) Containment 
+c) Recovery 
+d) All of the above 
+Answer: d) All of the above 
+199. Digital forensic investigation ends with: 
+a) Case closure 
+b) Printer shutdown 
+c) Cable removal 
+d) OS update 
+Answer: a) Case closure 
+200. The ultimate objective of UNIT 5 concepts is: 
+a) Secure and legally compliant cyberspace 
+b) Printer maintenance 
+c) Cable control 
+d) OS deletion 
+Answer: a) Secure and legally compliant cyberspace

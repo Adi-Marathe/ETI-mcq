@@ -1,0 +1,3217 @@
+UNIT 2- Internet of Things 
+1. Which of the following is a key characteristic of 5G that enables real-time 
+applications like autonomous driving? 
+a) High power consumption 
+b) Ultra-low latency 
+c) Limited device connectivity 
+d) Low data rates 
+Answer: 
+b) Ultra-low latency 
+Explanation: 
+Ultra-low latency is a defining feature of 5G that allows data to be transmitted with minimal 
+delay, which is essential for real-time applications such as autonomous vehicles and remote 
+surgery. 
+2. What is the typical peak data rate supported by 5G networks? 
+a) 1 Gbps10 Gbps 
+b) 20 Gbps 
+c) 100 Mbps 
+Answer: 
+c) 20 Gbps 
+Explanation: 
+5G networks are designed to support very high peak data rates, theoretically reaching up to 
+20 Gbps under ideal conditions. 
+3. Which 5G feature allows it to support up to 1 million devices per square kilometre? 
+a) Network slicing 
+b) Massive Machine-Type Communications (mMTC) 
+c) Ultra-Reliable Low-Latency Communications (URLLC) 
+d) Beamforming 
+Answer: 
+b) Massive Machine-Type Communications (mMTC) 
+Explanation: 
+mMTC enables connectivity for a very large number of IoT devices in a small area, making it 
+suitable for smart cities and large-scale IoT deployments. 
+4. Which application area of 5G is most associated with real-time remote surgeries? 
+a) Smart agriculture 
+b) Healthcare 
+c) Smart homes 
+d) Logistics 
+Answer: 
+b) Healthcare 
+Explanation: 
+5G supports remote surgeries through ultra-low latency and high reliability, which are critical 
+in medical procedures. 
+5. What is the purpose of network slicing in 5G technology? 
+a) To increase power consumption 
+b) To create multiple virtual networks on the same infrastructure 
+c) To reduce network coverage 
+d) To limit device connectivity 
+Answer: 
+b) To create multiple virtual networks on the same infrastructure 
+Explanation: 
+Network slicing allows multiple virtual networks to be created over a single physical 
+network, each optimized for different services such as IoT, healthcare, or video streaming. 
+6. Which of the following is an application of 5G in smart cities? 
+a) Remote gaming 
+b) Traffic management with real-time sensor data 
+c) Virtual reality training for surgeons 
+d) Precision farming 
+Answer: 
+b) Traffic management with real-time sensor data 
+Explanation: 
+5G enables real-time data collection and processing from sensors, helping in efficient traffic 
+management in smart cities. 
+7. Which 5G characteristic improves energy efficiency for IoT devices? 
+a) High latency 
+b) Optimized power consumption 
+c) Limited bandwidth 
+d) Low reliability 
+Answer: 
+b) Optimized power consumption 
+Explanation: 
+5G optimizes power usage, allowing IoT devices to operate efficiently for longer durations 
+with lower energy consumption. 
+8. IoT stands for ……… 
+a) Internet of Technology 
+b) Intranet of Things 
+c) Internet of Things 
+d) Information of Things 
+Answer: 
+c) Internet of Things 
+Explanation: 
+IoT stands for Internet of Things, which refers to a network of interconnected physical 
+objects that collect and exchange data over the internet. 
+9. What is the Internet of Things (IoT)? 
+a) A technology used only for smartphones 
+b) A network of interconnected physical devices that exchange data 
+c) A type of computer virus 
+d) A communication protocol for websites 
+Answer: 
+b) A network of interconnected physical devices that exchange data 
+Explanation: 
+IoT connects physical devices embedded with sensors and connectivity, enabling them to 
+communicate and share data. 
+10. Which of the following is a key characteristic of IoT? 
+a) Manual operation 
+b) Isolation of devices 
+c) Interconnectivity 
+d) Lack of automation 
+Answer: 
+c) Interconnectivity 
+Explanation: 
+Interconnectivity allows IoT devices to communicate with each other and with cloud systems 
+over networks. 
+11. Which IoT feature enables devices to operate without human involvement? 
+a) Automation 
+b) Virtualization 
+c) Encryption 
+d) Translation 
+Answer: 
+a) Automation 
+Explanation: 
+Automation allows IoT devices to perform actions automatically based on predefined 
+conditions and sensor inputs. 
+12. ‘Things’ in IoT refers to ……… 
+a) Only smartphones 
+b) Any physical object with a sensor and connectivity 
+c) Website links 
+d) Only computers 
+Answer:
+b) Any physical object with a sensor and connectivity 
+Explanation: 
+In IoT, “things” are physical objects equipped with sensors, software, and network 
+connectivity. 
+13. Which communication technology is widely used in IoT? 
+a) HDMI 
+b) USB 
+c) Wi-Fi 
+d) VGA 
+Answer: 
+c) Wi-Fi 
+Explanation: 
+Wi-Fi is commonly used in IoT for wireless communication between devices and the internet. 
+14. Which of the following is an application of IoT? 
+a) Social media chatting 
+b) Smart home automation 
+c) Playing offline games 
+d) File compression 
+Answer: 
+b) Smart home automation 
+Explanation: 
+Smart home automation uses IoT devices to control lighting, security, appliances, and energy 
+systems automatically. 
+15. IoT allows devices to collect and share data using ……… 
+a) Sensors 
+b) CDs 
+c) Printers 
+d) Speakers 
+Answer: 
+a) Sensors 
+Explanation: 
+Sensors are the primary components that collect environmental data in IoT systems. 
+16. Which is an advantage of IoT? 
+a) Reduced automation 
+b) Increased human effort 
+c) Real-time monitoring 
+d) Less data availability 
+Answer: 
+c) Real-time monitoring 
+Explanation: 
+IoT enables continuous and real-time monitoring of systems, improving efficiency and 
+decision-making. 
+17. Which of the following is a limitation of IoT? 
+a) High scalability 
+b) Security and privacy issues 
+c) Increased efficiency 
+d) Better data collection 
+Answer: 
+b) Security and privacy issues 
+Explanation: 
+IoT systems are vulnerable to cyberattacks and data breaches, making security a major 
+concern. 
+18. Which characteristic of IoT enables devices to work together? 
+a) Fragmentation 
+b) Interoperability 
+c) Decoupling 
+d) Sampling 
+Answer: 
+b) Interoperability 
+Explanation: 
+Interoperability allows different IoT devices, platforms, and systems to communicate and 
+function together smoothly. 
+19. Smart watches, fitness trackers, and medical sensors fall under which IoT 
+application area? 
+a) Industrial automation 
+b) Healthcare 
+c) Transport 
+d) Agriculture 
+Answer: 
+b) Healthcare 
+Explanation: 
+Wearable devices and medical sensors are used to monitor health parameters, making them 
+part of healthcare IoT applications. 
+20. Which of the following is NOT an IoT advantage? 
+a) Improved monitoring 
+b) Better decision-making 
+c) Increased cyber risks 
+d) Automation 
+Answer: 
+c) Increased cyber risks 
+Explanation: 
+Increased cyber risks are a disadvantage of IoT due to security vulnerabilities, not an 
+advantage. 
+21. Cloud computing helps IoT by ……… 
+a) Storing and processing large amounts of data 
+b) Creating viruses 
+c) Blocking device communication 
+d) Removing internet access 
+Answer: 
+a) Storing and processing large amounts of data 
+Explanation: 
+Cloud computing provides storage, processing, and analytics capabilities required to handle 
+massive IoT data. 
+22. Which component is essential in IoT devices? 
+a) Sensors and actuators 
+b) Chalk and board 
+c) Pen drive 
+d) Hard disk 
+Answer: 
+a) Sensors and actuators 
+Explanation: 
+Sensors collect data and actuators perform actions, making them essential components of IoT 
+systems. 
+23. Which IoT application is widely used in agriculture? 
+a) Weather-based irrigation systems 
+b) Online shopping portals 
+c) Music streaming 
+d) Video editing 
+Answer: 
+a) Weather-based irrigation systems 
+Explanation: 
+IoT-based irrigation systems use sensors to monitor weather and soil conditions to optimize 
+water usage. 
+24. Physical design of IoT mainly focuses on ……… 
+a) Data flow 
+b) Hardware components 
+c) Cloud services 
+d) Software standards 
+Answer: 
+b) Hardware components 
+Explanation: 
+Physical design deals with sensors, actuators, devices, and hardware used in IoT systems. 
+25. Which of the following is part of the physical design of IoT? 
+a) IoT protocols 
+b) Sensors and actuators 
+c) Cloud databases 
+d) Data analytics 
+Answer: 
+b) Sensors and actuators 
+Explanation: 
+Sensors and actuators are physical components directly involved in interacting with the 
+environment. 
+26. Logical design of IoT deals with ……… 
+a) Hardware wiring 
+b) Functional blocks and data flows 
+c) Power supply 
+d) Battery types 
+Answer: 
+b) Functional blocks and data flows 
+Explanation: 
+Logical design focuses on how different functional blocks interact and how data flows 
+through the system. 
+27. Which is NOT a physical component of IoT? 
+a) Sensors 
+b) RFID tags 
+c) Application layer 
+d) Actuators 
+Answer: 
+c) Application layer 
+Explanation: 
+The application layer belongs to the logical/software architecture, not the physical 
+components. 
+28. An actuator in IoT is used for ……… 
+a) Receiving data 
+b) Storing data 
+c) Performing actions 
+d) Testing networks 
+Answer: 
+c) Performing actions 
+Explanation: 
+Actuators convert electrical signals into physical actions such as switching on motors or 
+lights. 
+29. Which device converts physical signals into electrical signals? 
+a) Actuator 
+b) Sensor 
+c) Router 
+d) Microcontroller 
+Answer: 
+b) Sensor 
+Explanation: 
+Sensors detect physical quantities like temperature or pressure and convert them into 
+electrical signals. 
+30. Which of the following is part of logical design? 
+a) RFID 
+b) MQTT protocol 
+c) ESP32 board 
+d) Temperature sensor 
+Answer: 
+b) MQTT protocol 
+Explanation: 
+Logical design of IoT includes communication models and communication APIs such as 
+MQTT. RFID, ESP32, and temperature sensors belong to physical design. 
+31. IoT architecture commonly uses how many layers? 
+a) 1 
+b) 3 
+c) 5 
+d) 7 
+Answer: 
+b) 3 
+Explanation: 
+The commonly used IoT architecture consists of three layers: Perception layer, Network 
+layer, and Application layer. 
+32. The perception layer in IoT architecture handles ……… 
+a) Data processing 
+b) Sensing and data collection 
+c) Application services 
+d) Communication security 
+Answer: 
+b) Sensing and data collection 
+Explanation: 
+The perception layer consists of sensors and actuators that sense physical parameters and 
+collect data from the environment. 
+33. The network layer in IoT architecture is responsible for ……… 
+a) Storing data only 
+b) Processing raw data 
+c) Transmitting data 
+d) Displaying output 
+Answer: 
+c) Transmitting data 
+Explanation: 
+The network layer transfers data collected by sensors to the cloud or application layer using 
+communication technologies. 
+34. Application layer in IoT handles ……… 
+a) Signal amplification 
+b) User-side services 
+c) Device manufacturing 
+d) Power management 
+Answer: 
+b) User-side services 
+Explanation: 
+The application layer provides services to users such as dashboards, monitoring systems, and 
+control applications. 
+35. Which of these is a communication technology used in physical design? 
+a) Wi-Fi 
+b) Excel 
+c) Twitter 
+d) HTML 
+Answer: 
+a) Wi-Fi 
+Explanation: 
+Wi-Fi is a communication technology used in the physical design of IoT to enable device 
+connectivity. 
+36. IoT logical design uses functional blocks such as ……… 
+a) Power blocks 
+b) Communication blocks 
+c) Display blocks 
+d) Motor blocks 
+Answer: 
+b) Communication blocks 
+Explanation: 
+Logical design includes functional blocks like device, communication, services, management, 
+security, and application blocks. 
+37. Which of the following is part of the IoT functional block? 
+a) Security 
+b) Shoes 
+c) Bulb 
+d) Wire 
+Answer: 
+a) Security 
+Explanation: 
+Security is an IoT functional block responsible for authentication, authorization, and data 
+protection. 
+38. Physical design includes which component? 
+a) Cloud API 
+b) Sensors 
+c) SQL database 
+d) Data warehouse 
+Answer: 
+b) Sensors 
+Explanation: 
+Sensors are physical components used to collect data from the environment, hence part of 
+physical design. 
+39. The main job of the IoT communication block is ……… 
+a) To cook food 
+b) To transfer data between devices 
+c) To store raw data 
+d) To protect files 
+Answer: 
+b) To transfer data between devices 
+Explanation: 
+The communication block manages data transmission between IoT devices, gateways, 
+servers, and cloud platforms. 
+40. In IoT architecture, which layer handles data routing? 
+a) Application 
+b) Network 
+c) Perception 
+d) Storage 
+Answer: 
+b) Network 
+Explanation: 
+The network layer handles routing and transmission of data across networks in an IoT 
+system. 
+41. Logical design describes ……… 
+a) How the device physically looks 
+b) How IoT functions conceptually 
+c) Voltage requirements 
+d) Mechanical shape 
+Answer: 
+b) How IoT functions conceptually 
+Explanation: 
+Logical design focuses on the conceptual working of IoT systems, including functional 
+blocks, data flow, and communication models, not physical appearance. 
+42. Which of these is a sensing component? 
+a) LED 
+b) Temperature sensor 
+c) Speaker 
+d) Switch 
+Answer: 
+b) Temperature sensor 
+Explanation: 
+A temperature sensor detects physical temperature and converts it into an electrical signal, 
+making it a sensing component. 
+43. The 3-layer IoT architecture is also called ……… 
+a) Simple IoT architecture 
+b) Basic reference model 
+c) Open IoT structure 
+d) Smart architecture 
+Answer: 
+b) Basic reference model 
+Explanation: 
+The 3-layer IoT architecture (Perception, Network, Application) is commonly referred to as 
+the basic reference model. 
+44. RFID tags are used in IoT for ……… 
+a) Audio output 
+b) Object identification 
+c) Multimedia sharing 
+d) Gaming 
+Answer: 
+b) Object identification 
+Explanation: 
+RFID tags are mainly used to uniquely identify objects in IoT systems. 
+45. Micro-controllers like Arduino belong to ……… 
+a) Logical design 
+b) Physical design 
+c) Database architecture 
+d) Application layer 
+Answer: 
+b) Physical design 
+Explanation: 
+Microcontrollers are hardware components and hence part of the physical design of IoT. 
+46. Logical design defines ……… 
+a) IoT network placement 
+b) IoT communication protocols 
+c) IoT battery size 
+d) Motor speed 
+Answer: 
+b) IoT communication protocols 
+Explanation: 
+Logical design includes communication models and protocols that define how IoT 
+components interact. 
+47. The physical design determines ……… 
+a) Cloud storage type 
+b) Actual IoT device components 
+c) Software algorithms 
+d) User interface 
+Answer: 
+b) Actual IoT device components 
+Explanation: 
+Physical design deals with real hardware such as sensors, actuators, microcontrollers, and 
+communication modules. 
+48. Which architecture layer is closest to the IoT device? 
+a) Application 
+b) Network 
+c) Perception 
+d) Middleware 
+Answer: 
+c) Perception 
+Explanation: 
+The perception layer directly interacts with physical devices through sensors and actuators. 
+49. In IoT, “Things” refer to ……… 
+a) Only mobile phones 
+b) Physical devices with sensors 
+c) Software applications 
+d) Audio devices only 
+Answer: 
+b) Physical devices with sensors 
+Explanation: 
+“Things” in IoT are physical objects embedded with sensors and connectivity. 
+50. Which is NOT included in logical design? 
+a) Data flow 
+b) IoT Protocols 
+c) Hardware sensors 
+d) Functional blocks 
+Answer: 
+c) Hardware sensors 
+Explanation: 
+Hardware sensors belong to physical design, not logical design. 
+51. Fog computing belongs to which layer? 
+a) Perception 
+b) Application 
+c) Network / Middleware 
+d) Hardware 
+Answer: 
+c) Network / Middleware 
+Explanation: 
+Fog computing operates between the cloud and IoT devices, providing computation, storage, 
+and networking services closer to the data source. Hence, it belongs to the Network/
+Middleware layer. 
+52. Which protocol is used in IoT logical design for messaging? 
+a) MQTT 
+b) HDMI 
+c) VGA 
+d) FTP 
+Answer: 
+a) MQTT 
+Explanation: 
+MQTT is a lightweight messaging protocol used in IoT logical design for efficient data 
+communication between devices. 
+53. A common physical IoT component for connectivity is ……… 
+a) ESP8266 module 
+b) Adobe Reader 
+c) PowerPoint 
+d) Facebook app 
+Answer: 
+a) ESP8266 module 
+Explanation: 
+ESP8266 is a Wi-Fi module widely used in IoT devices to provide wireless connectivity, 
+making it a common physical IoT component. 
+54. IoT architecture focuses on ……… 
+a) Device modelling 
+b) Layered communication 
+c) Movie editing 
+d) Painting 
+Answer: 
+b) Layered communication 
+Explanation: 
+IoT architecture is designed using layers such as perception, network, and application to 
+manage communication and data flow efficiently. 
+55. Which layer ensures user-specific IoT services? 
+a) Network 
+b) Application 
+c) Perception 
+d) Transport 
+Answer: 
+b) Application 
+Explanation: 
+The application layer provides user-specific services like dashboards, alerts, and control 
+interfaces. 
+56. The term “IoT functional view” refers to ……… 
+a) Logical design 
+b) Clothing design 
+c) Hardware manufacturing 
+d) Android coding 
+Answer: 
+a) Logical design 
+Explanation: 
+The functional view of IoT explains how components work conceptually, which is part of 
+logical design. 
+57. In logical design, data processing is part of ……… 
+a) Functional block 
+b) Battery block 
+c) Physical tool 
+d) Mechanical block 
+Answer: 
+a) Functional block 
+Explanation: 
+Logical design uses functional blocks such as sensing, processing, communication, and 
+control. 
+58. Which of the following best describes IoT architecture? 
+a) A layered structure 
+b) A flat structure 
+c) A random structure 
+d) A circular structure 
+Answer: 
+a) A layered structure 
+Explanation: 
+IoT architecture is organized into layers to separate responsibilities and improve scalability. 
+59. An example of a physical design communication device is ……… 
+a) LDR sensor 
+b) Bluetooth module 
+c) SQL server 
+d) Cloud analytics 
+Answer: 
+b) Bluetooth module 
+Explanation: 
+Bluetooth modules are physical hardware components used for wireless communication in 
+IoT. 
+60. Which layer includes device addressing? 
+a) Application 
+b) Network 
+c) Perception 
+d) Security layer 
+Answer: 
+b) Network 
+Explanation: 
+The network layer handles device addressing, routing, and data transmission. 
+61. Sensors and actuators are part of which layer? 
+a) Network 
+b) Perception 
+c) Application 
+d) Processing 
+Answer: 
+b) Perception 
+Explanation: 
+The perception layer includes sensors and actuators that interact with the physical 
+environment. 
+62. Which is a key function of IoT architecture? 
+a) Organizing data flow 
+b) Video editing 
+c) Graphic design 
+d) Gaming support 
+Answer: 
+a) Organizing data flow 
+Explanation: 
+IoT architecture organizes how data is collected, transmitted, processed, and used. 
+63. A gateway in IoT is mainly used for ……… 
+a) Cooking 
+b) Bridging devices with the internet 
+c) Taking photos 
+d) Increasing sound 
+Answer: 
+b) Bridging devices with the internet 
+Explanation: 
+IoT gateways connect local devices and sensors to the internet or cloud. 
+64. Logical design focuses on ……… 
+a) Device structure 
+b) Conceptual technical representation 
+c) Physical body 
+d) Mechanical shape 
+Answer: 
+b) Conceptual technical representation 
+Explanation: 
+Logical design explains how IoT components function and interact conceptually. 
+65. Which of the following is a physical IoT device? 
+a) Cloud software 
+b) Wi-Fi router 
+c) Big data analytics 
+d) HTML code 
+Answer: 
+b) Wi-Fi router 
+Explanation: 
+A Wi-Fi router is a physical hardware component used to connect IoT devices to networks. 
+66. The architecture layer that makes decisions for user is ……… 
+a) Perception 
+b) Application 
+c) Network 
+d) Physical 
+Answer: 
+b) Application 
+Explanation: 
+The application layer processes data and makes decisions such as alerts, control actions, and 
+user-level responses. 
+67. Middleware IoT architecture often lies between ……… 
+a) Application and hardware 
+b) Network and perception 
+c) User and government 
+d) Internet and email 
+Answer: 
+a) Application and hardware 
+Explanation: 
+Middleware acts as a bridge between physical devices (hardware) and applications, enabling 
+communication and data processing. 
+68. IoT protocols mainly belong to ……… 
+a) Logical design 
+b) Physical design 
+c) Robotics 
+d) Mathematics 
+Answer: 
+a) Logical design 
+Explanation: 
+Protocols define communication rules and data exchange, which are part of the logical design 
+of IoT. 
+69. The physical design of IoT includes which of these? 
+a) Wi-Fi module 
+b) XML 
+c) SQL 
+d) Website 
+Answer: 
+a) Wi-Fi module 
+Explanation: 
+Physical design includes hardware components such as sensors, actuators, and 
+communication modules like Wi-Fi. 
+70. The operation of sensors in IoT is part of ……… 
+a) Logical design 
+b) Physical design 
+c) Application design 
+d) Cloud design 
+Answer: 
+b) Physical design 
+Explanation: 
+Sensors are physical devices, so their operation is included in the physical design of IoT. 
+71. A sensor is a device that ……… 
+a) Performs physical action 
+b) Converts physical quantity into electrical signals 
+c) Stores data 
+d) Only transmits data 
+Answer: 
+b) Converts physical quantity into electrical signals 
+Explanation: 
+Sensors detect physical parameters like temperature or pressure and convert them into 
+electrical signals. 
+72. Which of the following is an example of an actuator? 
+a) Temperature sensor 
+b) Soil moisture sensor 
+c) DC motor 
+d) LDR sensor 
+Answer: 
+c) DC motor 
+Explanation: 
+Actuators perform actions. A DC motor converts electrical energy into mechanical motion. 
+73. A PIR sensor is used to detect ……… 
+a) Light 
+b) Pressure 
+c) Motion 
+d) Sound 
+Answer: 
+c) Motion 
+Explanation: 
+PIR (Passive Infrared) sensors detect motion by sensing changes in infrared radiation. 
+74. Which sensor is used for measuring temperature? 
+a) LDR 
+b) Ultrasonic sensor 
+c) LM35 
+d) IR sensor 
+Answer: 
+c) LM35 
+Explanation: 
+LM35 is a commonly used temperature sensor that provides output proportional to 
+temperature. 
+75. Which of the following detects light intensity? 
+a) DHT11 
+b) LDR 
+c) Load cell 
+d) MQ-2 
+Answer: 
+b) LDR 
+Explanation: 
+LDR (Light Dependent Resistor) changes resistance based on light intensity. 
+76. The MQ-2 sensor is used to detect ……… 
+a) Motion 
+b) Gas 
+c) Water level 
+d) Pressure 
+Answer: 
+b) Gas 
+Explanation: 
+MQ-2 is a gas sensor used for detecting gases like LPG, smoke, and methane. 
+77. Which actuator converts electrical energy into rotational motion? 
+a) Relay 
+b) DC motor 
+c) LDR 
+d) Thermistor 
+Answer: 
+b) DC motor 
+Explanation: 
+A DC motor converts electrical energy into rotational mechanical motion. 
+78. A servo motor is an actuator used for ……… 
+a) Temperature sensing 
+b) Precise angular movement 
+c) Sound detection 
+d) Light measurement 
+Answer: 
+b) Precise angular movement 
+Explanation: 
+Servo motors are used where accurate angle control is required, such as in robotics. 
+79. Which sensor is used for distance measurement in IoT? 
+a) Ultrasonic sensor 
+b) Thermistor 
+c) IR flame sensor 
+d) MQ-135 
+Answer: 
+a) Ultrasonic sensor 
+Explanation: 
+Ultrasonic sensors measure distance by sending sound waves and calculating the time taken 
+for the echo to return. 
+80. Which sensor is commonly used in smart homes for humidity and temperature? 
+a) LDR 
+b) DHT11 
+c) Load cell 
+d) Motion sensor 
+Answer: 
+b) DHT11 
+Explanation: 
+DHT11 is a combined temperature and humidity sensor widely used in smart home and IoT 
+projects. 
+81. Load cells are used to measure ……… 
+a) Light 
+b) Gas 
+c) Weight / force 
+d) Altitude 
+Answer: 
+c) Weight / force 
+Explanation: 
+Load cells convert applied force or weight into electrical signals. 
+82. Which of these is NOT a sensor? 
+a) Gyroscope 
+b) Accelerometer 
+c) Relay 
+d) Thermistor 
+Answer: 
+c) Relay 
+Explanation: 
+A relay is an actuator/switch, not a sensor. Sensors only detect physical parameters. 
+83. An actuator that allows switching of high-voltage devices is ……… 
+a) Servo motor 
+b) Relay 
+c) LDR 
+d) IR sensor 
+Answer: 
+b) Relay 
+Explanation: 
+Relays are used to control high-voltage or high-current devices using low-power signals. 
+84. A thermistor is used for ……… 
+a) Temperature measurement 
+b) Sound detection 
+c) Distance measurement 
+d) Vibration detection 
+Answer: 
+a) Temperature measurement 
+Explanation: 
+Thermistors change resistance with temperature and are used for temperature sensing. 
+85. Which sensor is used in smartphones for screen rotation? 
+a) Gyroscope 
+b) Gas sensor 
+c) PIR sensor 
+d) LDR 
+Answer: 
+a) Gyroscope 
+Explanation: 
+Gyroscopes detect orientation and angular movement, enabling screen rotation. 
+86. Accelerometers measure ……… 
+a) Temperature 
+b) Gas concentration 
+c) Acceleration / tilt 
+d) Noise level 
+Answer: 
+c) Acceleration / tilt 
+Explanation: 
+Accelerometers measure acceleration and tilt, useful in motion detection. 
+87. A buzzer in IoT acts as a ……… 
+a) Sensor 
+b) Actuator 
+c) Controller 
+d) Storage device 
+Answer: 
+b) Actuator 
+Explanation: 
+A buzzer performs an action (sound output), so it is an actuator. 
+88. Which sensor is used in smoke detection? 
+a) MQ-2 
+b) BMP180 
+c) LDR 
+d) PIR 
+Answer: 
+a) MQ-2 
+Explanation: 
+MQ-2 detects smoke and combustible gases, commonly used in fire alarm systems. 
+89. Which sensor is used to detect fire? 
+a) LDR 
+b) Flame sensor 
+c) DHT11 
+d) Ultrasonic 
+Answer: 
+b) Flame sensor 
+Explanation: 
+Flame sensors detect infrared radiation emitted by fire. 
+90. A stepper motor is used when ……… 
+a) Rotation in steps is required 
+b) Gas detection is needed 
+c) Temperature must be sensed 
+d) Light measurement is needed 
+Answer: 
+a) Rotation in steps is required 
+Explanation: 
+Stepper motors rotate in discrete steps, allowing precise position control. 
+91. Which sensor detects sound levels? 
+a) BMP180 
+b) Sound sensor 
+c) Ultrasonic 
+d) Gyroscope 
+Answer: 
+b) Sound sensor 
+Explanation: 
+Sound sensors detect sound intensity or noise levels. 
+92. The BMP180 sensor is used for ……… 
+a) Gas detection 
+b) Altitude and pressure 
+c) Vibration measurement 
+d) Light sensing 
+Answer: 
+b) Altitude and pressure 
+Explanation: 
+BMP180 is a barometric pressure sensor used for altitude estimation. 
+93. A water level sensor is used to ……… 
+a) Monitor humidity 
+b) Detect water depth or presence 
+c) Measure gas 
+d) Control motor speed 
+Answer: 
+b) Detect water depth or presence 
+Explanation: 
+Water level sensors detect the presence or level of water in tanks or reservoirs. 
+94. Which of the following is a digital sensor? 
+a) LDR 
+b) Thermistor 
+c) DHT22 
+d) Load cell 
+Answer: 
+c) DHT22 
+Explanation: 
+DHT22 provides digital output for temperature and humidity readings. 
+95. The IR sensor mainly detects ……… 
+a) Infrared radiation and object presence 
+b) Temperature 
+c) Water flow 
+d) Gas leakage 
+Answer: 
+a) Infrared radiation and object presence 
+Explanation: 
+IR sensors detect infrared radiation reflected from objects. 
+96. A relay can be classified as ……… 
+a) Input sensor 
+b) Output actuator 
+c) Storage device 
+d) Power supply 
+Answer: 
+b) Output actuator 
+Explanation: 
+Relays perform switching actions, so they are actuators. 
+97. Which sensor is suitable for soil moisture measurement? 
+a) PIR 
+b) Capacitive soil moisture sensor 
+c) MQ-135 
+d) Ultrasonic 
+Answer: 
+b) Capacitive soil moisture sensor 
+Explanation: 
+Capacitive soil moisture sensors measure water content in soil. 
+98. A vibration sensor is used for ……… 
+a) Detecting movement in machines 
+b) Measuring humidity 
+c) Reading light intensity 
+d) Checking pressure 
+Answer: 
+a) Detecting movement in machines 
+Explanation: 
+Vibration sensors detect abnormal vibrations in machinery. 
+99. A photodiode is primarily used for ……… 
+a) Gas detection 
+b) Light sensing 
+c) Sound detection 
+d) Temperature measurement 
+Answer: 
+b) Light sensing 
+Explanation: 
+Photodiodes convert light into electrical current. 
+100. Which of these is an example of an actuator used in home automation? 
+a) Ultrasonic sensor 
+b) Gas sensor 
+c) Electric door lock 
+d) DHT11 
+Answer: 
+c) Electric door lock 
+Explanation: 
+Electric door locks perform actions (locking/unlocking), so they are actuators. 
+101. A flow sensor is used to measure ……… 
+a) Gas 
+b) Fluid movement 
+c) Sound 
+d) Pressure 
+Answer: 
+b) Fluid movement 
+Explanation: 
+Flow sensors measure the rate of liquid or gas flow in pipelines. 
+102. The role of an actuator in IoT is to ……… 
+a) Process data 
+b) Sense environmental changes 
+c) Perform an action based on input 
+d) Store cloud information 
+Answer: 
+c) Perform an action based on input 
+Explanation: 
+An actuator converts electrical signals into physical actions such as motion, switching, or 
+control. 
+103. Which sensor is commonly used in IoT-based weather monitoring systems? 
+a) PIR sensor 
+b) DHT22 
+c) Ultrasonic sensor 
+d) Relay 
+Answer: 
+b) DHT22 
+Explanation: 
+DHT22 measures temperature and humidity, which are key weather parameters. 
+104. Which actuator is used to control water flow in smart irrigation systems? 
+a) Servo motor 
+b) Solenoid valve 
+c) LDR 
+d) Gyroscope 
+Answer: 
+b) Solenoid valve 
+Explanation: 
+Solenoid valves open or close water flow electronically in irrigation systems. 
+105. A Hall Effect sensor is used to measure ……… 
+a) Temperature 
+b) Magnetic field 
+c) Humidity 
+d) Sound 
+Answer: 
+b) Magnetic field 
+Explanation: 
+Hall Effect sensors detect magnetic fields and are used in speed and position sensing. 
+106. 5G networks are mainly designed to support ……… 
+a) Only voice calls 
+b) Low-speed IoT devices 
+c) High-speed, low-latency communication 
+d) Cable TV signals 
+Answer: 
+c) High-speed, low-latency communication 
+Explanation: 
+5G provides ultra-low latency and very high data rates for advanced applications. 
+107. Which of the following is a key characteristic of 5G? 
+a) High latency 
+b) Low bandwidth 
+c) Ultra-low latency 
+d) Limited connectivity 
+Answer: 
+c) Ultra-low latency 
+Explanation: 
+Ultra-low latency enables real-time applications like autonomous driving and remote surgery. 
+108. 5G supports IoT using which feature? 
+a) Massive machine-type communication (mMTC) 
+b) Dial-up networking 
+c) USB connections 
+d) Satellite TV signals 
+Answer: 
+a) Massive machine-type communication (mMTC) 
+Explanation: 
+mMTC allows millions of IoT devices to connect simultaneously. 
+109. One important application area of 5G-IoT is ……… 
+a) Offline gaming 
+b) Smart cities 
+c) Paper printing 
+d) Manual farming 
+Answer: 
+b) Smart cities 
+Explanation: 
+5G enables smart traffic, energy management, and public safety in smart cities. 
+110. 5G can support up to ……… 
+a) Dozens of devices 
+b) 100 devices 
+c) Millions of devices per square kilometer 
+d) Only one device per household 
+Answer: 
+c) Millions of devices per square kilometer 
+Explanation: 
+5G is designed for massive device connectivity required by IoT ecosystems. 
+111. Which frequency band is commonly used in 5G? 
+a) Low-frequency AM band 
+b) 700 MHz – 52 GHz 
+c) 10–20 kHz 
+d) 1–5 kHz 
+Answer: 
+b) 700 MHz – 52 GHz 
+Explanation: 
+5G operates across sub-6 GHz and millimeter-wave frequency bands. 
+112. Which characteristic of 5G enables real-time IoT operations? 
+a) High latency 
+b) Low latency 
+c) Weak signal strength 
+d) Slow transmission 
+Answer: 
+b) Low latency 
+Explanation: 
+Low latency ensures instant data transmission for time-critical IoT applications. 
+113. An example of extreme real-time communication using 5G is ……… 
+a) File transfer 
+b) Remote surgery 
+c) Email sending 
+d) Social media browsing 
+Answer: 
+b) Remote surgery 
+Explanation: 
+Remote surgery requires ultra-low latency and high reliability provided by 5G. 
+114. 5G IoT applications in transportation include ……… 
+a) Self-driving cars 
+b) Typewriters 
+c) Postal mail 
+d) Bicycle sensors only 
+Answer: 
+a) Self-driving cars 
+Explanation: 
+Autonomous vehicles rely on fast, reliable communication enabled by 5G. 
+115. Next Generation Network (NGN) is primarily based on ……… 
+a) Circuit-switching 
+b) Packet-switched IP networks 
+c) Morse code 
+d) Analog communication 
+Answer: 
+b) Packet-switched IP networks 
+Explanation: 
+NGN uses IP packet switching to carry voice, video, and data. 
+116. NGN is designed to integrate ……… 
+a) Only audio communication 
+b) Multiple services like voice, video, and data 
+c) Only video streaming 
+d) Only SMS services 
+Answer: 
+b) Multiple services like voice, video, and data 
+Explanation: 
+NGN supports converged services over a unified IP network. 
+117. A key feature of NGN is ……… 
+a) Service independence from the network 
+b) Limited bandwidth 
+c) Analog interface 
+d) No mobility support 
+Answer: 
+a) Service independence from the network 
+Explanation: 
+NGN separates service logic from the transport network for flexibility. 
+118. Which functional block of NGN controls call setup and teardown? 
+a) Media Gateway 
+b) Media Gateway Controller 
+c) Application Server 
+d) Router 
+Answer: 
+b) Media Gateway Controller 
+Explanation: 
+The Media Gateway Controller manages call control and signaling. 
+119. Media Gateway in NGN is responsible for ……… 
+a) Converting media streams between networks 
+b) Performing user authentication 
+c) Controlling billing 
+d) Handling email traffic 
+Answer: 
+a) Converting media streams between networks 
+Explanation: 
+Media Gateways convert media formats between PSTN and IP networks. 
+120. The Application Server in NGN provides ……… 
+a) Power supply 
+b) Service logic and applications 
+c) Radio frequency 
+d) Sensor data 
+Answer: 
+b) Service logic and applications 
+Explanation: 
+Application Servers host and manage service logic such as VoIP and multimedia services. 
+121. Which component translates between IP and traditional PSTN networks? 
+a) Router 
+b) Media Gateway 
+c) Application Server 
+d) GPS module 
+Answer: 
+b) Media Gateway 
+Explanation: 
+A Media Gateway converts media streams between IP-based networks and traditional PSTN 
+networks. 
+122. NGN architecture supports mobility using ……… 
+a) Static channels 
+b) Packet routing 
+c) Satellite radio 
+d) SMS center 
+Answer: 
+b) Packet routing 
+Explanation: 
+Packet routing allows seamless mobility by dynamically routing data across IP networks. 
+123. Which of these is a benefit of 5G in IoT applications? 
+a) Slow response time 
+b) Reduced device density 
+c) Massive connectivity 
+d) Weak security 
+Answer: 
+c) Massive connectivity 
+Explanation: 
+5G supports a very large number of connected IoT devices simultaneously. 
+124. The part of NGN that handles service creation is ……… 
+a) Media Gateway 
+b) Application Server 
+c) PSTN switch 
+d) Antenna 
+Answer: 
+b) Application Server 
+Explanation: 
+The Application Server hosts service logic and manages application-level services. 
+125. 5G enables ultra-reliable communication also known as ……… 
+a) URLLC 
+b) VoIP 
+c) FTP 
+d) SMS 
+Answer: 
+a) URLLC 
+Explanation: 
+URLLC stands for Ultra-Reliable Low-Latency Communication, a core feature of 5G. 
+126. NGN Media Gateway Controller communicates using ……… 
+a) MGCP or H.248 
+b) PDF files 
+c) SMS protocol 
+d) Bluetooth 
+Answer: 
+a) MGCP or H.248 
+Explanation: 
+MGCP and H.248 are control protocols used by Media Gateway Controllers. 
+127. In 5G IoT, extremely low latency is essential for ……… 
+a) Video buffering 
+b) Smart appliances 
+c) Industrial automation 
+d) File downloads 
+Answer: 
+c) Industrial automation 
+Explanation: 
+Industrial automation requires instant response and minimal delay. 
+128. The NGN architecture is often divided into ……… 
+a) 1 layer 
+b) 2 layers 
+c) 3 layers 
+d) 7 layers 
+Answer: 
+c) 3 layers 
+Explanation: 
+NGN is commonly structured into transport, control, and service layers. 
+129. A key characteristic of NGN is ……… 
+a) No support for multimedia 
+b) Quality of Service (QoS) 
+c) Static switching 
+d) Manual routing 
+Answer: 
+b) Quality of Service (QoS) 
+Explanation: 
+NGN supports QoS to ensure reliable delivery of voice, video, and data. 
+130. In NGN, the Media Gateway Controller controls the ……… 
+a) Voice commands 
+b) Signaling messages 
+c) Laser signals 
+d) GSM only 
+Answer: 
+b) Signaling messages 
+Explanation: 
+The Media Gateway Controller manages signaling and call control. 
+131. Application servers in NGN are mainly ……… 
+a) End-user devices 
+b) Service execution platforms 
+c) Physical switches 
+d) Radio towers 
+Answer: 
+b) Service execution platforms 
+Explanation: 
+They execute and manage service logic for NGN services. 
+132. 5G enhances IoT applications in healthcare by enabling ……… 
+a) Offline medical tests 
+b) Remote patient monitoring 
+c) Manual data entry 
+d) Traditional telephones 
+Answer: 
+b) Remote patient monitoring 
+Explanation: 
+5G enables real-time health monitoring with low latency and high reliability. 
+133. Which feature of 5G helps in smart industrial robots? 
+a) High latency 
+b) Ultra-reliable low latency 
+c) Low bandwidth 
+d) Weak connectivity 
+Answer: 
+b) Ultra-reliable low latency 
+Explanation: 
+Industrial robots require precise and instant communication. 
+134. NGN supports which type of communication? 
+a) Circuit only 
+b) Multi-service packet communication 
+c) Manual signaling 
+d) Morse code 
+Answer: 
+b) Multi-service packet communication 
+Explanation: 
+NGN supports voice, video, and data over packet-switched IP networks. 
+135. The transport layer of NGN handles ……… 
+a) Service creation 
+b) User traffic transmission 
+c) Application logic 
+d) Authentication only 
+Answer: 
+b) User traffic transmission 
+Explanation: 
+The transport layer carries media and data packets across the network. 
+136. The combination of 5G and IoT is mainly used for ……… 
+a) Faster book printing 
+b) Automation and smart connectivity 
+c) Slower networks 
+d) Manual switching 
+Answer: 
+b) Automation and smart connectivity 
+Explanation: 
+5G + IoT enables intelligent automation across industries. 
+137. Cloud-based IoT architecture mainly integrates ……… 
+a) Sensors and printers 
+b) IoT devices with cloud storage and computing 
+c) Only mobile phones 
+d) Offline storage systems 
+Answer: 
+b) IoT devices with cloud storage and computing 
+Explanation: 
+Cloud platforms provide storage, processing, and analytics for IoT data. 
+138. In cloud-based IoT, the role of the cloud is to ……… 
+a) Only sense environmental data 
+b) Store, process, and analyze IoT data 
+c) Replace sensors 
+d) Provide audio output 
+Answer: 
+b) Store, process, and analyze IoT data 
+Explanation: 
+The cloud performs heavy computation and analytics for IoT systems. 
+139. Which layer of cloud-based IoT handles sensing and data collection? 
+a) Application layer 
+b) Sensor/Perception layer 
+c) Network management 
+d) Virtualization layer 
+Answer: 
+b) Sensor/Perception layer 
+Explanation: 
+This layer includes sensors and actuators that collect physical data. 
+140. In cloud-based IoT architecture, the network layer is responsible for ……… 
+a) Data transmission between devices and cloud 
+b) Data visualization 
+c) Executing cloud programs 
+d) Powering devices 
+Answer: 
+a) Data transmission between devices and cloud 
+Explanation: 
+The network layer ensures reliable communication between IoT devices and cloud services. 
+141. Which cloud service model is commonly used for IoT data analytics? 
+a) IaaS 
+b) PaaS 
+c) SaaS 
+d) CDP 
+Answer: 
+b) PaaS 
+Explanation: 
+PaaS provides platforms and tools for IoT data processing and analytics. 
+142. The application layer in cloud-based IoT provides ……… 
+a) Machine learning analysis 
+b) User-specific services like dashboards and alerts 
+c) Power supply management 
+d) Hardware manufacturing 
+Answer: 
+b) User-specific services like dashboards and alerts 
+Explanation: 
+The application layer interacts with users through interfaces and alerts. 
+143. Which of the following is NOT a component of cloud-based IoT architecture? 
+a) Perception layer 
+b) Network layer 
+c) Application layer 
+d) Manual switching layer 
+Answer: 
+d) Manual switching layer 
+Explanation: 
+Manual switching is not part of automated IoT architectures. 
+144. Cloud-based IoT improves scalability by ……… 
+a) Restricting device connections 
+b) Allowing flexible storage and resources 
+c) Reducing storage options 
+d) Turning off cloud servers 
+Answer: 
+b) Allowing flexible storage and resources 
+Explanation: 
+Cloud resources can scale up or down based on demand. 
+145. Which cloud platform is widely used for IoT? 
+a) Adobe Photoshop 
+b) Microsoft Azure IoT Hub 
+c) VLC Media Player 
+d) GIMP 
+Answer: 
+b) Microsoft Azure IoT Hub 
+Explanation: 
+Azure IoT Hub is a popular cloud platform for IoT device management. 
+146. The main benefit of integrating IoT with cloud is ……… 
+a) Manual data processing 
+b) Large-scale storage and real-time processing 
+c) Reduced connectivity 
+d) Less device automation 
+Answer: 
+b) Large-scale storage and real-time processing 
+Explanation: 
+Cloud computing enables efficient handling of massive IoT data. 
+147. Which layer in cloud-based IoT architecture is responsible for device connectivity 
+and data acquisition? 
+a) Application layer 
+b) Perception layer 
+c) Network layer 
+d) Business layer 
+Answer: 
+b) Perception layer 
+Explanation: 
+The perception layer collects data from sensors and devices. 
+148. What is the main purpose of the Cloud Service Layer in IoT architecture? 
+a) Storing and processing IoT data 
+b) Connecting IoT devices to sensors 
+c) End-user interaction 
+d) Powering IoT hardware 
+Answer: 
+a) Storing and processing IoT data 
+Explanation: 
+Cloud service layer handles data storage, processing, and analytics. 
+149. In a cloud-IoT system, which component typically performs real-time analytics? 
+a) IoT device 
+b) Cloud platform 
+c) Local router 
+d) End user application 
+Answer: 
+b) Cloud platform 
+Explanation: 
+Cloud platforms provide high computing power for real-time analytics. 
+150. Which cloud deployment model is most suitable for organizations wanting full 
+control over IoT data security? 
+a) Public Cloud 
+b) Private Cloud 
+c) Hybrid Cloud 
+d) Community Cloud 
+Answer: 
+b) Private Cloud 
+Explanation: 
+Private cloud offers maximum control and security over organizational data. 
+151.Who invented the term Internet of Things? 
+a) Bill Gates 
+b) Tim Berners-Lee 
+c) Kevin Ashton 
+d) Steve Jobs 
+Answer: c) Kevin Ashton 
+152.IoT devices are mainly embedded with: 
+a) Screens only 
+b) Sensors and software 
+c) Keyboards 
+d) Printers 
+Answer: b) Sensors and software 
+153.IoT mainly enables: 
+a) Offline communication 
+b) Manual systems 
+c) Interconnected smart devices 
+d) Only wired networking 
+Answer: c) Interconnected smart devices 
+154.RFID stands for: 
+a) Radio Frequency Internet Device 
+b) Radio Frequency Identification 
+c) Rapid File Identification 
+d) Real Frequency Data 
+Answer: b) Radio Frequency Identification 
+155.Which is NOT a characteristic of IoT? 
+a) Connectivity 
+b) Automation 
+c) Scalability 
+d) Isolation 
+Answer: d) Isolation 
+156.IoT allows automation to: 
+a) Increase manual work 
+b) Reduce human intervention 
+c) Stop communication 
+d) Increase delays 
+Answer: b) Reduce human intervention 
+157.Real-time processing is important in: 
+a) Smart IoT systems 
+b) Typewriters 
+c) Old telephone systems 
+d) Fax machines 
+Answer: a) Smart IoT systems 
+158.Indoor air quality monitoring is an example of: 
+a) Smart transport 
+b) IoT in Industry 
+c) Smart classroom 
+d) IoT gaming 
+Answer: b) IoT in Industry 
+159.Smart homes can be controlled using: 
+a) Calculator 
+b) Smart phone 
+c) Radio 
+d) Pager 
+Answer: b) Smart phone 
+160.IoT in agriculture helps in: 
+a) Gaming 
+b) Crop monitoring 
+c) Cinema 
+d) Banking only 
+Answer: b) Crop monitoring 
+161.IoT healthcare helps in: 
+a) Remote patient monitoring 
+b) Only surgery 
+c) File storage 
+d) Entertainment 
+Answer: a) Remote patient monitoring 
+162.GPS data in transport helps reduce: 
+a) Internet usage 
+b) Traffic congestion 
+c) Electricity 
+d) Agriculture production 
+Answer: b) Traffic congestion 
+163.IoT enables: 
+a) Manual communication 
+b) Device-to-device interaction 
+c) No connectivity 
+d) Paper-based work 
+Answer: b) Device-to-device interaction 
+164.Scalability means: 
+a) Fixed system 
+b) Growing system capability 
+c) Small storage 
+d) Low speed 
+Answer: b) Growing system capability 
+165.One major advantage of IoT is: 
+a) Slow processing 
+b) Cost efficiency 
+c) Manual control 
+d) Data loss 
+Answer: b) Cost efficiency 
+166.One disadvantage of IoT is: 
+a) Automation 
+b) Security vulnerability 
+c) Connectivity 
+d) Monitoring 
+Answer: b) Security vulnerability 
+167.IoT dependency mainly relies on: 
+a) Electricity only 
+b) Internet connectivity 
+c) Books 
+d) Paper 
+Answer: b) Internet connectivity 
+168.Data breaches in IoT affect: 
+a) Entertainment 
+b) Privacy and trust 
+c) Printing 
+d) Television 
+Answer: b) Privacy and trust 
+169.Physical design of IoT includes: 
+a) Sensors and protocols 
+b) Only cables 
+c) Only routers 
+d) Only processors 
+Answer: a) Sensors and protocols 
+170.Ethernet standard is: 
+a) 802.3 
+b) 802.11 
+c) 802.15 
+d) 802.16 
+Answer: a) 802.3 
+171.Wi-Fi standard belongs to: 
+a) 802.3 
+b) 802.11 
+c) 802.15.4 
+d) 802.16 
+Answer: b) 802.11 
+172.6LOWPAN works with: 
+a) 802.15.4 
+b) 802.3 
+c) 802.11 
+d) 4G 
+Answer: a) 802.15.4 
+173.IPv4 uses: 
+a) 32-bit address 
+b) 64-bit 
+c) 128-bit 
+d) 16-bit 
+Answer: a) 32-bit 
+174.IPv6 uses: 
+a) 32-bit 
+b) 64-bit 
+c) 128-bit 
+d) 256-bit 
+Answer: c) 128-bit 
+175.TCP is: 
+a) Connectionless 
+b) Connection oriented 
+c) Stateless 
+d) Wireless 
+Answer: b) Connection oriented 
+176.UDP is: 
+a) Reliable protocol 
+b) Connectionless protocol 
+c) Wired only 
+d) Slow protocol 
+Answer: b) Connectionless protocol 
+177.MQTT follows: 
+a) Request-response 
+b) Publish-subscribe 
+c) Push-pull 
+d) Exclusive pair 
+Answer: b) Publish-subscribe 
+178.HTTP works on: 
+a) UDP 
+b) TCP 
+c) Bluetooth 
+d) Zigbee 
+Answer: b) TCP 
+179.CoAP runs over: 
+a) TCP 
+b) UDP 
+c) FTP 
+d) SMTP 
+Answer: b) UDP 
+180.WebSocket supports: 
+a) Half duplex 
+b) Full duplex 
+c) Offline mode 
+d) File system 
+Answer: b) Full duplex 
+181.Sensor detects: 
+a) Physical parameters 
+b) Electricity bills 
+c) Software bugs 
+d) Internet speed 
+Answer: a) Physical parameters 
+182.Actuator performs: 
+a) Data storage 
+b) Physical action 
+c) Coding 
+d) Analysis 
+Answer: b) Physical action 
+183.Temperature sensor example: 
+a) DHT11 
+b) MQ-2 
+c) PIR 
+d) IR 
+Answer: a) DHT11 
+184.PIR is used for: 
+a) Temperature 
+b) Motion detection 
+c) Pressure 
+d) Light 
+Answer: b) Motion detection 
+185.BMP280 measures: 
+a) Gas 
+b) Pressure 
+c) Motion 
+d) Light 
+Answer: b) Pressure 
+186.MQ-2 detects: 
+a) Temperature 
+b) Gas 
+c) Humidity 
+d) Motion 
+Answer: b) Gas 
+187.Soil moisture sensor used in: 
+a) Industry 
+b) Agriculture 
+c) Banking 
+d) Cinema 
+Answer: b) Agriculture 
+188.Servo motor provides: 
+a) Linear motion 
+b) Precise angular position 
+c) Heating 
+d) Storage 
+Answer: b) Precise angular position 
+189.Relay acts as: 
+a) Sensor 
+b) Switch 
+c) Display 
+d) Processor 
+Answer: b) Switch 
+190.Solenoid provides: 
+a) Rotation 
+b) Linear motion 
+c) Light 
+d) Data 
+Answer: b) Linear motion 
+191.IoT gateway performs: 
+a) Data deletion 
+b) Pre-processing 
+c) Printing 
+d) Gaming 
+Answer: b) Pre-processing 
+192.Cloud layer provides: 
+a) Device sensing 
+b) Data storage and processing 
+c) Only wiring 
+d) Printing 
+Answer: b) Data storage and processing 
+193.SaaS stands for: 
+a) Software as a Service 
+b) Storage as System 
+c) Server as Software 
+d) System as Service 
+Answer: a) Software as a Service 
+194.IaaS provides: 
+a) Applications only 
+b) Infrastructure resources 
+c) Music 
+d) Books 
+Answer: b) Infrastructure resources 
+195.PaaS provides: 
+a) Platform for development 
+b) Hardware only 
+c) Only cables 
+d) Storage only 
+Answer: a) Platform for development 
+196.Exclusive pair model maintains: 
+a) Stateless connection 
+b) Persistent connection 
+c) No communication 
+d) Broadcast 
+Answer: b) Persistent connection 
+197.Publish-subscribe uses: 
+a) Broker 
+b) Printer 
+c) Cable 
+d) Router only 
+Answer: a) Broker 
+198.IoT security includes: 
+a) Authorization 
+b) Authentication 
+c) Encryption 
+d) All of the above 
+Answer: d) All of the above 
+199.LR-WPAN provides: 
+a) High speed 
+b) Low-rate wireless communication 
+c) Satellite link 
+d) Fiber 
+Answer: b) Low-rate wireless communication 
+200.Zigbee is based on: 
+a) 802.15.4 
+b) 802.3 
+c) 802.11 
+d) LTE 
+Answer: a) 802.15.4 
+201.IoT devices mainly communicate using: 
+a) Postal service 
+b) Internet protocols 
+c) Paper signals 
+d) Television waves 
+Answer: b) Internet protocols 
+202.Which layer handles host addressing and routing? 
+a) Application layer 
+b) Transport layer 
+c) Network layer 
+d) Physical layer 
+Answer: c) Network layer 
+203.IPv4 allows approximately how many addresses? 
+a) 1 million 
+b) 4.3 billion 
+c) 1 trillion 
+d) 100 million 
+Answer: b) 4.3 billion 
+204.6LOWPAN is mainly used for: 
+a) High-speed gaming 
+b) Low-power IoT devices 
+c) Video streaming 
+d) Satellite TV 
+Answer: b) Low-power IoT devices 
+205.Which protocol guarantees reliable data transfer? 
+a) UDP 
+b) MQTT 
+c) TCP 
+d) CoAP 
+Answer: c) TCP 
+206.UDP is suitable for: 
+a) File transfer 
+b) Email 
+c) Time-sensitive applications 
+d) Secure banking 
+Answer: c) Time-sensitive applications 
+207.HTTP follows which model? 
+a) Publish-subscribe 
+b) Push-pull 
+c) Request-response 
+d) Exclusive pair 
+Answer: c) Request-response 
+208.MQTT uses a: 
+a) Server only 
+b) Broker 
+c) Switch 
+d) Router only 
+Answer: b) Broker 
+209.CoAP is mainly designed for: 
+a) Large servers 
+b) Constrained devices 
+c) Supercomputers 
+d) Satellite communication 
+Answer: b) Constrained devices 
+210.WebSocket maintains: 
+a) Temporary link 
+b) Persistent connection 
+c) No connection 
+d) One-way communication 
+Answer: b) Persistent connection 
+211.IEEE 802.16 is related to: 
+a) WiFi 
+b) WiMax 
+c) Bluetooth 
+d) Zigbee 
+Answer: b) WiMax 
+212.IEEE 802.15.4 is used in: 
+a) Ethernet 
+b) Zigbee 
+c) LTE 
+d) Satellite 
+Answer: b) Zigbee 
+213.Transport layer provides: 
+a) Error control 
+b) Segmentation 
+c) Flow control 
+d) All of the above 
+Answer: d) All of the above 
+214.Port 80 is used by: 
+a) FTP 
+b) HTTP 
+c) SSH 
+d) SMTP 
+Answer: b) HTTP 
+215.MQTT is best suited for: 
+a) High bandwidth networks 
+b) Low bandwidth networks 
+c) Fiber optic only 
+d) Cable TV 
+Answer: b) Low bandwidth networks 
+216.XMPP is used for: 
+a) Real-time messaging 
+b) File compression 
+c) Hardware repair 
+d) Data storage 
+Answer: a) Real-time messaging 
+217.DDS stands for: 
+a) Data Distribution Service 
+b) Digital Data System 
+c) Device Data Storage 
+d) Direct Distribution Service 
+Answer: a) Data Distribution Service 
+218.AMQP is mainly used for: 
+a) Gaming 
+b) Business messaging 
+c) Image editing 
+d) Audio streaming 
+Answer: b) Business messaging 
+219.A sensor converts: 
+a) Digital signals to light 
+b) Physical signals to digital data 
+c) Electricity to gas 
+d) Data to paper 
+Answer: b) Physical signals to digital data 
+220.An actuator converts: 
+a) Data into physical action 
+b) Light into heat 
+c) Air into sound 
+d) Temperature into gas 
+Answer: a) Data into physical action 
+221.DHT22 measures: 
+a) Pressure 
+b) Humidity and temperature 
+c) Motion 
+d) Gas 
+Answer: b) Humidity and temperature 
+222.PIR sensors detect: 
+a) Sound 
+b) Motion 
+c) Light 
+d) Pressure 
+Answer: b) Motion 
+223.LDR is used for measuring: 
+a) Pressure 
+b) Gas 
+c) Light intensity 
+d) Motion 
+Answer: c) Light intensity 
+224.TPMS in vehicles monitors: 
+a) Fuel 
+b) Tyre pressure 
+c) Temperature 
+d) Engine speed 
+Answer: b) Tyre pressure 
+225.MQ series sensors detect: 
+a) Sound 
+b) Gas 
+c) Motion 
+d) Pressure 
+Answer: b) Gas 
+226.Accelerometer detects: 
+a) Light 
+b) Temperature 
+c) Orientation and vibration 
+d) Humidity 
+Answer: c) Orientation and vibration 
+227.IR sensors detect: 
+a) Heat radiation 
+b) Sound 
+c) Water 
+d) Pressure 
+Answer: a) Heat radiation 
+228.Servo motors are used for: 
+a) Heating 
+b) Precise angular movement 
+c) Sound 
+d) Light 
+Answer: b) Precise angular movement 
+229.Stepper motors move in: 
+a) Continuous rotation 
+b) Random motion 
+c) Discrete steps 
+d) Linear push 
+Answer: c) Discrete steps 
+230.DC motors convert: 
+a) Mechanical to electrical 
+b) Electrical to mechanical 
+c) Gas to liquid 
+d) Light to heat 
+Answer: b) Electrical to mechanical 
+231.A relay is mainly used to: 
+a) Sense motion 
+b) Switch high power circuits 
+c) Store data 
+d) Display output 
+Answer: b) Switch high power circuits 
+232.Solenoids are mainly used for: 
+a) Display 
+b) Linear push/pull action 
+c) Light sensing 
+d) Audio 
+Answer: b) Linear push/pull action 
+233.Cloud computing helps IoT in: 
+a) Data storage 
+b) Processing 
+c) Analytics 
+d) All of the above 
+Answer: d) All of the above 
+234.SaaS means: 
+a) Service as a Software 
+b) Software as a Service 
+c) Server as System 
+d) Storage as Software 
+Answer: b) Software as a Service 
+235.IaaS provides: 
+a) Applications 
+b) Platform 
+c) Infrastructure resources 
+d) Messaging 
+Answer: c) Infrastructure resources 
+236.PaaS is mainly used by: 
+a) Farmers 
+b) Developers 
+c) Drivers 
+d) Teachers 
+Answer: b) Developers 
+237.IoT gateway acts as: 
+a) Final storage 
+b) Intermediary device 
+c) Sensor 
+d) Actuator 
+Answer: b) Intermediary device 
+238.Data ingestion occurs in: 
+a) Device layer 
+b) Cloud platform layer 
+c) Sensor layer 
+d) Physical layer 
+Answer: b) Cloud platform layer 
+239.Application layer in IoT provides: 
+a) User interface 
+b) Wiring 
+c) Voltage 
+d) Hardware 
+Answer: a) User interface 
+240.Connectivity in IoT includes: 
+a) HTTP 
+b) MQTT 
+c) AMQP 
+d) All of the above 
+Answer: d) All of the above 
+241.Edge computing reduces: 
+a) Storage 
+b) Latency 
+c) Power 
+d) Sensors 
+Answer: b) Latency 
+242.IoT automation improves: 
+a) Manual errors 
+b) Efficiency 
+c) Delays 
+d) Cost increase 
+Answer: b) Efficiency 
+243.Security in IoT includes: 
+a) Encryption 
+b) Authentication 
+c) Authorization 
+d) All of the above 
+Answer: d) All of the above 
+244.Scalability ensures: 
+a) Fixed size system 
+b) System growth capability 
+c) Limited devices 
+d) No updates 
+Answer: b) System growth capability 
+245.Real-time IoT systems require: 
+a) Slow processing 
+b) Fast data processing 
+c) No internet 
+d) Manual control 
+Answer: b) Fast data processing 
+246.IoT in healthcare helps in: 
+a) Remote diagnosis 
+b) Entertainment 
+c) Printing 
+d) Banking 
+Answer: a) Remote diagnosis 
+247.Smart irrigation uses: 
+a) Soil moisture sensor 
+b) Sound sensor 
+c) Gas sensor 
+d) Light only 
+Answer: a) Soil moisture sensor 
+248.Interoperability means: 
+a) Devices work together 
+b) Devices isolated 
+c) No connectivity 
+d) Manual process 
+Answer: a) Devices work together 
+249.IoT devices generate: 
+a) Paper 
+b) Large amounts of data 
+c) Noise 
+d) Electricity only 
+Answer: b) Large amounts of data 
+250.Main goal of IoT is: 
+a) Isolation 
+b) Smart connectivity and automation 
+c) Manual processing 
+d) Offline storage 
+Answer: b) Smart connectivity and automation 
+251.IoT mainly connects: 
+a) People only 
+b) Devices only 
+c) Physical objects over Internet 
+d) Computers only 
+Answer: c) Physical objects over Internet 
+252.The main role of sensors in IoT is: 
+a) Actuation 
+b) Data collection 
+c) Data deletion 
+d) Data encryption 
+Answer: b) Data collection 
+253.Automation in IoT helps to: 
+a) Increase manual errors 
+b) Reduce human effort 
+c) Stop monitoring 
+d) Disable connectivity 
+Answer: b) Reduce human effort 
+254.IoT systems must support: 
+a) Interoperability 
+b) Isolation 
+c) Manual switching 
+d) Offline processing 
+Answer: a) Interoperability 
+255.CAN Bus is used for: 
+a) Wireless TV 
+b) Industrial communication 
+c) Satellite TV 
+d) FM radio 
+Answer: b) Industrial communication 
+256.Smart home devices communicate via: 
+a) Internet 
+b) Fax 
+c) Telegraph 
+d) Walkie-talkie 
+Answer: a) Internet 
+257.IoT agriculture systems analyze: 
+a) Weather and crop conditions 
+b) Cinema ratings 
+c) Stock exchange 
+d) Television signals 
+Answer: a) Weather and crop conditions 
+258.Remote monitoring is possible using: 
+a) IoT healthcare systems 
+b) Typewriters 
+c) Analog phones 
+d) Radio sets 
+Answer: a) IoT healthcare systems 
+259.IoT transportation systems use: 
+a) GPS 
+b) FM 
+c) CD player 
+d) Pager 
+Answer: a) GPS 
+260.One key feature of IoT is: 
+a) Real-time capability 
+b) Manual updates 
+c) Slow speed 
+d) Fixed size 
+Answer: a) Real-time capability 
+261.Ethernet operates at which layer? 
+a) Application 
+b) Transport 
+c) Link layer 
+d) Session 
+Answer: c) Link layer 
+262.802.11 operates in: 
+a) Wireless LAN 
+b) Satellite 
+c) Cable TV 
+d) Telephone 
+Answer: a) Wireless LAN 
+263.802.15.4 supports: 
+a) High bandwidth 
+b) Low power devices 
+c) Satellite link 
+d) 5G 
+Answer: b) Low power devices 
+264.4G data rate can reach up to: 
+a) 10 Mbps 
+b) 100 Mbps 
+c) 100 Mbps+ 
+d) 1 Kbps 
+Answer: c) 100 Mbps+ 
+265.Network layer performs: 
+a) Packet routing 
+b) File editing 
+c) Image processing 
+d) Hardware repair 
+Answer: a) Packet routing 
+266.IPv6 supports: 
+a) 32-bit addressing 
+b) 128-bit addressing 
+c) 16-bit addressing 
+d) 8-bit addressing 
+Answer: b) 128-bit addressing 
+267.Transport layer ensures: 
+a) End-to-end communication 
+b) Light intensity 
+c) Power supply 
+d) Screen display 
+Answer: a) End-to-end communication 
+268.TCP provides: 
+a) Unreliable transfer 
+b) Reliable transfer 
+c) No error control 
+d) No sequencing 
+Answer: b) Reliable transfer 
+269.UDP does NOT provide: 
+a) Guaranteed delivery 
+b) Speed 
+c) Low overhead 
+d) Fast transmission 
+Answer: a) Guaranteed delivery 
+270.HTTP uses: 
+a) Port 80 
+b) Port 22 
+c) Port 21 
+d) Port 25 
+Answer: a) Port 80 
+271.SSH uses port: 
+a) 80 
+b) 22 
+c) 21 
+d) 110 
+Answer: b) 22 
+272.MQTT stands for: 
+a) Message Queue Telemetry Transport 
+b) Multi Queue Transfer Tool 
+c) Modern Query Transmission Tool 
+d) Message Quick Transport Technology 
+Answer: a) Message Queue Telemetry Transport 
+273.CoAP is mainly used for: 
+a) Constrained environments 
+b) Video streaming 
+c) High gaming 
+d) 5G core 
+Answer: a) Constrained environments 
+274.Publish-subscribe model includes: 
+a) Publisher 
+b) Broker 
+c) Subscriber 
+d) All of the above 
+Answer: d) All of the above 
+275.Push-pull model uses: 
+a) Queue system 
+b) Email system 
+c) Paper system 
+d) Fax 
+Answer: a) Queue system 
+276.Exclusive pair model is: 
+a) Half duplex 
+b) Full duplex 
+c) Offline 
+d) Broadcast 
+Answer: b) Full duplex 
+277.Data analytics in IoT helps in: 
+a) Deriving insights 
+b) Deleting files 
+c) Printing data 
+d) Shutting down devices 
+Answer: a) Deriving insights 
+278.Scalability means system should: 
+a) Remain fixed 
+b) Grow with devices 
+c) Decrease devices 
+d) Stop updates 
+Answer: b) Grow with devices 
+279.IoT systems require: 
+a) Energy efficiency 
+b) High power consumption 
+c) No connectivity 
+d) No sensors 
+Answer: a) Energy efficiency 
+280.One disadvantage of IoT is: 
+a) Improved monitoring 
+b) Overreliance on technology 
+c) Automation 
+d) Connectivity 
+Answer: b) Overreliance on technology 
+281.Security vulnerabilities in IoT may cause: 
+a) Data theft 
+b) Faster speed 
+c) Better monitoring 
+d) No risk 
+Answer: a) Data theft 
+282.Operational complexity refers to: 
+a) Easy backend 
+b) Complex backend processes 
+c) No coding 
+d) Manual system 
+Answer: b) Complex backend processes 
+283.IoT reduces employment mainly in: 
+a) High skilled jobs 
+b) Low skilled repetitive jobs 
+c) Doctors 
+d) Engineers 
+Answer: b) Low skilled repetitive jobs 
+284.IoT gateway connects: 
+a) Devices and cloud 
+b) Printer and cable 
+c) Paper and file 
+d) CD and DVD 
+Answer: a) Devices and cloud 
+285.Device layer contains: 
+a) Sensors and actuators 
+b) Servers only 
+c) Printers 
+d) Routers 
+Answer: a) Sensors and actuators 
+286.Network layer ensures: 
+a) Data transmission 
+b) Cooking 
+c) Printing 
+d) Gaming 
+Answer: a) Data transmission 
+287.Cloud platform provides: 
+a) Storage 
+b) Processing 
+c) Device management 
+d) All of the above 
+Answer: d) All of the above 
+288.Application layer provides: 
+a) User interface 
+b) Wiring 
+c) Voltage 
+d) Temperature 
+Answer: a) User interface 
+289.Soil moisture sensors are used in: 
+a) Smart farming 
+b) Gaming 
+c) Banking 
+d) Cinema 
+Answer: a) Smart farming 
+290.Gas sensors are used for: 
+a) Air quality monitoring 
+b) Temperature only 
+c) Motion only 
+d) Light only 
+Answer: a) Air quality monitoring 
+291.Humidity sensors measure: 
+a) Water vapour in air 
+b) Heat 
+c) Light 
+d) Sound 
+Answer: a) Water vapour in air 
+292.Light sensors measure: 
+a) Illumination 
+b) Gas 
+c) Pressure 
+d) Motion 
+Answer: a) Illumination 
+293.Accelerometer is used in: 
+a) Smartphones 
+b) Calculators 
+c) Radios 
+d) Fax 
+Answer: a) Smartphones 
+294.Actuators in irrigation control: 
+a) Water pumps 
+b) Television 
+c) Radio 
+d) Printer 
+Answer: a) Water pumps 
+295.Solenoid works using: 
+a) Electromagnetism 
+b) Gravity 
+c) Wind 
+d) Solar panel 
+Answer: a) Electromagnetism 
+296.Relay can control: 
+a) High power AC circuits 
+b) Temperature 
+c) Gas 
+d) Light intensity 
+Answer: a) High power AC circuits 
+297.Edge computing helps reduce: 
+a) Latency 
+b) Speed 
+c) Storage 
+d) Accuracy 
+Answer: a) Latency 
+298.IoT analytics supports: 
+a) Decision making 
+b) File deletion 
+c) Manual errors 
+d) Power cut 
+Answer: a) Decision making 
+299.Smart healthcare devices monitor: 
+a) Chronic conditions 
+b) Weather 
+c) Traffic 
+d) Agriculture 
+Answer: a) Chronic conditions 
+300.Main objective of IoT design is: 
+a) Connectivity + Intelligence 
+b) Isolation 
+c) Manual work 
+d) Offline operation 
+Answer: a) Connectivity + Intelligence 
+301.The physical design of IoT includes: 
+a) Devices and protocols 
+b) Only software 
+c) Only hardware 
+d) Only cloud 
+Answer: a) Devices and protocols 
+302.Logical design of IoT includes: 
+a) Functional blocks 
+b) Communication models 
+c) APIs 
+d) All of the above 
+Answer: d) All of the above 
+303.IoT functional blocks include: 
+a) Devices 
+b) Communication 
+c) Security 
+d) All of the above 
+Answer: d) All of the above 
+304.Device functional block performs: 
+a) Sensing and actuation 
+b) Routing 
+c) Printing 
+d) Gaming 
+Answer: a) Sensing and actuation 
+305.Security block provides: 
+a) Authentication 
+b) Authorization 
+c) Data security 
+d) All of the above 
+Answer: d) All of the above 
+306.Management block is responsible for: 
+a) System control and configuration 
+b) Motion detection 
+c) Light sensing 
+d) Pressure control 
+Answer: a) System control and configuration 
+307.Service block provides: 
+a) Monitoring and control 
+b) Video editing 
+c) Gaming 
+d) Television 
+Answer: a) Monitoring and control 
+308.Communication block handles: 
+a) Data exchange 
+b) Heating 
+c) Cooling 
+d) Storage only 
+Answer: a) Data exchange 
+309.Application block allows users to: 
+a) Monitor system 
+b) Analyze data 
+c) Control devices 
+d) All of the above 
+Answer: d) All of the above 
+310.Request-response model is: 
+a) Stateless 
+b) Stateful 
+c) Offline 
+d) Broadcast 
+Answer: a) Stateless 
+311.In request-response model, client sends: 
+a) Signal 
+b) Request 
+c) Packet 
+d) File 
+Answer: b) Request 
+312.Publish-subscribe model separates: 
+a) Publisher and subscriber 
+b) Sensor and actuator 
+c) User and device 
+d) Cloud and network 
+Answer: a) Publisher and subscriber 
+313.In publish-subscribe model, broker manages: 
+a) Topics 
+b) Hardware 
+c) Voltage 
+d) Electricity 
+Answer: a) Topics 
+314.Push-pull model uses: 
+a) Queue 
+b) Router 
+c) Switch 
+d) Printer 
+Answer: a) Queue 
+315.Exclusive pair model is also called: 
+a) Persistent connection model 
+b) Stateless model 
+c) Offline model 
+d) Analog model 
+Answer: a) Persistent connection model 
+316.REST APIs use: 
+a) HTTP methods 
+b) Bluetooth 
+c) FM signals 
+d) Coaxial cable 
+Answer: a) HTTP methods 
+317.REST commonly uses: 
+a) GET 
+b) POST 
+c) PUT 
+d) All of the above 
+Answer: d) All of the above 
+318.WebSocket is suitable for: 
+a) Real-time dashboards 
+b) Printing 
+c) Storage 
+d) Offline apps 
+Answer: a) Real-time dashboards 
+319.MQTT is designed for: 
+a) High-power devices 
+b) Low-power devices 
+c) Gaming consoles 
+d) Television 
+Answer: b) Low-power devices 
+320.CoAP is similar to: 
+a) FTP 
+b) HTTP 
+c) SMTP 
+d) SSH 
+Answer: b) HTTP 
+321.AMQP supports: 
+a) Point-to-point messaging 
+b) Publish-subscribe 
+c) Routing 
+d) All of the above 
+Answer: d) All of the above 
+322.XMPP is based on: 
+a) XML 
+b) JSON only 
+c) Binary code 
+d) Image format 
+Answer: a) XML 
+323.Link layer protocols determine: 
+a) Physical transmission method 
+b) Application logic 
+c) User interface 
+d) Cloud storage 
+Answer: a) Physical transmission method 
+324.802.3 refers to: 
+a) Ethernet 
+b) WiFi 
+c) Zigbee 
+d) LTE 
+Answer: a) Ethernet 
+325.802.11 refers to: 
+a) WiFi 
+b) Ethernet 
+c) Bluetooth 
+d) 5G 
+Answer: a) WiFi 
+326.802.15.4 provides data rate up to: 
+a) 1 Mbps 
+b) 250 Kbps 
+c) 10 Mbps 
+d) 1 Gbps 
+Answer: b) 250 Kbps 
+327.2G data rate starts from: 
+a) 9.6 Kbps 
+b) 100 Mbps 
+c) 1 Gbps 
+d) 10 Mbps 
+Answer: a) 9.6 Kbps 
+328.Network layer addressing uses: 
+a) IP address 
+b) MAC only 
+c) Port only 
+d) Cable ID 
+Answer: a) IP address 
+329.TCP ensures: 
+a) Packet ordering 
+b) Error detection 
+c) Retransmission 
+d) All of the above 
+Answer: d) All of the above 
+330.UDP is suitable for: 
+a) Streaming 
+b) Gaming 
+c) VoIP 
+d) All of the above 
+Answer: d) All of the above 
+331.HTTP is: 
+a) Stateless protocol 
+b) Stateful protocol 
+c) Connectionless only 
+d) Hardware protocol 
+Answer: a) Stateless protocol 
+332.CoAP runs on: 
+a) TCP 
+b) UDP 
+c) Bluetooth 
+d) Cable 
+Answer: b) UDP 
+333.MQTT architecture is: 
+a) Client-broker 
+b) Client-only 
+c) Peer-to-peer only 
+d) Router-based 
+Answer: a) Client-broker 
+334.DDS provides: 
+a) QoS control 
+b) Gaming 
+c) Printing 
+d) Analog signaling 
+Answer: a) QoS control 
+335.Data ingestion refers to: 
+a) Receiving device data 
+b) Deleting files 
+c) Formatting disk 
+d) Repairing hardware 
+Answer: a) Receiving device data 
+336.Device management in cloud handles: 
+a) Provisioning 
+b) Identity 
+c) Remote management 
+d) All of the above 
+Answer: d) All of the above 
+337.Edge functions manage: 
+a) Traffic aggregation 
+b) File printing 
+c) Voltage 
+d) Audio 
+Answer: a) Traffic aggregation 
+338.Core transport functions ensure: 
+a) High capacity routing 
+b) Manual switching 
+c) Heating 
+d) Lighting 
+Answer: a) High capacity routing 
+339.Gateway functions provide: 
+a) Interoperability 
+b) Motion 
+c) Gas detection 
+d) Light 
+Answer: a) Interoperability 
+340.NACF handles: 
+a) User authentication 
+b) File storage 
+c) Sensor design 
+d) Video editing 
+Answer: a) User authentication 
+341.RACF manages: 
+a) Resource allocation 
+b) Light intensity 
+c) Temperature 
+d) Sound 
+Answer: a) Resource allocation 
+342.IoT scalability allows: 
+a) Addition of devices 
+b) Removal of internet 
+c) Stop updates 
+d) Disable sensors 
+Answer: a) Addition of devices 
+343.Smart irrigation example shows: 
+a) Sensing + actuation 
+b) Only sensing 
+c) Only storage 
+d) Only cloud 
+Answer: a) Sensing + actuation 
+344.IoT analytics converts data into: 
+a) Insights 
+b) Paper 
+c) Noise 
+d) Errors 
+Answer: a) Insights 
+345.Real-time IoT systems require: 
+a) Low latency 
+b) High delay 
+c) No internet 
+d) Manual control 
+Answer: a) Low latency 
+346.Interoperability problem occurs due to: 
+a) Different manufacturers 
+b) Too much power 
+c) Excess storage 
+d) Too much speed 
+Answer: a) Different manufacturers 
+347.Energy-efficient IoT devices help in: 
+a) Longer battery life 
+b) High power use 
+c) Short life 
+d) More heat 
+Answer: a) Longer battery life 
+348.Cloud-based IoT architecture has: 
+a) Device layer 
+b) Network layer 
+c) Cloud layer 
+d) All of the above 
+Answer: d) All of the above 
+349.IoT mainly connects digital world with: 
+a) Physical world 
+b) Cinema 
+c) Music 
+d) Books 
+Answer: a) Physical world 
+350.The ultimate aim of IoT systems is: 
+a) Intelligent automation 
+b) Manual processing 
+c) Isolation 
+d) No connectivity 
+Answer: a) Intelligent automation 
+351.IoT enables communication between: 
+a) Human to human only 
+b) Machine to machine 
+c) Paper to printer 
+d) TV to radio 
+Answer: b) Machine to machine 
+352.Smart city applications include: 
+a) Traffic monitoring 
+b) Waste management 
+c) Smart lighting 
+d) All of the above 
+Answer: d) All of the above 
+353.In IoT architecture, the first layer is: 
+a) Cloud layer 
+b) Device layer 
+c) Application layer 
+d) Network layer 
+Answer: b) Device layer 
+354.IoT data analytics helps in: 
+a) Predictive analysis 
+b) Manual logging 
+c) Deleting files 
+d) Formatting 
+Answer: a) Predictive analysis 
+355.Low latency is important in: 
+a) Real-time systems 
+b) Offline systems 
+c) Manual systems 
+d) Paper systems 
+Answer: a) Real-time systems 
+356.IoT devices require: 
+a) Unique identification 
+b) Common name 
+c) No address 
+d) Paper code 
+Answer: a) Unique identification 
+357.A MAC address is used at: 
+a) Application layer 
+b) Network layer 
+c) Link layer 
+d) Cloud layer 
+Answer: c) Link layer 
+358.IP address is used at: 
+a) Physical layer 
+b) Network layer 
+c) Session layer 
+d) Presentation layer 
+Answer: b) Network layer 
+359.IoT gateways perform protocol: 
+a) Translation 
+b) Deletion 
+c) Printing 
+d) Heating 
+Answer: a) Translation 
+360.Fog computing is used to: 
+a) Increase latency 
+b) Reduce latency 
+c) Remove internet 
+d) Disable devices 
+Answer: b) Reduce latency 
+361.IoT applications generate: 
+a) Structured data only 
+b) Unstructured data only 
+c) Large variety of data 
+d) No data 
+Answer: c) Large variety of data 
+362.Cloud analytics provides: 
+a) Data visualization 
+b) Data processing 
+c) Data storage 
+d) All of the above 
+Answer: d) All of the above 
+363.IoT security must protect: 
+a) Data confidentiality 
+b) Data integrity 
+c) Data availability 
+d) All of the above 
+Answer: d) All of the above 
+364.Encryption ensures: 
+a) Data secrecy 
+b) Faster speed 
+c) More storage 
+d) Low power 
+Answer: a) Data secrecy 
+365.Authentication verifies: 
+a) Device identity 
+b) Voltage 
+c) Temperature 
+d) Pressure 
+Answer: a) Device identity 
+366.Authorization determines: 
+a) Who can access resources 
+b) Power supply 
+c) Sensor type 
+d) Cable type 
+Answer: a) Who can access resources 
+367.IoT scalability means: 
+a) Fixed device count 
+b) Expandable network 
+c) No updates 
+d) Low power 
+Answer: b) Expandable network 
+368.Sensor calibration improves: 
+a) Accuracy 
+b) Speed 
+c) Storage 
+d) Memory 
+Answer: a) Accuracy 
+369.Edge devices process data: 
+a) Near data source 
+b) Only in cloud 
+c) In server room 
+d) Offline 
+Answer: a) Near data source 
+370.MQTT topics are used for: 
+a) Data categorization 
+b) Cable management 
+c) Voltage control 
+d) Screen display 
+Answer: a) Data categorization 
+371.IoT in smart grid helps in: 
+a) Power monitoring 
+b) Manual billing 
+c) Paper records 
+d) Offline payment 
+Answer: a) Power monitoring 
+372.IoT wearable devices monitor: 
+a) Health parameters 
+b) Movies 
+c) Music 
+d) Games 
+Answer: a) Health parameters 
+373.Smart parking systems use: 
+a) Sensors 
+b) Routers 
+c) TV 
+d) Printer 
+Answer: a) Sensors 
+374.IoT devices must support: 
+a) Interoperability 
+b) Isolation 
+c) Offline work 
+d) Paper process 
+Answer: a) Interoperability 
+375.Big Data is related to IoT because: 
+a) IoT generates huge data 
+b) IoT deletes data 
+c) IoT blocks data 
+d) IoT stores paper 
+Answer: a) IoT generates huge data 
+376.Data visualization tools help in: 
+a) Graphical representation 
+b) Deletion 
+c) Formatting 
+d) Storage 
+Answer: a) Graphical representation 
+377.IoT device firmware is: 
+a) Embedded software 
+b) Printer driver 
+c) Game file 
+d) Music file 
+Answer: a) Embedded software 
+378.Remote firmware update improves: 
+a) Device functionality 
+b) Data loss 
+c) Speed reduction 
+d) Power loss 
+Answer: a) Device functionality 
+379.IoT testing ensures: 
+a) Reliability 
+b) Performance 
+c) Security 
+d) All of the above 
+Answer: d) All of the above 
+380.Smart meters are used for: 
+a) Energy measurement 
+b) Light only 
+c) Motion only 
+d) Gas only 
+Answer: a) Energy measurement 
+381.Zigbee is suitable for: 
+a) Short-range communication 
+b) Long-range satellite 
+c) Fiber optic 
+d) Television 
+Answer: a) Short-range communication 
+382.Bluetooth Low Energy is used for: 
+a) Wearables 
+b) Satellite 
+c) Fiber 
+d) Landline 
+Answer: a) Wearables 
+383.LPWAN stands for: 
+a) Low Power Wide Area Network 
+b) Large Power Wireless Access Network 
+c) Low Protocol WAN 
+d) Long Packet WAN 
+Answer: a) Low Power Wide Area Network 
+384.LoRaWAN is used for: 
+a) Long range IoT communication 
+b) Television 
+c) FM radio 
+d) Printer 
+Answer: a) Long range IoT communication 
+385.IoT architecture must ensure: 
+a) Reliability 
+b) Scalability 
+c) Security 
+d) All of the above 
+Answer: d) All of the above 
+386.Smart healthcare IoT reduces: 
+a) Hospital visits 
+b) Connectivity 
+c) Storage 
+d) Accuracy 
+Answer: a) Hospital visits 
+387.IoT automation improves: 
+a) Efficiency 
+b) Errors 
+c) Delay 
+d) Manual work 
+Answer: a) Efficiency 
+388.IoT device provisioning means: 
+a) Configuring devices 
+b) Deleting files 
+c) Printing 
+d) Gaming 
+Answer: a) Configuring devices 
+389.Data aggregation combines: 
+a) Multiple data sources 
+b) Files 
+c) Screens 
+d) Cables 
+Answer: a) Multiple data sources 
+390.IoT systems are part of: 
+a) Cyber-Physical Systems 
+b) Only software 
+c) Only hardware 
+d) Only networking 
+Answer: a) Cyber-Physical Systems 
+391.Quality of Service (QoS) ensures: 
+a) Performance guarantee 
+b) Slow speed 
+c) Data loss 
+d) Cable damage 
+Answer: a) Performance guarantee 
+392.Device authentication prevents: 
+a) Unauthorized access 
+b) Speed increase 
+c) More storage 
+d) Extra voltage 
+Answer: a) Unauthorized access 
+393.Cloud dashboard displays: 
+a) Real-time data 
+b) Hardware 
+c) Cable 
+d) Electricity 
+Answer: a) Real-time data 
+394.IoT data lifecycle includes: 
+a) Collection 
+b) Storage 
+c) Processing 
+d) All of the above 
+Answer: d) All of the above 
+395.IoT device battery life depends on: 
+a) Power efficiency 
+b) Cable length 
+c) Printer speed 
+d) Screen size 
+Answer: a) Power efficiency 
+396.IoT networks must handle: 
+a) Device heterogeneity 
+b) Single device 
+c) No device 
+d) Only PC 
+Answer: a) Device heterogeneity 
+397.Interoperability standards ensure: 
+a) Cross-platform compatibility 
+b) Isolation 
+c) Manual control 
+d) Paper communication 
+Answer: a) Cross-platform compatibility 
+398.Predictive maintenance uses: 
+a) Sensor data analysis 
+b) Printing 
+c) Formatting 
+d) Offline systems 
+Answer: a) Sensor data analysis 
+399.IoT data storage commonly uses: 
+a) Cloud databases 
+b) Paper files 
+c) Fax 
+d) TV 
+Answer: a) Cloud databases 
+400.The core benefit of IoT is: 
+a) Smart decision making 
+b) Manual work 
+c) Isolation 
+d) Offline processing 
+Answer: a) Smart decision making 
+401.IoT integrates the physical world with: 
+a) Digital systems 
+b) Paper systems 
+c) Analog radio 
+d) Manual tools 
+Answer: a) Digital systems 
+402.Smart lighting systems use: 
+a) Motion sensors 
+b) Typewriters 
+c) CDs 
+d) Printers 
+Answer: a) Motion sensors 
+403.IoT systems rely heavily on: 
+a) Data collection 
+b) Manual recording 
+c) Paper filing 
+d) Fax 
+Answer: a) Data collection 
+404.Low power consumption is important for: 
+a) Battery-operated IoT devices 
+b) Desktop PCs 
+c) Servers only 
+d) Printers 
+Answer: a) Battery-operated IoT devices 
+405.IoT systems generate value by: 
+a) Data analysis 
+b) Data deletion 
+c) Formatting 
+d) Printing 
+Answer: a) Data analysis 
+406.Device heterogeneity means: 
+a) Same type devices 
+b) Different types of devices 
+c) No devices 
+d) Only sensors 
+Answer: b) Different types of devices 
+407.Data transmission delay is called: 
+a) Bandwidth 
+b) Latency 
+c) Throughput 
+d) Voltage 
+Answer: b) Latency 
+408.IoT network reliability ensures: 
+a) Continuous service 
+b) Frequent breakdown 
+c) Manual repair 
+d) Offline mode 
+Answer: a) Continuous service 
+409.Data compression in IoT helps: 
+a) Reduce bandwidth usage 
+b) Increase errors 
+c) Slow speed 
+d) Increase latency 
+Answer: a) Reduce bandwidth usage 
+410.IoT firmware updates improve: 
+a) Security 
+b) Functionality 
+c) Performance 
+d) All of the above 
+Answer: d) All of the above 
+411.Edge analytics processes data: 
+a) At cloud only 
+b) Near source 
+c) In printer 
+d) In cable 
+Answer: b) Near source 
+412.IoT dashboards are used for: 
+a) Monitoring 
+b) Data visualization 
+c) Control 
+d) All of the above 
+Answer: d) All of the above 
+413.IoT automation reduces: 
+a) Operational cost 
+b) Electricity 
+c) Sensors 
+d) Network 
+Answer: a) Operational cost 
+414.Smart meters send data to: 
+a) Utility provider 
+b) Radio station 
+c) Printer 
+d) TV 
+Answer: a) Utility provider 
+415.IoT enhances productivity by: 
+a) Real-time insights 
+b) Manual logging 
+c) Offline systems 
+d) Paper tracking 
+Answer: a) Real-time insights 
+416.Data privacy laws affect: 
+a) IoT deployment 
+b) Cable type 
+c) Printer ink 
+d) TV signals 
+Answer: a) IoT deployment 
+417.An IoT actuator responds to: 
+a) Control signal 
+b) Voltage spike only 
+c) Printer command 
+d) Cable signal 
+Answer: a) Control signal 
+418.IoT scalability requires: 
+a) Flexible architecture 
+b) Fixed system 
+c) No expansion 
+d) Manual scaling 
+Answer: a) Flexible architecture 
+419.Secure IoT communication uses: 
+a) Encryption protocols 
+b) Paper logs 
+c) Offline systems 
+d) Manual approval 
+Answer: a) Encryption protocols 
+420.IoT smart locks use: 
+a) Sensors and internet 
+b) Printer 
+c) Typewriter 
+d) Radio 
+Answer: a) Sensors and internet 
+421.Industrial IoT improves: 
+a) Process efficiency 
+b) Manual work 
+c) Paper tracking 
+d) Delay 
+Answer: a) Process efficiency 
+422.IoT predictive analytics helps: 
+a) Anticipate failures 
+b) Increase downtime 
+c) Delete data 
+d) Reduce connectivity 
+Answer: a) Anticipate failures 
+423.IoT requires robust: 
+a) Network infrastructure 
+b) Paper 
+c) Manual system 
+d) Radio 
+Answer: a) Network infrastructure 
+424.IoT interoperability ensures: 
+a) Devices communicate seamlessly 
+b) Devices isolated 
+c) No integration 
+d) Manual data entry 
+Answer: a) Devices communicate seamlessly 
+425.Real-time IoT systems must handle: 
+a) Continuous data streams 
+b) Paper files 
+c) Fax 
+d) Typewriter 
+Answer: a) Continuous data streams 
+426.Cloud-based IoT allows: 
+a) Remote access 
+b) Offline only 
+c) Manual storage 
+d) No monitoring 
+Answer: a) Remote access 
+427.IoT remote monitoring improves: 
+a) Service quality 
+b) Errors 
+c) Downtime 
+d) Isolation 
+Answer: a) Service quality 
+428.IoT smart farming reduces: 
+a) Water waste 
+b) Productivity 
+c) Monitoring 
+d) Efficiency 
+Answer: a) Water waste 
+429.Data filtering helps: 
+a) Remove unnecessary data 
+b) Increase noise 
+c) Increase storage 
+d) Increase errors 
+Answer: a) Remove unnecessary data 
+430.IoT deployment challenges include: 
+a) Security issues 
+b) High cost 
+c) Integration complexity 
+d) All of the above 
+Answer: d) All of the above 
+431.IoT enhances smart cities by: 
+a) Intelligent traffic control 
+b) Manual signals 
+c) Paper tickets 
+d) Radio 
+Answer: a) Intelligent traffic control 
+432.IoT device lifecycle includes: 
+a) Deployment 
+b) Maintenance 
+c) Decommissioning 
+d) All of the above 
+Answer: d) All of the above 
+433.Smart irrigation systems use: 
+a) Soil sensors 
+b) TV 
+c) Printer 
+d) Fax 
+Answer: a) Soil sensors 
+434.IoT wearables communicate using: 
+a) Bluetooth 
+b) Fax 
+c) Telegraph 
+d) Analog radio 
+Answer: a) Bluetooth 
+435.IoT cloud platforms provide: 
+a) Analytics tools 
+b) Storage 
+c) Device management 
+d) All of the above 
+Answer: d) All of the above 
+436.Data encryption prevents: 
+a) Unauthorized access 
+b) Fast speed 
+c) Manual work 
+d) Storage increase 
+Answer: a) Unauthorized access 
+437.IoT edge computing reduces: 
+a) Bandwidth usage 
+b) Efficiency 
+c) Security 
+d) Connectivity 
+Answer: a) Bandwidth usage 
+438.IoT security must defend against: 
+a) Cyber attacks 
+b) Light 
+c) Heat 
+d) Gas 
+Answer: a) Cyber attacks 
+439.IoT big data requires: 
+a) Analytics tools 
+b) Paper storage 
+c) Typewriter 
+d) Fax 
+Answer: a) Analytics tools 
+440.Smart energy systems monitor: 
+a) Electricity consumption 
+b) Water only 
+c) Gas only 
+d) Paper usage 
+Answer: a) Electricity consumption 
+441.IoT communication protocols ensure: 
+a) Standardized data exchange 
+b) Isolation 
+c) Manual work 
+d) Offline processing 
+Answer: a) Standardized data exchange 
+442.IoT-enabled smart grids improve: 
+a) Energy distribution 
+b) Manual control 
+c) Paper billing 
+d) Delay 
+Answer: a) Energy distribution 
+443.IoT performance metrics include: 
+a) Latency 
+b) Throughput 
+c) Reliability 
+d) All of the above 
+Answer: d) All of the above 
+444.Device provisioning includes: 
+a) Initial configuration 
+b) Manual wiring 
+c) Deleting files 
+d) Printing 
+Answer: a) Initial configuration 
+445.IoT cloud computing supports: 
+a) Scalability 
+b) Flexibility 
+c) Resource optimization 
+d) All of the above 
+Answer: d) All of the above 
+446.IoT automation improves: 
+a) Accuracy 
+b) Consistency 
+c) Efficiency 
+d) All of the above 
+Answer: d) All of the above 
+447.IoT data storage commonly uses: 
+a) Databases 
+b) Paper 
+c) Radio 
+d) Printer 
+Answer: a) Databases 
+448.IoT integration requires: 
+a) Standard protocols 
+b) Isolation 
+c) No network 
+d) Manual entry 
+Answer: a) Standard protocols 
+449.IoT real-time alerts help in: 
+a) Immediate action 
+b) Delay 
+c) Isolation 
+d) Offline storage 
+Answer: a) Immediate action 
+450.The ultimate goal of IoT systems is: 
+a) Intelligent automation and decision making 
+b) Manual processes 
+c) Paper systems 
+d) Offline mode 
+Answer: a) Intelligent automation and decision making
