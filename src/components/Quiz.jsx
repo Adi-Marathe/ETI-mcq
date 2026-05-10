@@ -6,7 +6,7 @@ import questionsUnit3 from '../data/unit3_questions.json';
 import questionsUnit4 from '../data/unit4_questions.json';
 import questionsUnit5 from '../data/unit5_questions.json';
 import confetti from 'canvas-confetti';
-import { FiTarget, FiStar, FiCheckCircle, FiXCircle, FiAward, FiArrowLeft, FiArrowRight } from 'react-icons/fi';
+import { FiTarget, FiStar, FiCheckCircle, FiXCircle, FiAward, FiArrowLeft, FiArrowRight, FiRefreshCw } from 'react-icons/fi';
 
 const unitDataMap = {
   1: questionsUnit1,
@@ -20,16 +20,62 @@ function Quiz() {
   const { unitId: unitIdParam } = useParams();
   const navigate = useNavigate();
   const unitId = parseInt(unitIdParam, 10);
+  const storageKey = `quiz_progress_unit_${unitId}`;
 
   const [questions, setQuestions] = useState([]);
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [answers, setAnswers] = useState({});
+  
+  // Initialize state from localStorage if available
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(() => {
+    const saved = localStorage.getItem(storageKey);
+    try {
+      return saved ? JSON.parse(saved).currentQuestionIndex || 0 : 0;
+    } catch {
+      return 0;
+    }
+  });
+  const [answers, setAnswers] = useState(() => {
+    const saved = localStorage.getItem(storageKey);
+    try {
+      return saved ? JSON.parse(saved).answers || {} : {};
+    } catch {
+      return {};
+    }
+  });
+  const [showResults, setShowResults] = useState(() => {
+    const saved = localStorage.getItem(storageKey);
+    try {
+      return saved ? JSON.parse(saved).showResults || false : false;
+    } catch {
+      return false;
+    }
+  });
+  
   const [currentSelection, setCurrentSelection] = useState(null);
-  const [showResults, setShowResults] = useState(false);
   const [isAnimating, setIsAnimating] = useState(false);
+
+  // Save progress to localStorage whenever state changes
+  useEffect(() => {
+    if (questions.length > 0) {
+      localStorage.setItem(storageKey, JSON.stringify({
+        currentQuestionIndex,
+        answers,
+        showResults
+      }));
+    }
+  }, [currentQuestionIndex, answers, showResults, storageKey, questions]);
 
   const onBack = () => {
     navigate('/');
+  };
+
+  const handleReset = () => {
+    if (window.confirm("Are you sure you want to reset your progress for this unit?")) {
+      setCurrentQuestionIndex(0);
+      setAnswers({});
+      setShowResults(false);
+      setCurrentSelection(null);
+      localStorage.removeItem(storageKey);
+    }
   };
 
   useEffect(() => {
@@ -214,7 +260,14 @@ function Quiz() {
   return (
     <div className={`quiz-container ${isAnimating ? 'fade-out' : 'fade-in'}`}>
       <div className="quiz-header">
-        <button className="back-btn" onClick={onBack} style={{display: 'flex', alignItems: 'center', gap: '0.5rem'}}><FiArrowLeft /> Exit Quiz</button>
+        <div className="header-actions">
+          <button className="back-btn" onClick={onBack} style={{display: 'flex', alignItems: 'center', gap: '0.5rem'}}>
+            <FiArrowLeft /> Exit Quiz
+          </button>
+          <button className="reset-btn" onClick={handleReset} style={{display: 'flex', alignItems: 'center', gap: '0.5rem'}} title="Reset Unit Progress">
+            <FiRefreshCw /> Reset
+          </button>
+        </div>
         <div className="tracker-group">
           <div className="stats-tracker">
             <span className="stat-correct" style={{display: 'flex', alignItems: 'center', gap: '0.3rem'}}><FiCheckCircle /> {currentCorrectCount}</span>

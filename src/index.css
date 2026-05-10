@@ -222,6 +222,12 @@ body {
   margin-bottom: 1.5rem;
 }
 
+.header-actions {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
 .back-btn {
   background: transparent;
   border: none;
@@ -234,6 +240,23 @@ body {
 
 .back-btn:hover {
   color: var(--primary);
+}
+
+.reset-btn {
+  background: rgba(238, 93, 80, 0.1);
+  border: none;
+  color: var(--incorrect);
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.reset-btn:hover {
+  background: var(--incorrect);
+  color: white;
 }
 
 .question-tracker {
@@ -640,9 +663,19 @@ body {
 }
 
 @media (max-width: 480px) {
-  .tracker-group {
+  .quiz-header {
     flex-direction: column;
     align-items: flex-start;
-    gap: 0.5rem;
+    gap: 1rem;
+  }
+  
+  .header-actions {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .tracker-group {
+    width: 100%;
+    justify-content: space-between;
   }
 }
