@@ -9,7 +9,7 @@
             "d) Manual auditing"
         ],
         "answer": "b) Digital evidence investigation",
-        "explanation": "The correct answer is 'Digital evidence investigation'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Digital Forensics involves the scientific identification, preservation, and analysis of digital evidence for legal investigations. Thus, the correct answer is 'b) Digital evidence investigation'."
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
             "d) Edited"
         ],
         "answer": "c) Preserved carefully",
-        "explanation": "The correct answer is 'Preserved carefully'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'c) Preserved carefully'."
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
             "d) Backup file"
         ],
         "answer": "b) Exact bit-by-bit copy",
-        "explanation": "The correct answer is 'Exact bit-by-bit copy'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'b) Exact bit-by-bit copy'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
             "d) Format disk"
         ],
         "answer": "b) Verify integrity",
-        "explanation": "The correct answer is 'Verify integrity'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "In cybersecurity, integrity ensures that data has not been tampered with or modified by unauthorized parties. Thus, the correct answer is 'b) Verify integrity'."
     },
     {
         "id": 5,
@@ -57,7 +57,7 @@
             "d) Fast processing"
         ],
         "answer": "b) Accountability of evidence handling",
-        "explanation": "The correct answer is 'Accountability of evidence handling'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Accountability of evidence handling'."
     },
     {
         "id": 6,
@@ -69,7 +69,7 @@
             "d) USB only"
         ],
         "answer": "b) RAM",
-        "explanation": "The correct answer is 'RAM'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'b) RAM'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 7,
@@ -81,7 +81,7 @@
             "d) Compress files"
         ],
         "answer": "b) Recover deleted files",
-        "explanation": "The correct answer is 'Recover deleted files'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Recover deleted files'."
     },
     {
         "id": 8,
@@ -93,7 +93,7 @@
             "d) Deleting malware"
         ],
         "answer": "b) Understanding sequence of events",
-        "explanation": "The correct answer is 'Understanding sequence of events'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'b) Understanding sequence of events'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 9,
@@ -105,7 +105,7 @@
             "d) 2010"
         ],
         "answer": "b) 2001",
-        "explanation": "The correct answer is '2001'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The DFRWS (Digital Forensic Research Workshop) model is a popular framework used in digital investigations. Thus, the correct answer is 'b) 2001'."
     },
     {
         "id": 10,
@@ -117,7 +117,7 @@
             "d) Examination"
         ],
         "answer": "b) Preparation",
-        "explanation": "The correct answer is 'Preparation'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Abstract Digital Forensic Model (ADFM) is a comprehensive model that includes a preparation phase. Thus, the correct answer is 'b) Preparation'."
     },
     {
         "id": 11,
@@ -129,7 +129,7 @@
             "d) OS & database"
         ],
         "answer": "a) Digital & physical crime scenes",
-        "explanation": "The correct answer is 'Digital & physical crime scenes'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Integrated Digital Investigation Process (IDIP) integrates digital and physical crime scene investigations. Thus, the correct answer is 'a) Digital & physical crime scenes'."
     },
     {
         "id": 12,
@@ -141,7 +141,7 @@
             "d) Printing"
         ],
         "answer": "a) Automation & traceability",
-        "explanation": "The correct answer is 'Automation & traceability'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Enhanced Digital Investigation Process (EEDIP) focuses on automation and traceability in forensics. Thus, the correct answer is 'a) Automation & traceability'."
     },
     {
         "id": 13,
@@ -153,7 +153,7 @@
             "d) SQL"
         ],
         "answer": "b) UML diagrams",
-        "explanation": "The correct answer is 'UML diagrams'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Unified Modeling Language (UML) is used to visualize and document the design of software systems, including forensic models. Thus, the correct answer is 'b) UML diagrams'."
     },
     {
         "id": 14,
@@ -165,7 +165,7 @@
             "d) Formatting"
         ],
         "answer": "a) Filtering relevant data",
-        "explanation": "The correct answer is 'Filtering relevant data'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Filtering relevant data'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 15,
@@ -177,7 +177,7 @@
             "d) Data printing"
         ],
         "answer": "a) Data integrity",
-        "explanation": "The correct answer is 'Data integrity'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "In cybersecurity, integrity ensures that data has not been tampered with or modified by unauthorized parties. Thus, the correct answer is 'a) Data integrity'."
     },
     {
         "id": 16,
@@ -189,7 +189,7 @@
             "d) Documentation"
         ],
         "answer": "b) Seizure",
-        "explanation": "The correct answer is 'Seizure'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Deep Learning is a subset of ML based on artificial neural networks that can learn from vast amounts of unstructured data. Thus, the correct answer is 'b) Seizure'."
     },
     {
         "id": 17,
@@ -201,7 +201,7 @@
             "d) Free only"
         ],
         "answer": "b) Scientifically accepted",
-        "explanation": "The correct answer is 'Scientifically accepted'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'b) Scientifically accepted'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 18,
@@ -213,7 +213,7 @@
             "d) It prints logs"
         ],
         "answer": "a) It may be compromised",
-        "explanation": "The correct answer is 'It may be compromised'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) It may be compromised'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 19,
@@ -225,7 +225,7 @@
             "d) Data theft"
         ],
         "answer": "b) Authorized security testing",
-        "explanation": "The correct answer is 'Authorized security testing'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ethical hacking is the authorized process of bypassingsystem security to identify and fix potential data breaches. Thus, the correct answer is 'b) Authorized security testing'."
     },
     {
         "id": 20,
@@ -237,7 +237,7 @@
             "d) Cable"
         ],
         "answer": "b) Legal permission",
-        "explanation": "The correct answer is 'Legal permission'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Legal permission'."
     },
     {
         "id": 21,
@@ -249,7 +249,7 @@
             "d) Encryption"
         ],
         "answer": "a) Information gathering",
-        "explanation": "The correct answer is 'Information gathering'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Information gathering'."
     },
     {
         "id": 22,
@@ -261,7 +261,7 @@
             "d) Storage"
         ],
         "answer": "a) Open ports",
-        "explanation": "The correct answer is 'Open ports'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Open ports'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 23,
@@ -273,7 +273,7 @@
             "d) Printing"
         ],
         "answer": "a) Controlled attack",
-        "explanation": "The correct answer is 'Controlled attack'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Controlled attack'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 24,
@@ -285,7 +285,7 @@
             "d) Spammers"
         ],
         "answer": "b) Authorized professionals",
-        "explanation": "The correct answer is 'Authorized professionals'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Authorized professionals'."
     },
     {
         "id": 25,
@@ -297,7 +297,7 @@
             "d) Publicly"
         ],
         "answer": "b) Illegally",
-        "explanation": "The correct answer is 'Illegally'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'b) Illegally'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 26,
@@ -309,7 +309,7 @@
             "d) Work for government only"
         ],
         "answer": "c) Operate without permission but no malicious intent",
-        "explanation": "The correct answer is 'Operate without permission but no malicious intent'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'c) Operate without permission but no malicious intent'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 27,
@@ -321,7 +321,7 @@
             "d) Judges"
         ],
         "answer": "b) Beginners",
-        "explanation": "The correct answer is 'Beginners'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Beginners'."
     },
     {
         "id": 28,
@@ -333,7 +333,7 @@
             "d) Auditors"
         ],
         "answer": "a) Learning hackers",
-        "explanation": "The correct answer is 'Learning hackers'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Learning hackers'."
     },
     {
         "id": 29,
@@ -345,7 +345,7 @@
             "d) Work offline"
         ],
         "answer": "a) Fight black hats aggressively",
-        "explanation": "The correct answer is 'Fight black hats aggressively'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Fight black hats aggressively'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 30,
@@ -357,7 +357,7 @@
             "d) Cameras only"
         ],
         "answer": "a) Routers and switches",
-        "explanation": "The correct answer is 'Routers and switches'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Routers and switches'."
     },
     {
         "id": 31,
@@ -369,7 +369,7 @@
             "d) Router"
         ],
         "answer": "a) Machine learning",
-        "explanation": "The correct answer is 'Machine learning'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Phishing is a cyber attack that uses disguised email or websites as a weapon to steal sensitive user data. Thus, the correct answer is 'a) Machine learning'."
     },
     {
         "id": 32,
@@ -381,7 +381,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above",
-        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ransomware is a type of malware that threatens to publish or block access to data unless a ransom is paid. Thus, the correct answer is 'd) All of the above'."
     },
     {
         "id": 33,
@@ -393,7 +393,7 @@
             "d) Fax"
         ],
         "answer": "a) Smart devices",
-        "explanation": "The correct answer is 'Smart devices'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Internet of Things (IoT) refers to a network of interconnected devices that collect and exchange data using sensors. Thus, the correct answer is 'a) Smart devices'."
     },
     {
         "id": 34,
@@ -405,7 +405,7 @@
             "d) Router"
         ],
         "answer": "a) Machine learning",
-        "explanation": "The correct answer is 'Machine learning'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Deepfakes are synthetic media in which a person in an existing image or video is replaced with someone else's likeness using AI. Thus, the correct answer is 'a) Machine learning'."
     },
     {
         "id": 35,
@@ -417,7 +417,7 @@
             "d) Updated OS"
         ],
         "answer": "b) Older vulnerable OS",
-        "explanation": "The correct answer is 'Older vulnerable OS'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'b) Older vulnerable OS'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 36,
@@ -429,7 +429,7 @@
             "d) Mouse"
         ],
         "answer": "a) BIOS/UEFI",
-        "explanation": "The correct answer is 'BIOS/UEFI'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) BIOS/UEFI'."
     },
     {
         "id": 37,
@@ -441,7 +441,7 @@
             "d) Disconnect router"
         ],
         "answer": "a) Evade firewall filters",
-        "explanation": "The correct answer is 'Evade firewall filters'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Evade firewall filters'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 38,
@@ -453,7 +453,7 @@
             "d) Cable break"
         ],
         "answer": "b) Unknown and unpatched",
-        "explanation": "The correct answer is 'Unknown and unpatched'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "A vulnerability is a weakness in a system that can be exploited by an attacker to cause harm. Thus, the correct answer is 'b) Unknown and unpatched'."
     },
     {
         "id": 39,
@@ -465,7 +465,7 @@
             "d) Paper"
         ],
         "answer": "a) National cyberspace",
-        "explanation": "The correct answer is 'National cyberspace'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) National cyberspace'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 40,
@@ -477,7 +477,7 @@
             "d) Printer"
         ],
         "answer": "a) Electronic records",
-        "explanation": "The correct answer is 'Electronic records'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The IT Act 2000 is the primary law in India dealing with cybercrime and electronic commerce. Thus, the correct answer is 'a) Electronic records'."
     },
     {
         "id": 41,
@@ -489,7 +489,7 @@
             "d) Router"
         ],
         "answer": "a) Identity theft",
-        "explanation": "The correct answer is 'Identity theft'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Section 66C of the IT Act prescribes punishment for identity theft using digital resources. Thus, the correct answer is 'a) Identity theft'."
     },
     {
         "id": 42,
@@ -501,7 +501,7 @@
             "d) Cable"
         ],
         "answer": "a) Cyber terrorism",
-        "explanation": "The correct answer is 'Cyber terrorism'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Section 66F of the IT Act specifically addresses cyber terrorism and its legal consequences. Thus, the correct answer is 'a) Cyber terrorism'."
     },
     {
         "id": 43,
@@ -513,7 +513,7 @@
             "d) Cable"
         ],
         "answer": "a) Personal data",
-        "explanation": "The correct answer is 'Personal data'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Digital Personal Data Protection (DPDP) Act, 2023 regulates the processing of personal data in India. Thus, the correct answer is 'a) Personal data'."
     },
     {
         "id": 44,
@@ -525,7 +525,7 @@
             "d) Printer"
         ],
         "answer": "a) Individual",
-        "explanation": "The correct answer is 'Individual'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Individual'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 45,
@@ -537,7 +537,7 @@
             "d) Router"
         ],
         "answer": "a) Organization handling data",
-        "explanation": "The correct answer is 'Organization handling data'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Deep Learning is a subset of ML based on artificial neural networks that can learn from vast amounts of unstructured data. Thus, the correct answer is 'a) Organization handling data'."
     },
     {
         "id": 46,
@@ -549,7 +549,7 @@
             "d) Servers"
         ],
         "answer": "a) Women & children",
-        "explanation": "The correct answer is 'Women & children'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Women & children'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 47,
@@ -561,7 +561,7 @@
             "d) OS installation"
         ],
         "answer": "a) Cyber incident response",
-        "explanation": "The correct answer is 'Cyber incident response'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "CERT-In is the national nodal agency for responding to computer security incidents in India. Thus, the correct answer is 'a) Cyber incident response'."
     },
     {
         "id": 48,
@@ -573,7 +573,7 @@
             "d) Remove OS"
         ],
         "answer": "a) Intercept data",
-        "explanation": "The correct answer is 'Intercept data'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Intercept data'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 49,
@@ -585,7 +585,7 @@
             "d) Mouse"
         ],
         "answer": "a) Unauthorized access Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Unauthorized access Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Unauthorized access Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 50,
@@ -597,7 +597,7 @@
             "d) Paper"
         ],
         "answer": "a) Security posture",
-        "explanation": "The correct answer is 'Security posture'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ethical hacking is the authorized process of bypassingsystem security to identify and fix potential data breaches. Thus, the correct answer is 'a) Security posture'."
     },
     {
         "id": 51,
@@ -609,7 +609,7 @@
             "d) Court presentation"
         ],
         "answer": "b) Recognizing incident occurrence",
-        "explanation": "The correct answer is 'Recognizing incident occurrence'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Digital Forensics involves the scientific identification, preservation, and analysis of digital evidence for legal investigations. Thus, the correct answer is 'b) Recognizing incident occurrence'."
     },
     {
         "id": 52,
@@ -621,7 +621,7 @@
             "d) Evidence formatting"
         ],
         "answer": "a) Evidence tampering",
-        "explanation": "The correct answer is 'Evidence tampering'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Evidence tampering'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 53,
@@ -633,7 +633,7 @@
             "d) Manual notes"
         ],
         "answer": "a) Relevant digital data",
-        "explanation": "The correct answer is 'Relevant digital data'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Relevant digital data'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 54,
@@ -645,7 +645,7 @@
             "d) Chain of custody"
         ],
         "answer": "b) Irrelevant data",
-        "explanation": "The correct answer is 'Irrelevant data'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'b) Irrelevant data'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 55,
@@ -657,7 +657,7 @@
             "d) Printing random logs"
         ],
         "answer": "a) Clear documentation",
-        "explanation": "The correct answer is 'Clear documentation'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Clear documentation'."
     },
     {
         "id": 56,
@@ -669,7 +669,7 @@
             "d) Data deletion"
         ],
         "answer": "a) Legal action Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Legal action Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The DFRWS (Digital Forensic Research Workshop) model is a popular framework used in digital investigations. Thus, the correct answer is 'a) Legal action Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'."
     },
     {
         "id": 57,
@@ -681,7 +681,7 @@
             "d) Cable removal"
         ],
         "answer": "a) Proper device return",
-        "explanation": "The correct answer is 'Proper device return'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Abstract Digital Forensic Model (ADFM) is a comprehensive model that includes a preparation phase. Thus, the correct answer is 'a) Proper device return'."
     },
     {
         "id": 58,
@@ -693,7 +693,7 @@
             "d) OS upgrade"
         ],
         "answer": "a) Preparation before incident",
-        "explanation": "The correct answer is 'Preparation before incident'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Integrated Digital Investigation Process (IDIP) integrates digital and physical crime scene investigations. Thus, the correct answer is 'a) Preparation before incident'."
     },
     {
         "id": 59,
@@ -705,7 +705,7 @@
             "d) OS updated"
         ],
         "answer": "a) Incident detected",
-        "explanation": "The correct answer is 'Incident detected'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Incident detected'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 60,
@@ -717,7 +717,7 @@
             "d) Formatting disk"
         ],
         "answer": "a) Improving future investigations",
-        "explanation": "The correct answer is 'Improving future investigations'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Integrated Digital Investigation Process (IDIP) integrates digital and physical crime scene investigations. Thus, the correct answer is 'a) Improving future investigations'."
     },
     {
         "id": 61,
@@ -729,7 +729,7 @@
             "d) Router access"
         ],
         "answer": "a) Legal permission",
-        "explanation": "The correct answer is 'Legal permission'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Enhanced Digital Investigation Process (EEDIP) focuses on automation and traceability in forensics. Thus, the correct answer is 'a) Legal permission'."
     },
     {
         "id": 62,
@@ -741,7 +741,7 @@
             "d) Cable testing"
         ],
         "answer": "a) Multi-agency coordination",
-        "explanation": "The correct answer is 'Multi-agency coordination'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Multi-agency coordination'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 63,
@@ -753,7 +753,7 @@
             "d) Storage capacity"
         ],
         "answer": "a) Actors and roles Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Actors and roles Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Actors and roles Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 64,
@@ -765,7 +765,7 @@
             "d) Storage format"
         ],
         "answer": "a) Workflow",
-        "explanation": "The correct answer is 'Workflow'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Workflow'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 65,
@@ -777,7 +777,7 @@
             "d) Router configuration"
         ],
         "answer": "a) Interaction order",
-        "explanation": "The correct answer is 'Interaction order'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Interaction order'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 66,
@@ -789,7 +789,7 @@
             "d) After formatting"
         ],
         "answer": "b) Before shutdown",
-        "explanation": "The correct answer is 'Before shutdown'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'b) Before shutdown'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 67,
@@ -801,7 +801,7 @@
             "d) Offline systems"
         ],
         "answer": "a) Hidden data",
-        "explanation": "The correct answer is 'Hidden data'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Hidden data'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 68,
@@ -813,7 +813,7 @@
             "d) OS version"
         ],
         "answer": "a) Suspicious terms",
-        "explanation": "The correct answer is 'Suspicious terms'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Suspicious terms'."
     },
     {
         "id": 69,
@@ -825,7 +825,7 @@
             "d) OS upgrade"
         ],
         "answer": "a) Legal credibility",
-        "explanation": "The correct answer is 'Legal credibility'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Legal credibility'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 70,
@@ -837,7 +837,7 @@
             "d) Cable testing"
         ],
         "answer": "a) Real attacks legally Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Real attacks legally Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Real attacks legally Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 71,
@@ -849,7 +849,7 @@
             "d) Storage"
         ],
         "answer": "a) Persistence",
-        "explanation": "The correct answer is 'Persistence'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Persistence'."
     },
     {
         "id": 72,
@@ -861,7 +861,7 @@
             "d) OS update"
         ],
         "answer": "a) Vulnerability details",
-        "explanation": "The correct answer is 'Vulnerability details'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "A vulnerability is a weakness in a system that can be exploited by an attacker to cause harm. Thus, the correct answer is 'a) Vulnerability details'."
     },
     {
         "id": 73,
@@ -873,7 +873,7 @@
             "d) Cable repair"
         ],
         "answer": "a) Incident response readiness",
-        "explanation": "The correct answer is 'Incident response readiness'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ethical hacking is the authorized process of bypassingsystem security to identify and fix potential data breaches. Thus, the correct answer is 'a) Incident response readiness'."
     },
     {
         "id": 74,
@@ -885,7 +885,7 @@
             "d) Cable details"
         ],
         "answer": "a) Perfect grammar",
-        "explanation": "The correct answer is 'Perfect grammar'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Phishing is a cyber attack that uses disguised email or websites as a weapon to steal sensitive user data. Thus, the correct answer is 'a) Perfect grammar'."
     },
     {
         "id": 75,
@@ -897,7 +897,7 @@
             "d) Printer attack"
         ],
         "answer": "a) Encryption + data theft",
-        "explanation": "The correct answer is 'Encryption + data theft'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ransomware is a type of malware that threatens to publish or block access to data unless a ransom is paid. Thus, the correct answer is 'a) Encryption + data theft'."
     },
     {
         "id": 76,
@@ -909,7 +909,7 @@
             "d) OS upgrade"
         ],
         "answer": "a) DDoS or blackmail",
-        "explanation": "The correct answer is 'DDoS or blackmail'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) DDoS or blackmail'."
     },
     {
         "id": 77,
@@ -921,7 +921,7 @@
             "d) Paper jam"
         ],
         "answer": "a) Mass file encryption Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Mass file encryption Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ransomware is a type of malware that threatens to publish or block access to data unless a ransom is paid. Thus, the correct answer is 'a) Mass file encryption Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'."
     },
     {
         "id": 78,
@@ -933,7 +933,7 @@
             "d) Emergency Digital Router"
         ],
         "answer": "a) Endpoint Detection and Response",
-        "explanation": "The correct answer is 'Endpoint Detection and Response'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Endpoint Detection and Response'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 79,
@@ -945,7 +945,7 @@
             "d) Storage expansion"
         ],
         "answer": "a) Vulnerability",
-        "explanation": "The correct answer is 'Vulnerability'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "A vulnerability is a weakness in a system that can be exploited by an attacker to cause harm. Thus, the correct answer is 'a) Vulnerability'."
     },
     {
         "id": 80,
@@ -957,7 +957,7 @@
             "d) File formatting"
         ],
         "answer": "a) Network isolation",
-        "explanation": "The correct answer is 'Network isolation'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Network isolation'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 81,
@@ -969,7 +969,7 @@
             "d) Router configuration"
         ],
         "answer": "a) Metadata",
-        "explanation": "The correct answer is 'Metadata'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Deepfakes are synthetic media in which a person in an existing image or video is replaced with someone else's likeness using AI. Thus, the correct answer is 'a) Metadata'."
     },
     {
         "id": 82,
@@ -981,7 +981,7 @@
             "d) Cable"
         ],
         "answer": "a) System vulnerabilities",
-        "explanation": "The correct answer is 'System vulnerabilities'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) System vulnerabilities'."
     },
     {
         "id": 83,
@@ -993,7 +993,7 @@
             "d) Storage errors"
         ],
         "answer": "a) Unauthorized firmware",
-        "explanation": "The correct answer is 'Unauthorized firmware'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Unauthorized firmware'."
     },
     {
         "id": 84,
@@ -1005,7 +1005,7 @@
             "d) Terminal Port Manager"
         ],
         "answer": "a) Trusted Platform Module Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Trusted Platform Module Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Trusted Platform Module Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 85,
@@ -1017,7 +1017,7 @@
             "d) Router issue"
         ],
         "answer": "a) Application vulnerability",
-        "explanation": "The correct answer is 'Application vulnerability'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "A vulnerability is a weakness in a system that can be exploited by an attacker to cause harm. Thus, the correct answer is 'a) Application vulnerability'."
     },
     {
         "id": 86,
@@ -1029,7 +1029,7 @@
             "d) OS update"
         ],
         "answer": "a) Zero-day exploit",
-        "explanation": "The correct answer is 'Zero-day exploit'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "A zero-day exploit is an attack that targets a software vulnerability which is unknown to the software developer. Thus, the correct answer is 'a) Zero-day exploit'."
     },
     {
         "id": 87,
@@ -1041,7 +1041,7 @@
             "d) Router layout"
         ],
         "answer": "a) Critical infrastructure",
-        "explanation": "The correct answer is 'Critical infrastructure'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Critical infrastructure'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 88,
@@ -1053,7 +1053,7 @@
             "d) Certified Router Inspector"
         ],
         "answer": "a) Computer Emergency Response Team \u2013 India",
-        "explanation": "The correct answer is 'Computer Emergency Response Team \u2013 India'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "CERT-In is the national nodal agency for responding to computer security incidents in India. Thus, the correct answer is 'a) Computer Emergency Response Team \u2013 India'."
     },
     {
         "id": 89,
@@ -1065,7 +1065,7 @@
             "d) OS downgrade"
         ],
         "answer": "a) Online cheating",
-        "explanation": "The correct answer is 'Online cheating'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Section 66 of the IT Act deals with various computer-related offenses like identity theft and cheating by personation. Thus, the correct answer is 'a) Online cheating'."
     },
     {
         "id": 90,
@@ -1077,7 +1077,7 @@
             "d) OS upgrade"
         ],
         "answer": "a) Breach of confidentiality",
-        "explanation": "The correct answer is 'Breach of confidentiality'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Breach of confidentiality'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 91,
@@ -1089,7 +1089,7 @@
             "d) Router approval"
         ],
         "answer": "a) User consent Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'User consent Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Digital Personal Data Protection (DPDP) Act, 2023 regulates the processing of personal data in India. Thus, the correct answer is 'a) User consent Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'."
     },
     {
         "id": 92,
@@ -1101,7 +1101,7 @@
             "d) Router traffic"
         ],
         "answer": "a) Compliance",
-        "explanation": "The correct answer is 'Compliance'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Compliance'."
     },
     {
         "id": 93,
@@ -1113,7 +1113,7 @@
             "d) OS activation"
         ],
         "answer": "a) Cybercrime reporting",
-        "explanation": "The correct answer is 'Cybercrime reporting'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Cybercrime reporting'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 94,
@@ -1125,7 +1125,7 @@
             "d) Router attack"
         ],
         "answer": "a) Online harassment",
-        "explanation": "The correct answer is 'Online harassment'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Online harassment'."
     },
     {
         "id": 95,
@@ -1137,7 +1137,7 @@
             "d) OS version"
         ],
         "answer": "a) Hash values",
-        "explanation": "The correct answer is 'Hash values'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "In cybersecurity, integrity ensures that data has not been tampered with or modified by unauthorized parties. Thus, the correct answer is 'a) Hash values'."
     },
     {
         "id": 96,
@@ -1149,7 +1149,7 @@
             "d) Paper filing"
         ],
         "answer": "a) Malware detection",
-        "explanation": "The correct answer is 'Malware detection'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Malware detection'."
     },
     {
         "id": 97,
@@ -1161,7 +1161,7 @@
             "d) Storage"
         ],
         "answer": "a) Investigation efficiency",
-        "explanation": "The correct answer is 'Investigation efficiency'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Investigation efficiency'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 98,
@@ -1173,7 +1173,7 @@
             "d) Router"
         ],
         "answer": "a) Proper chain of custody Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Proper chain of custody Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Proper chain of custody Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'."
     },
     {
         "id": 99,
@@ -1185,7 +1185,7 @@
             "d) OS bugs"
         ],
         "answer": "a) Security risks",
-        "explanation": "The correct answer is 'Security risks'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ethical hacking is the authorized process of bypassingsystem security to identify and fix potential data breaches. Thus, the correct answer is 'a) Security risks'."
     },
     {
         "id": 100,
@@ -1197,7 +1197,7 @@
             "d) OS update"
         ],
         "answer": "a) Court-admissible evidence",
-        "explanation": "The correct answer is 'Court-admissible evidence'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Digital Forensics involves the scientific identification, preservation, and analysis of digital evidence for legal investigations. Thus, the correct answer is 'a) Court-admissible evidence'."
     },
     {
         "id": 101,
@@ -1209,7 +1209,7 @@
             "d) Printed"
         ],
         "answer": "b) Authentic and unchanged",
-        "explanation": "The correct answer is 'Authentic and unchanged'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Digital Forensics involves the scientific identification, preservation, and analysis of digital evidence for legal investigations. Thus, the correct answer is 'b) Authentic and unchanged'."
     },
     {
         "id": 102,
@@ -1221,7 +1221,7 @@
             "d) Encrypt systems"
         ],
         "answer": "a) Prevent data modification",
-        "explanation": "The correct answer is 'Prevent data modification'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Prevent data modification'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 103,
@@ -1233,7 +1233,7 @@
             "d) Compression"
         ],
         "answer": "b) Bit-stream copy",
-        "explanation": "The correct answer is 'Bit-stream copy'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'b) Bit-stream copy'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 104,
@@ -1245,7 +1245,7 @@
             "d) Printed documents"
         ],
         "answer": "b) RAM contents",
-        "explanation": "The correct answer is 'RAM contents'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'b) RAM contents'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 105,
@@ -1257,7 +1257,7 @@
             "d) OS installation"
         ],
         "answer": "a) System activities Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'System activities Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) System activities Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 106,
@@ -1269,7 +1269,7 @@
             "d) Public network"
         ],
         "answer": "b) Secure environment",
-        "explanation": "The correct answer is 'Secure environment'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'b) Secure environment'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 107,
@@ -1281,7 +1281,7 @@
             "d) Antivirus tools"
         ],
         "answer": "b) Hash algorithms",
-        "explanation": "The correct answer is 'Hash algorithms'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Hash algorithms'."
     },
     {
         "id": 108,
@@ -1293,7 +1293,7 @@
             "d) Skipping documentation"
         ],
         "answer": "a) Using approved tools",
-        "explanation": "The correct answer is 'Using approved tools'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Using approved tools'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 109,
@@ -1305,7 +1305,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above",
-        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'd) All of the above'."
     },
     {
         "id": 110,
@@ -1317,7 +1317,7 @@
             "d) Printer installation"
         ],
         "answer": "a) Legal readiness",
-        "explanation": "The correct answer is 'Legal readiness'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Legal readiness'."
     },
     {
         "id": 111,
@@ -1329,7 +1329,7 @@
             "d) Storage size"
         ],
         "answer": "a) Security vulnerabilities",
-        "explanation": "The correct answer is 'Security vulnerabilities'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ethical hacking is the authorized process of bypassingsystem security to identify and fix potential data breaches. Thus, the correct answer is 'a) Security vulnerabilities'."
     },
     {
         "id": 112,
@@ -1341,7 +1341,7 @@
             "d) Illegally"
         ],
         "answer": "b) With authorization Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'With authorization Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'b) With authorization Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 113,
@@ -1353,7 +1353,7 @@
             "d) Printing logs"
         ],
         "answer": "a) Identifying weaknesses",
-        "explanation": "The correct answer is 'Identifying weaknesses'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "A vulnerability is a weakness in a system that can be exploited by an attacker to cause harm. Thus, the correct answer is 'a) Identifying weaknesses'."
     },
     {
         "id": 114,
@@ -1365,7 +1365,7 @@
             "d) Printer malfunction"
         ],
         "answer": "a) Human psychology",
-        "explanation": "The correct answer is 'Human psychology'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Human psychology'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 115,
@@ -1377,7 +1377,7 @@
             "d) Storage"
         ],
         "answer": "a) Security",
-        "explanation": "The correct answer is 'Security'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Authentication is the process of verifying the identity of a user, device, or system. Thus, the correct answer is 'a) Security'."
     },
     {
         "id": 116,
@@ -1389,7 +1389,7 @@
             "d) OS errors"
         ],
         "answer": "a) Phishing emails",
-        "explanation": "The correct answer is 'Phishing emails'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Phishing is a cyber attack that uses disguised email or websites as a weapon to steal sensitive user data. Thus, the correct answer is 'a) Phishing emails'."
     },
     {
         "id": 117,
@@ -1401,7 +1401,7 @@
             "d) OS crash"
         ],
         "answer": "a) Data publication",
-        "explanation": "The correct answer is 'Data publication'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ransomware is a type of malware that threatens to publish or block access to data unless a ransom is paid. Thus, the correct answer is 'a) Data publication'."
     },
     {
         "id": 118,
@@ -1413,7 +1413,7 @@
             "d) Cables only"
         ],
         "answer": "a) End-user devices",
-        "explanation": "The correct answer is 'End-user devices'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) End-user devices'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 119,
@@ -1425,7 +1425,7 @@
             "d) File deletion"
         ],
         "answer": "a) OS reinstallation Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'OS reinstallation Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) OS reinstallation Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'."
     },
     {
         "id": 120,
@@ -1437,7 +1437,7 @@
             "d) Paper records"
         ],
         "answer": "a) Unknown vulnerabilities",
-        "explanation": "The correct answer is 'Unknown vulnerabilities'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "A zero-day exploit is an attack that targets a software vulnerability which is unknown to the software developer. Thus, the correct answer is 'a) Unknown vulnerabilities'."
     },
     {
         "id": 121,
@@ -1449,7 +1449,7 @@
             "d) OS downgrade"
         ],
         "answer": "a) Receiving stolen computer resources",
-        "explanation": "The correct answer is 'Receiving stolen computer resources'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Section 66 of the IT Act deals with various computer-related offenses like identity theft and cheating by personation. Thus, the correct answer is 'a) Receiving stolen computer resources'."
     },
     {
         "id": 122,
@@ -1461,7 +1461,7 @@
             "d) Data compression"
         ],
         "answer": "a) Identity theft",
-        "explanation": "The correct answer is 'Identity theft'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Section 66C of the IT Act prescribes punishment for identity theft using digital resources. Thus, the correct answer is 'a) Identity theft'."
     },
     {
         "id": 123,
@@ -1473,7 +1473,7 @@
             "d) Storage deletion"
         ],
         "answer": "a) Cheating by personation",
-        "explanation": "The correct answer is 'Cheating by personation'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Section 66 of the IT Act deals with various computer-related offenses like identity theft and cheating by personation. Thus, the correct answer is 'a) Cheating by personation'."
     },
     {
         "id": 124,
@@ -1485,7 +1485,7 @@
             "d) Cable break"
         ],
         "answer": "a) Cyber terrorism",
-        "explanation": "The correct answer is 'Cyber terrorism'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Section 66F of the IT Act specifically addresses cyber terrorism and its legal consequences. Thus, the correct answer is 'a) Cyber terrorism'."
     },
     {
         "id": 125,
@@ -1497,7 +1497,7 @@
             "d) OS update"
         ],
         "answer": "a) Breach of confidentiality",
-        "explanation": "The correct answer is 'Breach of confidentiality'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Breach of confidentiality'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 126,
@@ -1509,7 +1509,7 @@
             "d) Share data publicly"
         ],
         "answer": "a) Obtain user consent Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Obtain user consent Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Digital Personal Data Protection (DPDP) Act, 2023 regulates the processing of personal data in India. Thus, the correct answer is 'a) Obtain user consent Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'."
     },
     {
         "id": 127,
@@ -1521,7 +1521,7 @@
             "d) Update router"
         ],
         "answer": "a) Access personal data",
-        "explanation": "The correct answer is 'Access personal data'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Access personal data'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 128,
@@ -1533,7 +1533,7 @@
             "d) OS upgrade"
         ],
         "answer": "a) Lawful data processing",
-        "explanation": "The correct answer is 'Lawful data processing'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Lawful data processing'."
     },
     {
         "id": 129,
@@ -1545,7 +1545,7 @@
             "d) Router activation"
         ],
         "answer": "a) Reporting cybercrime",
-        "explanation": "The correct answer is 'Reporting cybercrime'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Reporting cybercrime'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 130,
@@ -1557,7 +1557,7 @@
             "d) Storage"
         ],
         "answer": "a) Incident response",
-        "explanation": "The correct answer is 'Incident response'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "CERT-In is the national nodal agency for responding to computer security incidents in India. Thus, the correct answer is 'a) Incident response'."
     },
     {
         "id": 131,
@@ -1569,7 +1569,7 @@
             "d) Compress logs"
         ],
         "answer": "a) Preserve metadata",
-        "explanation": "The correct answer is 'Preserve metadata'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Preserve metadata'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 132,
@@ -1581,7 +1581,7 @@
             "d) Router model"
         ],
         "answer": "a) File creation time",
-        "explanation": "The correct answer is 'File creation time'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) File creation time'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 133,
@@ -1593,7 +1593,7 @@
             "d) OS version"
         ],
         "answer": "a) Encryption keys Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Encryption keys Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ransomware is a type of malware that threatens to publish or block access to data unless a ransom is paid. Thus, the correct answer is 'a) Encryption keys Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'."
     },
     {
         "id": 134,
@@ -1605,7 +1605,7 @@
             "d) Cable replacement"
         ],
         "answer": "a) Proper handling",
-        "explanation": "The correct answer is 'Proper handling'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Deep Learning is a subset of ML based on artificial neural networks that can learn from vast amounts of unstructured data. Thus, the correct answer is 'a) Proper handling'."
     },
     {
         "id": 135,
@@ -1617,7 +1617,7 @@
             "d) Storage size"
         ],
         "answer": "a) Cyber resilience",
-        "explanation": "The correct answer is 'Cyber resilience'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Cyber resilience'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 136,
@@ -1629,7 +1629,7 @@
             "d) Unauthorized"
         ],
         "answer": "a) Legal",
-        "explanation": "The correct answer is 'Legal'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ethical hacking is the authorized process of bypassingsystem security to identify and fix potential data breaches. Thus, the correct answer is 'a) Legal'."
     },
     {
         "id": 137,
@@ -1641,7 +1641,7 @@
             "d) None"
         ],
         "answer": "c) Both",
-        "explanation": "The correct answer is 'Both'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) Both'."
     },
     {
         "id": 138,
@@ -1653,7 +1653,7 @@
             "d) OS performance"
         ],
         "answer": "a) Attack spread",
-        "explanation": "The correct answer is 'Attack spread'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Attack spread'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 139,
@@ -1665,7 +1665,7 @@
             "d) Format drives"
         ],
         "answer": "a) Identify risks",
-        "explanation": "The correct answer is 'Identify risks'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Identify risks'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 140,
@@ -1677,7 +1677,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Phishing is a cyber attack that uses disguised email or websites as a weapon to steal sensitive user data. Thus, the correct answer is 'd) All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'."
     },
     {
         "id": 141,
@@ -1689,7 +1689,7 @@
             "d) OS installation"
         ],
         "answer": "a) Digital forensics",
-        "explanation": "The correct answer is 'Digital forensics'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Digital Forensics involves the scientific identification, preservation, and analysis of digital evidence for legal investigations. Thus, the correct answer is 'a) Digital forensics'."
     },
     {
         "id": 142,
@@ -1701,7 +1701,7 @@
             "d) Public system"
         ],
         "answer": "a) Forensic copy",
-        "explanation": "The correct answer is 'Forensic copy'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Forensic copy'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 143,
@@ -1713,7 +1713,7 @@
             "d) Router speed"
         ],
         "answer": "a) Frame inconsistencies",
-        "explanation": "The correct answer is 'Frame inconsistencies'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Deepfakes are synthetic media in which a person in an existing image or video is replaced with someone else's likeness using AI. Thus, the correct answer is 'a) Frame inconsistencies'."
     },
     {
         "id": 144,
@@ -1725,7 +1725,7 @@
             "d) OS downgrade"
         ],
         "answer": "a) DDoS attacks",
-        "explanation": "The correct answer is 'DDoS attacks'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Internet of Things (IoT) refers to a network of interconnected devices that collect and exchange data using sensors. Thus, the correct answer is 'a) DDoS attacks'."
     },
     {
         "id": 145,
@@ -1737,7 +1737,7 @@
             "d) Cable length"
         ],
         "answer": "a) Old vulnerabilities",
-        "explanation": "The correct answer is 'Old vulnerabilities'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Old vulnerabilities'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 146,
@@ -1749,7 +1749,7 @@
             "d) OS deletion"
         ],
         "answer": "a) Legal regulation of cyberspace",
-        "explanation": "The correct answer is 'Legal regulation of cyberspace'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Legal regulation of cyberspace'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 147,
@@ -1761,7 +1761,7 @@
             "d) Router size"
         ],
         "answer": "a) Cyber defense framework Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Cyber defense framework Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Cyber defense framework Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 148,
@@ -1773,7 +1773,7 @@
             "d) OS suspension"
         ],
         "answer": "a) Financial fines",
-        "explanation": "The correct answer is 'Financial fines'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Digital Personal Data Protection (DPDP) Act, 2023 regulates the processing of personal data in India. Thus, the correct answer is 'a) Financial fines'."
     },
     {
         "id": 149,
@@ -1785,7 +1785,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above",
-        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'd) All of the above'."
     },
     {
         "id": 150,
@@ -1797,7 +1797,7 @@
             "d) Crash networks"
         ],
         "answer": "a) Strengthen cybersecurity",
-        "explanation": "The correct answer is 'Strengthen cybersecurity'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ethical hacking is the authorized process of bypassingsystem security to identify and fix potential data breaches. Thus, the correct answer is 'a) Strengthen cybersecurity'."
     },
     {
         "id": 151,
@@ -1809,7 +1809,7 @@
             "d) Formatting drives"
         ],
         "answer": "a) Recovering digital evidence",
-        "explanation": "The correct answer is 'Recovering digital evidence'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Digital Forensics involves the scientific identification, preservation, and analysis of digital evidence for legal investigations. Thus, the correct answer is 'a) Recovering digital evidence'."
     },
     {
         "id": 152,
@@ -1821,7 +1821,7 @@
             "d) OS update"
         ],
         "answer": "a) Hash comparison",
-        "explanation": "The correct answer is 'Hash comparison'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "In cybersecurity, integrity ensures that data has not been tampered with or modified by unauthorized parties. Thus, the correct answer is 'a) Hash comparison'."
     },
     {
         "id": 153,
@@ -1833,7 +1833,7 @@
             "d) Delete files"
         ],
         "answer": "a) Analyze copied evidence",
-        "explanation": "The correct answer is 'Analyze copied evidence'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Analyze copied evidence'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 154,
@@ -1845,7 +1845,7 @@
             "d) Router fails"
         ],
         "answer": "a) Original data is altered Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Original data is altered Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Original data is altered Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 155,
@@ -1857,7 +1857,7 @@
             "d) OS version"
         ],
         "answer": "a) Attack sequence",
-        "explanation": "The correct answer is 'Attack sequence'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Attack sequence'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 156,
@@ -1869,7 +1869,7 @@
             "d) BIOS firmware"
         ],
         "answer": "a) Active system processes",
-        "explanation": "The correct answer is 'Active system processes'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Active system processes'."
     },
     {
         "id": 157,
@@ -1881,7 +1881,7 @@
             "d) Cable format"
         ],
         "answer": "a) Write protection",
-        "explanation": "The correct answer is 'Write protection'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Write protection'."
     },
     {
         "id": 158,
@@ -1893,7 +1893,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above",
-        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'd) All of the above'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 159,
@@ -1905,7 +1905,7 @@
             "d) Restart system"
         ],
         "answer": "a) Isolate infected system",
-        "explanation": "The correct answer is 'Isolate infected system'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ransomware is a type of malware that threatens to publish or block access to data unless a ransom is paid. Thus, the correct answer is 'a) Isolate infected system'."
     },
     {
         "id": 160,
@@ -1917,7 +1917,7 @@
             "d) Deleted"
         ],
         "answer": "a) Court admissible",
-        "explanation": "The correct answer is 'Court admissible'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Digital Forensics involves the scientific identification, preservation, and analysis of digital evidence for legal investigations. Thus, the correct answer is 'a) Court admissible'."
     },
     {
         "id": 161,
@@ -1929,7 +1929,7 @@
             "d) OS brand"
         ],
         "answer": "a) Scope of testing Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Scope of testing Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ethical hacking is the authorized process of bypassingsystem security to identify and fix potential data breaches. Thus, the correct answer is 'a) Scope of testing Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'."
     },
     {
         "id": 162,
@@ -1941,7 +1941,7 @@
             "d) Printer testing"
         ],
         "answer": "a) Public information gathering",
-        "explanation": "The correct answer is 'Public information gathering'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Public information gathering'."
     },
     {
         "id": 163,
@@ -1953,7 +1953,7 @@
             "d) Cable inspection"
         ],
         "answer": "a) Direct interaction with target",
-        "explanation": "The correct answer is 'Direct interaction with target'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Direct interaction with target'."
     },
     {
         "id": 164,
@@ -1965,7 +1965,7 @@
             "d) Storage errors"
         ],
         "answer": "a) Open network ports",
-        "explanation": "The correct answer is 'Open network ports'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Open network ports'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 165,
@@ -1977,7 +1977,7 @@
             "d) Router height"
         ],
         "answer": "a) Vulnerability impact",
-        "explanation": "The correct answer is 'Vulnerability impact'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "A vulnerability is a weakness in a system that can be exploited by an attacker to cause harm. Thus, the correct answer is 'a) Vulnerability impact'."
     },
     {
         "id": 166,
@@ -1989,7 +1989,7 @@
             "d) Restart OS"
         ],
         "answer": "a) Gain higher system access",
-        "explanation": "The correct answer is 'Gain higher system access'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Gain higher system access'."
     },
     {
         "id": 167,
@@ -2001,7 +2001,7 @@
             "d) Storage capacity"
         ],
         "answer": "a) Persistence",
-        "explanation": "The correct answer is 'Persistence'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Persistence'."
     },
     {
         "id": 168,
@@ -2013,7 +2013,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'd) All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 169,
@@ -2025,7 +2025,7 @@
             "d) Router speed"
         ],
         "answer": "a) Potential threats",
-        "explanation": "The correct answer is 'Potential threats'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Potential threats'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 170,
@@ -2037,7 +2037,7 @@
             "d) Mouse"
         ],
         "answer": "a) Network perimeter",
-        "explanation": "The correct answer is 'Network perimeter'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Network perimeter'."
     },
     {
         "id": 171,
@@ -2049,7 +2049,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above",
-        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Phishing is a cyber attack that uses disguised email or websites as a weapon to steal sensitive user data. Thus, the correct answer is 'd) All of the above'."
     },
     {
         "id": 172,
@@ -2061,7 +2061,7 @@
             "d) Router settings"
         ],
         "answer": "a) Cryptographic algorithms",
-        "explanation": "The correct answer is 'Cryptographic algorithms'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ransomware is a type of malware that threatens to publish or block access to data unless a ransom is paid. Thus, the correct answer is 'a) Cryptographic algorithms'."
     },
     {
         "id": 173,
@@ -2073,7 +2073,7 @@
             "d) Upgrade OS"
         ],
         "answer": "a) Overload server",
-        "explanation": "The correct answer is 'Overload server'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Overload server'."
     },
     {
         "id": 174,
@@ -2085,7 +2085,7 @@
             "d) Servers only"
         ],
         "answer": "a) Compromised smart devices",
-        "explanation": "The correct answer is 'Compromised smart devices'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Internet of Things (IoT) refers to a network of interconnected devices that collect and exchange data using sensors. Thus, the correct answer is 'a) Compromised smart devices'."
     },
     {
         "id": 175,
@@ -2097,7 +2097,7 @@
             "d) OS update"
         ],
         "answer": "a) CEO impersonation Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'CEO impersonation Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Deepfakes are synthetic media in which a person in an existing image or video is replaced with someone else's likeness using AI. Thus, the correct answer is 'a) CEO impersonation Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'."
     },
     {
         "id": 176,
@@ -2109,7 +2109,7 @@
             "d) OS removal"
         ],
         "answer": "a) Digital signatures",
-        "explanation": "The correct answer is 'Digital signatures'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Digital signatures'."
     },
     {
         "id": 177,
@@ -2121,7 +2121,7 @@
             "d) Corrupts printer"
         ],
         "answer": "a) Survives OS reinstall",
-        "explanation": "The correct answer is 'Survives OS reinstall'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Survives OS reinstall'."
     },
     {
         "id": 178,
@@ -2133,7 +2133,7 @@
             "d) Router errors"
         ],
         "answer": "a) Web application attacks",
-        "explanation": "The correct answer is 'Web application attacks'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Web application attacks'."
     },
     {
         "id": 179,
@@ -2145,7 +2145,7 @@
             "d) OS boot"
         ],
         "answer": "a) Database queries",
-        "explanation": "The correct answer is 'Database queries'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Database queries'."
     },
     {
         "id": 180,
@@ -2157,7 +2157,7 @@
             "d) Router crash"
         ],
         "answer": "a) No patch available",
-        "explanation": "The correct answer is 'No patch available'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "A zero-day exploit is an attack that targets a software vulnerability which is unknown to the software developer. Thus, the correct answer is 'a) No patch available'."
     },
     {
         "id": 181,
@@ -2169,7 +2169,7 @@
             "d) OS printing"
         ],
         "answer": "a) Public-private partnership",
-        "explanation": "The correct answer is 'Public-private partnership'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Public-private partnership'."
     },
     {
         "id": 182,
@@ -2181,7 +2181,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'd) All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 183,
@@ -2193,7 +2193,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above",
-        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The IT Act 2000 is the primary law in India dealing with cybercrime and electronic commerce. Thus, the correct answer is 'd) All of the above'."
     },
     {
         "id": 184,
@@ -2205,7 +2205,7 @@
             "d) OS deletion"
         ],
         "answer": "a) Unauthorized access",
-        "explanation": "The correct answer is 'Unauthorized access'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Unauthorized access'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 185,
@@ -2217,7 +2217,7 @@
             "d) Router deletion"
         ],
         "answer": "a) Data interception",
-        "explanation": "The correct answer is 'Data interception'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Data interception'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 186,
@@ -2229,7 +2229,7 @@
             "d) OS updates"
         ],
         "answer": "a) Data privacy rights",
-        "explanation": "The correct answer is 'Data privacy rights'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Digital Personal Data Protection (DPDP) Act, 2023 regulates the processing of personal data in India. Thus, the correct answer is 'a) Data privacy rights'."
     },
     {
         "id": 187,
@@ -2241,7 +2241,7 @@
             "d) Verbal only"
         ],
         "answer": "a) Clear and informed",
-        "explanation": "The correct answer is 'Clear and informed'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "The Digital Personal Data Protection (DPDP) Act, 2023 regulates the processing of personal data in India. Thus, the correct answer is 'a) Clear and informed'."
     },
     {
         "id": 188,
@@ -2253,7 +2253,7 @@
             "d) Router upgrade"
         ],
         "answer": "a) Cyber safety awareness",
-        "explanation": "The correct answer is 'Cyber safety awareness'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Cyber safety awareness'."
     },
     {
         "id": 189,
@@ -2265,7 +2265,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'd) All of the above Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'."
     },
     {
         "id": 190,
@@ -2277,7 +2277,7 @@
             "d) OS downgrade"
         ],
         "answer": "a) Threat to national security",
-        "explanation": "The correct answer is 'Threat to national security'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Section 66F of the IT Act specifically addresses cyber terrorism and its legal consequences. Thus, the correct answer is 'a) Threat to national security'."
     },
     {
         "id": 191,
@@ -2289,7 +2289,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above",
-        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'd) All of the above'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 192,
@@ -2301,7 +2301,7 @@
             "d) OS update"
         ],
         "answer": "a) No alteration",
-        "explanation": "The correct answer is 'No alteration'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) No alteration'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 193,
@@ -2313,7 +2313,7 @@
             "d) OS setup"
         ],
         "answer": "a) Structured approach",
-        "explanation": "The correct answer is 'Structured approach'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Structured approach'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 194,
@@ -2325,7 +2325,7 @@
             "d) Router size"
         ],
         "answer": "a) Investigation delay",
-        "explanation": "The correct answer is 'Investigation delay'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Investigation delay'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 195,
@@ -2337,7 +2337,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above",
-        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Ethical hacking is the authorized process of bypassingsystem security to identify and fix potential data breaches. Thus, the correct answer is 'd) All of the above'."
     },
     {
         "id": 196,
@@ -2349,7 +2349,7 @@
             "d) OS removal"
         ],
         "answer": "a) Awareness training Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp",
-        "explanation": "The correct answer is 'Awareness training Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Awareness training Mob No: 9326050669 / 9372072139 | Youtube: @v2vedtechllp'."
     },
     {
         "id": 197,
@@ -2361,7 +2361,7 @@
             "d) OS downgrade"
         ],
         "answer": "a) Ability to recover quickly",
-        "explanation": "The correct answer is 'Ability to recover quickly'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Ability to recover quickly'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 198,
@@ -2373,7 +2373,7 @@
             "d) All of the above"
         ],
         "answer": "d) All of the above",
-        "explanation": "The correct answer is 'All of the above'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'd) All of the above'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 199,
@@ -2385,7 +2385,7 @@
             "d) OS update"
         ],
         "answer": "a) Case closure",
-        "explanation": "The correct answer is 'Case closure'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Case closure'. Understanding this is key to mastering the syllabus content of Unit 5."
     },
     {
         "id": 200,
@@ -2397,6 +2397,6 @@
             "d) OS deletion"
         ],
         "answer": "a) Secure and legally compliant cyberspace",
-        "explanation": "The correct answer is 'Secure and legally compliant cyberspace'. This concept is essential to Digital Forensics and Ethical Hacking."
+        "explanation": "This question focuses on 'a) Secure and legally compliant cyberspace'. Understanding this is key to mastering the syllabus content of Unit 5."
     }
 ]

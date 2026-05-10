@@ -69,7 +69,7 @@
             "d) Statistics"
         ],
         "answer": "b) AI",
-        "explanation": "The correct concept here is 'AI'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) AI'."
     },
     {
         "id": 7,
@@ -81,7 +81,7 @@
             "d) Data Mining"
         ],
         "answer": "c) Machine Learning",
-        "explanation": "The correct concept here is 'Machine Learning'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'c) Machine Learning'."
     },
     {
         "id": 8,
@@ -93,7 +93,7 @@
             "d) Behaviourist approach"
         ],
         "answer": "b) Think well",
-        "explanation": "The correct concept here is 'Think well'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Think well'."
     },
     {
         "id": 9,
@@ -105,7 +105,7 @@
             "d) Super AI"
         ],
         "answer": "b) Act like humans",
-        "explanation": "The correct concept here is 'Act like humans'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'b) Act like humans'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 10,
@@ -117,7 +117,7 @@
             "d) Super AI"
         ],
         "answer": "c) Weak AI",
-        "explanation": "The correct concept here is 'Weak AI'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) Weak AI'."
     },
     {
         "id": 11,
@@ -129,7 +129,7 @@
             "d) Used in cars"
         ],
         "answer": "b) Does not exist",
-        "explanation": "The correct concept here is 'Does not exist'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Does not exist'."
     },
     {
         "id": 12,
@@ -141,7 +141,7 @@
             "d) Weak AI"
         ],
         "answer": "c) Hypothetical",
-        "explanation": "The correct concept here is 'Hypothetical'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) Hypothetical'."
     },
     {
         "id": 13,
@@ -153,7 +153,7 @@
             "d) Think independently"
         ],
         "answer": "c) React to present only",
-        "explanation": "The correct concept here is 'React to present only'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'c) React to present only'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 14,
@@ -165,7 +165,7 @@
             "d) Theory of Mind AI"
         ],
         "answer": "c) Reactive Machine",
-        "explanation": "The correct concept here is 'Reactive Machine'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'c) Reactive Machine'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 15,
@@ -177,7 +177,7 @@
             "d) Self-aware AI"
         ],
         "answer": "b) Limited memory AI",
-        "explanation": "The correct concept here is 'Limited memory AI'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Limited memory AI'."
     },
     {
         "id": 16,
@@ -189,7 +189,7 @@
             "d) Coding"
         ],
         "answer": "b) Human emotions",
-        "explanation": "The correct concept here is 'Human emotions'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Human emotions'."
     },
     {
         "id": 17,
@@ -201,7 +201,7 @@
             "d) Used in banking"
         ],
         "answer": "c) Is hypothetical",
-        "explanation": "The correct concept here is 'Is hypothetical'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) Is hypothetical'."
     },
     {
         "id": 18,
@@ -213,7 +213,7 @@
             "d) Reinforcement signals"
         ],
         "answer": "c) Labeled data",
-        "explanation": "The correct concept here is 'Labeled data'. This is a foundational principle of the topic being tested."
+        "explanation": "Supervised learning uses labeled training data to teach algorithms how to predict outcomes or classify data. Thus, the correct answer is 'c) Labeled data'."
     },
     {
         "id": 19,
@@ -225,7 +225,7 @@
             "d) Deep AI"
         ],
         "answer": "c) Supervised learning",
-        "explanation": "The correct concept here is 'Supervised learning'. This is a foundational principle of the topic being tested."
+        "explanation": "Supervised learning uses labeled training data to teach algorithms how to predict outcomes or classify data. Thus, the correct answer is 'c) Supervised learning'."
     },
     {
         "id": 20,
@@ -237,7 +237,7 @@
             "d) Deep learning"
         ],
         "answer": "c) Unsupervised learning",
-        "explanation": "The correct concept here is 'Unsupervised learning'. This is a foundational principle of the topic being tested."
+        "explanation": "Unsupervised learning finds hidden patterns or intrinsic structures in input data without using labeled responses. Thus, the correct answer is 'c) Unsupervised learning'."
     },
     {
         "id": 21,
@@ -249,7 +249,7 @@
             "d) Static logic"
         ],
         "answer": "b) Rewards and penalties",
-        "explanation": "The correct concept here is 'Rewards and penalties'. This is a foundational principle of the topic being tested."
+        "explanation": "Reinforcement learning is about taking suitable action to maximize reward in a particular situation. Thus, the correct answer is 'b) Rewards and penalties'."
     },
     {
         "id": 22,
@@ -261,7 +261,7 @@
             "d) Regression"
         ],
         "answer": "c) Reinforcement learning",
-        "explanation": "The correct concept here is 'Reinforcement learning'. This is a foundational principle of the topic being tested."
+        "explanation": "Reinforcement learning is about taking suitable action to maximize reward in a particular situation. Thus, the correct answer is 'c) Reinforcement learning'."
     },
     {
         "id": 23,
@@ -273,7 +273,7 @@
             "d) Search trees"
         ],
         "answer": "b) Neural networks",
-        "explanation": "The correct concept here is 'Neural networks'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Neural networks'."
     },
     {
         "id": 24,
@@ -285,7 +285,7 @@
             "d) No data"
         ],
         "answer": "c) Large datasets",
-        "explanation": "The correct concept here is 'Large datasets'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'c) Large datasets'."
     },
     {
         "id": 25,
@@ -297,7 +297,7 @@
             "d) Internet"
         ],
         "answer": "b) Human brain",
-        "explanation": "The correct concept here is 'Human brain'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Human brain'."
     },
     {
         "id": 26,
@@ -309,7 +309,7 @@
             "d) Encrypt files"
         ],
         "answer": "b) Adjust weights",
-        "explanation": "The correct concept here is 'Adjust weights'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'b) Adjust weights'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 27,
@@ -321,7 +321,7 @@
             "d) Automation only"
         ],
         "answer": "b) Extracting insights from data",
-        "explanation": "The correct concept here is 'Extracting insights from data'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Extracting insights from data'."
     },
     {
         "id": 28,
@@ -333,7 +333,7 @@
             "d) Encrypts data"
         ],
         "answer": "b) Extracts features",
-        "explanation": "The correct concept here is 'Extracts features'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Extracts features'."
     },
     {
         "id": 29,
@@ -345,7 +345,7 @@
             "d) Easy to explain"
         ],
         "answer": "c) Hard to interpret",
-        "explanation": "The correct concept here is 'Hard to interpret'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'c) Hard to interpret'."
     },
     {
         "id": 30,
@@ -357,7 +357,7 @@
             "d) Designing hardware"
         ],
         "answer": "b) Diagnosis",
-        "explanation": "The correct concept here is 'Diagnosis'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Diagnosis'."
     },
     {
         "id": 31,
@@ -369,7 +369,7 @@
             "d) Hardware design"
         ],
         "answer": "a) Fraud detection",
-        "explanation": "The correct concept here is 'Fraud detection'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Fraud detection'."
     },
     {
         "id": 32,
@@ -381,7 +381,7 @@
             "d) BIOS"
         ],
         "answer": "a) ML",
-        "explanation": "The correct concept here is 'ML'. This is a foundational principle of the topic being tested."
+        "explanation": "Machine Learning is a subset of AI where systems automatically learn and improve from experience without being explicitly programmed. Thus, the correct answer is 'a) ML'."
     },
     {
         "id": 33,
@@ -393,7 +393,7 @@
             "d) NLP"
         ],
         "answer": "b) Reinforcement learning",
-        "explanation": "The correct concept here is 'Reinforcement learning'. This is a foundational principle of the topic being tested."
+        "explanation": "Reinforcement learning is about taking suitable action to maximize reward in a particular situation. Thus, the correct answer is 'b) Reinforcement learning'."
     },
     {
         "id": 34,
@@ -405,7 +405,7 @@
             "d) Data storage"
         ],
         "answer": "b) Image generation",
-        "explanation": "The correct concept here is 'Image generation'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Image generation'."
     },
     {
         "id": 35,
@@ -417,7 +417,7 @@
             "d) Hardware"
         ],
         "answer": "c) New content",
-        "explanation": "The correct concept here is 'New content'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) New content'."
     },
     {
         "id": 36,
@@ -429,7 +429,7 @@
             "d) KNN"
         ],
         "answer": "c) Transformer",
-        "explanation": "The correct concept here is 'Transformer'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'c) Transformer'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 37,
@@ -441,7 +441,7 @@
             "d) Sorting"
         ],
         "answer": "b) Transformers",
-        "explanation": "The correct concept here is 'Transformers'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Transformers'."
     },
     {
         "id": 38,
@@ -453,7 +453,7 @@
             "d) GPU"
         ],
         "answer": "b) Training data",
-        "explanation": "The correct concept here is 'Training data'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Training data'."
     },
     {
         "id": 39,
@@ -465,7 +465,7 @@
             "d) Multiple Firewall Access"
         ],
         "answer": "b) Multi-Factor Authentication",
-        "explanation": "The correct concept here is 'Multi-Factor Authentication'. This is a foundational principle of the topic being tested."
+        "explanation": "Authentication is the process of verifying the identity of a user, device, or system. Thus, the correct answer is 'b) Multi-Factor Authentication'."
     },
     {
         "id": 40,
@@ -477,7 +477,7 @@
             "d) Model encrypts"
         ],
         "answer": "b) Model memorizes training data",
-        "explanation": "The correct concept here is 'Model memorizes training data'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Model memorizes training data'."
     },
     {
         "id": 41,
@@ -489,7 +489,7 @@
             "d) AGI"
         ],
         "answer": "b) Narrow AI",
-        "explanation": "The correct concept here is 'Narrow AI'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Narrow AI'."
     },
     {
         "id": 42,
@@ -501,7 +501,7 @@
             "d) Numbers"
         ],
         "answer": "c) Images and video",
-        "explanation": "The correct concept here is 'Images and video'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'c) Images and video'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 43,
@@ -513,7 +513,7 @@
             "d) Sorting"
         ],
         "answer": "a) Supervised learning",
-        "explanation": "The correct concept here is 'Supervised learning'. This is a foundational principle of the topic being tested."
+        "explanation": "Supervised learning uses labeled training data to teach algorithms how to predict outcomes or classify data. Thus, the correct answer is 'a) Supervised learning'."
     },
     {
         "id": 44,
@@ -525,7 +525,7 @@
             "d) Sorting"
         ],
         "answer": "b) Dimensionality reduction",
-        "explanation": "The correct concept here is 'Dimensionality reduction'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'b) Dimensionality reduction'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 45,
@@ -537,7 +537,7 @@
             "d) Format data"
         ],
         "answer": "b) Mimic intelligence",
-        "explanation": "The correct concept here is 'Mimic intelligence'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Mimic intelligence'."
     },
     {
         "id": 46,
@@ -549,7 +549,7 @@
             "d) Deletion"
         ],
         "answer": "b) Intelligent automation",
-        "explanation": "The correct concept here is 'Intelligent automation'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Intelligent automation'."
     },
     {
         "id": 47,
@@ -561,7 +561,7 @@
             "d) File size"
         ],
         "answer": "b) Network anomalies",
-        "explanation": "The correct concept here is 'Network anomalies'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Network anomalies'."
     },
     {
         "id": 48,
@@ -573,7 +573,7 @@
             "d) Basic math"
         ],
         "answer": "b) Complex tasks",
-        "explanation": "The correct concept here is 'Complex tasks'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Complex tasks'."
     },
     {
         "id": 49,
@@ -585,7 +585,7 @@
             "d) Resetting systems"
         ],
         "answer": "b) Learning from data",
-        "explanation": "The correct concept here is 'Learning from data'. This is a foundational principle of the topic being tested."
+        "explanation": "Machine Learning is a subset of AI where systems automatically learn and improve from experience without being explicitly programmed. Thus, the correct answer is 'b) Learning from data'."
     },
     {
         "id": 50,
@@ -597,7 +597,7 @@
             "d) Autonomous Neural Interface"
         ],
         "answer": "b) Artificial Narrow Intelligence",
-        "explanation": "The correct concept here is 'Artificial Narrow Intelligence'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Artificial Narrow Intelligence'."
     },
     {
         "id": 51,
@@ -609,7 +609,7 @@
             "d) Artificial Graph Intelligence"
         ],
         "answer": "a) Artificial General Intelligence",
-        "explanation": "The correct concept here is 'Artificial General Intelligence'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Artificial General Intelligence'."
     },
     {
         "id": 52,
@@ -621,7 +621,7 @@
             "d) Automated Smart Intelligence"
         ],
         "answer": "b) Artificial Super Intelligence",
-        "explanation": "The correct concept here is 'Artificial Super Intelligence'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Artificial Super Intelligence'."
     },
     {
         "id": 53,
@@ -633,7 +633,7 @@
             "d) Self-aware AI"
         ],
         "answer": "c) Narrow AI",
-        "explanation": "The correct concept here is 'Narrow AI'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) Narrow AI'."
     },
     {
         "id": 54,
@@ -645,7 +645,7 @@
             "d) Encrypted"
         ],
         "answer": "b) Labeled",
-        "explanation": "The correct concept here is 'Labeled'. This is a foundational principle of the topic being tested."
+        "explanation": "Supervised learning uses labeled training data to teach algorithms how to predict outcomes or classify data. Thus, the correct answer is 'b) Labeled'."
     },
     {
         "id": 55,
@@ -657,7 +657,7 @@
             "d) Deep learning only"
         ],
         "answer": "b) Unsupervised learning",
-        "explanation": "The correct concept here is 'Unsupervised learning'. This is a foundational principle of the topic being tested."
+        "explanation": "Unsupervised learning finds hidden patterns or intrinsic structures in input data without using labeled responses. Thus, the correct answer is 'b) Unsupervised learning'."
     },
     {
         "id": 56,
@@ -669,7 +669,7 @@
             "d) Spreadsheet design"
         ],
         "answer": "b) Game AI",
-        "explanation": "The correct concept here is 'Game AI'. This is a foundational principle of the topic being tested."
+        "explanation": "Reinforcement learning is about taking suitable action to maximize reward in a particular situation. Thus, the correct answer is 'b) Game AI'."
     },
     {
         "id": 57,
@@ -681,7 +681,7 @@
             "d) Robotics only"
         ],
         "answer": "a) Supervised learning",
-        "explanation": "The correct concept here is 'Supervised learning'. This is a foundational principle of the topic being tested."
+        "explanation": "Supervised learning uses labeled training data to teach algorithms how to predict outcomes or classify data. Thus, the correct answer is 'a) Supervised learning'."
     },
     {
         "id": 58,
@@ -693,7 +693,7 @@
             "d) No computation"
         ],
         "answer": "c) High computational power",
-        "explanation": "The correct concept here is 'High computational power'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'c) High computational power'."
     },
     {
         "id": 59,
@@ -705,7 +705,7 @@
             "d) Operating systems"
         ],
         "answer": "b) Neural networks",
-        "explanation": "The correct concept here is 'Neural networks'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Neural networks'."
     },
     {
         "id": 60,
@@ -717,7 +717,7 @@
             "d) Sorting"
         ],
         "answer": "b) Weight adjustment",
-        "explanation": "The correct concept here is 'Weight adjustment'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Weight adjustment'."
     },
     {
         "id": 61,
@@ -729,7 +729,7 @@
             "d) Encrypts data"
         ],
         "answer": "b) Receives data",
-        "explanation": "The correct concept here is 'Receives data'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'b) Receives data'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 62,
@@ -741,7 +741,7 @@
             "d) Model underperforms"
         ],
         "answer": "b) Model memorizes training data",
-        "explanation": "The correct concept here is 'Model memorizes training data'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Model memorizes training data'."
     },
     {
         "id": 63,
@@ -753,7 +753,7 @@
             "d) Low computational need"
         ],
         "answer": "c) Automated feature extraction",
-        "explanation": "The correct concept here is 'Automated feature extraction'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'c) Automated feature extraction'."
     },
     {
         "id": 64,
@@ -765,7 +765,7 @@
             "d) Needs no hardware"
         ],
         "answer": "c) Requires large dataset",
-        "explanation": "The correct concept here is 'Requires large dataset'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'c) Requires large dataset'."
     },
     {
         "id": 65,
@@ -777,7 +777,7 @@
             "d) Encrypt networks"
         ],
         "answer": "b) Understand human language",
-        "explanation": "The correct concept here is 'Understand human language'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'b) Understand human language'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 66,
@@ -789,7 +789,7 @@
             "d) Router"
         ],
         "answer": "b) ChatGPT",
-        "explanation": "The correct concept here is 'ChatGPT'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) ChatGPT'."
     },
     {
         "id": 67,
@@ -801,7 +801,7 @@
             "d) Graphical AI Network"
         ],
         "answer": "b) Generative Adversarial Network",
-        "explanation": "The correct concept here is 'Generative Adversarial Network'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Generative Adversarial Network'."
     },
     {
         "id": 68,
@@ -813,7 +813,7 @@
             "d) Networking"
         ],
         "answer": "b) NLP tasks",
-        "explanation": "The correct concept here is 'NLP tasks'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) NLP tasks'."
     },
     {
         "id": 69,
@@ -825,7 +825,7 @@
             "d) Sort data"
         ],
         "answer": "b) Focus on relevant words",
-        "explanation": "The correct concept here is 'Focus on relevant words'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'b) Focus on relevant words'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 70,
@@ -837,7 +837,7 @@
             "d) Firmware"
         ],
         "answer": "a) AI and ML",
-        "explanation": "The correct concept here is 'AI and ML'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) AI and ML'."
     },
     {
         "id": 71,
@@ -849,7 +849,7 @@
             "d) RAM"
         ],
         "answer": "a) ML algorithms",
-        "explanation": "The correct concept here is 'ML algorithms'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) ML algorithms'."
     },
     {
         "id": 72,
@@ -861,7 +861,7 @@
             "d) Network failure"
         ],
         "answer": "b) Intelligent automation",
-        "explanation": "The correct concept here is 'Intelligent automation'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Intelligent automation'."
     },
     {
         "id": 73,
@@ -873,7 +873,7 @@
             "d) Formatting"
         ],
         "answer": "a) Computer Vision",
-        "explanation": "The correct concept here is 'Computer Vision'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'a) Computer Vision'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 74,
@@ -885,7 +885,7 @@
             "d) Reactive AI"
         ],
         "answer": "b) Supervised learning",
-        "explanation": "The correct concept here is 'Supervised learning'. This is a foundational principle of the topic being tested."
+        "explanation": "Supervised learning uses labeled training data to teach algorithms how to predict outcomes or classify data. Thus, the correct answer is 'b) Supervised learning'."
     },
     {
         "id": 75,
@@ -897,7 +897,7 @@
             "d) Regression only"
         ],
         "answer": "c) Reinforcement learning",
-        "explanation": "The correct concept here is 'Reinforcement learning'. This is a foundational principle of the topic being tested."
+        "explanation": "Reinforcement learning is about taking suitable action to maximize reward in a particular situation. Thus, the correct answer is 'c) Reinforcement learning'."
     },
     {
         "id": 76,
@@ -909,7 +909,7 @@
             "d) Gaming"
         ],
         "answer": "a) Predictive maintenance",
-        "explanation": "The correct concept here is 'Predictive maintenance'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Predictive maintenance'."
     },
     {
         "id": 77,
@@ -921,7 +921,7 @@
             "d) Narrow AI"
         ],
         "answer": "c) Theory of Mind",
-        "explanation": "The correct concept here is 'Theory of Mind'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) Theory of Mind'."
     },
     {
         "id": 78,
@@ -933,7 +933,7 @@
             "d) Painting"
         ],
         "answer": "b) Cybersecurity",
-        "explanation": "The correct concept here is 'Cybersecurity'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Cybersecurity'."
     },
     {
         "id": 79,
@@ -945,7 +945,7 @@
             "d) Sequentially"
         ],
         "answer": "b) Automatically",
-        "explanation": "The correct concept here is 'Automatically'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Automatically'."
     },
     {
         "id": 80,
@@ -957,7 +957,7 @@
             "d) File deletion"
         ],
         "answer": "b) Complex non-linear problems",
-        "explanation": "The correct concept here is 'Complex non-linear problems'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Complex non-linear problems'."
     },
     {
         "id": 81,
@@ -969,7 +969,7 @@
             "d) Deep"
         ],
         "answer": "c) Unsupervised",
-        "explanation": "The correct concept here is 'Unsupervised'. This is a foundational principle of the topic being tested."
+        "explanation": "Unsupervised learning finds hidden patterns or intrinsic structures in input data without using labeled responses. Thus, the correct answer is 'c) Unsupervised'."
     },
     {
         "id": 82,
@@ -981,7 +981,7 @@
             "d) Hierarchical clustering"
         ],
         "answer": "c) Decision Tree",
-        "explanation": "The correct concept here is 'Decision Tree'. This is a foundational principle of the topic being tested."
+        "explanation": "Supervised learning uses labeled training data to teach algorithms how to predict outcomes or classify data. Thus, the correct answer is 'c) Decision Tree'."
     },
     {
         "id": 83,
@@ -993,7 +993,7 @@
             "d) Random Forest"
         ],
         "answer": "b) K-Means",
-        "explanation": "The correct concept here is 'K-Means'. This is a foundational principle of the topic being tested."
+        "explanation": "Unsupervised learning finds hidden patterns or intrinsic structures in input data without using labeled responses. Thus, the correct answer is 'b) K-Means'."
     },
     {
         "id": 84,
@@ -1005,7 +1005,7 @@
             "d) Hardcoding"
         ],
         "answer": "c) Rewards",
-        "explanation": "The correct concept here is 'Rewards'. This is a foundational principle of the topic being tested."
+        "explanation": "Reinforcement learning is about taking suitable action to maximize reward in a particular situation. Thus, the correct answer is 'c) Rewards'."
     },
     {
         "id": 85,
@@ -1017,7 +1017,7 @@
             "d) Printing"
         ],
         "answer": "b) Navigation",
-        "explanation": "The correct concept here is 'Navigation'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Navigation'."
     },
     {
         "id": 86,
@@ -1029,7 +1029,7 @@
             "d) RAM"
         ],
         "answer": "b) Training data",
-        "explanation": "The correct concept here is 'Training data'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Training data'."
     },
     {
         "id": 87,
@@ -1041,7 +1041,7 @@
             "d) Increase memory"
         ],
         "answer": "b) Deceive AI model",
-        "explanation": "The correct concept here is 'Deceive AI model'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Deceive AI model'."
     },
     {
         "id": 88,
@@ -1053,7 +1053,7 @@
             "d) RAM"
         ],
         "answer": "b) Security",
-        "explanation": "The correct concept here is 'Security'. This is a foundational principle of the topic being tested."
+        "explanation": "Multi-Factor Authentication (MFA) adds a layer of security by requiring two or more verification methods for access. Thus, the correct answer is 'b) Security'."
     },
     {
         "id": 89,
@@ -1065,7 +1065,7 @@
             "d) Formatting"
         ],
         "answer": "a) Ethics",
-        "explanation": "The correct concept here is 'Ethics'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Ethics'."
     },
     {
         "id": 90,
@@ -1077,7 +1077,7 @@
             "d) Networks"
         ],
         "answer": "b) Human behaviour",
-        "explanation": "The correct concept here is 'Human behaviour'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Human behaviour'."
     },
     {
         "id": 91,
@@ -1089,7 +1089,7 @@
             "d) BIOS"
         ],
         "answer": "b) Neural networks",
-        "explanation": "The correct concept here is 'Neural networks'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'b) Neural networks'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 92,
@@ -1101,7 +1101,7 @@
             "d) Encryption"
         ],
         "answer": "a) NLP",
-        "explanation": "The correct concept here is 'NLP'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'a) NLP'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 93,
@@ -1113,7 +1113,7 @@
             "d) Coding"
         ],
         "answer": "b) Recommendation systems",
-        "explanation": "The correct concept here is 'Recommendation systems'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Recommendation systems'."
     },
     {
         "id": 94,
@@ -1125,7 +1125,7 @@
             "d) Static data"
         ],
         "answer": "b) Large data",
-        "explanation": "The correct concept here is 'Large data'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Large data'."
     },
     {
         "id": 95,
@@ -1137,7 +1137,7 @@
             "d) Corrupt data"
         ],
         "answer": "b) New unseen data",
-        "explanation": "The correct concept here is 'New unseen data'. This is a foundational principle of the topic being tested."
+        "explanation": "Machine Learning is a subset of AI where systems automatically learn and improve from experience without being explicitly programmed. Thus, the correct answer is 'b) New unseen data'."
     },
     {
         "id": 96,
@@ -1149,7 +1149,7 @@
             "d) Printing"
         ],
         "answer": "b) Deep Learning training",
-        "explanation": "The correct concept here is 'Deep Learning training'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Deep Learning training'."
     },
     {
         "id": 97,
@@ -1161,7 +1161,7 @@
             "d) Operating systems"
         ],
         "answer": "c) New content",
-        "explanation": "The correct concept here is 'New content'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) New content'."
     },
     {
         "id": 98,
@@ -1173,7 +1173,7 @@
             "d) Firewall"
         ],
         "answer": "b) Large pre-trained model",
-        "explanation": "The correct concept here is 'Large pre-trained model'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Large pre-trained model'."
     },
     {
         "id": 99,
@@ -1185,7 +1185,7 @@
             "d) Printer drivers"
         ],
         "answer": "a) NLP",
-        "explanation": "The correct concept here is 'NLP'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'a) NLP'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 100,
@@ -1197,7 +1197,7 @@
             "d) Data Science"
         ],
         "answer": "c) Deep Learning",
-        "explanation": "The correct concept here is 'Deep Learning'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) Deep Learning'."
     },
     {
         "id": 101,
@@ -1209,7 +1209,7 @@
             "d) Geoffrey Hinton"
         ],
         "answer": "b) John McCarthy",
-        "explanation": "The correct concept here is 'John McCarthy'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) John McCarthy'."
     },
     {
         "id": 102,
@@ -1221,7 +1221,7 @@
             "d) Linguistics"
         ],
         "answer": "c) Astrology",
-        "explanation": "The correct concept here is 'Astrology'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) Astrology'."
     },
     {
         "id": 103,
@@ -1233,7 +1233,7 @@
             "d) Build hardware devices."
         ],
         "answer": "b) Mimic human intelligence to solve complex tasks.",
-        "explanation": "The correct concept here is 'Mimic human intelligence to solve complex tasks.'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Mimic human intelligence to solve complex tasks.'."
     },
     {
         "id": 104,
@@ -1245,7 +1245,7 @@
             "d) Can reason like a human."
         ],
         "answer": "c) Performs dedicated tasks within a limited scope.",
-        "explanation": "The correct concept here is 'Performs dedicated tasks within a limited scope.'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) Performs dedicated tasks within a limited scope.'."
     },
     {
         "id": 105,
@@ -1257,7 +1257,7 @@
             "d) Super AI has no cognitive abilities."
         ],
         "answer": "c) Super AI surpasses human intelligence in every domain.",
-        "explanation": "The correct concept here is 'Super AI surpasses human intelligence in every domain.'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) Super AI surpasses human intelligence in every domain.'."
     },
     {
         "id": 106,
@@ -1269,7 +1269,7 @@
             "d) understanding human emotions."
         ],
         "answer": "b) purely reacting to current inputs without memory.",
-        "explanation": "The correct concept here is 'purely reacting to current inputs without memory.'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) purely reacting to current inputs without memory.'."
     },
     {
         "id": 107,
@@ -1281,7 +1281,7 @@
             "d) Robot mechanics"
         ],
         "answer": "b) Understanding emotions and beliefs",
-        "explanation": "The correct concept here is 'Understanding emotions and beliefs'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Understanding emotions and beliefs'."
     },
     {
         "id": 108,
@@ -1293,7 +1293,7 @@
             "d) Narrow AI"
         ],
         "answer": "c) Self-Awareness AI",
-        "explanation": "The correct concept here is 'Self-Awareness AI'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) Self-Awareness AI'."
     },
     {
         "id": 109,
@@ -1305,7 +1305,7 @@
             "d) Eliminating all human interaction."
         ],
         "answer": "a) Diagnosing diseases and patient monitoring.",
-        "explanation": "The correct concept here is 'Diagnosing diseases and patient monitoring.'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Diagnosing diseases and patient monitoring.'."
     },
     {
         "id": 110,
@@ -1317,7 +1317,7 @@
             "d) Statistical analysis"
         ],
         "answer": "b) Natural Language Processing",
-        "explanation": "The correct concept here is 'Natural Language Processing'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Natural Language Processing'."
     },
     {
         "id": 111,
@@ -1329,7 +1329,7 @@
             "d) Software debugging"
         ],
         "answer": "b) Training systems to learn from data",
-        "explanation": "The correct concept here is 'Training systems to learn from data'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Training systems to learn from data'."
     },
     {
         "id": 112,
@@ -1341,7 +1341,7 @@
             "d) Exploring databases"
         ],
         "answer": "b) Email spam filtering with labeled emails",
-        "explanation": "The correct concept here is 'Email spam filtering with labeled emails'. This is a foundational principle of the topic being tested."
+        "explanation": "Supervised learning uses labeled training data to teach algorithms how to predict outcomes or classify data. Thus, the correct answer is 'b) Email spam filtering with labeled emails'."
     },
     {
         "id": 113,
@@ -1353,7 +1353,7 @@
             "d) Reinforcement learning"
         ],
         "answer": "b) Logistic regression",
-        "explanation": "The correct concept here is 'Logistic regression'. This is a foundational principle of the topic being tested."
+        "explanation": "Supervised learning uses labeled training data to teach algorithms how to predict outcomes or classify data. Thus, the correct answer is 'b) Logistic regression'."
     },
     {
         "id": 114,
@@ -1365,7 +1365,7 @@
             "d) Pre-programmed rules."
         ],
         "answer": "b) Discovering patterns from unlabelled data.",
-        "explanation": "The correct concept here is 'Discovering patterns from unlabelled data.'. This is a foundational principle of the topic being tested."
+        "explanation": "Unsupervised learning finds hidden patterns or intrinsic structures in input data without using labeled responses. Thus, the correct answer is 'b) Discovering patterns from unlabelled data.'."
     },
     {
         "id": 115,
@@ -1377,7 +1377,7 @@
             "d) using labeled data only."
         ],
         "answer": "a) receiving rewards or penalties through trial and error.",
-        "explanation": "The correct concept here is 'receiving rewards or penalties through trial and error.'. This is a foundational principle of the topic being tested."
+        "explanation": "Reinforcement learning is about taking suitable action to maximize reward in a particular situation. Thus, the correct answer is 'a) receiving rewards or penalties through trial and error.'."
     },
     {
         "id": 116,
@@ -1389,7 +1389,7 @@
             "d) Customer segmentation."
         ],
         "answer": "c) Chess playing with fixed rules only.",
-        "explanation": "The correct concept here is 'Chess playing with fixed rules only.'. This is a foundational principle of the topic being tested."
+        "explanation": "Machine Learning is a subset of AI where systems automatically learn and improve from experience without being explicitly programmed. Thus, the correct answer is 'c) Chess playing with fixed rules only.'."
     },
     {
         "id": 117,
@@ -1401,7 +1401,7 @@
             "d) Data Mining."
         ],
         "answer": "c) Reinforcement Learning.",
-        "explanation": "The correct concept here is 'Reinforcement Learning.'. This is a foundational principle of the topic being tested."
+        "explanation": "Reinforcement learning is about taking suitable action to maximize reward in a particular situation. Thus, the correct answer is 'c) Reinforcement Learning.'."
     },
     {
         "id": 118,
@@ -1413,7 +1413,7 @@
             "d) Network security."
         ],
         "answer": "b) Customer behaviour analysis and recommendations.",
-        "explanation": "The correct concept here is 'Customer behaviour analysis and recommendations.'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Customer behaviour analysis and recommendations.'."
     },
     {
         "id": 119,
@@ -1425,7 +1425,7 @@
             "d) Reinforcement learning."
         ],
         "answer": "b) K-means clustering.",
-        "explanation": "The correct concept here is 'K-means clustering.'. This is a foundational principle of the topic being tested."
+        "explanation": "Unsupervised learning finds hidden patterns or intrinsic structures in input data without using labeled responses. Thus, the correct answer is 'b) K-means clustering.'."
     },
     {
         "id": 120,
@@ -1437,7 +1437,7 @@
             "d) Linguistics."
         ],
         "answer": "b) Data Science.",
-        "explanation": "The correct concept here is 'Data Science.'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Data Science.'."
     },
     {
         "id": 121,
@@ -1449,7 +1449,7 @@
             "d) Simple linear regression."
         ],
         "answer": "b) Neural Networks with many layers.",
-        "explanation": "The correct concept here is 'Neural Networks with many layers.'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Neural Networks with many layers.'."
     },
     {
         "id": 122,
@@ -1461,7 +1461,7 @@
             "d) Only numerical data."
         ],
         "answer": "b) Complex unstructured data like images and speech.",
-        "explanation": "The correct concept here is 'Complex unstructured data like images and speech.'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Complex unstructured data like images and speech.'."
     },
     {
         "id": 123,
@@ -1473,7 +1473,7 @@
             "d) Easy interpretability."
         ],
         "answer": "b) High accuracy in complex tasks.",
-        "explanation": "The correct concept here is 'High accuracy in complex tasks.'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) High accuracy in complex tasks.'."
     },
     {
         "id": 124,
@@ -1485,7 +1485,7 @@
             "d) Universal understanding by humans."
         ],
         "answer": "b) Excessive interpretability.",
-        "explanation": "The correct concept here is 'Excessive interpretability.'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Excessive interpretability.'."
     },
     {
         "id": 125,
@@ -1497,7 +1497,7 @@
             "d) Produce data labels."
         ],
         "answer": "b) Accelerate complex computations efficiently.",
-        "explanation": "The correct concept here is 'Accelerate complex computations efficiently.'. This is a foundational principle of the topic being tested."
+        "explanation": "Deep Learning is a subset of ML based on artificial neural networks that can learn from vast amounts of unstructured data. Thus, the correct answer is 'b) Accelerate complex computations efficiently.'."
     },
     {
         "id": 126,
@@ -1509,7 +1509,7 @@
             "d) Data normalization process."
         ],
         "answer": "b) Model fits training data too closely reducing generalization.",
-        "explanation": "The correct concept here is 'Model fits training data too closely reducing generalization.'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Model fits training data too closely reducing generalization.'."
     },
     {
         "id": 127,
@@ -1521,7 +1521,7 @@
             "d) Manual intervention in feature selection."
         ],
         "answer": "a) More data and training time.",
-        "explanation": "The correct concept here is 'More data and training time.'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) More data and training time.'."
     },
     {
         "id": 128,
@@ -1533,7 +1533,7 @@
             "d) Data preprocessing"
         ],
         "answer": "b) Hidden Layers",
-        "explanation": "The correct concept here is 'Hidden Layers'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Hidden Layers'."
     },
     {
         "id": 129,
@@ -1545,7 +1545,7 @@
             "d) Cybersecurity threat detection."
         ],
         "answer": "b) Medical image analysis.",
-        "explanation": "The correct concept here is 'Medical image analysis.'. This is a foundational principle of the topic being tested."
+        "explanation": "Deep Learning is a subset of ML based on artificial neural networks that can learn from vast amounts of unstructured data. Thus, the correct answer is 'b) Medical image analysis.'."
     },
     {
         "id": 130,
@@ -1557,7 +1557,7 @@
             "d) Limited applicability."
         ],
         "answer": "b) Difficult to interpret results (black-box).",
-        "explanation": "The correct concept here is 'Difficult to interpret results (black-box).'. This is a foundational principle of the topic being tested."
+        "explanation": "Deep Learning is a subset of ML based on artificial neural networks that can learn from vast amounts of unstructured data. Thus, the correct answer is 'b) Difficult to interpret results (black-box).'."
     },
     {
         "id": 131,
@@ -1569,7 +1569,7 @@
             "d) Logistic regression"
         ],
         "answer": "a) Human brain neurons",
-        "explanation": "The correct concept here is 'Human brain neurons'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'a) Human brain neurons'."
     },
     {
         "id": 132,
@@ -1581,7 +1581,7 @@
             "d) Connects layers."
         ],
         "answer": "c) Introduces non-linearity.",
-        "explanation": "The correct concept here is 'Introduces non-linearity.'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'c) Introduces non-linearity.'."
     },
     {
         "id": 133,
@@ -1593,7 +1593,7 @@
             "d) data labelling."
         ],
         "answer": "b) weight adjustment through backpropagation.",
-        "explanation": "The correct concept here is 'weight adjustment through backpropagation.'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) weight adjustment through backpropagation.'."
     },
     {
         "id": 134,
@@ -1605,7 +1605,7 @@
             "d) Total number of nodes."
         ],
         "answer": "b) Sum of inputs multiplied by weights.",
-        "explanation": "The correct concept here is 'Sum of inputs multiplied by weights.'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'b) Sum of inputs multiplied by weights.'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 135,
@@ -1617,7 +1617,7 @@
             "d) Network set-up."
         ],
         "answer": "a) Pattern recognition and classification.",
-        "explanation": "The correct concept here is 'Pattern recognition and classification.'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Pattern recognition and classification.'."
     },
     {
         "id": 136,
@@ -1629,7 +1629,7 @@
             "d) Store training data."
         ],
         "answer": "c) Generate final model prediction.",
-        "explanation": "The correct concept here is 'Generate final model prediction.'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'c) Generate final model prediction.'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 137,
@@ -1641,7 +1641,7 @@
             "d) They do not produce outputs."
         ],
         "answer": "b) Their internal decision processes are complex and hard to interpret.",
-        "explanation": "The correct concept here is 'Their internal decision processes are complex and hard to interpret.'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Their internal decision processes are complex and hard to interpret.'."
     },
     {
         "id": 138,
@@ -1653,7 +1653,7 @@
             "d) Parameter tuning."
         ],
         "answer": "b) Backpropagation.",
-        "explanation": "The correct concept here is 'Backpropagation.'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Backpropagation.'."
     },
     {
         "id": 139,
@@ -1665,7 +1665,7 @@
             "d) Output layers."
         ],
         "answer": "b) Hidden layers.",
-        "explanation": "The correct concept here is 'Hidden layers.'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'b) Hidden layers.'."
     },
     {
         "id": 140,
@@ -1677,7 +1677,7 @@
             "d) All of the above."
         ],
         "answer": "d) All of the above.",
-        "explanation": "The correct concept here is 'All of the above.'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'd) All of the above.'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 141,
@@ -1689,7 +1689,7 @@
             "d) Run hardware operations"
         ],
         "answer": "b) Create new content from learned patterns",
-        "explanation": "The correct concept here is 'Create new content from learned patterns'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Create new content from learned patterns'."
     },
     {
         "id": 142,
@@ -1701,7 +1701,7 @@
             "d) Only numeric tables"
         ],
         "answer": "d) Only numeric tables",
-        "explanation": "The correct concept here is 'Only numeric tables'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'd) Only numeric tables'."
     },
     {
         "id": 143,
@@ -1713,7 +1713,7 @@
             "d) A rule-based system."
         ],
         "answer": "b) A large neural network trained on massive diverse data.",
-        "explanation": "The correct concept here is 'A large neural network trained on massive diverse data.'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) A large neural network trained on massive diverse data.'."
     },
     {
         "id": 144,
@@ -1725,7 +1725,7 @@
             "d) Only translate languages."
         ],
         "answer": "a) Focus on all parts of the input sequence for context.",
-        "explanation": "The correct concept here is 'Focus on all parts of the input sequence for context.'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Focus on all parts of the input sequence for context.'."
     },
     {
         "id": 145,
@@ -1737,7 +1737,7 @@
             "d) Simple output generation."
         ],
         "answer": "a) Running several attention layers in parallel.",
-        "explanation": "The correct concept here is 'Running several attention layers in parallel.'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Running several attention layers in parallel.'."
     },
     {
         "id": 146,
@@ -1749,7 +1749,7 @@
             "d) To eliminate tokens."
         ],
         "answer": "a) Transformers have no inherent sequence processing.",
-        "explanation": "The correct concept here is 'Transformers have no inherent sequence processing.'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'a) Transformers have no inherent sequence processing.'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 147,
@@ -1761,7 +1761,7 @@
             "d) Music generation"
         ],
         "answer": "c) Database management",
-        "explanation": "The correct concept here is 'Database management'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'c) Database management'."
     },
     {
         "id": 148,
@@ -1773,7 +1773,7 @@
             "d) Jukebox"
         ],
         "answer": "b) GPT",
-        "explanation": "The correct concept here is 'GPT'. This is a foundational principle of the topic being tested."
+        "explanation": "This question focuses on 'b) GPT'. Understanding this is key to mastering the syllabus content of Unit 1."
     },
     {
         "id": 149,
@@ -1785,7 +1785,7 @@
             "d) Network security hardware."
         ],
         "answer": "b) Automated report generation.",
-        "explanation": "The correct concept here is 'Automated report generation.'. This is a foundational principle of the topic being tested."
+        "explanation": "Artificial Intelligence is the branch of computer science that builds smart machines capable of performing human-like tasks. Thus, the correct answer is 'b) Automated report generation.'."
     },
     {
         "id": 150,
@@ -1797,6 +1797,6 @@
             "d) Clustering layers"
         ],
         "answer": "a) Encoder-decoder",
-        "explanation": "The correct concept here is 'Encoder-decoder'. This is a foundational principle of the topic being tested."
+        "explanation": "Augmented Reality (AR) enhances the real world by overlaying digital elements like images or sounds onto it. Thus, the correct answer is 'a) Encoder-decoder'."
     }
 ]
