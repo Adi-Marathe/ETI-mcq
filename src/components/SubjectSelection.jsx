@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { FiBook, FiCpu } from 'react-icons/fi';
+import { FiBook, FiCpu, FiBriefcase } from 'react-icons/fi';
 
 const subjects = [
   { 
@@ -16,6 +16,13 @@ const subjects = [
     fullName: 'Emerging Trends in Electronics',
     description: 'Electronic trends, sensors, and modern circuits',
     icon: <FiBook />
+  },
+  {
+    id: 'management',
+    title: 'Management',
+    fullName: 'Management Principles and Applications',
+    description: 'Evolution of management, self-management, team dynamics',
+    icon: <FiBriefcase />
   }
 ];
 

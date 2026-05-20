@@ -17,9 +17,14 @@ const eteUnits = [
   { id: 5, title: 'Unit 5: Tariff and Smart Billing', description: 'PPAs, Tariff Design, Smart Metering (AMI/AMR), and Net Metering Rules' }
 ];
 
+const managementUnits = [
+  { id: 1, title: 'Unit 1: Introduction to Management', description: 'Evolution of management, characteristics, scientific management, self management, team management' }
+];
+
 const subjectUnits = {
   eti: etiUnits,
-  ete: eteUnits
+  ete: eteUnits,
+  management: managementUnits
 };
 
 function UnitSelection() {

@@ -1,0 +1,2322 @@
+[
+    {
+        "id": 1,
+        "question": "Management is both a science and an art in India evolved through how many broad stages?",
+        "options": [
+            "a) Three",
+            "b) Four",
+            "c) Six",
+            "d) 21"
+        ],
+        "answer": "c) Six",
+        "explanation": "The evolution of management thought and governance practices in India is historically categorized into six broad developmental stages, spanning from ancient Vedic systems, through the Maurya and medieval empires, up to the modern era."
+    },
+    {
+        "id": 2,
+        "question": "Which bodies in the Vedic era reflected early democratic decision-making?",
+        "options": [
+            "a) Panchayat and Nyaya",
+            "b) Sabha and Samiti",
+            "c) Sabha and Panchayat",
+            "d) Samiti and Nyaya"
+        ],
+        "answer": "b) Sabha and Samiti",
+        "explanation": "In the ancient Vedic period, the Sabha (an assembly of elders/elites) and the Samiti (a general tribal assembly) acted as democratic deliberative bodies that advised the king, ensuring collective consultation and participatory governance."
+    },
+    {
+        "id": 3,
+        "question": "Who authored the Arthashastra?",
+        "options": [
+            "a) Megasthenes",
+            "b) Ashoka",
+            "c) Kautilya Chanakya",
+            "d) Kalidasa"
+        ],
+        "answer": "c) Kautilya Chanakya",
+        "explanation": "The Arthashastra, an ancient Indian treatise covering statecraft, economic policy, and military strategy, was written by Kautilya (also known as Chanakya), who served as the prime minister to Emperor Chandragupta Maurya."
+    },
+    {
+        "id": 4,
+        "question": "A core idea from Arthashastra that mirrors modern HR is",
+        "options": [
+            "a) Job rotation",
+            "b) Selection by merit and training before duty",
+            "c) Open-book management",
+            "d) Profit sharing"
+        ],
+        "answer": "b) Selection by merit and training before duty",
+        "explanation": "Long before modern human resource management systems emerged, Kautilya established that public officials must be strictly selected based on objective capabilities (merit) and undergo rigorous orientation/training before handling administrative responsibilities."
+    },
+    {
+        "id": 5,
+        "question": "In Arthashastra, which practice ensured accountability?",
+        "options": [
+            "a) Guild formation",
+            "b) Trial marketing",
+            "c) Regular inspection and control",
+            "d) Outsourcing audits"
+        ],
+        "answer": "c) Regular inspection and control",
+        "explanation": "To mitigate fraud, systemic corruption, and bureaucratic inefficiency, the Arthashastra mandated constant supervision and regular operational audits of state records and warehouses."
+    },
+    {
+        "id": 6,
+        "question": "The ethical leadership view in Arthashastra positions the king as",
+        "options": [
+            "a) Absolute ruler",
+            "b) Servant of the people",
+            "c) Divine authority",
+            "d) Military commander only"
+        ],
+        "answer": "b) Servant of the people",
+        "explanation": "Kautilyan philosophy stresses paternalistic ethical leadership, establishing that a king's happiness and duty lie strictly within the welfare, satisfaction, and prosperity of his subjects."
+    },
+    {
+        "id": 7,
+        "question": "The Delhi Sultanates finance department was known as",
+        "options": [
+            "a) Diwan-i-Arz",
+            "b) Diwan-i-Wizarat",
+            "c) Diwan-i-Insha",
+            "d) Diwan-i-Riyasat"
+        ],
+        "answer": "b) Diwan-i-Wizarat",
+        "explanation": "Under the administrative machinery of the Delhi Sultanate, the Diwan-i-Wizarat was the central finance department, headed by the Wazir (Prime Minister), which oversaw revenue collections and expenditures."
+    },
+    {
+        "id": 8,
+        "question": "Diwan-i-Arz primarily related to",
+        "options": [
+            "a) Justice",
+            "b) Revenue",
+            "c) Military",
+            "d) Foreign affairs"
+        ],
+        "answer": "c) Military",
+        "explanation": "The Diwan-i-Arz was the dedicated military department in the Delhi Sultanate administration, responsible for recruiting soldiers, managing the army's muster rolls, and inspecting equipment."
+    },
+    {
+        "id": 9,
+        "question": "Under Akbar, the system that classified officers by rank and performance was the",
+        "options": [
+            "a) Iqta system",
+            "b) Mansabdari system",
+            "c) Jagirdari system",
+            "d) Zamindari system"
+        ],
+        "answer": "b) Mansabdari system",
+        "explanation": "Akbar popularized the Mansabdari system, an integrated administrative and military ranking network where officers were designated a specific numerical rank (mansab) that determined their hierarchy, salary, and state obligations."
+    },
+    {
+        "id": 10,
+        "question": "Standardized land surveys and revenue rates across provinces are associated with",
+        "options": [
+            "a) Alauddin Khalji",
+            "b) Sher Shah Suri",
+            "c) Raja Todar Mal under Akbar",
+            "d) None of the above"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 11,
+        "question": "Which of the following is NOT a resource managed by management?",
+        "options": [
+            "a) Men",
+            "b) Machines",
+            "c) Money",
+            "d) Weather"
+        ],
+        "answer": "",
+        "explanation": "While managers coordinate internal, controllable assets such as personnel (Men), technological equipment (Machines), and financial capital (Money), natural weather patterns represent an uncontrollable external environmental factor rather than an allocatable corporate resource ."
+    },
+    {
+        "id": 12,
+        "question": "Which of the following best defines management in the Indian context?",
+        "options": [
+            "a) Only achieving profit margins",
+            "b) Getting work done through people in an organized manner",
+            "c) Ensuring strict hierarchical control",
+            "d) Administrative record-keeping"
+        ],
+        "answer": "b) Getting work done through people in an organized manner",
+        "explanation": "In traditional and modern Indian contexts alike, management is fundamentally viewed as a collaborative process where an organization builds alignment to systematically complete tasks through teamwork."
+    },
+    {
+        "id": 13,
+        "question": "What is the primary objective of management according to Arthashastra principles?",
+        "options": [
+            "a) Maximizing ruler's wealth",
+            "b) Ensuring societal welfare and stability",
+            "c) Expanding military power",
+            "d) Centralizing all authority"
+        ],
+        "answer": "b) Ensuring societal welfare and stability",
+        "explanation": "Kautilyan statecraft explicitly asserts that the ultimate metric of administrative success is securing the holistic welfare (Yogakshema) and socioeconomic stability of the entire society."
+    },
+    {
+        "id": 14,
+        "question": "The concept of \"Chakra Vijayadiniti\" (Circle of Defeats) in Arthashastra relates to which management function?",
+        "options": [
+            "a) Planning",
+            "b) Controlling",
+            "c) Organizing",
+            "d) Staffing"
+        ],
+        "answer": "a) Planning",
+        "explanation": "\"Chakra Vijayadiniti\" or structural strategy formulation requires anticipating external environmental shifts, evaluating competitor networks, and making proactive decisions, which aligns directly with the modern management function of strategic planning."
+    },
+    {
+        "id": 15,
+        "question": "According to Kautilya, how many types of official misconduct require immediate action?",
+        "options": [
+            "a) Three",
+            "b) Five",
+            "c) Seven",
+            "d) Nine"
+        ],
+        "answer": "b) Five",
+        "explanation": "Kautilya explicitly classified official corruption and bureaucratic overreaches into five primary categories of misconduct, demanding immediate punitive and corrective actions to prevent moral hazard within the administration."
+    },
+    {
+        "id": 16,
+        "question": "Which principle from Arthashastra emphasizes continuous assessment of employee performance?",
+        "options": [
+            "a) Delegation",
+            "b) Centralization",
+            "c) Regular inspection and evaluation",
+            "d) Profit sharing"
+        ],
+        "answer": "c) Regular inspection and evaluation",
+        "explanation": "To maintain high quality control and productivity standards, the Arthashastra advocates for routine operational performance appraisals, relying on data verification to trace employee progress and accountability."
+    },
+    {
+        "id": 17,
+        "question": "The Arthashastra concept of \"Raja\" in management represents which role?",
+        "options": [
+            "a) Military commander",
+            "b) Keeper of treasury",
+            "c) Chief administrator responsible for organizational welfare",
+            "d) Judicial officer"
+        ],
+        "answer": "c) Chief administrator responsible for organizational welfare",
+        "explanation": "In organizational frameworks mapped from the text, the \"Raja\" is viewed not just as a political despot, but as the supreme executive or chief administrator tasked with orchestrating resources to fulfill organizational objectives."
+    },
+    {
+        "id": 18,
+        "question": "Resource management in the context of Arthashastra includes all EXCEPT:",
+        "options": [
+            "a) Personnel",
+            "b) Financial resources",
+            "c) Physical assets",
+            "d) Religious rituals"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 19,
+        "question": "Chanakya's concept of \"Arthavrikshti\" refers to:",
+        "options": [
+            "a) Tree planting for revenue",
+            "b) Economic development and growth",
+            "c) Fortification strategies",
+            "d) Military expansion"
+        ],
+        "answer": "b) Economic development and growth",
+        "explanation": "Translating literally to the \"rain/multiplication of wealth,\" Arthavrikshti refers to macro-economic development, fiscal expansion, and value-creation policies aimed at fostering business growth and a healthy national treasury."
+    },
+    {
+        "id": 20,
+        "question": "Which of the following was NOT part of Akbar's administrative system?",
+        "options": [
+            "a) Mansabdari",
+            "b) Jagirdari",
+            "c) Democratic voting system",
+            "d) Bureaucratic hierarchy"
+        ],
+        "answer": "c) Democratic voting system",
+        "explanation": "The Mughal administrative system under Akbar was structured around centralized monarchical power, an aristocratic military hierarchy (Mansabdari), and revenue land assignments (Jagirdari), lacking any form of modern universal franchise or popular election systems ."
+    },
+    {
+        "id": 21,
+        "question": "The \"Diwan-i-Buyutat\" was responsible for:",
+        "options": [
+            "a) Military affairs",
+            "b) Royal household and expenditures",
+            "c) Revenue collection",
+            "d) Foreign relations"
+        ],
+        "answer": "b) Royal household and expenditures",
+        "explanation": "In medieval administrative setups, the Diwan-i-Buyutat managed the financial operations, manufacturing workshops (Karkhanas), and day-to-day procurement costs associated with the imperial palace and royal household."
+    },
+    {
+        "id": 22,
+        "question": "According to Arthashastra, the primary duty of management is to ensure:",
+        "options": [
+            "a) Personal wealth accumulation",
+            "b) Public welfare and organizational stability",
+            "c) Religious conformity",
+            "d) Military dominance"
+        ],
+        "answer": "b) Public welfare and organizational stability",
+        "explanation": "Sustainable institutional survival relies on stakeholder trust. The Arthashastra confirms that true leadership prioritizes public well-being and consistent operational risk mitigation above personal greed."
+    },
+    {
+        "id": 23,
+        "question": "The principle of \"Rajamandala\" (Circle of Kings) relates to which management concept?",
+        "options": [
+            "a) Organizational hierarchy",
+            "b) Strategic alliances and competitive analysis",
+            "c) Geographical boundaries",
+            "d) Religious organization"
+        ],
+        "answer": "b) Strategic alliances and competitive analysis",
+        "explanation": "Kautilya's Rajamandala theory evaluates concentric circles of friendly, neutral, and adversarial kingdoms, offering an early framework for modern competitive landscape assessments, corporate positioning, and strategic alliance building."
+    },
+    {
+        "id": 24,
+        "question": "Which administrative department in the Delhi Sultanate was specifically for investigating corruption?",
+        "options": [
+            "a) Diwan-i-Khairat",
+            "b) Amir-i-Akhur",
+            "c) Diwan-i-Istikhraji",
+            "d) Diwan-i-Jumla"
+        ],
+        "answer": "c) Diwan-i-Istikhraji",
+        "explanation": "The Diwan-i-Istikhraji was established within the revenue branch to specifically investigate, audit, and forcibly recover unpaid balances, embezzled funds, and unlawful extractions from corrupt collectors."
+    },
+    {
+        "id": 25,
+        "question": "The concept of \"Pariksha\" (testing/inspection) in Arthashastra emphasizes:",
+        "options": [
+            "a) Military drills",
+            "b) Continuous monitoring and evaluation of officials",
+            "c) Religious ceremonies",
+            "d) Trade negotiations"
+        ],
+        "answer": "b) Continuous monitoring and evaluation of officials",
+        "explanation": "Pariksha represents an active quality audit framework. Kautilya demanded that civil officers undergo secret testing, continuous background tracking, and character evaluations to preserve organizational alignment and prevent internal sabotage."
+    },
+    {
+        "id": 26,
+        "question": "Kautilya identified eight sources of state income, one of which is:",
+        "options": [
+            "a) Religious taxation",
+            "b) Periodic taxation on business",
+            "c) Forced donations",
+            "d) None of the above"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 27,
+        "question": "The \"Manthriparishad\" (Council of Ministers) in Arthashastra was designed for:",
+        "options": [
+            "a) Ceremonial purposes only",
+            "b) Collective decision-making and policy advice",
+            "c) Military command",
+            "d) Religious guidance"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 28,
+        "question": "Which concept from Arthashastra directly relates to modern stakeholder management?",
+        "options": [
+            "a) Autocratic rule",
+            "b) Welfare of all segments of society",
+            "c) Monopolistic control",
+            "d) Hereditary leadership"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 29,
+        "question": "Sher Shah Suri's administrative reforms included:",
+        "options": [
+            "a) Abolishing the postal system",
+            "b) Establishing an efficient road and communication system",
+            "c) Eliminating tax collection",
+            "d) Decentralizing all authority"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 30,
+        "question": "The principle of \"Dharma\" in Arthashastra management means:",
+        "options": [
+            "a) Religious ritual",
+            "b) Ethical duty and righteous responsibility",
+            "c) Military conquest",
+            "d) Economic profit"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 31,
+        "question": "Which of these best exemplifies the Arthashastra concept of organizational integrity?",
+        "options": [
+            "a) Centralized power in one person",
+            "b) Checks and balances with accountability at all levels",
+            "c) Elimination of bureaucracy",
+            "d) Hereditary succession only"
+        ],
+        "answer": "b) Checks and balances with accountability at all levels",
+        "explanation": "Kautilya believed that unchecked authority inevitably leads to corruption and mismanagement. To ensure organizational integrity, the Arthashastra mandates a robust system of mutual supervision, regular audits, and multi-tier accountability."
+    },
+    {
+        "id": 32,
+        "question": "The \"Rajasthaniyas\" in medieval Indian administration were:",
+        "options": [
+            "a) Royal messengers and administrators",
+            "b) Military generals",
+            "c) Religious advisors",
+            "d) Merchant guild leaders"
+        ],
+        "answer": "a) Royal messengers and administrators",
+        "explanation": "In traditional and early medieval Indian governance, a Rajasthaniya functioned as a governor, viceroy, or senior administrative officer representing the king's authority in provincial territories."
+    },
+    {
+        "id": 33,
+        "question": "According to Arthashastra, which characteristic is essential for effective organizational performance?",
+        "options": [
+            "a) Secrecy in all matters",
+            "b) Transparency in governance and accountability",
+            "c) Elimination of formal roles",
+            "d) Arbitrary decision-making"
+        ],
+        "answer": "b) Transparency in governance and accountability",
+        "explanation": "While strategic military planning required confidentiality, Kautilya strongly advocated for transparent record-keeping, strict accounting procedures, and open accountability in civil operations to optimize productivity and prevent fraud."
+    },
+    {
+        "id": 34,
+        "question": "The \"Muhtasib\" system introduced by various sultanates was primarily for:",
+        "options": [
+            "a) Tax farming",
+            "b) Market regulation and prevention of fraud",
+            "c) Military conscription"
+        ],
+        "answer": "b) Market regulation and prevention of fraud",
+        "explanation": "In the administrative structure of the Sultanates, the Muhtasib served as a public inspector tasked with checking weights and measures, supervising commercial conduct, preventing hoarding, and ensuring fair trading practices in the marketplace."
+    },
+    {
+        "id": 35,
+        "question": "In Kautilya's framework, what is the measure of state prosperity?",
+        "options": [
+            "a) Religious merit",
+            "b) Material prosperity and economic well-being",
+            "c) Political power alone",
+            "d) Military strength"
+        ],
+        "answer": "b) Material prosperity and economic well-being",
+        "explanation": "A fundamental premise of Kautilian philosophy is that Artha (wealth/material well-being) forms the foundation of governance. True state prosperity is measured by the economic health, security, and financial surplus generated by its citizens."
+    },
+    {
+        "id": 36,
+        "question": "The practice of \"Dastur-i-Amalgozan\" in Sultanate administration meant:",
+        "options": [
+            "a) Religious code",
+            "b) Standard operating procedures and administrative manuals",
+            "c) Military handbook",
+            "d) Trade agreements"
+        ],
+        "answer": "b) Standard operating procedures and administrative manuals",
+        "explanation": "Dastur-i-Amalgozan acted as an official regulatory rulebook or manual. It provided uniform guidelines and standard operating procedures for regional revenue collectors (Amalguzars) to keep administrative practices orderly and predictable."
+    },
+    {
+        "id": 37,
+        "question": "Which principle from Arthashastra emphasizes the importance of employee motivation?",
+        "options": [
+            "a) Punishment alone",
+            "b) Combination of rewards and penalties",
+            "c) Extreme poverty promotion",
+            "d) Hereditary roles"
+        ],
+        "answer": "b) Combination of rewards and penalties",
+        "explanation": "The Arthashastra recognizes human incentives by utilizing a balanced approach to human resource management: Anugraha (rewards and promotions) to motivate exemplary work, and Danda (penalties) to discourage negligence."
+    },
+    {
+        "id": 38,
+        "question": "The \"Sarais\" (rest houses) built during Sultanate period served which management objective?",
+        "options": [
+            "a) Military purposes only",
+            "b) Infrastructure development and facilitating trade and communication",
+            "c) Religious ceremonies",
+            "d) Entertaining nobility"
+        ],
+        "answer": "b) Infrastructure development and facilitating trade and communication",
+        "explanation": "By establishing Sarais along commercial highways, rulers built up trade infrastructure. These centers protected traveling merchants, served as secure rest stations, and accelerated communication by housing postal relay hubs."
+    },
+    {
+        "id": 39,
+        "question": "What qualities does Kautilya consider essential for a king's administration?",
+        "options": [
+            "a) Unlimited personal authority",
+            "b) Knowledge, integrity, and dedication to public welfare",
+            "c) Ability to accumulate personal wealth",
+            "d) Military expertise only"
+        ],
+        "answer": "b) Knowledge, integrity, and dedication to public welfare",
+        "explanation": "Kautilya\u2019s ideal ruler is a Rajarshi\u2014a leader who masters self-control, possesses deep intellectual insight, acts with ethical uprightness, and aligns his personal happiness entirely with the welfare of his organization and people."
+    },
+    {
+        "id": 40,
+        "question": "The \"Chakravarthi\" concept in Indian management philosophy represents:",
+        "options": [
+            "a) A military leader",
+            "b) A universal ruler who maintains ethical governance",
+            "c) A religious authority",
+            "d) A merchant prince"
+        ],
+        "answer": "b) A universal ruler who maintains ethical governance",
+        "explanation": "In traditional Indian political philosophy, a Chakravarthi represents an ideal, visionary sovereign whose extensive authority is sustained not merely by conquest, but by the implementation of righteous governance (Dharma)."
+    },
+    {
+        "id": 41,
+        "question": "Akbar's \"Sulh-i-Kul\" (universal tolerance) policy was essentially a:",
+        "options": [
+            "a) Military strategy",
+            "b) Management principle promoting inclusive governance",
+            "c) Religious doctrine",
+            "d) Economic system"
+        ],
+        "answer": "",
+        "explanation": "Meaning \"peace with all,\" Sulh-i-Kul was an inclusive policy framework designed to unite diverse religious and cultural factions within the Mughal empire, creating an integrated, cooperative organizational climate."
+    },
+    {
+        "id": 42,
+        "question": "The principle of \"Arti Jnana\" (knowledge of finances) in Arthashastra emphasizes:",
+        "options": [
+            "a) Secrecy in financial matters",
+            "b) Transparent financial management and accountability",
+            "c) Personal accumulation"
+        ],
+        "answer": "b) Transparent financial management and accountability",
+        "explanation": "Financial stability is the structural backbone of Kautilyan administration. Arti Jnana commands that administrators thoroughly master financial economics to ensure fiscal planning remains transparent and systematically accounted for."
+    },
+    {
+        "id": 43,
+        "question": "Which administrative innovation by Akbar directly improved governance efficiency?",
+        "options": [
+            "a) Abandoning written records",
+            "b) Implementing Mansabdari system with standardized ranks and salaries",
+            "c) Eliminating all advisors",
+            "d) Reducing bureaucratic levels"
+        ],
+        "answer": "b) Implementing Mansabdari system with standardized ranks and salaries",
+        "explanation": "The Mansabdari system was a highly structured civil-military grading mechanism. By creating precise, measurable ranks (Mansabs), Akbar formalized organizational charts, linked compensation to rank, and improved execution efficiency."
+    },
+    {
+        "id": 44,
+        "question": "The \"Tirthas\" in Arthashastra's administrative hierarchy were:",
+        "options": [
+            "a) Religious priests",
+            "b) Highest category of officials responsible for major functions",
+            "c) Military officers",
+            "d) Merchant representatives"
+        ],
+        "answer": "b) Highest category of officials responsible for major functions",
+        "explanation": "In the Arthashastra, the top echelon of the state's executive branch is composed of 18 senior officials called Tirthas. They acted as heads of critical portfolios such as defense, justice, and the treasury."
+    },
+    {
+        "id": 45,
+        "question": "Kautilya's emphasis on \"Pramana\" (proof and verification) reflects which modern management concept?",
+        "options": [
+            "a) Autocratic decision-making",
+            "b) Evidence-based decision-making and quality control",
+            "c) Random selection",
+            "d) Intuitive management"
+        ],
+        "answer": "b) Evidence-based decision-making and quality control",
+        "explanation": "Pramana indicates validation and factual verification. Instead of relying on speculation or personal bias, Kautilya argued that all structural evaluations and judiciary reviews must rely on solid data, mirroring modern evidence-based practices."
+    },
+    {
+        "id": 46,
+        "question": "Which administrative function is most emphasized in Arthashastra for state stability?",
+        "options": [
+            "a) Control military only",
+            "b) Manage state finances, resources, and warehouses",
+            "c) Perform religious ceremonies",
+            "d) Oversee judicial matters"
+        ],
+        "answer": "b) Manage state finances, resources, and warehouses",
+        "explanation": "The Arthashastra observes that all public programs depend directly on the health of the treasury. Securing the revenue system, optimizing agricultural yield, and maintaining fully supplied warehouses was seen as foundational to surviving external and internal shocks."
+    },
+    {
+        "id": 47,
+        "question": "In Kautilya's framework, 'Naya' (policy/strategy) is best described as:",
+        "options": [
+            "a) Rigid adherence to fixed rules and regulations",
+            "b) Flexible application of strategies based on circumstances and opportunities",
+            "c) Only political and military considerations",
+            "d) Economic policies focused only on wealth accumulation"
+        ],
+        "answer": "b) Flexible application of strategies based on circumstances and opportunities",
+        "explanation": "Naya deals with strategic acumen and calculated policy. Kautilya recommended tactical flexibility, instructing leaders to dynamically alter their diplomatic methods depending on shifting power dynamics and situational variables."
+    },
+    {
+        "id": 48,
+        "question": "According to Kautilya, the primary duty of a 'Mantri' (minister) is to:",
+        "options": [
+            "a) Accumulate personal wealth and power through manipulation",
+            "b) Advise the king wisely and serve state interests above personal gains",
+            "c) Control military forces and ignore administrative duties",
+            "d) Maintain diplomatic relations without influencing policy decisions"
+        ],
+        "answer": "b) Advise the king wisely and serve state interests above personal gains",
+        "explanation": "A Mantri was expected to possess high intellectual capability and moral fiber, providing candid, rational counsel to the ruler while holding the long-term well-being of the collective above personal enrichment."
+    },
+    {
+        "id": 49,
+        "question": "The concept of 'Saptanga' (seven limbs) in Arthashastra refers to:",
+        "options": [
+            "a) The seven stages of human development",
+            "b) Seven essential elements of state: king, minister, territory, treasury, army, ally, and enemy",
+            "c) Seven religious practices mandated by Vedic tradition",
+            "d) Seven branches of military science and warfare"
+        ],
+        "answer": "b) Seven essential elements of state: king, minister, territory, treasury, army, ally, and enemy",
+        "explanation": "The Saptanga theory treats an organization like a living, integrated organism with seven interdependent parts (limbs). A disruption in any one element\u2014whether the leadership, financial system, or assets\u2014weakens the entire entity."
+    },
+    {
+        "id": 50,
+        "question": "The concept of 'Abhaya' (fearlessness) in Arthashastra emphasizes:",
+        "options": [
+            "a) The absolute power of the king without any accountability",
+            "b) The people's freedom from fear, anxiety, and tyranny through just governance",
+            "c) The elimination of all military threats and external enemies"
+        ],
+        "answer": "b) The people's freedom from fear, anxiety, and tyranny through just governance",
+        "explanation": "Abhaya means freedom from fear. A cornerstone of effective ancient Indian governance was to cultivate a protected, lawful ecosystem where citizens could operate productively without experiencing administrative exploitation or criminal extortion."
+    },
+    {
+        "id": 51,
+        "question": "Changing government policies require managers to",
+        "options": [
+            "a) Stay rigid",
+            "b) Adjust to new laws and regulations",
+            "c) Ignore compliance",
+            "d) Resist taxation"
+        ],
+        "answer": "b) Adjust to new laws and regulations",
+        "explanation": "Management operates within a dynamic regulatory landscape. When state tax frameworks, labor laws, or political directives shift, an organization must align its strategies to remain compliant and avoid institutional risk."
+    },
+    {
+        "id": 52,
+        "question": "Communication barriers affect management by",
+        "options": [
+            "a) Improving co-ordination",
+            "b) Ensuring clear information flow",
+            "c) Disturbing smooth flow of information",
+            "d) Enhancing teamwork"
+        ],
+        "answer": "c) Disturbing smooth flow of information",
+        "explanation": "Barriers such as semantic confusion, poor feedback loops, or organizational static distort messages. This disruption prevents instructions from being executed cleanly, resulting in strategic misalignment."
+    },
+    {
+        "id": 53,
+        "question": "Crisis management refers to",
+        "options": [
+            "a) Handling normal operations only",
+            "b) Ignoring emergency problems",
+            "c) Dealing with unexpected events like strikes or disasters",
+            "d) Avoiding decision-making"
+        ],
+        "answer": "c) Dealing with unexpected events like strikes or disasters",
+        "explanation": "Crisis management deals with low-probability, high-impact disruptions. It involves mobilizing rapid response networks to navigate unexpected operational shocks (e.g., pandemics, supply chain collapses, strikes) and protect baseline structures."
+    },
+    {
+        "id": 54,
+        "question": "Who is known as the Father of Scientific Management?",
+        "options": [
+            "a) Henry Fayol",
+            "b) Peter Drucker",
+            "c) F.W. Taylor",
+            "d) Elton Mayo"
+        ],
+        "answer": "c) F.W. Taylor",
+        "explanation": "Frederick Winslow Taylor earned this designation by using systematic engineering methodologies to evaluate labor operations, introducing efficiency concepts to standard industrial manufacturing setups."
+    },
+    {
+        "id": 55,
+        "question": "Scientific Management is mainly concerned with",
+        "options": [
+            "a) Personal opinions and traditions",
+            "b) Scientific study and standardization of work",
+            "c) Political decision-making",
+            "d) Financial accounting"
+        ],
+        "answer": "b) Scientific study and standardization of work",
+        "explanation": "Taylorism replaces subjective \"rules of thumb\" with systematic observation, empirical time-and-motion data analysis, and highly structured task standardization to optimize industrial throughput."
+    },
+    {
+        "id": 56,
+        "question": "Resource management challenge means",
+        "options": [
+            "a) Wasting resources intentionally",
+            "b) Balancing limited time, money and manpower",
+            "c) Ignoring financial planning",
+            "d) Using resources carelessly"
+        ],
+        "answer": "",
+        "explanation": "Since institutional resources are inherently scarce, a central managerial challenge is optimizing the allocation of finite human labor, capital funds, and time constraints to maximize overall operational output."
+    },
+    {
+        "id": 57,
+        "question": "The main objective of Scientific Management is",
+        "options": [
+            "a) Maximum profit for management only",
+            "b) Reduction in employee wages",
+            "c) Increase in efficiency and productivity",
+            "d) Manual labor without planning"
+        ],
+        "answer": "c) Increase in efficiency and productivity",
+        "explanation": "The principal objective of Taylor's model was eliminating industrial waste and unnecessary human exertion, simultaneously elevating performance metrics and standard output for both workers and management."
+    },
+    {
+        "id": 58,
+        "question": "Ethical issues in management involve",
+        "options": [
+            "a) Dishonesty and corruption",
+            "b) Maintaining honesty, transparency and social responsibility",
+            "c) Avoiding accountability"
+        ],
+        "answer": "b) Maintaining honesty, transparency and social responsibility",
+        "explanation": "Ethical management deals with navigating moral principles inside corporate ecosystems. It guarantees that an organization treats stakeholders equitably, preserves transactional integrity, and acts responsibly toward external communities."
+    },
+    {
+        "id": 59,
+        "question": "F.W. Taylor introduced his ideas during which period?",
+        "options": [
+            "a) Late 18th century",
+            "b) Early 20th century",
+            "c) Mid-19th century",
+            "d) Late 20th century"
+        ],
+        "answer": "b) Early 20th century",
+        "explanation": "While F.W. Taylor conducted empirical industrial research across the late 19th century, his ideas coalesced into widespread global practice following the publication of his benchmark book, The Principles of Scientific Management, in 1911."
+    },
+    {
+        "id": 60,
+        "question": "Scientific Management emphasizes",
+        "options": [
+            "a) Trial and error methods",
+            "b) Random decision-making",
+            "c) The one best way to do a job",
+            "d) Ignoring workers opinions"
+        ],
+        "answer": "c) The one best way to do a job",
+        "explanation": "A foundational premise of scientific management is that through careful observation and mathematical measurement of work components, management can discover \"the one best way\"\u2014the single most optimal and efficient method\u2014to complete any given operational task."
+    },
+    {
+        "id": 61,
+        "question": "Which of the following is not a principle of Scientific Management?",
+        "options": [
+            "a) Science, not Rule of Thumb",
+            "b) Harmony, not Discord",
+            "c) Co-operation, not Individualism",
+            "d) Profit Maximization only"
+        ],
+        "answer": "d) Profit Maximization only",
+        "explanation": "Frederick Winslow Taylor's scientific management framework is built on efficiency, standardization, and mutual cooperation. While it increases prosperity for both businesses and workers, absolute profit maximization at the expense of systems or workers is not an explicit principle of his theory."
+    },
+    {
+        "id": 62,
+        "question": "Taylor suggested replacing Rule of Thumb with",
+        "options": [
+            "a) Personal judgment",
+            "b) Scientific analysis and study",
+            "c) Worker intuition",
+            "d) Common sense"
+        ],
+        "answer": "b) Scientific analysis and study",
+        "explanation": "The \"Rule of Thumb\" refers to relying on traditional habits, unmeasured practices, or guesswork. Taylor argued that every single component of a job should be subjected to rigorous scientific analysis, observation, and measurement to maximize output."
+    },
+    {
+        "id": 63,
+        "question": "Time study, motion study and work study are used to",
+        "options": [
+            "a) Increase conflicts",
+            "b) Find the most efficient method of doing work",
+            "c) Reduce the number of workers",
+            "d) Avoid supervision"
+        ],
+        "answer": "b) Find the most efficient method of doing work",
+        "explanation": "These analytical techniques are core pillars of scientific management. Motion study eliminates wasteful movements, time study defines precise standard periods for task execution, and work study establishes the absolute most streamlined workflow."
+    },
+    {
+        "id": 64,
+        "question": "The principle Harmony, not Discord emphasizes",
+        "options": [
+            "a) Conflict between labor and management",
+            "b) Mutual co-operation and unity",
+            "c) Strict control and punishment",
+            "d) Working individually without co-ordination"
+        ],
+        "answer": "b) Mutual co-operation and unity",
+        "explanation": "Taylor observed that typical factories suffered from an antagonistic relationship between management and shop workers. This principle calls for a complete \"mental revolution\" to cultivate a cooperative operational climate where both sides realize their goals are interdependent."
+    },
+    {
+        "id": 65,
+        "question": "According to Taylor, success in management depends on",
+        "options": [
+            "a) Mutual co-operation between workers and management",
+            "b) Competition among workers",
+            "c) Strict supervision only",
+            "d) Firing underperformers"
+        ],
+        "answer": "a) Mutual co-operation between workers and management",
+        "explanation": "True organizational health cannot be sustained under coercive supervision alone. For a scientific workflow to succeed, managers must provide resources and fair incentives, while laborers must perform standard tasks reliably, establishing a partner-like synergy."
+    },
+    {
+        "id": 66,
+        "question": "The idea Co-operation, not Individualism means",
+        "options": [
+            "a) Workers should work independently",
+            "b) Both management and workers should work as partners",
+            "c) Management should work alone"
+        ],
+        "answer": "b) Both management and workers should work as partners",
+        "explanation": "This concept extends the harmony principle by discouraging isolated efforts. It means personnel decisions and workload standards should ideally be settled with shared alignment, discouraging internal competition that sabotages group productivity."
+    },
+    {
+        "id": 67,
+        "question": "Which of the following helps build trust and reduce disputes?",
+        "options": [
+            "a) Exploiting workers",
+            "b) Sharing profits and incentives",
+            "c) Ignoring complaints",
+            "d) Increasing working hours"
+        ],
+        "answer": "b) Sharing profits and incentives",
+        "explanation": "Trust is secured when employees understand that higher productivity directly results in greater personal financial rewards. Providing equitable bonus systems and differential piece-rate gains aligns corporate profitability with worker prosperity."
+    },
+    {
+        "id": 68,
+        "question": "Taylor believed that workers should be trained",
+        "options": [
+            "a) Informally by senior employees",
+            "b) Through a systematic scientific method",
+            "c) Without supervision",
+            "d) Only when mistakes occur"
+        ],
+        "answer": "b) Through a systematic scientific method",
+        "explanation": "Scientific management leaves nothing to chance. Instead of allowing employees to learn tasks haphazardly or inherit inefficient routines from seniors, the organization must design explicit, uniform training regimens based on vetted best practices."
+    },
+    {
+        "id": 69,
+        "question": "Development of each worker to his greatest efficiency means",
+        "options": [
+            "a) Giving promotions only to seniors",
+            "b) Selecting and training the right person for the right job",
+            "c) Hiring untrained workers",
+            "d) Ignoring worker growth"
+        ],
+        "answer": "b) Selecting and training the right person for the right job",
+        "explanation": "Human capabilities must match functional requirements. Organizations must scientifically select workers based on physical and mental aptitudes, and then continuously develop them so they can reach their full operational potential."
+    },
+    {
+        "id": 70,
+        "question": "Which of the following best describes Taylor's overall goal?",
+        "options": [
+            "a) Reduce cost and increase efficiency for both management and workers",
+            "b) Focus on profits only",
+            "c) Promote individualism",
+            "d) Avoid worker participation"
+        ],
+        "answer": "a) Reduce cost and increase efficiency for both management and workers",
+        "explanation": "Taylorism targets the total elimination of systemic waste. By standardizing tasks and optimizing physical tools, production costs decrease for management, while employees earn higher wages through superior output rates."
+    },
+    {
+        "id": 71,
+        "question": "Henry Fayol is known as the",
+        "options": [
+            "a) Father of Scientific Management",
+            "b) Father of Modern Management",
+            "c) Father of Psychology",
+            "d) Father of Quality Control"
+        ],
+        "answer": "",
+        "explanation": "While F.W. Taylor specialized in bottom-up engineering at the shop-floor level, Henri Fayol formulated a top-down administrative theory based on 14 general principles, earning him recognition as the Father of Modern (or Administrative) Management theory."
+    },
+    {
+        "id": 72,
+        "question": "The main difference between Taylor and Fayol is that",
+        "options": [
+            "a) Taylor focused on factory operations, Fayol on overall administration",
+            "b) Both focused only on workers",
+            "c) Fayol was against planning",
+            "d) Taylor ignored productivity"
+        ],
+        "answer": "a) Taylor focused on factory operations, Fayol on overall administration",
+        "explanation": "Taylor's approach started at the mechanical level\u2014studying individual tools, motions, and supervisory functions. Conversely, Fayol took a macro perspective, focusing on universal managerial functions like planning, organizing, commanding, coordinating, and controlling the entire business entity."
+    },
+    {
+        "id": 73,
+        "question": "Taylor's approach is mainly applicable at",
+        "options": [
+            "a) Top management level",
+            "b) Middle management",
+            "c) Shop-floor or supervisory level",
+            "d) Corporate planning level"
+        ],
+        "answer": "c) Shop-floor or supervisory level",
+        "explanation": "Because scientific management heavily utilizes technical time-and-motion data, quantitative tool standardization, and manual labor optimizations, its most natural application remains the front-line shop floor or manufacturing area."
+    },
+    {
+        "id": 74,
+        "question": "Fayol's management ideas are mainly useful for",
+        "options": [
+            "a) Laborers only",
+            "b) Entire organization management",
+            "c) Manual workers"
+        ],
+        "answer": "b) Entire organization management",
+        "explanation": "Fayol's 14 principles (such as Unity of Command, Division of Work, and Scalar Chain) serve as structural blueprints. Because they deal with overarching authority networks, they apply universally across any business, government, or institutional setting."
+    },
+    {
+        "id": 75,
+        "question": "The principle Harmony, not Discord aims to replace",
+        "options": [
+            "a) Co-operation with conflict",
+            "b) Us versus them attitude with teamwork",
+            "c) Scientific study with personal judgment",
+            "d) Rewards with punishments"
+        ],
+        "answer": "b) Us versus them attitude with teamwork",
+        "explanation": "Replacing an adversarial dynamic ensures that managers and workers stop viewing each other as competitors over revenue. Instead, they operate as a unified unit focused on maximizing structural output together."
+    },
+    {
+        "id": 76,
+        "question": "Self-management means",
+        "options": [
+            "a) Managing others work",
+            "b) Taking responsibility for one's own emotions and time",
+            "c) Delegating tasks to subordinates",
+            "d) Avoiding personal decisions"
+        ],
+        "answer": "b) Taking responsibility for one's own emotions and time",
+        "explanation": "Before directing an organization, an individual must govern themselves. Self-management requires developing personal accountability, regulating responses, managing time productively, and sustaining personal output without external micro-management."
+    },
+    {
+        "id": 77,
+        "question": "The foundation of self-management is",
+        "options": [
+            "a) Self-discipline",
+            "b) Self-awareness actions",
+            "c) Time management",
+            "d) Stress management"
+        ],
+        "answer": "a) Self-discipline",
+        "explanation": "Self-discipline serves as the operational engine for self-management. It provides the internal control necessary to honor plans, execute tasks consistently, resist distractions, and persist through professional obstacles."
+    },
+    {
+        "id": 78,
+        "question": "A self-aware person",
+        "options": [
+            "a) Ignores emotions",
+            "b) Understands strengths, weaknesses and feelings",
+            "c) Depends on others for feedback",
+            "d) Avoids self-reflection"
+        ],
+        "answer": "b) Understands strengths, weaknesses and feelings",
+        "explanation": "Emotional intelligence begins with self-awareness. A self-aware manager understands their psychological triggers, performance limitations, and core competencies, allowing them to make objective decisions and interact effectively with teams."
+    },
+    {
+        "id": 79,
+        "question": "Which method helps to improve self-awareness?",
+        "options": [
+            "a) Watching television",
+            "b) Maintaining a daily self-reflection journal",
+            "c) Avoiding feedback",
+            "d) Ignoring mistakes"
+        ],
+        "answer": "b) Maintaining a daily self-reflection journal",
+        "explanation": "Introspective logging provides an objective record of choices, emotional states, and behaviors over time. Analyzing these entries helps individuals recognize behavioral blind spots and track mental habits systematically."
+    },
+    {
+        "id": 80,
+        "question": "Self-discipline means",
+        "options": [
+            "a) Controlling impulses to stay focused on goals",
+            "b) Acting without thinking",
+            "c) Avoiding commitments",
+            "d) Doing tasks randomly"
+        ],
+        "answer": "a) Controlling impulses to stay focused on goals",
+        "explanation": "Discipline is the suppression of immediate gratification in pursuit of long-term milestones. It ensures that standard operating protocols and personal schedules are completed reliably, regardless of shifting motivational levels."
+    },
+    {
+        "id": 81,
+        "question": "The bridge between goals and achievement is",
+        "options": [
+            "a) Motivation",
+            "b) Discipline",
+            "c) Luck",
+            "d) Co-operation"
+        ],
+        "answer": "b) Discipline",
+        "explanation": "While goals define the ideal destination and motivation initiates action, execution depends entirely on discipline. It translates abstract vision into practical daily work habits, converting plans into tangible results."
+    },
+    {
+        "id": 82,
+        "question": "Self-disciplined people are known for",
+        "options": [
+            "a) Laziness and delay",
+            "b) Consistency and punctuality",
+            "c) Carelessness"
+        ],
+        "answer": "b) Consistency and punctuality",
+        "explanation": "Because disciplined individuals regulate their schedules and suppress procrastination, they routinely meet project deadlines and deliver steady, dependable operational performance."
+    },
+    {
+        "id": 83,
+        "question": "Which is not a way to improve self discipline?",
+        "options": [
+            "a) Avoiding procrastination",
+            "b) Rewarding yourself for timely work",
+            "c) Ignoring your schedule",
+            "d) Making a daily routine"
+        ],
+        "answer": "c) Ignoring your schedule",
+        "explanation": "Developing personal control requires structure. Disregarding schedules or working completely at random undermines time-management efforts and breeds operational chaos, directly destroying self-discipline."
+    },
+    {
+        "id": 84,
+        "question": "Self-motivation means",
+        "options": [
+            "a) Relying on others for encouragement",
+            "b) Working only under supervision",
+            "c) Having an inner drive to achieve goals",
+            "d) Avoiding responsibility"
+        ],
+        "answer": "c) Having an inner drive to achieve goals",
+        "explanation": "Self-motivation represents autonomous psychological momentum. A manager or employee with this quality derives execution energy from internal goals, requiring fewer external commands or performance reminders to complete tasks."
+    },
+    {
+        "id": 85,
+        "question": "Motivation that comes from internal satisfaction is called",
+        "options": [
+            "a) Extrinsic motivation",
+            "b) Intrinsic motivation",
+            "c) External motivation",
+            "d) Indirect motivation"
+        ],
+        "answer": "b) Intrinsic motivation",
+        "explanation": "Intrinsic motivation occurs when an individual engages in an activity purely for the inherent challenge, enjoyment, or moral alignment it provides, rather than for external items like cash bonuses or avoiding disciplinary action."
+    },
+    {
+        "id": 86,
+        "question": "Example of self-motivation is",
+        "options": [
+            "a) Studying only when forced by parents",
+            "b) Preparing daily for an exam inspired by a dream career",
+            "c) Quitting after one failure",
+            "d) Avoiding competition"
+        ],
+        "answer": "b) Preparing daily for an exam inspired by a dream career",
+        "explanation": "Committing to an iterative, long-term preparation cycle fueled by a personal career vision demonstrates an internal goal-directed focus independent of external monitoring."
+    },
+    {
+        "id": 87,
+        "question": "The SMART principle in goal setting means",
+        "options": [
+            "a) Strong, Moral, Active, Real, Timely",
+            "b) Specific, Measurable, Achievable, Relevant, Time-bound",
+            "c) Simple, Motivated, Accurate, Reliable, Tough",
+            "d) Sharp, Major, Available, Realistic, Targeted"
+        ],
+        "answer": "b) Specific, Measurable, Achievable, Relevant, Time-bound",
+        "explanation": "The SMART acronym outlines parameters for objective execution: targets must be precise (Specific), quantifiable (Measurable), realistic (Achievable), aligned with business needs (Relevant), and anchored to a clear deadline (Time-bound)."
+    },
+    {
+        "id": 88,
+        "question": "Esprit de corps refers to",
+        "options": [
+            "a) Individual competition",
+            "b) Formal hierarchy",
+            "c) Chain of command",
+            "d) Team spirit and unity"
+        ],
+        "answer": "d) Team spirit and unity",
+        "explanation": "One of Henri Fayol's 14 core administrative principles, Esprit de Corps charges management with fostering harmony, collaboration, and mutual morale across the organization, rather than creating internal divisions."
+    },
+    {
+        "id": 89,
+        "question": "Functional organization is also called as",
+        "options": [
+            "a) Line organization",
+            "b) Staff organization",
+            "c) Project organization",
+            "d) None of the above"
+        ],
+        "answer": "b) Staff organization",
+        "explanation": "In traditional structural design contexts, a functional setup integrates specialists (staff) who provide analytical and technical expertise to assist and guide primary operators, mirroring many elements of a line-and-staff architecture."
+    },
+    {
+        "id": 90,
+        "question": "Which is the correct advantage of staff organization?",
+        "options": [
+            "a) Performance better than line",
+            "b) Standardization in process",
+            "c) More productivity than line",
+            "d) All of the above"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 91,
+        "question": "Which is a good time-management practice?",
+        "options": [
+            "a) Avoiding planning",
+            "b) Using a daily or weekly schedule",
+            "c) Doing urgent work last",
+            "d) Ignoring priorities"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 92,
+        "question": "The most valuable, non-renewable resource is",
+        "options": [
+            "a) Money",
+            "b) Time",
+            "c) Technology",
+            "d) Energy"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 93,
+        "question": "A good decision maker is ____",
+        "options": [
+            "a) Emotional and confused",
+            "b) Logical, confident and responsible",
+            "c) Dependent on others",
+            "d) Hesitant and fearful"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 94,
+        "question": "The first step in decision-making is",
+        "options": [
+            "a) Implement the choice immediately",
+            "b) Identify the problem",
+            "c) Ask for random opinions",
+            "d) Evaluate all options first"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 95,
+        "question": "Example of decision-making ____",
+        "options": [
+            "a) Choosing a career branch based on aptitude and demand",
+            "b) Copying others choices",
+            "c) Avoiding decisions",
+            "d) Acting without thinking"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 96,
+        "question": "Which of these helps improve decision-making?",
+        "options": [
+            "a) Acting emotionally",
+            "b) Learning from past experiences",
+            "c) Ignoring advice",
+            "d) Avoiding responsibility"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 97,
+        "question": "Stress management means ____",
+        "options": [
+            "a) Avoiding all work pressure",
+            "b) Handling stress calmly and positively",
+            "c) Ignoring emotional health",
+            "d) Increasing anxiety intentionally"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 98,
+        "question": "Positive stress that motivates is called ____",
+        "options": [
+            "a) Distress",
+            "b) Eustress",
+            "c) Overstress(Note: This question contains only three choices in the source document)."
+        ],
+        "answer": "b) Eustress",
+        "explanation": "Unlike distress (which causes debilitating anxiety, performance paralysis, and fatigue), eustress is a healthy form of psychological pressure that sharpens mental focus, sparks motivation, and drives professional performance."
+    },
+    {
+        "id": 99,
+        "question": "Which of the following helps reduce stress?",
+        "options": [
+            "a) Overthinking",
+            "b) Regular exercise or meditation",
+            "c) Skipping rest",
+            "d) Avoiding friends and family"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 100,
+        "question": "Example of stress management ____",
+        "options": [
+            "a) Taking a 10-minute relaxation break during study sessions",
+            "b) Working continuously without rest",
+            "c) Ignoring problems",
+            "d) Complaining constantly"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 101,
+        "question": "Work-life balance means ____",
+        "options": [
+            "a) Giving priority only to work",
+            "b) Managing professional and personal life effectively",
+            "c) Ignoring family responsibilities",
+            "d) Working without breaks"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 102,
+        "question": "Maintaining work-life balance helps to ____",
+        "options": [
+            "a) Increase burnout",
+            "b) Improve happiness and performance",
+            "c) Reduce productivity",
+            "d) Eliminate teamwork"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 103,
+        "question": "Which practice helps in maintaining work-life balance?",
+        "options": [
+            "a) Taking work everywhere",
+            "b) Prioritizing rest, hobbies and family time",
+            "c) Ignoring personal needs",
+            "d) Working 24/7"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 104,
+        "question": "Multitasking means",
+        "options": [
+            "a) Doing one task at a time",
+            "b) Performing several activities efficiently at once",
+            "c) Avoiding difficult work",
+            "d) Working carelessly"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 105,
+        "question": "Smart multitasking involves",
+        "options": [
+            "a) Doing everything simultaneously without focus",
+            "b) Combining similar tasks efficiently without losing quality",
+            "c) Constantly checking the phone while studying",
+            "d) Ignoring priorities"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 106,
+        "question": "Management aims at achieving",
+        "options": [
+            "a) Individual satisfaction only",
+            "b) Undefined objectives",
+            "c) Specific organizational goals efficiently(Note: This question contains only three choices in the source document)."
+        ],
+        "answer": "c) Specific organizational goals efficiently",
+        "explanation": "The fundamental purpose of any management system is to systematically coordinate human talent, financial capital, and material assets to fulfill explicitly defined corporate objectives while minimizing resource waste."
+    },
+    {
+        "id": 107,
+        "question": "The main objective of management is to",
+        "options": [
+            "a) Waste resources",
+            "b) Achieve goals efficiently and effectively",
+            "c) Create conflicts among departments",
+            "d) Avoid teamwork"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 108,
+        "question": "The term \"Universal Application\" in management means",
+        "options": [
+            "a) Management applies only to business organizations",
+            "b) Management applies to all types of organizations",
+            "c) Management is limited to top executives",
+            "d) Management principles change completely in each field"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 109,
+        "question": "Management is considered a continuous process because",
+        "options": [
+            "a) It is done once a year",
+            "b) It involves ongoing planning, implementation and evaluation",
+            "c) It stops after goals are achieved",
+            "d) It applies only during crises"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 110,
+        "question": "Management is a group activity because",
+        "options": [
+            "a) It is performed by one individual",
+            "b) It requires teamwork and co-ordination among people",
+            "c) It depends only on machines",
+            "d) It excludes employee participation"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 111,
+        "question": "Marketing information is not needed by a marketer",
+        "options": [
+            "a) True",
+            "b) False",
+            "c) Sometimes",
+            "d) None of the above"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 112,
+        "question": "Sole proprietorship is one man business unit with unlimited liability.",
+        "options": [
+            "a) True",
+            "b) False",
+            "c) Can't say",
+            "d) None of the above"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 113,
+        "question": "A middleman is one who acts as a link between the producers and consumers",
+        "options": [
+            "a) Producer",
+            "b) Consumer",
+            "c) Link between producer and consumer",
+            "d) None of the above"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 114,
+        "question": "Entrepreneurship is an art of starting new enterprise",
+        "options": [
+            "a) Art",
+            "b) Science",
+            "c) Art and Science(Note: This question contains only three choices in the source document)."
+        ],
+        "answer": "c) Art and Science",
+        "explanation": "Entrepreneurship is an art because it requires unique creative vision, risk intuition, and leadership; it is simultaneously a science because it relies on systematic market metrics, precise financial forecasting, and structured operational methods."
+    },
+    {
+        "id": 115,
+        "question": "Qualities of entrepreneurs include confidence, leadership, ability to take risk",
+        "options": [
+            "a) Vision",
+            "b) Communication",
+            "c) Motivation",
+            "d) All of the above"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 116,
+        "question": "A sole proprietor is defined as one who owns and manages his business",
+        "options": [
+            "a) Government",
+            "b) Business",
+            "c) Individual",
+            "d) Family"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 117,
+        "question": "Management is the ___________ of utilizing available resources and directing them towards achieving organizational goals",
+        "options": [
+            "a) Art and Science",
+            "b) Function",
+            "c) Process",
+            "d) All of the above"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 118,
+        "question": "Management is both a science and an art because",
+        "options": [
+            "a) It has systematic knowledge and requires creativity",
+            "b) It is only theoretical",
+            "c) It is only practical experience",
+            "d) It does not involve human skills"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 119,
+        "question": "Modern management is considered a profession",
+        "options": [
+            "a) It requires no education",
+            "b) It requires specialized knowledge, ethics and competence",
+            "c) It is based on luck",
+            "d) It avoids responsibility"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 120,
+        "question": "Which of the following best summarizes the nature of management?",
+        "options": [
+            "a) Static and rigid activity",
+            "b) One-time personal effort",
+            "c) Continuous, goal-oriented and group activity",
+            "d) Irregular and unorganized activity"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 121,
+        "question": "The main purpose of management is to",
+        "options": [
+            "a) Increase conflict",
+            "b) Achieve goals efficiently and effectively",
+            "c) Reduce productivity",
+            "d) Avoid supervision"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 122,
+        "question": "The key steps in organizing are",
+        "options": [
+            "a) Forecasting and budgeting",
+            "b) Identifying activities, assigning tasks and delegating authority",
+            "c) Training and development(Note: This question contains only three choices in the source document)."
+        ],
+        "answer": "b) Identifying activities, assigning tasks and delegating authority",
+        "explanation": "Organizing involves establishing a framework for operational workflow. To build this structure, managers must first identify all required tasks, group them logically into departments, assign responsibility to specific personnel, and grant them the authority needed to carry out those duties."
+    },
+    {
+        "id": 123,
+        "question": "The main aim of organizing is to",
+        "options": [
+            "a) Bring clarity in roles and create structure",
+            "b) Increase confusion among workers",
+            "c) Avoid communication",
+            "d) Promote competition among departments"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 124,
+        "question": "In short, organizing can be described as",
+        "options": [
+            "a) The art of motivation",
+            "b) Turning plans into action by building a working structure",
+            "c) Measuring performance",
+            "d) Hiring new employees"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 125,
+        "question": "Staffing deals mainly with",
+        "options": [
+            "a) Machines and materials",
+            "b) Recruitment, selection and development of people",
+            "c) Supervision only",
+            "d) Financial management"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 126,
+        "question": "Staffing ensures",
+        "options": [
+            "a) Maximum confusion",
+            "b) Skilled and motivated workforce",
+            "c) Poor communication",
+            "d) Low morale"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 127,
+        "question": "The slogan \"Right person in the right job\" relates to",
+        "options": [
+            "a) Planning",
+            "b) Staffing",
+            "c) Controlling",
+            "d) Directing"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 128,
+        "question": "Which of the following is not a part of staffing?",
+        "options": [
+            "a) Recruitment",
+            "b) Training",
+            "c) Performance appraisal",
+            "d) Budget planning"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 129,
+        "question": "Directing means",
+        "options": [
+            "a) Planning work schedules",
+            "b) Guiding, leading and motivating employees",
+            "c) Arranging resources",
+            "d) Comparing results"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 130,
+        "question": "The elements of directing include",
+        "options": [
+            "a) Planning and control",
+            "b) Leadership, supervision, motivation, communication",
+            "c) Delegation and co-ordination(Note: This question contains only three choices in the source document)."
+        ],
+        "answer": "b) Leadership, supervision, motivation, communication",
+        "explanation": "Directing is a multi-dimensional function built upon four major pillars: Supervision (overseeing tasks), Motivation (inspiring performance), Leadership (influencing behavior), and Communication (exchanging critical information)."
+    },
+    {
+        "id": 131,
+        "question": "The function that converts plans into performance is",
+        "options": [
+            "a) Staffing",
+            "b) Directing",
+            "c) Organizing",
+            "d) Controlling"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 132,
+        "question": "The main aim of directing is to",
+        "options": [
+            "a) Create conflict",
+            "b) Inspire and guide employees toward goals",
+            "c) Enforce strict punishment",
+            "d) Avoid communication"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 133,
+        "question": "Controlling ensures",
+        "options": [
+            "a) Deviation from goals",
+            "b) Monitoring and comparing actual performance with standards",
+            "c) Avoiding measurement of work",
+            "d) Increasing mistakes"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 134,
+        "question": "The last step in the controlling process is",
+        "options": [
+            "a) Setting standards",
+            "b) Measuring performance",
+            "c) Taking corrective actions",
+            "d) Planning again"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 135,
+        "question": "The importance of controlling lies in",
+        "options": [
+            "a) Increasing errors",
+            "b) Ensuring goals are achieved efficiently",
+            "c) Reducing supervision",
+            "d) Ignoring feedback"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 136,
+        "question": "The first step in the controlling process is",
+        "options": [
+            "a) Measuring performance",
+            "b) Setting performance standards",
+            "c) Taking corrective action",
+            "d) Evaluating results"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 137,
+        "question": "Co-ordination in management means",
+        "options": [
+            "a) Working independently",
+            "b) Harmonizing efforts of individuals and departments",
+            "c) Creating competition between teams",
+            "d) Dividing employees into groups"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 138,
+        "question": "Co-ordination is called the \"essence of management\" because",
+        "options": [
+            "a) It is a separate function",
+            "b) It runs through all other functions",
+            "c) It replaces all functions(Note: This question contains only three choices in the source document)."
+        ],
+        "answer": "b) It runs through all other functions",
+        "explanation": "Co-ordination is not a standalone management function like planning or staffing; rather, it is the common thread that runs through every single one of them. Planning must be co-ordinated, organizing requires co-ordination, and control relies on it completely."
+    },
+    {
+        "id": 139,
+        "question": "Co-ordination helps in",
+        "options": [
+            "a) Duplicating efforts",
+            "b) Avoiding teamwork",
+            "c) Ensuring unity of direction and teamwork",
+            "d) Reducing communication"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 140,
+        "question": "Example of controlling in management is",
+        "options": [
+            "a) Planning a new product",
+            "b) Comparing monthly sales with targets",
+            "c) Recruiting new employees",
+            "d) Giving training to workers"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 141,
+        "question": "Example of directing is",
+        "options": [
+            "a) A manager motivating his team to finish a project",
+            "b) Preparing an annual budget",
+            "c) Hiring a new accountant",
+            "d) Buying new machines"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 142,
+        "question": "Which function is related to deciding what to do, when and how?",
+        "options": [
+            "a) Staffing",
+            "b) Planning",
+            "c) Directing",
+            "d) Controlling"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 143,
+        "question": "The function that builds the organization's structure is",
+        "options": [
+            "a) Organizing",
+            "b) Staffing",
+            "c) Planning",
+            "d) Controlling"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 144,
+        "question": "The function that measures performance and corrects deviations is",
+        "options": [
+            "a) Directing",
+            "b) Staffing",
+            "c) Controlling",
+            "d) Planning"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 145,
+        "question": "The relationship among all functions of management can be described as",
+        "options": [
+            "a) Independent and random",
+            "b) Interrelated and continuous",
+            "c) Separate and unrelated",
+            "d) Fixed and unchangeable"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 146,
+        "question": "Which of the following is a major challenge due to globalization?",
+        "options": [
+            "a) Working only in local markets",
+            "b) Competing in international markets and managing cross-cultural teams",
+            "c) Ignoring foreign customers(Note: This question contains only three choices in the source document and is missing from the answer key text, but choice 'b' is the definitive response)."
+        ],
+        "answer": "",
+        "explanation": "Globalization expands the geographic boundaries of business. This forces managers to deal with foreign competitors, comply with international trading laws, and harmoniously lead complex, geographically dispersed teams with diverse cultural backgrounds."
+    },
+    {
+        "id": 147,
+        "question": "Technological changes in management require",
+        "options": [
+            "a) Avoiding digital tools",
+            "b) Adapting to innovations like automation and AI",
+            "c) Reducing the use of technology",
+            "d) Depending only on manual systems"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 148,
+        "question": "Maintaining honesty, transparency and social responsibility in business relates to",
+        "options": [
+            "a) Ethical issues",
+            "b) Government policy",
+            "c) Globalization",
+            "d) Crisis management"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 149,
+        "question": "Managing limited time, money and manpower effectively is a challenge of",
+        "options": [
+            "a) Motivation",
+            "b) Resource management",
+            "c) Communication",
+            "d) Competition"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 150,
+        "question": "Handling unexpected problems like strikes, market failures or disasters is called",
+        "options": [
+            "a) Crisis management",
+            "b) Resource planning",
+            "c) Employee motivation",
+            "d) Policy formulation"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    {
+        "id": 151,
+        "question": "How many main levels of management are there in an organization?",
+        "options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Four"
+        ],
+        "answer": "c) Three",
+        "explanation": "In organizational theory, management is universally divided into three primary horizontal layers : Top management, Middle management, and Lower/Supervisory management. Each layer has distinct authority, duties, and responsibilities."
+    },
+    {
+        "id": 152,
+        "question": "The three levels of management are",
+        "options": [
+            "a) Top, Middle and Supervisory",
+            "b) High, Medium and Low",
+            "c) Senior, Junior and Trainee",
+            "d) Administrative, Operational and Worker"
+        ],
+        "answer": "a) Top, Middle and Supervisory",
+        "explanation": "The operational structure of an enterprise divides roles into Top level (executives), Middle level (department heads), and Supervisory level (first-line foremen or supervisors who oversee daily work)."
+    },
+    {
+        "id": 153,
+        "question": "The top-level management mainly focuses on",
+        "options": [
+            "a) Day-to-day operations",
+            "b) Policy making and long-term planning",
+            "c) Training workers",
+            "d) Supervising production"
+        ],
+        "answer": "b) Policy making and long-term planning",
+        "explanation": "Top-level executives do not typically get involved in daily routine operations. Instead, they focus on strategic direction, formulating corporate policies, setting long-term goals, and ensuring overall organizational survival."
+    },
+    {
+        "id": 154,
+        "question": "Which of the following positions belongs to the top level of management?",
+        "options": [
+            "a) Supervisor",
+            "b) Foreman",
+            "c) Managing Director"
+        ],
+        "answer": "c) Managing Director",
+        "explanation": "Managing Directors, Chief Executive Officers (CEOs), and Board Chairmen sit at the peak of the management pyramid. Supervisors and foremen operate at the lowest or shop-floor level of management."
+    },
+    {
+        "id": 155,
+        "question": "Middle-level management acts as a link between",
+        "options": [
+            "a) Workers and customers",
+            "b) Top-level and lower-level management",
+            "c) Employees and suppliers",
+            "d) Directors and shareholders"
+        ],
+        "answer": "b) Top-level and lower-level management",
+        "explanation": "Middle management serves as an organizational bridge. They receive broad goals from top executives, break them down into departmental targets, and transmit execution instructions to supervisory management."
+    },
+    {
+        "id": 156,
+        "question": "Departmental heads and branch managers are part of",
+        "options": [
+            "a) Top management",
+            "b) Middle management",
+            "c) Lower management",
+            "d) None of these"
+        ],
+        "answer": "b) Middle management",
+        "explanation": "Professionals in charge of specific functional units, such as Sales Managers, Purchase Managers, or Branch Directors, fall squarely within middle management. They coordinate activities within their technical domain."
+    },
+    {
+        "id": 157,
+        "question": "Supervisory or lower-level management is also known as",
+        "options": [
+            "a) Administrative management",
+            "b) Operational management",
+            "c) Executive management",
+            "d) Strategic management"
+        ],
+        "answer": "b) Operational management",
+        "explanation": "Lower-level management is called operational or shop-floor management because it handles the practical, daily execution of tasks. They are directly responsible for the operational output of the workforce."
+    },
+    {
+        "id": 158,
+        "question": "The main function of top-level management is to",
+        "options": [
+            "a) Prepare strategic plans and company policies",
+            "b) Supervise workers directly",
+            "c) Maintain machinery",
+            "d) Handle routine paperwork"
+        ],
+        "answer": "a) Prepare strategic plans and company policies",
+        "explanation": "Top management owns the ultimate responsibility for drafting the company's master plans. They define corporate goals and allocate assets strategically across business segments."
+    },
+    {
+        "id": 159,
+        "question": "The middle-level management mainly performs the function of",
+        "options": [
+            "a) Executing policies and co-ordinating between top and lower levels",
+            "b) Making national policies",
+            "c) Financial auditing",
+            "d) Recruiting directors"
+        ],
+        "answer": "a) Executing policies and co-ordinating between top and lower levels",
+        "explanation": "Middle managers take the abstract strategies established by top executives and convert them into actionable operational plans for lower-level supervisors to implement."
+    },
+    {
+        "id": 160,
+        "question": "The lower-level management is responsible for",
+        "options": [
+            "a) Setting company objectives",
+            "b) Policy framing",
+            "c) Implementing plans and supervising workers",
+            "d) Creating budgets"
+        ],
+        "answer": "c) Implementing plans and supervising workers",
+        "explanation": "Supervisory managers stand on the front lines. Their core responsibility is directly managing physical labor, distributing work orders, and ensuring quality control on the floor."
+    },
+    {
+        "id": 161,
+        "question": "Which level of management deals most closely with employees or workers?",
+        "options": [
+            "a) Top level",
+            "b) Middle level",
+            "c) Lower or Supervisory level",
+            "d) Strategic level"
+        ],
+        "answer": "c) Lower or Supervisory level",
+        "explanation": "While top and middle managers deal with administrative strategies and data, lower-level supervisors are in daily physical contact with the frontline employees to oversee execution."
+    },
+    {
+        "id": 162,
+        "question": "The top-level management is also called",
+        "options": [
+            "a) Functional management",
+            "b) Strategic or Administrative management",
+            "c) Operational management"
+        ],
+        "answer": "b) Strategic or Administrative management",
+        "explanation": "Top management is designated as strategic because its decisions determine the long-term competitive position and policy framework of the entire corporation."
+    },
+    {
+        "id": 163,
+        "question": "Middle-level managers perform which key role?",
+        "options": [
+            "a) Translating top-level goals into departmental plans",
+            "b) Framing company vision",
+            "c) Supervising workers directly",
+            "d) Approving government policies"
+        ],
+        "answer": "a) Translating top-level goals into departmental plans",
+        "explanation": "Middle managers act as operational interpreters. They take the macro vision of top executives and translate it into a micro-execution plan specific to their distinct department."
+    },
+    {
+        "id": 164,
+        "question": "Supervisors and foremen mainly perform which function?",
+        "options": [
+            "a) Policy making",
+            "b) Controlling and directing day-to-day operations",
+            "c) Budget forecasting",
+            "d) External relations"
+        ],
+        "answer": "b) Controlling and directing day-to-day operations",
+        "explanation": "Supervisors ensure that daily output matches standards. They keep routine production on schedule, handle direct employee discipline, and manage immediate operational problems."
+    },
+    {
+        "id": 165,
+        "question": "The correct order of management levels from top to bottom is",
+        "options": [
+            "a) Supervisory \u2192 Middle \u2192 Top",
+            "b) Top \u2192 Supervisory \u2192 Middle",
+            "c) Top \u2192 Middle \u2192 Supervisory",
+            "d) Middle \u2192 Top \u2192 Supervisory"
+        ],
+        "answer": "c) Top \u2192 Middle \u2192 Supervisory",
+        "explanation": "The traditional corporate hierarchy follows a descending pyramid order: Top Management at the apex, Middle Management in the center, and Supervisory/Lower Management at the baseline."
+    },
+    {
+        "id": 166,
+        "question": "Negotiation means",
+        "options": [
+            "a) Forcing others to accept your decision",
+            "b) A discussion to reach a mutually beneficial agreement",
+            "c) Avoiding communication with others",
+            "d) Arguing until one party gives up"
+        ],
+        "answer": "b) A discussion to reach a mutually beneficial agreement",
+        "explanation": "Negotiation is a structured dialogic process. Rather than using force or coercion, multiple parties discuss their distinct needs to discover a compromise acceptable to everyone involved."
+    },
+    {
+        "id": 167,
+        "question": "The main goal of negotiation is to achieve a",
+        "options": [
+            "a) Win-lose situation",
+            "b) One-sided agreement",
+            "c) Win-win outcome",
+            "d) Quick decision without discussion"
+        ],
+        "answer": "c) Win-win outcome",
+        "explanation": "Successful professional negotiations avoid creating sore losers. The ideal target is a sustainable \"win-win\" scenario, where both parties exit the negotiation feeling their primary business interests have been respected."
+    },
+    {
+        "id": 168,
+        "question": "Which of the following is the first step in the negotiation process?",
+        "options": [
+            "a) Bargaining",
+            "b) Agreement",
+            "c) Preparation",
+            "d) Implementation"
+        ],
+        "answer": "c) Preparation",
+        "explanation": "Before sitting down at the negotiating table, you must prepare. This step involves researching facts, clarifying your goals, and trying to analyze the background position of the opposing party."
+    },
+    {
+        "id": 169,
+        "question": "In negotiation, BATNA stands for",
+        "options": [
+            "a) Best Alternative to a Negotiated Agreement",
+            "b) Basic Action for Team Negotiation Approach",
+            "c) Business Agreement through New Alternatives",
+            "d) Better Arrangement for Team Negotiation Agreement"
+        ],
+        "answer": "a) Best Alternative to a Negotiated Agreement",
+        "explanation": "BATNA is a vital strategic concept in negotiation. It represents the most advantageous course of action a party can take if the current negotiation fails completely and no agreement can be reached."
+    },
+    {
+        "id": 170,
+        "question": "The \"Exchange of Information\" step in negotiation involves",
+        "options": [
+            "a) Keeping all data secret",
+            "b) Presenting arguments logically and politely",
+            "c) Ignoring others' opinions"
+        ],
+        "answer": "b) Presenting arguments logically and politely",
+        "explanation": "Sharing parameters lets each side see what the other wants. This step must be handled rationally, setting aside raw emotional reactions to state corporate facts and project terms constructively."
+    },
+    {
+        "id": 171,
+        "question": "Which quality is most essential for a good negotiator?",
+        "options": [
+            "a) Impatience",
+            "b) Aggressiveness",
+            "c) Listening skills",
+            "d) Overconfidence"
+        ],
+        "answer": "c) Listening skills",
+        "explanation": "Good negotiators do not just talk\u2014they listen intently. Active listening helps a manager discover the underlying interests and hidden constraints of the other party, exposing pathways to mutual agreement."
+    },
+    {
+        "id": 172,
+        "question": "Which of the following is not a quality of a good negotiator?",
+        "options": [
+            "a) Integrity",
+            "b) Emotional control",
+            "c) Dishonesty",
+            "d) Problem-solving attitude"
+        ],
+        "answer": "c) Dishonesty",
+        "explanation": "While integrity, professional poise, and analytical thinking facilitate sustainable business relationships, dishonesty destroys operational trust, collapses current talks, and ruins future collaboration."
+    },
+    {
+        "id": 173,
+        "question": "The final step in the negotiation process is",
+        "options": [
+            "a) Implementation and Review",
+            "b) Opening the Discussion",
+            "c) Preparation",
+            "d) Bargaining"
+        ],
+        "answer": "a) Implementation and Review",
+        "explanation": "A negotiation is not truly finished when a verbal promise is made. The process culminates in drafting a formal contract, putting terms into active practice, and reviewing compliance over time."
+    },
+    {
+        "id": 174,
+        "question": "A production manager negotiating with a supplier is an example of",
+        "options": [
+            "a) Conflict Resolution",
+            "b) Team Building",
+            "c) Negotiation Skill",
+            "d) Feedback"
+        ],
+        "answer": "c) Negotiation Skill",
+        "explanation": "Sourcing parts, establishing procurement costs, and agreeing on delivery timetables with raw material vendors are practical, routine applications of a manager's negotiation skillset."
+    },
+    {
+        "id": 175,
+        "question": "One major benefit of negotiation for managers is",
+        "options": [
+            "a) Increased conflict",
+            "b) Better decision-making and co-operation",
+            "c) Poor communication",
+            "d) Reduced productivity"
+        ],
+        "answer": "b) Better decision-making and co-operation",
+        "explanation": "Effective negotiation reconciles disparate internal or external viewpoints. It helps clarify misunderstandings, leads to consensus-driven decisions, and secures cross-functional cooperation."
+    },
+    {
+        "id": 176,
+        "question": "Team management means",
+        "options": [
+            "a) Working alone for quick decisions",
+            "b) Organizing and guiding a group to achieve common goals",
+            "c) Avoiding delegation",
+            "d) Supervising without communication"
+        ],
+        "answer": "",
+        "explanation": "Team management is focused on collaborative synergy. It is the process of coordinating individual efforts, assigning roles transparently, and guiding the collective group to hit targets efficiently."
+    },
+    {
+        "id": 177,
+        "question": "A well-managed team leads to",
+        "options": [
+            "a) Confusion and delay",
+            "b) Higher productivity and co-operation",
+            "c) More conflicts",
+            "d) Individual dominance"
+        ],
+        "answer": "b) Higher productivity and co-operation",
+        "explanation": "When human resources are organized systematically into a unified team, individual friction drops. The resulting synergy increases output efficiency and creates a collaborative workspace."
+    },
+    {
+        "id": 178,
+        "question": "Which of the following is not a benefit of team management?",
+        "options": [
+            "a) Promotes unity",
+            "b) Improves morale",
+            "c) Increases misunderstandings"
+        ],
+        "answer": "c) Increases misunderstandings",
+        "explanation": "Strong team management clarifies assignments and coordinates channels of communication. Therefore, it actively reduces operational misunderstandings rather than increasing them."
+    },
+    {
+        "id": 179,
+        "question": "The key element of team management that ensures everyone knows their tasks is",
+        "options": [
+            "a) Role Clarity",
+            "b) Avoidance",
+            "c) Control",
+            "d) Conflict"
+        ],
+        "answer": "a) Role Clarity",
+        "explanation": "Role clarity means every team member understands exactly what tasks they own, what boundaries they operate within, and who they are accountable to. This prevents duplicate work and operational gaps."
+    },
+    {
+        "id": 180,
+        "question": "Strong leadership in a team means",
+        "options": [
+            "a) Forcing members to obey",
+            "b) Guiding, inspiring and resolving conflicts fairly",
+            "c) Working without goals",
+            "d) Ignoring team inputs"
+        ],
+        "answer": "b) Guiding, inspiring and resolving conflicts fairly",
+        "explanation": "Modern managerial leadership relies on influence rather than fear. A strong leader acts as a supportive guide, inspires personnel to take ownership, and steps in to resolve internal team arguments impartially."
+    },
+    {
+        "id": 181,
+        "question": "Effective communication in teams helps to",
+        "options": [
+            "a) Create confusion",
+            "b) Increase delays",
+            "c) Ensure co-ordination and transparency",
+            "d) Reduce interaction"
+        ],
+        "answer": "c) Ensure co-ordination and transparency",
+        "explanation": "Open and clear communication channels align team members around common targets, remove ambiguity, and establish operational transparency."
+    },
+    {
+        "id": 182,
+        "question": "Which of the following qualities is important for a good team manager?",
+        "options": [
+            "a) Dictatorship",
+            "b) Empathy and decision-making ability",
+            "c) Avoiding delegation",
+            "d) Ignoring conflicts"
+        ],
+        "answer": "b) Empathy and decision-making ability",
+        "explanation": "A successful team manager must balance emotional intelligence to understand employee perspectives (empathy) with the firmness required to execute structured, strategic choices (decision-making)."
+    },
+    {
+        "id": 183,
+        "question": "Rewarding and appreciating team members' performance",
+        "options": [
+            "a) Decreases motivation",
+            "b) Boosts morale and teamwork",
+            "c) Creates jealousy",
+            "d) Wastes time"
+        ],
+        "answer": "b) Boosts morale and teamwork",
+        "explanation": "Regular recognition and positive reinforcement elevate team morale, increase engagement, and cultivate a supportive workspace that values collective success."
+    },
+    {
+        "id": 184,
+        "question": "Which element ensures that team goals are achieved efficiently?",
+        "options": [
+            "a) Competition",
+            "b) Collective effort and co-ordination",
+            "c) Isolation",
+            "d) Individualism"
+        ],
+        "answer": "b) Collective effort and co-ordination",
+        "explanation": "Team efficiency is built on synergy. Combining distinct individual talents into a well-coordinated, unified push minimizes friction and ensures goals are achieved smoothly."
+    },
+    {
+        "id": 185,
+        "question": "A project manager co-ordinating engineers and designers is showing",
+        "options": [
+            "a) Conflict Management",
+            "b) Team Management Skills",
+            "c) Feedback Skills",
+            "d) Negotiation Skills"
+        ],
+        "answer": "b) Team Management Skills",
+        "explanation": "Aligning cross-functional professionals, such as technical engineers and creative designers, toward a single milestone demonstrates classic team management and collaboration skills."
+    },
+    {
+        "id": 186,
+        "question": "Conflict resolution means",
+        "options": [
+            "a) Avoiding differences",
+            "b) Finding a peaceful solution to disagreements",
+            "c) Encouraging fights among teams"
+        ],
+        "answer": "b) Finding a peaceful solution to disagreements",
+        "explanation": "Conflict resolution is the application of constructive communication methods to settle personal or operational disputes amicably."
+    },
+    {
+        "id": 187,
+        "question": "A common cause of workplace conflict is",
+        "options": [
+            "a) Poor communication",
+            "b) Clear goals",
+            "c) Team unity",
+            "d) Proper planning"
+        ],
+        "answer": "a) Poor communication",
+        "explanation": "Misunderstandings, a lack of clear documentation, and information gaps represent the most common operational triggers for workplace friction and disputes."
+    },
+    {
+        "id": 188,
+        "question": "Conflict resolution helps managers to",
+        "options": [
+            "a) Reduce cooperation",
+            "b) Maintain harmony and productivity",
+            "c) Increase stress",
+            "d) Avoid communication"
+        ],
+        "answer": "b) Maintain harmony and productivity",
+        "explanation": "Resolving underlying friction immediately clears up workspace tension, returning the team's focus back to productive cooperation and operational harmony."
+    },
+    {
+        "id": 189,
+        "question": "The first step in the conflict resolution process is",
+        "options": [
+            "a) Find common ground",
+            "b) Identify the source of conflict",
+            "c) Develop possible solutions",
+            "d) Follow up"
+        ],
+        "answer": "b) Identify the source of conflict",
+        "explanation": "An effective solution cannot be developed until the true root cause of the argument is identified. Diagnosing the issue is always the baseline step."
+    },
+    {
+        "id": 190,
+        "question": "When both parties give up something to reach a middle ground, it is called",
+        "options": [
+            "a) Collaboration",
+            "b) Compromise",
+            "c) Competition",
+            "d) Avoidance"
+        ],
+        "answer": "b) Compromise",
+        "explanation": "Compromise relies on mutual concessions, where each party modifies their initial demands to establish a workable, intermediate agreement."
+    },
+    {
+        "id": 191,
+        "question": "The technique that creates a win-win situation is",
+        "options": [
+            "a) Collaboration",
+            "b) Accommodation",
+            "c) Avoidance",
+            "d) Competition"
+        ],
+        "answer": "a) Collaboration",
+        "explanation": "Collaboration is an assertive, cooperative conflict management style where all parties work together to integrate their ideas, completely satisfying everyone's core objectives to create a \"win-win\" outcome."
+    },
+    {
+        "id": 192,
+        "question": "A good conflict resolver should be",
+        "options": [
+            "a) Impatient and biased",
+            "b) Fair, patient and a good listener",
+            "c) Aggressive and emotional",
+            "d) Avoidant and defensive"
+        ],
+        "answer": "b) Fair, patient and a good listener",
+        "explanation": "Objectivity, a calm disposition, and active listening skills enable a mediator to understand both sides of a dispute without taking emotional shortcuts."
+    },
+    {
+        "id": 193,
+        "question": "An HR manager settling a dispute between employees is practicing",
+        "options": [
+            "a) Feedback",
+            "b) Conflict Resolution",
+            "c) Negotiation",
+            "d) Supervision"
+        ],
+        "answer": "b) Conflict Resolution",
+        "explanation": "Stepping into an active workplace dispute to guide conflicting employees toward a professional agreement is a practical application of conflict resolution."
+    },
+    {
+        "id": 194,
+        "question": "Feedback is the process of",
+        "options": [
+            "a) Criticizing others harshly",
+            "b) Sharing information about performance for improvement",
+            "c) Avoiding discussions about work"
+        ],
+        "answer": "b) Sharing information about performance for improvement",
+        "explanation": "Feedback serves as an analytical mirror. It provides employees with constructive evaluation data on their work performance to help guide their career development."
+    },
+    {
+        "id": 195,
+        "question": "Effective feedback should be",
+        "options": [
+            "a) Late and emotional",
+            "b) Timely, specific and respectful",
+            "c) Harsh and vague",
+            "d) Ignored by the receiver"
+        ],
+        "answer": "b) Timely, specific and respectful",
+        "explanation": "For feedback to remain actionable, it must be shared promptly following an event (timely), focus on exact metrics or behaviors (specific), and protect the employee's professionalism (respectful)."
+    }
+]

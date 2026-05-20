@@ -10,6 +10,7 @@ import eteUnit2 from '../data/ete_unit2.json';
 import eteUnit3 from '../data/ete_unit3.json';
 import eteUnit4 from '../data/ete_unit4.json';
 import eteUnit5 from '../data/ete_unit5.json';
+import managementUnit1 from '../data/management_unit1.json';
 import confetti from 'canvas-confetti';
 import { FiTarget, FiStar, FiCheckCircle, FiXCircle, FiAward, FiArrowLeft, FiArrowRight, FiRefreshCw } from 'react-icons/fi';
 
@@ -27,6 +28,10 @@ const eteUnitDataMap = {
   3: eteUnit3,
   4: eteUnit4,
   5: eteUnit5,
+};
+
+const managementUnitDataMap = {
+  1: managementUnit1,
 };
 
 function Quiz() {
@@ -109,6 +114,15 @@ function Quiz() {
       } else {
         setQuestions([
           { id: 1, question: `Welcome to ETE Unit ${unitId}. Questions for this unit are being prepared.`, options: ['a) Understood', 'b) Ready', 'c) Cool', 'd) Awesome'], answer: 'a) Understood', explanation: 'This is a placeholder for ETE content.' }
+        ]);
+      }
+    } else if (subject === 'management') {
+      const data = managementUnitDataMap[unitId];
+      if (data) {
+        setQuestions(data);
+      } else {
+        setQuestions([
+          { id: 1, question: `Welcome to Management Unit ${unitId}. Questions for this unit are being prepared.`, options: ['a) Understood', 'b) Ready', 'c) Cool', 'd) Awesome'], answer: 'a) Understood', explanation: 'This is a placeholder for Management content.' }
         ]);
       }
     }
