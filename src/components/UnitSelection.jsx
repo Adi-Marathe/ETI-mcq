@@ -18,7 +18,11 @@ const eteUnits = [
 ];
 
 const managementUnits = [
-  { id: 1, title: 'Unit 1: Introduction to Management', description: 'Evolution of management, characteristics, scientific management, self management, team management' }
+  { id: 1, title: 'Unit 1: Introduction to Management', description: 'Evolution of management, characteristics, scientific management, self management, team management' },
+  { id: 2, title: 'Unit 2: Product, Operations & Project Management', description: 'Creativity, Agile, new product development, PERT, CPM, GANTT' },
+  { id: 3, title: 'Unit 3: Management Practices', description: 'Six Sigma, TQM, 5S, Lean, ISO Standards, ERP, Customer satisfaction' },
+  { id: 4, title: 'Unit 4: Marketing Management', description: 'Seven Ps, Needs and Wants, CRM, Digital Marketing, Event Management' },
+  { id: 5, title: 'Unit 5: Supply Chain & HR Management', description: 'Logistics, IT in SCM, HRM principles, Recruitment, Leadership' }
 ];
 
 const subjectUnits = {
